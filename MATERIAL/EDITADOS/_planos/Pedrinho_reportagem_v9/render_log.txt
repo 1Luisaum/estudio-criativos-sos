@@ -1,0 +1,21 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v9.mp4
+narracao OFF3
+  b01: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b01 off 5.47s Ela faz todos os curativos do filho. Mesmo assim, ouviu que é culpada pela doença dele.
+  b02: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1060 etiqueta=None
+ok b02 sonora 6.30s nenhuma mãe deveria ouvir isso: "Você é culpada pelo que o seu filho passa".
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b03 off 6.62s O Pedrinho tem epidermólise bolhosa, uma doença genética. A pele forma feridas com facilidade.
+  b04: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b04 sonora 3.38s o que eu faço com mil e quinhentos? Não consigo fazer nada.
+  b05: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b05 off 4.83s Com esse valor, ela precisa dar conta de gaze, atadura, pomada e soro.
+  b06: manchete=ESCONDIDA (rosto) gc=920 legenda=1060 etiqueta=None
+ok b06 sonora 5.10s a gente não tem como comprar nem, uns dois, três pacotes de atadura
+  b07: manchete=ESCONDIDA (rosto) gc=- legenda=1050 etiqueta=1130
+ok b07 off 6.38s A SOS Human Help está arrecadando doações para essa família. Dez reais já ajudam.
+  b08: manchete=ESCONDIDA (rosto) gc=- legenda=1000 etiqueta=1150
+ok b08 sonora 4.64s você não tem obrigação, mas ajude a salvar o meu filho.
+  b09: manchete=290 gc=- legenda=750 etiqueta=920
+ok b09 off 4.31s Toque em Saiba mais e caminhe junto com essa mãe.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v9.mp4 duracao=47.0s

@@ -1,0 +1,164 @@
+{
+ "nome": "Pedrinho_caixas_pedido_caixa_1500_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "crianca": "Pedrinho",
+ "gancho": "pedido de tempo com a placa (brutos de 02/11/2026)",
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.09,
+ "modelo": "estrutura do AEB 35 (um gancho so, sem_caixas) da skill criativo-caixas-pedido-ong",
+ "fatos": {
+  "falas e placas": "Pedrinho, VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026 (gravados em 02/11/2026)",
+  "caixa de curativos R$1.500": "placa do 20261102_152739",
+  "R$5": "ele fala 'dois ou cinco reais' (144645 e lv_0)"
+ },
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152739.mp4",
+   "tx": "C:\\Users\\EDITING_SECTOR\\.claude\\estudio-ong\\CONHECIMENTO\\transcricoes\\pedrinho_0211\\20261102_152739.json",
+   "cortes": [
+    [
+     2.38,
+     6.66
+    ]
+   ],
+   "cenas": [
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152739.mp4",
+     2.32
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "EU DEITO PRA DORMIR",
+    "E MEU CORPO TODO DÓI"
+   ],
+   "texto_verde_y": 1310
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "tx": "C:\\Users\\EDITING_SECTOR\\.claude\\estudio-ong\\CONHECIMENTO\\transcricoes\\pedrinho_0211\\20261102_144645.json",
+   "cortes": [
+    [
+     10.42,
+     12.46
+    ],
+    [
+     13.32,
+     13.72
+    ],
+    [
+     14.48,
+     15.1
+    ],
+    [
+     16.0,
+     16.18
+    ]
+   ],
+   "cenas": [
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+     3
+    ],
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+     2
+    ],
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+     4
+    ],
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+     1
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "tx": "C:\\Users\\EDITING_SECTOR\\.claude\\estudio-ong\\CONHECIMENTO\\transcricoes\\pedrinho_0211\\20261102_144645.json",
+   "cortes": [
+    [
+     19.76,
+     19.98
+    ],
+    [
+     20.78,
+     21.52
+    ],
+    [
+     22.76,
+     23.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+     0.5
+    ],
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+     2
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "tx": "C:\\Users\\EDITING_SECTOR\\.claude\\estudio-ong\\CONHECIMENTO\\transcricoes\\pedrinho_0211\\20261102_144645.json",
+   "cortes": [
+    [
+     38.76,
+     40.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+     38.7
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "tx": "C:\\Users\\EDITING_SECTOR\\.claude\\estudio-ong\\CONHECIMENTO\\transcricoes\\pedrinho_0211\\20261102_144645.json",
+   "cortes": [
+    [
+     26.98,
+     28.0
+    ]
+   ],
+   "cenas": [
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+     6
+    ],
+    [
+     "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn2_1760826007_92s.mp4",
+     1
+    ]
+   ],
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS PARA ALIVIAR AS DORES"
+  ],
+  "topo_y": 240,
+  "valor": "R$5,00",
+  "valor_linhas": [
+   "DEIXAM O PEDRINHO MAIS PERTO DE COMPRAR",
+   "OS CURATIVOS DESSA SEMANA"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 61\\PEB 235 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

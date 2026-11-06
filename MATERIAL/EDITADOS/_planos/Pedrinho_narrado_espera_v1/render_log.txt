@@ -1,0 +1,17 @@
+N1: 3.76s  A família do Pedrinho entrou na Justiça. Mas o processo demora.
+N2: 2.77s  Sem soro fisiológico, o banho dele tem que ser com água.
+N3: 2.52s  A Justiça pode demorar. A ferida não espera.
+N4: 5.78s  Toque em Saiba mais. A SOS Human Help leva a sua ajuda até o Pedrinho.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_espera_v1.mp4
+real  ok  t=  7.03
+narr  ok  t= 10.93
+real  ok  t= 14.57
+narr  ok  t= 17.50
+real  ok  t= 22.83
+narr  ok  t= 25.50
+real  ok  t= 34.10
+card  ok  t= 35.50
+narr  ok  t= 41.43
+end   ok  t= 45.03
+audio: 45.03s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_espera_v1.mp4  duracao=45.03s

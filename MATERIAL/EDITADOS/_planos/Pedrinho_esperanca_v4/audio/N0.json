@@ -1,0 +1,25 @@
+{
+ "text": "Feridas em carne viva.",
+ "words": [
+  {
+   "text": "Feridas",
+   "start": 0.0,
+   "end": 0.441
+  },
+  {
+   "text": "em",
+   "start": 0.488,
+   "end": 0.538
+  },
+  {
+   "text": "carne",
+   "start": 0.592,
+   "end": 0.824
+  },
+  {
+   "text": "viva.",
+   "start": 0.882,
+   "end": 1.252
+  }
+ ]
+}

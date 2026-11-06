@@ -1,0 +1,223 @@
+{
+ "nome": "Pedrinho_reportagem_v3",
+ "pedido": "2026-10-26_093745",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\reportagem\\LEVA 01\\Pedrinho_reportagem_v3.mp4",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "manchete": [
+  "CURATIVOS DE MENINO COM",
+  "DOENÇA RARA ESTÃO NO FIM"
+ ],
+ "etiqueta": "Doe R$ 10 para os curativos ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "O Pedrinho só tem os curativos que cabem nas mãos dele.",
+  "OFF2": "Ele tem epidermólise bolhosa. A pele dele precisa de curativo todos os dias.",
+  "OFF3": "Gaze, atadura, pomada e soro. Os cuidados com a pele dele passam de quarenta mil reais por mês.",
+  "OFF4": "A Sos Human Help está arrecadando doações para repor os curativos do Pedrinho. Dez reais já fazem diferença.",
+  "OFF5": "Toque em Saiba mais e ajude a repor os curativos do Pedrinho."
+ },
+ "fatos": {
+  "epidermolise bolhosa / pele de borboleta": "Pedrinho em banco/Roteiro 7.mp4",
+  "nao consegue dormir, feridas abertas e doloridas": "Pedrinho em Roteiro_ Eu nao aguento mais nao conseguir dormir.mp4",
+  "curativo 2x por dia": "mae em Roteiro_ esse calor... (segundo curativo do dia) + foto 'Curativos 2 x ao Dia'",
+  "ultimo curativo levou 5 horas; bolhas de sangue e de agua; feridas cada vez mais abertas": "Pedrinho em 20260916_234157.mp4",
+  "cuidados passam de 40 mil por mes": "Pedrinho em banco/Roteiro 7; mae em Roteiro 2 e 4",
+  "mae faz todos os curativos": "banco/Roteiro 4",
+  "curativos acabando; precisa de atadura e pomada; 2 ou 5 reais ajudam": "Pedrinho (Roteiro_ os meus curativos...) e mae (Roteiro_ esse calor...)",
+  "calor acabando com a pele": "mae em Roteiro_ esse calor..."
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+     5.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     145.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v4_curativos_acabando.json",
+   "cortes": [
+    [
+     4.32,
+     6.06
+    ],
+    [
+     7.24,
+     7.82
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     175.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     25.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v3_mae_calor.json",
+   "cortes": [
+    [
+     10.5,
+     11.2
+    ],
+    [
+     11.88,
+     12.18
+    ],
+    [
+     15.62,
+     16.06
+    ],
+    [
+     17.42,
+     17.66
+    ],
+    [
+     18.9,
+     20.06
+    ]
+   ],
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "cuida dos curativos todos os dias"
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Curativos 2 x ao Dia.png"
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v4_curativos_acabando.json",
+   "cortes": [
+    [
+     8.36,
+     9.4
+    ],
+    [
+     10.54,
+     11.46
+    ],
+    [
+     13.2,
+     13.48
+    ],
+    [
+     14.44,
+     14.98
+    ],
+    [
+     16.18,
+     16.4
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     15.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v4_curativos_acabando.json",
+   "cortes": [
+    [
+     21.24,
+     24.04
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260729_164523.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 10.5,
+   "caixa": [
+    0,
+    80,
+    640,
+    1020
+   ],
+   "quem": "rosto da mae (quem fala)"
+  },
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 10.5,
+   "caixa": [
+    660,
+    960,
+    1080,
+    1400
+   ],
+   "quem": "Pedrinho pequeno ao fundo"
+  },
+  {
+   "arquivo": "Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "inicio": 8.36,
+   "caixa": [
+    40,
+    0,
+    1040,
+    1120
+   ],
+   "quem": "rosto do Pedrinho em close (detector nao pegou)"
+  }
+ ]
+}

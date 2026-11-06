@@ -1,0 +1,60 @@
+{
+ "text": "Hoje, os gibis continuam por perto. O estoque de faixas, não.",
+ "words": [
+  {
+   "text": "Hoje,",
+   "start": 0.0,
+   "end": 0.348
+  },
+  {
+   "text": "os",
+   "start": 0.383,
+   "end": 0.499
+  },
+  {
+   "text": "gibis",
+   "start": 0.522,
+   "end": 0.882
+  },
+  {
+   "text": "continuam",
+   "start": 0.94,
+   "end": 1.428
+  },
+  {
+   "text": "por",
+   "start": 1.486,
+   "end": 1.625
+  },
+  {
+   "text": "perto.",
+   "start": 1.683,
+   "end": 2.148
+  },
+  {
+   "text": "O",
+   "start": 2.322,
+   "end": 2.415
+  },
+  {
+   "text": "estoque",
+   "start": 2.473,
+   "end": 2.833
+  },
+  {
+   "text": "de",
+   "start": 2.879,
+   "end": 2.961
+  },
+  {
+   "text": "faixas,",
+   "start": 3.042,
+   "end": 3.541
+  },
+  {
+   "text": "não.",
+   "start": 3.564,
+   "end": 4.133
+  }
+ ]
+}

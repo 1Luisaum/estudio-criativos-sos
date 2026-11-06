@@ -1,0 +1,199 @@
+{
+ "nome": "Pedrinho_noite_v1",
+ "pedido": "completar LEVA 01 (26/10/2026)",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+ "transcript": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  690,
+  330
+ ],
+ "segments": [
+  {
+   "in": 33.17,
+   "out": 36.4,
+   "txt": "a noite passada eu passei ela em claro,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 37.33,
+   "out": 39.44,
+   "txt": "Eu vi o dia amanhecer.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 1.51,
+   "out": 3.34,
+   "txt": "eu só tenho cinco dias,",
+   "zoom": "Z1"
+  },
+  {
+   "in": 4.13,
+   "out": 5.22,
+   "txt": "pra conseguir,",
+   "zoom": "Z3"
+  },
+  {
+   "in": 5.81,
+   "out": 6.74,
+   "txt": "pelo menos,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 7.07,
+   "out": 8.1,
+   "txt": "seis pessoas",
+   "zoom": "Z3"
+  },
+  {
+   "in": 8.39,
+   "out": 9.5,
+   "txt": "pra me ajudar,",
+   "zoom": "ZF"
+  },
+  {
+   "in": 10.25,
+   "out": 11.74,
+   "txt": "com pelo menos,",
+   "zoom": "Z1"
+  },
+  {
+   "in": 12.71,
+   "out": 14.42,
+   "txt": "R$ 12 por aí,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 14.89,
+   "out": 17.88,
+   "txt": "pra me garantir os itens de curativo",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 232.0
+    }
+   ]
+  },
+  {
+   "in": 18.63,
+   "out": 22.5,
+   "txt": "pra minha mamãe conseguir fazer uma troca de curativo bem confortável,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 290.0
+    }
+   ]
+  },
+  {
+   "in": 28.49,
+   "out": 29.72,
+   "txt": "Me ajude, pessoal,",
+   "zoom": "ZF"
+  },
+  {
+   "in": 29.97,
+   "out": 32.06,
+   "txt": "a passar essa noite sem dor,",
+   "zoom": "Z3"
+  },
+  {
+   "in": 42.6,
+   "out": 44.6,
+   "txt": "me ajude nessa batalha,",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 8.0
+    }
+   ]
+  },
+  {
+   "in": 44.75,
+   "out": 45.78,
+   "txt": "entra comigo",
+   "zoom": "Z2"
+  },
+  {
+   "in": 46.89,
+   "out": 48.38,
+   "txt": "nessa corrente do bem.",
+   "zoom": "Z1"
+  },
+  {
+   "in": 51.19,
+   "out": 52.84,
+   "txt": "Que não tá nem um pouco fácil,",
+   "zoom": "Z3"
+  },
+  {
+   "in": 55.11,
+   "out": 57.44,
+   "txt": "vamo juntos nessa batalha.",
+   "zoom": "Z2"
+  }
+ ],
+ "fix": {},
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "DOR",
+  "CLARO",
+  "AMANHECER",
+  "CINCO",
+  "SEIS",
+  "12",
+  "ME",
+  "AJUDE"
+ ],
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ELE NÃO DORMIU"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.0,
+   "lines": [
+    "O PEDRINHO VIU",
+    "O DIA AMANHECER",
+    "*DE DOR*"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "20241110_104724.mp4",
+  "start": 12.0,
+  "dur": 3.4,
+  "lines": [
+   "DÊ AO PEDRINHO",
+   "UMA NOITE SEM DOR"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\CORTES COM GANCHO\\LEVA 01\\Pedrinho_noite_v1.mp4",
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$12",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ }
+}

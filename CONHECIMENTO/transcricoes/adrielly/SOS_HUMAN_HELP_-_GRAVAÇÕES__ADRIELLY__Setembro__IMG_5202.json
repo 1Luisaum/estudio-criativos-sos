@@ -1,0 +1,254 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Por isso os materiais acaba tão rápido. Por isso que eu estou pedindo para não faltar os próximos",
+ "words": [
+  {
+   "text": "Por",
+   "start": 0.2,
+   "end": 0.4,
+   "type": "word",
+   "logprob": -0.00010239553375868127
+  },
+  {
+   "text": " ",
+   "start": 0.4,
+   "end": 0.54,
+   "type": "spacing",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": "isso",
+   "start": 0.54,
+   "end": 0.84,
+   "type": "word",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": " ",
+   "start": 0.84,
+   "end": 0.98,
+   "type": "spacing",
+   "logprob": -0.03804141283035278
+  },
+  {
+   "text": "os",
+   "start": 0.98,
+   "end": 1.14,
+   "type": "word",
+   "logprob": -0.03804141283035278
+  },
+  {
+   "text": " ",
+   "start": 1.14,
+   "end": 1.18,
+   "type": "spacing",
+   "logprob": -2.7179348762729205e-05
+  },
+  {
+   "text": "materiais",
+   "start": 1.18,
+   "end": 1.98,
+   "type": "word",
+   "logprob": -2.7179348762729205e-05
+  },
+  {
+   "text": " ",
+   "start": 1.98,
+   "end": 2.14,
+   "type": "spacing",
+   "logprob": -0.014174144715070724
+  },
+  {
+   "text": "acaba",
+   "start": 2.2,
+   "end": 2.68,
+   "type": "word",
+   "logprob": -0.014174144715070724
+  },
+  {
+   "text": " ",
+   "start": 2.68,
+   "end": 2.74,
+   "type": "spacing",
+   "logprob": -5.3881147323409095e-05
+  },
+  {
+   "text": "tão",
+   "start": 2.74,
+   "end": 2.92,
+   "type": "word",
+   "logprob": -5.3881147323409095e-05
+  },
+  {
+   "text": " ",
+   "start": 2.92,
+   "end": 2.96,
+   "type": "spacing",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": "rápido.",
+   "start": 2.96,
+   "end": 3.44,
+   "type": "word",
+   "logprob": -0.001788409957920781
+  },
+  {
+   "text": " ",
+   "start": 3.44,
+   "end": 3.44,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "Por",
+   "start": 4.019,
+   "end": 4.2,
+   "type": "word",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": " ",
+   "start": 4.2,
+   "end": 4.32,
+   "type": "spacing",
+   "logprob": -5.245195097813848e-06
+  },
+  {
+   "text": "isso",
+   "start": 4.32,
+   "end": 4.56,
+   "type": "word",
+   "logprob": -5.245195097813848e-06
+  },
+  {
+   "text": " ",
+   "start": 4.56,
+   "end": 4.68,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "que",
+   "start": 4.68,
+   "end": 4.74,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 4.74,
+   "end": 4.78,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "eu",
+   "start": 4.78,
+   "end": 4.86,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 4.86,
+   "end": 4.88,
+   "type": "spacing",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": "estou",
+   "start": 4.88,
+   "end": 5.16,
+   "type": "word",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": " ",
+   "start": 5.16,
+   "end": 5.2,
+   "type": "spacing",
+   "logprob": -1.2159273865108844e-05
+  },
+  {
+   "text": "pedindo",
+   "start": 5.2,
+   "end": 5.78,
+   "type": "word",
+   "logprob": -5.960432385368872e-06
+  },
+  {
+   "text": " ",
+   "start": 5.78,
+   "end": 6.16,
+   "type": "spacing",
+   "logprob": -0.0002760506176855415
+  },
+  {
+   "text": "para",
+   "start": 6.16,
+   "end": 6.38,
+   "type": "word",
+   "logprob": -0.0002760506176855415
+  },
+  {
+   "text": " ",
+   "start": 6.38,
+   "end": 6.44,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "não",
+   "start": 6.44,
+   "end": 6.6,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 6.6,
+   "end": 6.64,
+   "type": "spacing",
+   "logprob": -6.747018051100895e-05
+  },
+  {
+   "text": "faltar",
+   "start": 6.64,
+   "end": 7.06,
+   "type": "word",
+   "logprob": -4.4980120340672634e-05
+  },
+  {
+   "text": " ",
+   "start": 7.06,
+   "end": 7.12,
+   "type": "spacing",
+   "logprob": -0.0007956438348628581
+  },
+  {
+   "text": "os",
+   "start": 7.12,
+   "end": 7.24,
+   "type": "word",
+   "logprob": -0.0007956438348628581
+  },
+  {
+   "text": " ",
+   "start": 7.24,
+   "end": 7.32,
+   "type": "spacing",
+   "logprob": -1.7762025890988298e-05
+  },
+  {
+   "text": "próximos",
+   "start": 7.32,
+   "end": 8.0,
+   "type": "word",
+   "logprob": -1.7762025890988298e-05
+  }
+ ],
+ "transcription_id": "sur6Ju1p78COoap1op4k",
+ "audio_duration_secs": 9.2733125
+}

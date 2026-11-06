@@ -1,0 +1,401 @@
+{
+ "nome": "Pedrinho_narrado_duas_vozes_v1",
+ "pedido": "completar as LEVAs 27/10/2026 - frente 2",
+ "angulo": "duas vozes, um pedido: a mae que cuida dele todo dia e o filho que luta, e no fim os dois pedem juntos 'se puder, ajude a gente'",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 20.0,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDA",
+  "FERIDAS",
+  "BOLHAS",
+  "QUARENTA",
+  "40",
+  "MIL",
+  "FALTAR"
+ ],
+ "caption_fix": {
+  "dez": "10",
+  "quarenta": "40"
+ },
+ "fatos": {
+  "todos os dias eu cuido dele e leva quatro horas; todos os dias eu tiro os curativo e lavo as ferida": "mae, banco Roteiro 3.mp4 (9.8-26 s)",
+  "eu e minha mamae realmente nao sabe o que a gente vai fazer": "Pedrinho, Roteiro_ os meus curativos estao acabando (10.5-16.9 s)",
+  "bolhas e feridas a cada dia": "Pedrinho, 20260916_234157.mp4 (40-44.7 s)",
+  "o curativo protege a pele": "Pedrinho, 20260917_000819.mp4 (16.5-31 s)",
+  "nao tem como comprar nem dois, tres pacotes de atadura ou um gaze": "Pedrinho, 20260917_000819.mp4 (35-50 s)",
+  "para manter os cuidados do Pedrinho passa dos quarenta mil": "mae, banco Roteiro 2.mp4 (67-71.7 s)",
+  "tudo que ele precisa, eu queria muito nao deixar faltar pra ele": "mae, Roteiro_ Nenhuma mae deveria ouvir isso (24-31.3 s)",
+  "eu escolhi continuar sempre lutando": "Pedrinho, banco Roteiro 7.mp4 (14.7-22 s)",
+  "por favor, galera, me ajude": "Pedrinho, roteiro 7.mp4 (148.5-150.8 s)",
+  "se puder, ajude a gente (os dois juntos)": "mae e Pedrinho, banco Roteiro 4.mp4 (33.5-35.7 s)",
+  "R$10": "padrao dos pedidos (brief)"
+ },
+ "hook": {
+  "t1": 4.4,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*MÃE E FILHO*",
+    "fs": 110
+   },
+   {
+    "text": "FAZEM O MESMO PEDIDO",
+    "fs": 70
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cuts": [
+    [
+     9.78,
+     11.16
+    ],
+    [
+     13.66,
+     15.36
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      960
+     ]
+    }
+   ],
+   "txt": "Todos os dias eu cuido dele, e leva quatro horas."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 141.0,
+     "until": 2.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 72.0
+    }
+   ],
+   "txt": "Cada faixa no corpo do Pedrinho passa pelas mãos da mãe dele. Uma por uma."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cuts": [
+    [
+     18.82,
+     20.52
+    ],
+    [
+     24.82,
+     25.36
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "E todos os dias eu tiro os curativo e lavo as ferida."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 174.0,
+     "until": 2.6
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 100.0
+    }
+   ],
+   "txt": "A pele dele forma bolhas e feridas a cada dia. E o curativo é o que protege essa pele."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     10.54,
+     11.46
+    ],
+    [
+     12.32,
+     12.32
+    ],
+    [
+     13.2,
+     13.48
+    ],
+    [
+     14.44,
+     14.98
+    ],
+    [
+     16.18,
+     16.4
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Eu e minha mamãe realmente não sabe o que a gente vai fazer."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "ELA CUIDA.",
+    "ELE LUTA."
+   ],
+   "dur": 2.0,
+   "fs": 160
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "crepe bandagem.png",
+     "until": 1.4
+    },
+    {
+     "src": "GAZE.png",
+     "until": 2.6
+    },
+    {
+     "src": "Pomada.png",
+     "until": 3.6
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 22.0
+    }
+   ],
+   "txt": "Cada troca gasta atadura, gaze e pomada que a família não consegue repor."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cuts": [
+    [
+     67.08,
+     69.5
+    ],
+    [
+     70.58,
+     71.5
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      960
+     ]
+    }
+   ],
+   "txt": "E para manter os cuidado do meu filho, do Pedrinho, passa dos quarenta mil."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     25.48,
+     25.9
+    ],
+    [
+     28.18,
+     28.6
+    ],
+    [
+     29.68,
+     31.08
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Tudo que ele precisa, eu queria muito não deixar faltar pra ele."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 6.0
+    }
+   ],
+   "txt": "Ela não larga a mão dele. E ele não larga a luta."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro7b.json",
+   "cuts": [
+    [
+     148.96,
+     149.14
+    ],
+    [
+     149.54,
+     149.54
+    ],
+    [
+     150.2,
+     150.36
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      540,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Por favor, galera, me ajude."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE E PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro4.json",
+   "cuts": [
+    [
+     33.46,
+     35.24
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      1100
+     ]
+    }
+   ],
+   "txt": "Se puder, ajude a gente."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "fix": {
+    "dez": "10"
+   },
+   "broll": [
+    {
+     "src": "IMG-20260624-WA0043.jpg",
+     "until": 2.4
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 24.0
+    }
+   ],
+   "txt": "Com dez reais, essa mãe fica mais perto de não deixar faltar nada para o filho. É só tocar em Saiba mais."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_180353.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "DUAS VOZES,",
+    "*UM SÓ PEDIDO*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 26\\PEB 141 - NARRADO DE IMPACTO.mp4",
+ "obs": "1a montagem: tela final era a foto 20251031_135442 (ferida aberta em close) -> trocada; duracao 54,4 s -> cartela e tela final mais longas"
+}

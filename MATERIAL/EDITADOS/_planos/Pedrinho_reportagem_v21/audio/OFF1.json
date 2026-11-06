@@ -1,0 +1,100 @@
+{
+ "text": "Todo dia, a mesma cena se repete na casa do Pedrinho. A mãe começa tirando os curativos do filho.",
+ "words": [
+  {
+   "text": "Todo",
+   "start": 0.0,
+   "end": 0.313
+  },
+  {
+   "text": "dia,",
+   "start": 0.372,
+   "end": 0.743
+  },
+  {
+   "text": "a",
+   "start": 0.789,
+   "end": 0.848
+  },
+  {
+   "text": "mesma",
+   "start": 0.929,
+   "end": 1.289
+  },
+  {
+   "text": "cena",
+   "start": 1.335,
+   "end": 1.614
+  },
+  {
+   "text": "se",
+   "start": 1.66,
+   "end": 1.788
+  },
+  {
+   "text": "repete",
+   "start": 1.811,
+   "end": 2.276
+  },
+  {
+   "text": "na",
+   "start": 2.322,
+   "end": 2.403
+  },
+  {
+   "text": "casa",
+   "start": 2.45,
+   "end": 2.728
+  },
+  {
+   "text": "do",
+   "start": 2.775,
+   "end": 2.844
+  },
+  {
+   "text": "Pedrinho.",
+   "start": 2.891,
+   "end": 3.406
+  },
+  {
+   "text": "A",
+   "start": 3.407,
+   "end": 3.466
+  },
+  {
+   "text": "mãe",
+   "start": 3.558,
+   "end": 3.733
+  },
+  {
+   "text": "começa",
+   "start": 3.756,
+   "end": 4.185
+  },
+  {
+   "text": "tirando",
+   "start": 4.22,
+   "end": 4.685
+  },
+  {
+   "text": "os",
+   "start": 4.708,
+   "end": 4.777
+  },
+  {
+   "text": "curativos",
+   "start": 4.847,
+   "end": 5.544
+  },
+  {
+   "text": "do",
+   "start": 5.579,
+   "end": 5.66
+  },
+  {
+   "text": "filho.",
+   "start": 5.729,
+   "end": 6.109
+  }
+ ]
+}

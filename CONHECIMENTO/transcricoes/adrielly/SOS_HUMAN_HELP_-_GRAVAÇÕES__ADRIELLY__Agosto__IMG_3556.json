@@ -1,0 +1,170 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Essa semana eu tive crises de dor que me fizeram querer desistir",
+ "words": [
+  {
+   "text": "Essa",
+   "start": 0.26,
+   "end": 0.54,
+   "type": "word",
+   "logprob": -0.00027092601521871984
+  },
+  {
+   "text": " ",
+   "start": 0.54,
+   "end": 0.6,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "semana",
+   "start": 0.6,
+   "end": 1.16,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 1.16,
+   "end": 1.16,
+   "type": "spacing",
+   "logprob": -0.0007108307327143848
+  },
+  {
+   "text": "eu",
+   "start": 1.7,
+   "end": 1.86,
+   "type": "word",
+   "logprob": -0.0007108307327143848
+  },
+  {
+   "text": " ",
+   "start": 1.86,
+   "end": 1.9,
+   "type": "spacing",
+   "logprob": -5.721882189391181e-05
+  },
+  {
+   "text": "tive",
+   "start": 1.9,
+   "end": 2.18,
+   "type": "word",
+   "logprob": -5.721882189391181e-05
+  },
+  {
+   "text": " ",
+   "start": 2.18,
+   "end": 2.3,
+   "type": "spacing",
+   "logprob": -0.18021583557128906
+  },
+  {
+   "text": "crises",
+   "start": 2.3,
+   "end": 2.74,
+   "type": "word",
+   "logprob": -0.18021583557128906
+  },
+  {
+   "text": " ",
+   "start": 2.74,
+   "end": 2.78,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 2.78,
+   "end": 2.86,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 2.86,
+   "end": 2.94,
+   "type": "spacing",
+   "logprob": -4.2914423829643056e-05
+  },
+  {
+   "text": "dor",
+   "start": 2.94,
+   "end": 3.18,
+   "type": "word",
+   "logprob": -4.2914423829643056e-05
+  },
+  {
+   "text": " ",
+   "start": 3.18,
+   "end": 3.2,
+   "type": "spacing",
+   "logprob": -6.639736966462806e-05
+  },
+  {
+   "text": "que",
+   "start": 3.92,
+   "end": 4.019,
+   "type": "word",
+   "logprob": -6.639736966462806e-05
+  },
+  {
+   "text": " ",
+   "start": 4.019,
+   "end": 4.059,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 4.059,
+   "end": 4.2,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.2,
+   "end": 4.24,
+   "type": "spacing",
+   "logprob": -4.124556289752945e-05
+  },
+  {
+   "text": "fizeram",
+   "start": 4.24,
+   "end": 4.84,
+   "type": "word",
+   "logprob": -4.124556289752945e-05
+  },
+  {
+   "text": " ",
+   "start": 4.84,
+   "end": 5.02,
+   "type": "spacing",
+   "logprob": -7.748573807475623e-06
+  },
+  {
+   "text": "querer",
+   "start": 5.02,
+   "end": 5.32,
+   "type": "word",
+   "logprob": -7.748573807475623e-06
+  },
+  {
+   "text": " ",
+   "start": 5.32,
+   "end": 5.36,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "desistir",
+   "start": 5.36,
+   "end": 5.98,
+   "type": "word",
+   "logprob": -5.751826391175996e-06
+  }
+ ],
+ "transcription_id": "APccf9LpxYHPgKhoVQoN",
+ "audio_duration_secs": 6.498375
+}

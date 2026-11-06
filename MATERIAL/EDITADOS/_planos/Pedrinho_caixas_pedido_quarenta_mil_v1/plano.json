@@ -1,0 +1,199 @@
+{
+ "nome": "Pedrinho_caixas_pedido_quarenta_mil_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "crianca": "Pedrinho",
+ "gancho": "os meus cuidados passam de quarenta mil por mês.",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.07,
+ "final_extra": 2.2,
+ "fatos": {
+  "cuidados passam de quarenta mil por mês": "Pedrinho, banco Roteiro 7 (25-30 s)",
+  "custos de cada atadura e gaze": "Pedrinho, 20260917_001530 (65-70 s)",
+  "custo total da EB": "Pedrinho, roteiro 7 (21-27 s)",
+  "não tem como comprar dois, três pacotes": "Pedrinho, 20260917_000819 (36-50 s)",
+  "um, dois, três, cinco reais": "Pedrinho, 20260917_001530 (78-89 s)"
+ },
+ "modelo": "estrutura do AEB 35 (um gancho só, sem_caixas) da skill criativo-caixas-pedido-ong",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro7.json",
+   "cortes": [
+    [
+     25.5,
+     29.4
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+     25.44
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "A GENTE NÃO TEM COMO COMPRAR",
+    "NEM UNS DOIS, TRÊS PACOTES DE ATADURA"
+   ],
+   "texto_verde_y": 1310
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     65.28,
+     69.86
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+     65.22
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro7b.json",
+   "cortes": [
+    [
+     21.74,
+     26.8
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     145.85
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     31.03
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     8.85
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     36.12,
+     36.72
+    ],
+    [
+     40.38,
+     41.84
+    ],
+    [
+     43.04,
+     45.82
+    ],
+    [
+     47.86,
+     49.72
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     21.25
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     148.95
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+     36.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1774481214_3860949812967821509_1642859680.mp4",
+     73.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     11.95
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     78.38,
+     83.08
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1760826007_3746400716379323451_1642859680.mp4",
+     8.27
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     15.01
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     11.27
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     86.46,
+     88.9
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/GAZE.png",
+   "final": true,
+   "texto_verde": [
+    "CLIQUE EM SAIBA MAIS",
+    "AJUDE O PEDRINHO"
+   ],
+   "texto_verde_y": 1660,
+   "zoom": 0.12
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CUIDADOS QUE PASSAM DE 40 MIL POR MÊS"
+  ],
+  "topo_y": 240,
+  "valor": "R$5,00",
+  "valor_linhas": [
+   "DEIXAM PEDRINHO MAIS PERTO DE COMPRAR",
+   "OS PACOTES DE ATADURA E O GAZE"
+  ],
+  "valor_y": 1300,
+  "cor_caixa": [
+   200,
+   16,
+   28
+  ],
+  "cor_texto": [
+   235,
+   40,
+   40
+  ]
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 36\\PEB 163 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

@@ -1,0 +1,55 @@
+{
+ "text": "Ele não pede um milagre. Pede uma noite sem dor.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "não",
+   "start": 0.197,
+   "end": 0.302
+  },
+  {
+   "text": "pede",
+   "start": 0.348,
+   "end": 0.546
+  },
+  {
+   "text": "um",
+   "start": 0.569,
+   "end": 0.615
+  },
+  {
+   "text": "milagre.",
+   "start": 0.639,
+   "end": 1.149
+  },
+  {
+   "text": "Pede",
+   "start": 1.405,
+   "end": 1.672
+  },
+  {
+   "text": "uma",
+   "start": 1.695,
+   "end": 1.8
+  },
+  {
+   "text": "noite",
+   "start": 1.858,
+   "end": 2.31
+  },
+  {
+   "text": "sem",
+   "start": 2.473,
+   "end": 2.717
+  },
+  {
+   "text": "dor.",
+   "start": 2.763,
+   "end": 3.39
+  }
+ ]
+}

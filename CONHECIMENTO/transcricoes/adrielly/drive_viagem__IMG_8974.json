@@ -1,0 +1,33 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Oi. Aí",
+ "words": [
+  {
+   "text": "Oi.",
+   "start": 0.72,
+   "end": 1.0,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.3295324221253395
+  },
+  {
+   "text": " ",
+   "start": 1.0,
+   "end": 1.12,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.38049495220184326
+  },
+  {
+   "text": "Aí",
+   "start": 4.019,
+   "end": 4.6,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.38049495220184326
+  }
+ ],
+ "transcription_id": "noBouqxh3pfjXjYpEhHA",
+ "audio_duration_secs": 4.7983125
+}

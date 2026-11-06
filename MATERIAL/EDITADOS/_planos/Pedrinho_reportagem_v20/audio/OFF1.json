@@ -1,0 +1,90 @@
+{
+ "text": "Para pedir ajuda ao filho, ela aprendeu uma regra cruel. Quanto pior a imagem, maior a resposta.",
+ "words": [
+  {
+   "text": "Para",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "pedir",
+   "start": 0.325,
+   "end": 0.65
+  },
+  {
+   "text": "ajuda",
+   "start": 0.697,
+   "end": 1.091
+  },
+  {
+   "text": "ao",
+   "start": 1.115,
+   "end": 1.184
+  },
+  {
+   "text": "filho,",
+   "start": 1.3,
+   "end": 1.703
+  },
+  {
+   "text": "ela",
+   "start": 1.718,
+   "end": 1.938
+  },
+  {
+   "text": "aprendeu",
+   "start": 1.961,
+   "end": 2.403
+  },
+  {
+   "text": "uma",
+   "start": 2.437,
+   "end": 2.623
+  },
+  {
+   "text": "regra",
+   "start": 2.67,
+   "end": 2.937
+  },
+  {
+   "text": "cruel.",
+   "start": 2.972,
+   "end": 3.456
+  },
+  {
+   "text": "Quanto",
+   "start": 3.456,
+   "end": 3.703
+  },
+  {
+   "text": "pior",
+   "start": 3.761,
+   "end": 4.075
+  },
+  {
+   "text": "a",
+   "start": 4.121,
+   "end": 4.171
+  },
+  {
+   "text": "imagem,",
+   "start": 4.191,
+   "end": 4.76
+  },
+  {
+   "text": "maior",
+   "start": 4.794,
+   "end": 5.177
+  },
+  {
+   "text": "a",
+   "start": 5.224,
+   "end": 5.274
+  },
+  {
+   "text": "resposta.",
+   "start": 5.282,
+   "end": 5.896
+  }
+ ]
+}

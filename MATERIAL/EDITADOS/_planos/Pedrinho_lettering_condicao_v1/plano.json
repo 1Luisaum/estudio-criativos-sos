@@ -1,0 +1,210 @@
+{
+ "nome": "Pedrinho_lettering_condicao_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "Cortes com lettering (criativo-lettering-ong)",
+ "angulo": "ele e a mae nunca deixariam faltar nada do curativo, mas pela condicao da familia nao conseguem; e ele chora de dor a noite",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\roteiro 9.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  583,
+  470
+ ],
+ "zooms": {
+  "ZF": {
+   "z": 1.8,
+   "face": [
+    583,
+    470
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 2.05,
+   "out": 5.02,
+   "zoom": "Z1",
+   "txt": "eu sei que não pode usar o mesmo curativo,"
+  },
+  {
+   "in": 5.57,
+   "out": 6.26,
+   "zoom": "Z2",
+   "txt": "mas"
+  },
+  {
+   "in": 7.05,
+   "out": 8.52,
+   "zoom": "Z3",
+   "txt": "eu e minha mãe vai fazer o quê?"
+  },
+  {
+   "in": 9.17,
+   "out": 9.82,
+   "zoom": "ZF",
+   "txt": "Por mim"
+  },
+  {
+   "in": 10.17,
+   "out": 10.64,
+   "zoom": "Z1",
+   "txt": "e pela"
+  },
+  {
+   "in": 11.36,
+   "out": 11.94,
+   "zoom": "Z2",
+   "txt": "minha mãe,"
+  },
+  {
+   "in": 12.35,
+   "out": 13.14,
+   "zoom": "Z3",
+   "txt": "a gente"
+  },
+  {
+   "in": 14.39,
+   "out": 17.0,
+   "zoom": "ZF",
+   "txt": "não ia deixar se que faltasse nada"
+  },
+  {
+   "in": 17.35,
+   "out": 18.22,
+   "zoom": "Z1",
+   "txt": "do curativo,"
+  },
+  {
+   "in": 18.23,
+   "out": 19.72,
+   "zoom": "Z2",
+   "txt": "nenhum que precisa,"
+  },
+  {
+   "in": 20.41,
+   "out": 21.54,
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 142.0
+    }
+   ],
+   "txt": "pros meus cuidados,"
+  },
+  {
+   "in": 21.89,
+   "out": 23.54,
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 60.0
+    }
+   ],
+   "txt": "mas pela nossa condição,"
+  },
+  {
+   "in": 23.75,
+   "out": 24.7,
+   "zoom": "Z3",
+   "txt": "aí como é que faz,"
+  },
+  {
+   "in": 52.61,
+   "out": 53.54,
+   "zoom": "ZF",
+   "txt": "Tem noites,"
+  },
+  {
+   "in": 54.53,
+   "out": 57.04,
+   "zoom": "Z1",
+   "txt": "que eu chego até a chorar"
+  },
+  {
+   "in": 57.04,
+   "out": 59.14,
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 52.0
+    }
+   ],
+   "txt": "por causa das feridas doloridas,"
+  },
+  {
+   "in": 63.13,
+   "out": 64.38,
+   "zoom": "Z2",
+   "txt": "também por causa de"
+  },
+  {
+   "in": 65.03,
+   "out": 66.34,
+   "zoom": "Z3",
+   "txt": "dores musculares"
+  },
+  {
+   "in": 79.33,
+   "out": 81.54,
+   "zoom": "ZF",
+   "txt": "se você sentir no seu coração,"
+  },
+  {
+   "in": 82.19,
+   "out": 84.44,
+   "broll": [
+    {
+     "src": "20260825_133754.jpg"
+    },
+    {
+     "src": "20260825_134039.jpg"
+    },
+    {
+     "src": "20260825_134340.jpg"
+    }
+   ],
+   "txt": "ajude no meu tratamento."
+  },
+  {
+   "in": 91.53,
+   "out": 92.42,
+   "zoom": "Z1",
+   "txt": "muito obrigado."
+  }
+ ],
+ "fix": {},
+ "red": [
+  "CURATIVO",
+  "NADA",
+  "CONDIÇÃO",
+  "CHORAR",
+  "FERIDAS",
+  "DOLORIDAS",
+  "DORES",
+  "TRATAMENTO"
+ ],
+ "badge": null,
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_53_18.png",
+  "texto_do_lettering": "R$ 10,00 PODEM AJUDAR NO TRATAMENTO DO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 28.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [],
+ "caption_y": 950,
+ "fatos": {
+  "nao pode usar o mesmo curativo; eu e minha mae vai fazer o que": "Pedrinho, roteiro 9.mp4, 1.2-8.5 s",
+  "por mim e pela minha mae nao ia faltar nada do curativo, mas pela nossa condicao": "Pedrinho, roteiro 9.mp4, 9.2-24.6 s",
+  "noites chorando pelas feridas doloridas e dores musculares": "Pedrinho, roteiro 9.mp4, 52.6-66.3 s",
+  "ajude no meu tratamento (lettering tratamento)": "Pedrinho, roteiro 9.mp4, 79.4-84.4 s",
+  "R$10": "padrao dos pedidos (brief do lote); sem valor dito no bruto"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 31\\PEB 132 - CORTES COM LETTERING.mp4"
+}

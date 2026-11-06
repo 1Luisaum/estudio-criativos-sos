@@ -1,0 +1,326 @@
+{
+ "nome": "Pedrinho_narrado_noite_v1",
+ "pedido": "2026-10-26_105743",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 2.0,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "FERIDA",
+  "ACABANDO",
+  "ACABOU",
+  "DOR",
+  "CHORAR",
+  "ARDE"
+ ],
+ "caption_fix": {
+  "DOZE": "12",
+  "SEIS": "6"
+ },
+ "hook": {
+  "t1": 4.4,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*NOITE EM CLARO*",
+    "fs": 112
+   },
+   {
+    "text": "“EU VI O DIA AMANHECER”",
+    "fs": 68
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cuts": [
+    [
+     33.24,
+     36.0
+    ],
+    [
+     37.4,
+     38.5
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      690,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.5,
+     "center": [
+      690,
+      560
+     ]
+    }
+   ],
+   "txt": "A noite passada eu passei ela em claro. Eu vi o dia amanhecer."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg"
+    },
+    {
+     "src": "20240402_095757.jpg"
+    }
+   ],
+   "txt": "Pedrinho tem epidermólise bolhosa. As feridas não dão trégua nem de madrugada."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro9.json",
+   "cuts": [
+    [
+     52.64,
+     52.98
+    ],
+    [
+     54.56,
+     58.42
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    },
+    {
+     "z": 1.6,
+     "center": [
+      580,
+      560
+     ]
+    }
+   ],
+   "txt": "Tem noites, que eu chego até a chorar por causa das feridas doloridas."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 180.0
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 260.0
+    }
+   ],
+   "txt": "De dia, a mãe troca os curativos duas vezes. E mesmo assim a dor volta."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     58.1,
+     61.7
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "Já não basta as dores do dia a dia e durante a noite."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cuts": [
+    [
+     1.58,
+     2.82
+    ],
+    [
+     4.2,
+     4.42
+    ],
+    [
+     5.88,
+     6.14
+    ],
+    [
+     7.14,
+     7.42
+    ],
+    [
+     8.46,
+     8.8
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      690,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.5,
+     "center": [
+      690,
+      560
+     ]
+    }
+   ],
+   "txt": "Eu só tenho cinco dias pra conseguir pelo menos seis pessoas pra me ajudar."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "6 PESSOAS",
+    "EM 5 DIAS"
+   ],
+   "dur": 1.4,
+   "fs": 190
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260825_134438.jpg"
+    },
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134340.jpg"
+    },
+    {
+     "src": "20260825_134039.jpg"
+    }
+   ],
+   "txt": "Doze reais de cada uma garantem os itens do curativo dessa semana."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 5.0
+    }
+   ],
+   "txt": "Ele não pede um milagre. Pede uma noite sem dor."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cuts": [
+    [
+     28.56,
+     28.76
+    ],
+    [
+     30.04,
+     31.76
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      690,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.5,
+     "center": [
+      690,
+      560
+     ]
+    }
+   ],
+   "txt": "Me ajude, a passar essa noite sem dor."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241107_202353.jpg"
+    },
+    {
+     "src": "IMG-20241205-WA0070.jpg"
+    }
+   ],
+   "txt": "Toque em Saiba mais e seja uma das seis pessoas que o Pedrinho pediu."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20230603_203654.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "SEJA UMA DAS *6*",
+    "PESSOAS DO PEDRINHO"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 01\\Pedrinho_narrado_noite_v1.mp4"
+}

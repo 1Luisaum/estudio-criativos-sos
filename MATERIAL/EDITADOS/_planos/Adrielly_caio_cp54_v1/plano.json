@@ -1,0 +1,58 @@
+{
+ "nome": "Adrielly_caio_cp54_v1",
+ "crianca": "Adrielly",
+ "estilo": "cp54",
+ "pasta_estilo": "ESTILO CAIO 54",
+ "base": {
+  "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+  "fim": 31.95,
+  "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_referencias/caio/tx_AEB_12.json"
+ },
+ "gancho": {
+  "ate": 3.2,
+  "y": 1000,
+  "linhas": [
+   "ELA PEDE A DEUS",
+   "QUE TIRE ESSA DOR.",
+   "QUEM VAI AJUDAR?"
+  ],
+  "seco": true,
+  "size": 84,
+  "destaque": [
+   "DOR"
+  ],
+  "escurecer": "eq=brightness=-0.10:contrast=1.08:saturation=0.85,vignette=PI/4.5"
+ },
+ "legenda_y": 1150,
+ "cta": {
+  "de": 19.2,
+  "y": 1278,
+  "linhas": [
+   "CLIQUE EM SAIBA MAIS E AJUDE",
+   "DE CORAÇÃO A ADRIELLY"
+  ]
+ },
+ "fatos": {
+  "fala e choro": "IMG_9180 (o mesmo trecho do AEB 12, que validou)",
+  "pede a Deus que tire a dor": "IMG_9180 ('Tira essa dor, Senhor')",
+  "estilo": "anúncios do Caio protetor CP 54 e CP 1027 (formato e posições; sem marca dele)"
+ },
+ "referencia": "EDITADOS/_referencias/caio/CP 54.mp4",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 49\\AEB 77 - ESTILO CAIO 54.mp4",
+ "tomadas": [
+  [
+   0,
+   3.2,
+   "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_costas_faixas.mp4",
+   0
+  ],
+  [
+   3.2,
+   31.95,
+   "BASE",
+   0
+  ]
+ ],
+ "caixa_pula": true,
+ "obs": "29/10/2026: gancho com texto seco em imagem escurecida; sem b-roll depois do gancho; caixa vermelha da legenda pula de palavra em palavra"
+}

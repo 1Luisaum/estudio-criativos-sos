@@ -1,0 +1,70 @@
+{
+ "text": "Na epidermólise bolhosa, existe uma regra: curativo usado não volta para a pele.",
+ "words": [
+  {
+   "text": "Na",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "epidermólise",
+   "start": 0.197,
+   "end": 0.882
+  },
+  {
+   "text": "bolhosa,",
+   "start": 0.929,
+   "end": 1.556
+  },
+  {
+   "text": "existe",
+   "start": 1.602,
+   "end": 1.904
+  },
+  {
+   "text": "uma",
+   "start": 1.927,
+   "end": 2.055
+  },
+  {
+   "text": "regra:",
+   "start": 2.101,
+   "end": 2.485
+  },
+  {
+   "text": "curativo",
+   "start": 2.537,
+   "end": 3.118
+  },
+  {
+   "text": "usado",
+   "start": 3.153,
+   "end": 3.664
+  },
+  {
+   "text": "não",
+   "start": 3.745,
+   "end": 3.907
+  },
+  {
+   "text": "volta",
+   "start": 3.977,
+   "end": 4.279
+  },
+  {
+   "text": "para",
+   "start": 4.314,
+   "end": 4.465
+  },
+  {
+   "text": "a",
+   "start": 4.488,
+   "end": 4.538
+  },
+  {
+   "text": "pele.",
+   "start": 4.581,
+   "end": 5.129
+  }
+ ]
+}

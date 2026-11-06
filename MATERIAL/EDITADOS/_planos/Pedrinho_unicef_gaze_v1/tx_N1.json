@@ -1,0 +1,198 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Mas pro Pedrinho, que tem epidermólise bolhosa, é onde a mãe coloca a pomada",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.1,
+   "end": 0.3,
+   "type": "word",
+   "logprob": -0.005251897498965263
+  },
+  {
+   "text": " ",
+   "start": 0.3,
+   "end": 0.48,
+   "type": "spacing",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": "pro",
+   "start": 0.48,
+   "end": 0.6,
+   "type": "word",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": " ",
+   "start": 0.6,
+   "end": 0.74,
+   "type": "spacing",
+   "logprob": -0.0002150304353563115
+  },
+  {
+   "text": "Pedrinho,",
+   "start": 0.74,
+   "end": 1.32,
+   "type": "word",
+   "logprob": -0.004299692551234734
+  },
+  {
+   "text": " ",
+   "start": 1.32,
+   "end": 1.52,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 1.54,
+   "end": 1.6,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 1.6,
+   "end": 1.74,
+   "type": "spacing",
+   "logprob": -0.000436091679148376
+  },
+  {
+   "text": "tem",
+   "start": 1.74,
+   "end": 2.2,
+   "type": "word",
+   "logprob": -0.000436091679148376
+  },
+  {
+   "text": " ",
+   "start": 2.2,
+   "end": 2.24,
+   "type": "spacing",
+   "logprob": -0.00011801023356383666
+  },
+  {
+   "text": "epidermólise",
+   "start": 2.26,
+   "end": 3.02,
+   "type": "word",
+   "logprob": -0.00010531149663014124
+  },
+  {
+   "text": " ",
+   "start": 3.02,
+   "end": 3.08,
+   "type": "spacing",
+   "logprob": -1.5258672647178173e-05
+  },
+  {
+   "text": "bolhosa,",
+   "start": 3.08,
+   "end": 3.58,
+   "type": "word",
+   "logprob": -0.00014456378494287492
+  },
+  {
+   "text": " ",
+   "start": 3.58,
+   "end": 3.8,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "é",
+   "start": 3.8,
+   "end": 3.86,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 3.86,
+   "end": 3.9,
+   "type": "spacing",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": "onde",
+   "start": 3.9,
+   "end": 4.059,
+   "type": "word",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": " ",
+   "start": 4.059,
+   "end": 4.08,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 4.08,
+   "end": 4.14,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.14,
+   "end": 4.2,
+   "type": "spacing",
+   "logprob": -2.8132995794294402e-05
+  },
+  {
+   "text": "mãe",
+   "start": 4.2,
+   "end": 4.38,
+   "type": "word",
+   "logprob": -2.8132995794294402e-05
+  },
+  {
+   "text": " ",
+   "start": 4.38,
+   "end": 4.42,
+   "type": "spacing",
+   "logprob": -7.271740287251305e-06
+  },
+  {
+   "text": "coloca",
+   "start": 4.42,
+   "end": 4.7,
+   "type": "word",
+   "logprob": -7.271740287251305e-06
+  },
+  {
+   "text": " ",
+   "start": 4.7,
+   "end": 4.74,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 4.74,
+   "end": 4.76,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.76,
+   "end": 4.84,
+   "type": "spacing",
+   "logprob": -6.556489552167477e-06
+  },
+  {
+   "text": "pomada",
+   "start": 4.84,
+   "end": 5.22,
+   "type": "word",
+   "logprob": -3.81468629484516e-06
+  }
+ ],
+ "transcription_id": "uAtIin9SZrUqjHGLUyKV",
+ "audio_duration_secs": 5.2694375
+}

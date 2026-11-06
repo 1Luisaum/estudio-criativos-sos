@@ -1,0 +1,60 @@
+{
+ "text": "Do outro lado da cama, a mãe faz a mesma pergunta.",
+ "words": [
+  {
+   "text": "Do",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "outro",
+   "start": 0.209,
+   "end": 0.441
+  },
+  {
+   "text": "lado",
+   "start": 0.488,
+   "end": 0.673
+  },
+  {
+   "text": "da",
+   "start": 0.708,
+   "end": 0.789
+  },
+  {
+   "text": "cama,",
+   "start": 0.871,
+   "end": 1.242
+  },
+  {
+   "text": "a",
+   "start": 1.277,
+   "end": 1.358
+  },
+  {
+   "text": "mãe",
+   "start": 1.416,
+   "end": 1.614
+  },
+  {
+   "text": "faz",
+   "start": 1.66,
+   "end": 1.823
+  },
+  {
+   "text": "a",
+   "start": 1.881,
+   "end": 1.904
+  },
+  {
+   "text": "mesma",
+   "start": 1.939,
+   "end": 2.159
+  },
+  {
+   "text": "pergunta.",
+   "start": 2.206,
+   "end": 3.065
+  }
+ ]
+}

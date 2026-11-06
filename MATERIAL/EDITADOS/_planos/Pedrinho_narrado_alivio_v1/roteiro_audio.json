@@ -1,0 +1,19 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Pedrinho nasceu com epidermólise bolhosa. Para ele, pomada e gaze não são luxo. São remédio.",
+  "N2": "Duas trocas por dia. Em poucos dias, o estoque inteiro vai embora.",
+  "N3": "Um curativo não cura a doença. Mas muda o dia dele.",
+  "N4": "Toque em Saiba mais e dê ao Pedrinho um dia com menos dor."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

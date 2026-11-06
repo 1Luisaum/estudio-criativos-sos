@@ -1,0 +1,75 @@
+{
+ "text": "A mãe dele rompe cada bolha, limpa cada ferida... e cobre tudo de novo.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "mãe",
+   "start": 0.163,
+   "end": 0.325
+  },
+  {
+   "text": "dele",
+   "start": 0.348,
+   "end": 0.557
+  },
+  {
+   "text": "rompe",
+   "start": 0.615,
+   "end": 1.022
+  },
+  {
+   "text": "cada",
+   "start": 1.045,
+   "end": 1.312
+  },
+  {
+   "text": "bolha,",
+   "start": 1.393,
+   "end": 1.934
+  },
+  {
+   "text": "limpa",
+   "start": 1.987,
+   "end": 2.439
+  },
+  {
+   "text": "cada",
+   "start": 2.474,
+   "end": 2.683
+  },
+  {
+   "text": "ferida...",
+   "start": 2.764,
+   "end": 3.434
+  },
+  {
+   "text": "e",
+   "start": 3.434,
+   "end": 3.541
+  },
+  {
+   "text": "cobre",
+   "start": 3.68,
+   "end": 4.156
+  },
+  {
+   "text": "tudo",
+   "start": 4.29,
+   "end": 4.565
+  },
+  {
+   "text": "de",
+   "start": 4.611,
+   "end": 4.681
+  },
+  {
+   "text": "novo.",
+   "start": 4.739,
+   "end": 5.071
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_931067246550453.mp4",
+ "estilo": "BIB L2 VIRALIZOU",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 1.65,
+   "fim": 6.2,
+   "som": true,
+   "pb": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 7.55,
+   "fim": 9.95,
+   "som": true,
+   "pb": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 10.5,
+   "fim": 14.55,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 15.25,
+   "fim": 18.4,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 23.7,
+   "fim": 26.6,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 26.95,
+   "fim": 27.95,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 28.4,
+   "fim": 30.6,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 32.25,
+   "fim": 34.25,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 34.75,
+   "fim": 37.35,
+   "som": true
+  }
+ ],
+ "broll": [
+  [
+   8.5,
+   11.0,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   3
+  ],
+  [
+   11.0,
+   13.2,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   8
+  ],
+  [
+   18.05,
+   20.25,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   14
+  ],
+  [
+   20.25,
+   22.25,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn2_1760826007_92s.mp4",
+   1
+  ]
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 6.95,
+   "linhas": [
+    "VIRALIZOU: Menino com pele de borboleta",
+    "pede ajuda para os curativos"
+   ],
+   "estilo": "caixa",
+   "por_linha": true,
+   "bg": "preto",
+   "fg": "branco",
+   "size": 33,
+   "fonte": "arial",
+   "y": 255,
+   "alinha": "esq",
+   "x": 22,
+   "pad": [
+    8,
+    0
+   ],
+   "lh": 1.12
+  },
+  {
+   "de": 6.95,
+   "ate": 23.9,
+   "linhas": [
+    "faça a sua parte",
+    "e doe 5 reais"
+   ],
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 54,
+   "y": 300,
+   "fonte": "regular",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.12
+  }
+ ],
+ "legenda": {
+  "estilo": "palavra",
+  "y": 1250,
+  "size": 54
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.5,
+  "de": 23.9
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 931 - viralizou (fundo sem voz).mp3",
+ "musica_volume": 1.603,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 58\\PEB 220 - BIB L2 VIRALIZOU.mp4"
+}

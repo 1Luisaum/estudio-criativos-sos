@@ -1,0 +1,164 @@
+{
+ "nome": "Pedrinho_caixas_pedido_sono_v1",
+ "gancho": "pedido: 'Por favor, me ajude. Eu nao aguento mais nao conseguir dormir'",
+ "angulo": "as noites sem dormir de dor",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "por favor me ajude / nao aguento mais nao conseguir dormir / ferimentos bem abertos e doloridos / quero conseguir dormir bem": "Pedrinho, Roteiro_ Eu nao aguento mais nao conseguir dormir_",
+  "dores do dia a dia e durante a noite / mae faz os curativos todos os dias, duas vezes ao dia": "Pedrinho, 20260917_001530",
+  "passei a noite em claro, vi o dia amanhecer / nao ta nem um pouco facil": "Pedrinho, 20260916_235338",
+  "noites chorando por causa das feridas doloridas": "Pedrinho, roteiro 9 (52-58 s)"
+ },
+ "modelo": "lote 30 videos 27/10/2026, Frente C",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v2_dormir.json",
+   "cortes": [
+    [
+     1.02,
+     4.76
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+     0.96
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "texto_verde": [
+    "MEUS FERIMENTOS ESTÃO",
+    "BEM ABERTOS E DOLORIDOS"
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     58.1,
+     61.7
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     3.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     150.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_235338.json",
+   "cortes": [
+    [
+     34.76,
+     38.5
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+     34.7
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cortes": [
+    [
+     52.64,
+     52.98
+    ],
+    [
+     54.56,
+     58.42
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     20.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     165.0
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     3.92,
+     9.3
+    ],
+    [
+     15.22,
+     16.48
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     185.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     245.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     45.0
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v2_dormir.json",
+   "cortes": [
+    [
+     11.5,
+     12.88
+    ],
+    [
+     14.86,
+     15.86
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS PARA CONSEGUIR DORMIR SEM DOR"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "AJUDAM NOS CURATIVOS QUE A MÃE DELE",
+   "FAZ DUAS VEZES AO DIA"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 26\\PEB 113 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

@@ -1,0 +1,14 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N0": "Feridas em carne viva.",
+  "N1": "Nesta semana, ele mesmo contou: as feridas aumentaram de um jeito que ele não sabe explicar.",
+  "N2": "Mas tem algo que ele nunca deixa de fazer: agradecer.",
+  "N3": "Dez reais. É assim que um desconhecido entra nessa história. Toque em Saiba mais."
+ },
+ "efeitos": {
+  "coracao": {"text": "slow deep heavy heartbeat, two beats, cinematic, tense, dark", "dur": 3.0},
+  "boom": {"text": "deep cinematic boom impact hit, dark trailer, short tail", "dur": 2.0},
+  "whoosh": {"text": "bright soft cinematic whoosh rising transition into light", "dur": 1.2}
+ }
+}

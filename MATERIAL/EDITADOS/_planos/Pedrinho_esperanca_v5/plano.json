@@ -1,0 +1,206 @@
+{
+ "nome": "Pedrinho_esperanca_v5",
+ "estilo": "Da dor à esperança",
+ "pedido": "completar as LEVAs 27/10/2026 - frente 2",
+ "angulo": "a ajuda funciona: com quase um ano de curativos da vaquinha ele ficou bem e ate comecou um canal no YouTube; hoje as bolhas pioram e as ataduras acabam, mas ele pode ficar bem de novo",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "tensa_inicio": 0,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/rockymetal-ambient-acoustic-239252.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 3,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "gancho_dor.png",
+   "look": "pb",
+   "dur": 2.4,
+   "palavras": [
+    [
+     "BOLHAS",
+     0.25,
+     "branco",
+     170
+    ],
+    [
+     "CADA VEZ",
+     0.63,
+     "branco",
+     150
+    ],
+    [
+     "PIORES",
+     0.98,
+     "vermelho",
+     260
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     0.98
+    ]
+   ],
+   "palavras_y": 1350,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro8.json",
+   "look": "pb",
+   "cortes": [
+    [
+     65.5,
+     66.82
+    ],
+    [
+     69.96,
+     72.46
+    ],
+    [
+     72.98,
+     74.12
+    ],
+    [
+     74.48,
+     75.04
+    ],
+    [
+     76.0,
+     77.04
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      540,
+      860
+     ]
+    },
+    {
+     "z": 1.5,
+     "center": [
+      540,
+      780
+     ]
+    }
+   ],
+   "txt": "As minhas ataduras, elas estão acabando e eu estou com muito, muito medo mesmo delas acabar de tudo."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 150
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 20
+    }
+   ]
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 9
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro8.json",
+   "look": "cor",
+   "cortes": [
+    [
+     2.52,
+     6.18
+    ],
+    [
+     6.98,
+     11.36
+    ],
+    [
+     12.0,
+     13.56
+    ],
+    [
+     14.18,
+     17.2
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20241109_123330.jpg"
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 14
+    },
+    {
+     "src": "20260729_180353.jpg"
+    },
+    {
+     "src": "IMG-20260620-WA0011.jpg"
+    }
+   ],
+   "txt": "Há quase quatro anos atrás eu fiz uma Vakinha, que eu consegui comprar quase um ano de curativos, e eu tava ficando bem. Eu até comecei um canal no YouTube."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "fix": {
+    "dez": "10",
+    "Dez": "10"
+   },
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 26
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "20260729_164523.jpg",
+   "dur": 3.6,
+   "linhas": [
+    "ELE JÁ FICOU BEM.",
+    "*PODE FICAR DE NOVO*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "as bolhas estao ficando cada vez piores": "Pedrinho, roteiro 8.mp4 (91.9-96.4 s)",
+  "as minhas ataduras estao acabando e estou com muito medo delas acabar de tudo": "Pedrinho, roteiro 8.mp4 (65-78 s)",
+  "calor de quase quarenta e seis graus na minha cidade, muito ruim pra minha pele": "Pedrinho, roteiro 8.mp4 (50.6-64.4 s)",
+  "ha quase quatro anos a vaquinha comprou quase um ano de curativos, eu tava ficando bem, ate comecei um canal no YouTube": "Pedrinho, roteiro 8.mp4 (1.5-17.2 s), so o audio",
+  "R$10": "padrao dos pedidos (brief)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 33\\PEB 149 - DA DOR À ESPERANÇA.mp4"
+}

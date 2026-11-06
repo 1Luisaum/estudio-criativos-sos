@@ -1,0 +1,45 @@
+{
+ "text": "Virar na cama. Pra ele, até isso machuca.",
+ "words": [
+  {
+   "text": "Virar",
+   "start": 0.0,
+   "end": 0.29
+  },
+  {
+   "text": "na",
+   "start": 0.325,
+   "end": 0.406
+  },
+  {
+   "text": "cama.",
+   "start": 0.476,
+   "end": 0.852
+  },
+  {
+   "text": "Pra",
+   "start": 0.852,
+   "end": 1.005
+  },
+  {
+   "text": "ele,",
+   "start": 1.052,
+   "end": 1.226
+  },
+  {
+   "text": "até",
+   "start": 1.272,
+   "end": 1.493
+  },
+  {
+   "text": "isso",
+   "start": 1.551,
+   "end": 1.713
+  },
+  {
+   "text": "machuca.",
+   "start": 1.76,
+   "end": 2.339
+  }
+ ]
+}

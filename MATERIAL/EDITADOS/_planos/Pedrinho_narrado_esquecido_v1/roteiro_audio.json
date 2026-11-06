@@ -1,0 +1,19 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Quase quatro anos atrás, uma vaquinha comprou quase um ano de curativos.",
+  "N2": "Aquele estoque acabou faz tempo. E a pele do Pedrinho precisa de cuidado todo dia.",
+  "N3": "Ele não precisa de pena. Precisa de gaze.",
+  "N4": "Toque em Saiba mais e não deixe o Pedrinho ser esquecido."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

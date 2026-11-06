@@ -1,0 +1,212 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Fica só 10 segundos, por favor. Eu tô sofrendo, Jesus. Não me deixa lutar sozinha",
+ "words": [
+  {
+   "text": "Fica",
+   "start": 3.62,
+   "end": 3.96,
+   "type": "word",
+   "logprob": -0.008559190589039645
+  },
+  {
+   "text": " ",
+   "start": 3.96,
+   "end": 4.08,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "só",
+   "start": 4.08,
+   "end": 4.24,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 4.24,
+   "end": 4.3,
+   "type": "spacing",
+   "logprob": -0.012510277330875397
+  },
+  {
+   "text": "10",
+   "start": 4.3,
+   "end": 4.52,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.52,
+   "end": 4.58,
+   "type": "spacing",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": "segundos,",
+   "start": 4.58,
+   "end": 5.4,
+   "type": "word",
+   "logprob": -2.5084808132507736e-05
+  },
+  {
+   "text": " ",
+   "start": 5.4,
+   "end": 5.72,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "por",
+   "start": 5.72,
+   "end": 5.88,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 5.88,
+   "end": 5.92,
+   "type": "spacing",
+   "logprob": -1.3828182090946939e-05
+  },
+  {
+   "text": "favor.",
+   "start": 5.92,
+   "end": 6.46,
+   "type": "word",
+   "logprob": -2.3940657380686996e-05
+  },
+  {
+   "text": " ",
+   "start": 6.46,
+   "end": 6.46,
+   "type": "spacing",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": "Eu",
+   "start": 7.12,
+   "end": 7.22,
+   "type": "word",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": " ",
+   "start": 7.22,
+   "end": 7.3,
+   "type": "spacing",
+   "logprob": -0.00013076403411105275
+  },
+  {
+   "text": "tô",
+   "start": 7.3,
+   "end": 7.4,
+   "type": "word",
+   "logprob": -0.00013076403411105275
+  },
+  {
+   "text": " ",
+   "start": 7.4,
+   "end": 7.48,
+   "type": "spacing",
+   "logprob": -0.00016962042718660086
+  },
+  {
+   "text": "sofrendo,",
+   "start": 7.48,
+   "end": 8.1,
+   "type": "word",
+   "logprob": -0.00012424587960898256
+  },
+  {
+   "text": " ",
+   "start": 8.1,
+   "end": 8.22,
+   "type": "spacing",
+   "logprob": -8.940656698541716e-06
+  },
+  {
+   "text": "Jesus.",
+   "start": 8.22,
+   "end": 8.86,
+   "type": "word",
+   "logprob": -0.06448809799197382
+  },
+  {
+   "text": " ",
+   "start": 8.86,
+   "end": 9.3,
+   "type": "spacing",
+   "logprob": -8.34461570775602e-06
+  },
+  {
+   "text": "Não",
+   "start": 9.3,
+   "end": 9.42,
+   "type": "word",
+   "logprob": -8.34461570775602e-06
+  },
+  {
+   "text": " ",
+   "start": 9.42,
+   "end": 9.46,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 9.46,
+   "end": 9.58,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.58,
+   "end": 9.64,
+   "type": "spacing",
+   "logprob": -1.4305012882687151e-05
+  },
+  {
+   "text": "deixa",
+   "start": 9.64,
+   "end": 9.98,
+   "type": "word",
+   "logprob": -1.4305012882687151e-05
+  },
+  {
+   "text": " ",
+   "start": 9.98,
+   "end": 10.06,
+   "type": "spacing",
+   "logprob": -1.966933996300213e-05
+  },
+  {
+   "text": "lutar",
+   "start": 10.06,
+   "end": 10.4,
+   "type": "word",
+   "logprob": -8.130024070851505e-06
+  },
+  {
+   "text": " ",
+   "start": 10.4,
+   "end": 10.52,
+   "type": "spacing",
+   "logprob": -0.00015472168161068112
+  },
+  {
+   "text": "sozinha",
+   "start": 10.52,
+   "end": 11.3,
+   "type": "word",
+   "logprob": -0.00015472168161068112
+  }
+ ],
+ "transcription_id": "Wbz9yD7T8rU69yYTjYOF",
+ "audio_duration_secs": 14.0383125
+}

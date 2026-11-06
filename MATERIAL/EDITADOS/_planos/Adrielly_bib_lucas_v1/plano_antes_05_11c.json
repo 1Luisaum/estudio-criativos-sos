@@ -1,0 +1,160 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1289222076667000.mp4",
+ "estilo": "BIB L2 LUCAS",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_perna_cama.mp4",
+   "ini": 0,
+   "fim": 3.3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_curativos_juntos.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.31.27.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_urgotul.mp4",
+   "ini": 0,
+   "fim": 4.1,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_bracos_6436.mp4",
+   "ini": 0,
+   "fim": 2.9,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "ini": 8,
+   "fim": 11.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_allevyn.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\Rot 2 (3).mp4",
+   "ini": 2,
+   "fim": 5.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_remedios_juntos.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_perna_soro.mp4",
+   "ini": 0,
+   "fim": 3.3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_costas_faixas.mp4",
+   "ini": 0,
+   "fim": 5.7,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_lucas_v1\\n_lucas_adrielly_sr.mp3",
+  "tx": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_lucas_v1\\n_lucas_adrielly_sr.json",
+  "de": 0.3
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 6.4,
+   "linhas": [
+    "Dai, e vos será dado – Lucas 6:38"
+   ],
+   "estilo": "caixa",
+   "bg": "preto",
+   "fg": "branco",
+   "size": 40,
+   "y": 300,
+   "pad": [
+    16,
+    6
+   ],
+   "destaque": [
+    "Lucas",
+    "6:38"
+   ],
+   "cor_destaque": [
+    120,
+    200,
+    255
+   ]
+  },
+  {
+   "de": 6.4,
+   "ate": 36.6,
+   "linhas": [
+    "Doe R$5 e faça parte",
+    "dessa missão de amor 🙏"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 355,
+   "contorno": 2,
+   "lh": 1.05
+  }
+ ],
+ "legenda": {
+  "estilo": "amarelo",
+  "y": 1290,
+  "size": 50,
+  "fonte": "bold",
+  "caixa_alta": false,
+  "contorno": 3,
+  "cor": [
+   40,
+   210,
+   70
+  ]
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 36.6
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1289 - Lucas 6.38 (fundo sem voz).mp3",
+ "musica_volume": 1.479,
+ "modelo": {
+  "id": "peb222_l2_lucas",
+  "exemplo": "PEB 222",
+  "descricao": "1289222076667000: faixa preta \"Dai, e vos sera dado - Lucas 6:38\", depois texto amarelo no alto e legenda com a palavra falada em verde; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1289222076667000",
+  "titulo": "Dai e vos será dado (Lucas 6:38)"
+ },
+ "fatos": {
+  "tratamento caro": "IMG_6212/IMG_6224: 'Meu tratamento é caro, mas ficar sem ele custa minha vida'",
+  "curativos custam noventa mil reais": "IMG_6231: 'Meus curativos custam R$ 90.000'; IMG_6227: 'mais de R$ 90.000 em curativo'",
+  "a mãe já não tem dinheiro para o tratamento": "IMG_4725 1,36-5,60: 'Minha mãe já não tem mais dinheiro para meu tratamento'",
+  "cinco reais": "IMG_4493 / IMG_4205"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 63\\AEB 94 - BIB L2 LUCAS.mp4",
+ "ajuste_05_11": "Rot 3 (parede lilás, proibida desde 30/10) trocado por Rot 2 (3).mp4; sem pernas enfaixadas e sem P&B (pedido de 05/11)",
+ "ajuste_05_11c": "take mais forte (braços com feridas) no lugar da fisioterapia"
+}

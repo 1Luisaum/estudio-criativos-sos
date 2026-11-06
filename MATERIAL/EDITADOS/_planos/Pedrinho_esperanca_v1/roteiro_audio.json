@@ -1,0 +1,23 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N0": "Todo dia, ele sente dor.",
+  "N1": "São bolhas de sangue, feridas abertas e horas de curativo. Todos os dias.",
+  "N2": "Mas tem uma coisa que a dor nunca tirou dele.",
+  "N3": "Com dez reais, você ajuda a dar um final feliz para essa história. Toque em Saiba mais."
+ },
+ "efeitos": {
+  "coracao": {
+   "text": "slow deep heavy heartbeat, two beats, cinematic, tense, dark",
+   "dur": 3.0
+  },
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "bright soft cinematic whoosh rising transition into light",
+   "dur": 1.2
+  }
+ }
+}

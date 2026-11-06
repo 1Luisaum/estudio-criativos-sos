@@ -1,0 +1,45 @@
+{
+ "text": "Este é um dos suplementos da dieta dele.",
+ "words": [
+  {
+   "text": "Este",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "é",
+   "start": 0.383,
+   "end": 0.43
+  },
+  {
+   "text": "um",
+   "start": 0.522,
+   "end": 0.604
+  },
+  {
+   "text": "dos",
+   "start": 0.65,
+   "end": 0.766
+  },
+  {
+   "text": "suplementos",
+   "start": 0.789,
+   "end": 1.416
+  },
+  {
+   "text": "da",
+   "start": 1.451,
+   "end": 1.544
+  },
+  {
+   "text": "dieta",
+   "start": 1.602,
+   "end": 1.962
+  },
+  {
+   "text": "dele.",
+   "start": 2.02,
+   "end": 2.694
+  }
+ ]
+}

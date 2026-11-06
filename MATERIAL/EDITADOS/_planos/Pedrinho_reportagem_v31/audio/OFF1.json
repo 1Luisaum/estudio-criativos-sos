@@ -1,0 +1,80 @@
+{
+ "text": "Para o Pedrinho, alívio não vem em embalagem bonita. Cabe em um pedaço de gaze.",
+ "words": [
+  {
+   "text": "Para",
+   "start": 0.0,
+   "end": 0.244
+  },
+  {
+   "text": "o",
+   "start": 0.267,
+   "end": 0.317
+  },
+  {
+   "text": "Pedrinho,",
+   "start": 0.337,
+   "end": 0.778
+  },
+  {
+   "text": "alívio",
+   "start": 0.801,
+   "end": 1.219
+  },
+  {
+   "text": "não",
+   "start": 1.265,
+   "end": 1.393
+  },
+  {
+   "text": "vem",
+   "start": 1.44,
+   "end": 1.672
+  },
+  {
+   "text": "em",
+   "start": 1.788,
+   "end": 1.95
+  },
+  {
+   "text": "embalagem",
+   "start": 1.974,
+   "end": 2.543
+  },
+  {
+   "text": "bonita.",
+   "start": 2.589,
+   "end": 3.074
+  },
+  {
+   "text": "Cabe",
+   "start": 3.124,
+   "end": 3.502
+  },
+  {
+   "text": "em",
+   "start": 3.572,
+   "end": 3.699
+  },
+  {
+   "text": "um",
+   "start": 3.781,
+   "end": 3.839
+  },
+  {
+   "text": "pedaço",
+   "start": 3.885,
+   "end": 4.361
+  },
+  {
+   "text": "de",
+   "start": 4.408,
+   "end": 4.477
+  },
+  {
+   "text": "gáze.",
+   "start": 4.524,
+   "end": 4.955
+  }
+ ]
+}

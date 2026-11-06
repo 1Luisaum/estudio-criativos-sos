@@ -1,0 +1,117 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1403709941748846.mp4",
+ "estilo": "BIB ORACOES SINAL",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\cruz_amanhecer.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\pomba_luz.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 13,
+   "fim": 16.5,
+   "som": false,
+   "pb": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151540.mp4",
+   "ini": 0.5,
+   "fim": 4,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 1,
+   "fim": 4.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 9,
+   "fim": 12.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn2_1760826007_92s.mp4",
+   "ini": 9,
+   "fim": 12.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   "ini": 6,
+   "fim": 9.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 22,
+   "fim": 23.5,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_oracoes_sinal_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_oracoes_sinal_sr.json",
+  "de": 0.3
+ },
+ "textos": [
+  {
+   "de": 12,
+   "ate": 29.28,
+   "linhas": [
+    "talvez este seja o sinal",
+    "que você pediu a Deus ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 34,
+   "y": 140,
+   "pad": [
+    16,
+    8
+   ],
+   "fonte": "serif_bold",
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "amarelo",
+  "y": 1500,
+  "size": 38,
+  "fonte": "bold",
+  "caixa_alta": false,
+  "contorno": 3
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 29.28
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1403 - orações (fundo sem voz).mp3",
+ "musica_volume": 2.089,
+ "modelo": {
+  "id": "peb221_l2_oracoes",
+  "exemplo": "PEB 221",
+  "descricao": "1403709941748846: imagens de IA no gancho (leao, Jesus), narracao, caixa branca no alto, legenda pequena",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1403709941748846",
+  "titulo": "Orações (leão e Jesus)",
+  "variacao": "oracoes_sinal"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 60\\PEB 229 - BIB ORACOES SINAL.mp4"
+}

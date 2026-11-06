@@ -1,0 +1,487 @@
+{
+ "nome": "Pedrinho_narrado_verdade_v1",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 01\\Pedrinho_narrado_verdade_v1.mp4",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 1.2,
+ "red": [
+  "VERDADE",
+  "CURATIVOS",
+  "FERIMENTO",
+  "FERIDA",
+  "HERÓI",
+  "SOZINHO",
+  "CARA",
+  "DEMAIS",
+  "40",
+  "MIL",
+  "4",
+  "5",
+  "HORAS",
+  "ENCENADO"
+ ],
+ "caption_fix": {
+  "QUARENTA": "40",
+  "QUATRO": "4",
+  "CINCO": "5"
+ },
+ "hook": {
+  "t1": 4.6,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*É DE VERDADE.*",
+    "fs": 140
+   },
+   {
+    "text": "DIZ A MÃE DO PEDRINHO",
+    "fs": 66
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "Roteiro 2.mp4",
+   "tx": "tx/roteiro2_mae.json",
+   "cuts": [
+    [
+     37.96,
+     40.6
+    ],
+    [
+     46.04,
+     47.0
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    }
+   ],
+   "txt": "E por trás da internet, existe meu filho. Existe meu filho de verdade."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+     "start": 27.5,
+     "until": 2.7
+    },
+    {
+     "src": "20240514_210632.jpg",
+     "until": 4.5
+    },
+    {
+     "src": "20260127_110703.jpg"
+    }
+   ],
+   "txt": "Pedrinho nasceu com uma doença rara, que faz a pele formar bolhas e se abrir com quase nada."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     4.82,
+     6.86
+    ],
+    [
+     7.98,
+     8.1
+    ],
+    [
+     9.02,
+     9.52
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.9,
+     "center": [
+      550,
+      560
+     ]
+    },
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 1.9,
+     "center": [
+      550,
+      560
+     ]
+    }
+   ],
+   "txt": "Eu só tenho esses curativos aqui, que estão na minha mão."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "Roteiro 2.mp4",
+   "tx": "tx/roteiro2_mae.json",
+   "cuts": [
+    [
+     50.36,
+     52.08
+    ],
+    [
+     53.36,
+     54.64
+    ],
+    [
+     60.72,
+     62.84
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      760,
+      960
+     ]
+    }
+   ],
+   "txt": "Os curativos são de verdade. Os cuidados também. Os ferimento também são de verdade."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 175.0,
+     "until": 2.0
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 215.0,
+     "until": 3.4
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 262.0,
+     "until": 4.9
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 318.0
+    }
+   ],
+   "txt": "Quatro a cinco horas por dia. Faixa por faixa, ferida por ferida, até o corpo inteiro estar coberto."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "4 A 5 HORAS",
+    "TODOS OS DIAS"
+   ],
+   "dur": 1.4,
+   "fs": 160
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "Roteiro 4.mp4",
+   "tx": "tx/roteiro4.json",
+   "cuts": [
+    [
+     1.9,
+     3.52
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      760,
+      1100
+     ]
+    }
+   ],
+   "txt": "Pra vocês, ele é o Pedrinho Guerreiro."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 4.mp4",
+   "tx": "tx/roteiro4.json",
+   "cuts": [
+    [
+     4.7,
+     6.72
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      380,
+      1100
+     ]
+    }
+   ],
+   "txt": "E pra ela, eu sou só o filho dela."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "Roteiro 4.mp4",
+   "tx": "tx/roteiro4.json",
+   "cuts": [
+    [
+     9.84,
+     10.94
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.45,
+     "center": [
+      800,
+      1080
+     ]
+    }
+   ],
+   "txt": "Meu filho, meu herói."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 4.mp4",
+   "tx": "tx/roteiro4.json",
+   "cuts": [
+    [
+     13.44,
+     16.0
+    ],
+    [
+     16.96,
+     17.66
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      540,
+      1100
+     ]
+    },
+    {
+     "z": 1.4,
+     "center": [
+      380,
+      1100
+     ]
+    }
+   ],
+   "txt": "E é ela quem está comigo todos os dias, em todos os curativos."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260825_134438.jpg",
+     "until": 1.65
+    },
+    {
+     "src": "20260825_134710.jpg",
+     "until": 2.15
+    },
+    {
+     "src": "20260825_134340.jpg",
+     "until": 2.6
+    },
+    {
+     "src": "20260825_134039.jpg",
+     "until": 3.5
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 45.0
+    }
+   ],
+   "txt": "Cada troca consome faixas, gazes, soro e pomada. E isso se repete todos os dias."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "Roteiro 4.mp4",
+   "tx": "tx/roteiro4.json",
+   "cuts": [
+    [
+     20.74,
+     23.7
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      760,
+      1100
+     ]
+    }
+   ],
+   "txt": "Só que essa luta ficou cara demais pra nossa família."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 4.mp4",
+   "tx": "tx/roteiro4.json",
+   "cuts": [
+    [
+     25.96,
+     28.52
+    ],
+    [
+     30.02,
+     30.2
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      380,
+      1100
+     ]
+    },
+    {
+     "z": 1.25,
+     "center": [
+      540,
+      1100
+     ]
+    }
+   ],
+   "txt": "E são mais de quarenta mil por mês em cuidados."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "24 HORAS",
+    "TODOS OS MESES"
+   ],
+   "dur": 1.4,
+   "fs": 210
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 3.mp4",
+   "tx": "tx/roteiro3.json",
+   "cuts": [
+    [
+     5.7,
+     6.76
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      400,
+      900
+     ]
+    }
+   ],
+   "txt": "Mas eu não luto sozinho."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 20.0
+    }
+   ],
+   "txt": "Nada nesse vídeo foi encenado."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 3.mp4",
+   "tx": "tx/roteiro3.json",
+   "cuts": [
+    [
+     55.1,
+     55.84
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Luta com a gente."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 3.0,
+     "until": 2.9
+    },
+    {
+     "src": "20260729_180353.jpg"
+    }
+   ],
+   "txt": "O próximo curativo do Pedrinho pode vir de você. O botão está logo abaixo."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20260824_182501.mp4",
+    "start": 60.0,
+    "look": "cor"
+   },
+   "lines": [
+    "ENTRE NESSA *LUTA*",
+    "COM O PEDRINHO"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ]
+}

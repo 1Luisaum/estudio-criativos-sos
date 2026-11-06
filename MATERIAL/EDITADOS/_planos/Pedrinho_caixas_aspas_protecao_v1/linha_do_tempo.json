@@ -1,0 +1,35 @@
+{
+ "total": 32.66000000000001,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 1.930000000000001,
+   "texto": "Meu filho, meu herói."
+  },
+  {
+   "nome": "h2",
+   "d": 5.430000000000002,
+   "texto": "E é ela quem está comigo todos os dias, em todos os curativos."
+  },
+  {
+   "nome": "c1",
+   "d": 4.830000000000001,
+   "texto": "a minha mãe acabou de me dar a pior notícia que eu poderia receber dessa semana."
+  },
+  {
+   "nome": "c2",
+   "d": 7.850000000000004,
+   "texto": "Os curativos, pro meu tratamento e pra aliviar as dores do meu esfolamento e proteger pra não pousar mosquito, evitar poeira,"
+  },
+  {
+   "nome": "c3",
+   "d": 7.710000000000011,
+   "texto": "a gente não tem como comprar nem, uns dois, três pacotes de atadura ou um gaze, que é pra passar minha pomadinha."
+  },
+  {
+   "nome": "c4",
+   "d": 4.909999999999993,
+   "texto": "eu peço a sua ajuda. E meu muito obrigado."
+  }
+ ]
+}

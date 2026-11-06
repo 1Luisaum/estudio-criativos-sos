@@ -1,0 +1,45 @@
+{
+ "text": "Ele podia ter desistido de sorrir. Não desistiu.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.197
+  },
+  {
+   "text": "podia",
+   "start": 0.232,
+   "end": 0.441
+  },
+  {
+   "text": "ter",
+   "start": 0.499,
+   "end": 0.615
+  },
+  {
+   "text": "desistido",
+   "start": 0.639,
+   "end": 1.184
+  },
+  {
+   "text": "de",
+   "start": 1.219,
+   "end": 1.277
+  },
+  {
+   "text": "sorrir.",
+   "start": 1.324,
+   "end": 1.669
+  },
+  {
+   "text": "Não",
+   "start": 1.669,
+   "end": 1.825
+  },
+  {
+   "text": "desistiu.",
+   "start": 1.86,
+   "end": 2.342
+  }
+ ]
+}

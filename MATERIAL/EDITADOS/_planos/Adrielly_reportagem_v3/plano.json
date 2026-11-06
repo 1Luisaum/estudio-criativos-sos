@@ -1,0 +1,159 @@
+{
+ "nome": "Adrielly_reportagem_v3",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reportagem, conta paga)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/good_b_music-melody-of-nature-main-6672.mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "CHÁ, ÓLEO, POMADA MILAGROSA:",
+  "ELA JÁ TENTOU DE TUDO"
+ ],
+ "etiqueta": "Ajude com R$ 10 ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Chá, óleo, pomada milagrosa, terapia de luz. A Adrielly já ouviu todas as receitas.",
+  "OFF2": "Ela tem epidermólise bolhosa distrófica recessiva, uma doença rara e sem cura.",
+  "OFF3": "Também tentou laserterapia e dilatação do esôfago. O que alivia de verdade são os curativos especiais, que não grudam na pele.",
+  "OFF4": "Esses curativos custam caro e acabam a cada mês. A SOS Human Help está arrecadando para a Adrielly. Com dez reais, você já ajuda.",
+  "OFF5": "Toque em Saiba mais e ajude com o tratamento que funciona."
+ },
+ "fatos": {
+  "cha, oleo, terapia de luz, pomadas milagrosas": "Adrielly, IMG_4470 e IMG_4476",
+  "ja tentou de tudo, so fizeram mal": "Adrielly, IMG_4479",
+  "EB distrofica recessiva, sem cura": "Adrielly, IMG_3868 e IMG_5709",
+  "95% do corpo com lesoes": "Adrielly, IMG_3868 / IMG_3722",
+  "laserterapia e dilatacao do esofago": "Adrielly, IMG_4490",
+  "curativos aliviam / extrema importancia": "Adrielly, IMG_4484 e IMG_5709",
+  "acabam em ~30 dias": "Adrielly, IMG_5696",
+  "R$ 10": "Adrielly, IMG_3676"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/3bb7b51d-afa8-427a-9816-8d1d5e89a480_pb.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_4476.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_4476.json",
+   "cortes": [
+    [
+     0.4,
+     2.16
+    ],
+    [
+     3.24,
+     5.5
+    ],
+    [
+     7.02,
+     10.34
+    ]
+   ],
+   "gc": [
+    "ADRIELLY, 28 ANOS",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     3.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36.mp4",
+     13.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_4479.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_4479.json",
+   "cortes": [
+    [
+     1.6,
+     2.62
+    ],
+    [
+     3.28,
+     4.06
+    ],
+    [
+     5.2,
+     6.94
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Tela 3m adaptic 7.6x7.6cm.jpeg"
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5709.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5709.json",
+   "cortes": [
+    [
+     9.16,
+     12.54
+    ],
+    [
+     21.26,
+     22.04
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF4",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativos Mepilex Transfer20x50cm.jpeg",
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_4484.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_4484.json",
+   "cortes": [
+    [
+     0.4,
+     3.9
+    ],
+    [
+     4.94,
+     7.44
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Adrielly criança 3.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 45\\AEB 57 - REPORTAGEM.mp4",
+ "ajuste_05_11": "pedido do usuário 05/11/2026: marca @juntospelaadrielly; Rot 3 (6) (parede lilás, proibido desde 30/10) trocado"
+}

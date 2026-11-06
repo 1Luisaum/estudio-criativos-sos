@@ -1,0 +1,49 @@
+{
+ "nome": "Pedrinho_salva_vida_alivio_v1",
+ "referencia": "Ampara Brasil, anuncio 1473150411323796: sem fala, valor grande e faixa branca com o pedido no alto, cenas intimas lentas com fusao",
+ "angulo": "alivie as dores do Pedrinho",
+ "valor": "R$10,00",
+ "pedido": "ALIVIE AS DORES DO PEDRINHO❤️",
+ "topo_y": 180,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/11145955-mesa-10550.mp3",
+ "transicao": 0.6,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 5.0,
+   "start": 20.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 5.5,
+   "start": 146.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 5.0,
+   "start": 28.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 5.0,
+   "start": 222.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "dur": 5.0,
+   "start": 30.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 5.0,
+   "start": 316.0
+  }
+ ],
+ "fatos": {
+  "aliviar as dores": "Pedrinho, 20260917_001530 (86-89 s) e roteiro 7 ('com os meus curativos, alivia bastante as minhas dores')",
+  "R$10": "valor padrao",
+  "cenas": "banco do Pedrinho"
+ },
+ "modelo": "lote de 30 (27/10/2026), frente D",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 30\\PEB 126 - SALVA VIDA.mp4"
+}

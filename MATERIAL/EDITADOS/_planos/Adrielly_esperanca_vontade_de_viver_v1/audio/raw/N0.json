@@ -1,0 +1,35 @@
+{
+ "text": "A doença roubou os sonhos dela.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "doença",
+   "start": 0.186,
+   "end": 0.534
+  },
+  {
+   "text": "roubou",
+   "start": 0.569,
+   "end": 0.882
+  },
+  {
+   "text": "os",
+   "start": 0.906,
+   "end": 0.952
+  },
+  {
+   "text": "sonhos",
+   "start": 0.975,
+   "end": 1.277
+  },
+  {
+   "text": "dela.",
+   "start": 1.335,
+   "end": 1.95
+  }
+ ]
+}

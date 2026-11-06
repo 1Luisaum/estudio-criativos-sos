@@ -1,0 +1,71 @@
+{
+ "total": 54.305170000000004,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.88,
+   "texto": "Para muita gente, ele é o menino que vive pedindo ajuda. Pouca gente sabe o que ele queria de verdade."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 3.699999999999993,
+   "texto": "eu queria muito, sabe, galera, tá bem de ajuda,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 4.758186,
+   "texto": "Ele fala dos comentários que lê. E do peso de voltar sempre com o mesmo pedido."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.560000000000007,
+   "texto": "pra não precisar passar por comentários, e também, ter que ficar sempre pedindo ajuda,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.215692,
+   "texto": "A mãe sente o mesmo. Na primeira vaquinha, ela não imaginava voltar."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 7.159999999999999,
+   "texto": "Quando fiz a, a primeira vaquinha do Pedrinho, eu nunca pensei que fosse precisar de eu vim aqui pedir uma ajuda,"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 3.5039,
+   "texto": "Mas o curativo acaba. E, quando acaba, a dor aumenta."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 4.160000000000001,
+   "texto": "Mas se isso não for assim, aí como é que eu faço, né, pessoal?"
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 5.125283,
+   "texto": "Com dez reais, pela SOS Human Help, você responde a essa pergunta."
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "d": 4.979999999999994,
+   "texto": "se você sentir no seu coração, ajude no meu tratamento."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 4.262109000000001,
+   "texto": "Clique em Saiba mais e dê essa resposta a ele."
+  }
+ ]
+}

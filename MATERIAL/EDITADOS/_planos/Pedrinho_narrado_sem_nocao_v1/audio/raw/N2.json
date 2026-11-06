@@ -1,0 +1,80 @@
+{
+ "text": "Para quase todo mundo, água é alívio. Para ele, até o banho precisa de coragem.",
+ "words": [
+  {
+   "text": "Para",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "quase",
+   "start": 0.267,
+   "end": 0.488
+  },
+  {
+   "text": "todo",
+   "start": 0.511,
+   "end": 0.697
+  },
+  {
+   "text": "mundo,",
+   "start": 0.743,
+   "end": 1.242
+  },
+  {
+   "text": "água",
+   "start": 1.428,
+   "end": 1.869
+  },
+  {
+   "text": "é",
+   "start": 2.055,
+   "end": 2.194
+  },
+  {
+   "text": "alívio.",
+   "start": 2.357,
+   "end": 3.053
+  },
+  {
+   "text": "Para",
+   "start": 3.518,
+   "end": 3.75
+  },
+  {
+   "text": "ele,",
+   "start": 3.843,
+   "end": 4.261
+  },
+  {
+   "text": "até",
+   "start": 4.481,
+   "end": 4.83
+  },
+  {
+   "text": "o",
+   "start": 4.911,
+   "end": 4.946
+  },
+  {
+   "text": "banho",
+   "start": 5.027,
+   "end": 5.433
+  },
+  {
+   "text": "precisa",
+   "start": 5.654,
+   "end": 6.072
+  },
+  {
+   "text": "de",
+   "start": 6.107,
+   "end": 6.165
+  },
+  {
+   "text": "coragem.",
+   "start": 6.223,
+   "end": 7.105
+  }
+ ]
+}

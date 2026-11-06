@@ -1,0 +1,340 @@
+{
+ "nome": "Pedrinho_narrado_queria_muito_v1",
+ "crianca": "Pedrinho",
+ "angulo": "queria_muito",
+ "gancho": "a lista curta do que ele queria",
+ "fatos": [
+  "queria muito não ter que ficar sempre pedindo ajuda: Pedrinho, roteiro 7 90 s",
+  "quero conseguir dormir bem: Pedrinho, Roteiro_ Eu não aguento",
+  "próximos curativos, mamãe tranquila, eu confortável: Pedrinho, 20260917_001530 48 s"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647.mp3",
+ "music_start": 50.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "DORMIR",
+  "DOR",
+  "CONFORTÁVEL",
+  "AJUDA",
+  "CURATIVOS"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“*EU QUERIA MUITO*”",
+    "fs": 88
+   },
+   {
+    "text": "NÃO PRECISAR PEDIR",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cuts": [
+    [
+     85.74,
+     86.36
+    ],
+    [
+     87.72,
+     88.46
+    ],
+    [
+     89.6,
+     90.1
+    ],
+    [
+     92.3,
+     94.48
+    ],
+    [
+     102.32,
+     103.9
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "eu queria muito, tá bem de ajuda, Eu queria muito, pra não precisar passar por comentários, ter que ficar sempre pedindo ajuda,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 1.14
+    },
+    {
+     "src": "foto em close.png",
+     "until": 2.16
+    },
+    {
+     "src": "20260819_222914.jpg"
+    }
+   ],
+   "txt": "Ele não pediu brinquedo. Não pediu viagem. A lista do Pedrinho é bem mais curta."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v2_dormir.json",
+   "cuts": [
+    [
+     11.5,
+     12.88
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      845
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Eu quero conseguir dormir bem."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 74.0,
+     "until": 1.52
+    },
+    {
+     "src": "20260127_110703.jpg"
+    }
+   ],
+   "txt": "Dormir. Só isso. Virar na cama sem doer. Acordar sem a pele colada no pano."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cuts": [
+    [
+     28.56,
+     28.76
+    ],
+    [
+     30.04,
+     31.76
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      690,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.5,
+     "center": [
+      690,
+      560
+     ]
+    }
+   ],
+   "txt": "Me ajude, a passar essa noite sem dor,"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "UMA NOITE",
+    "SEM DOR"
+   ],
+   "dur": 1.5,
+   "fs": 190
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 173.0,
+     "until": 1.72
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 209.0
+    }
+   ],
+   "txt": "Tem mais um pedido nessa lista. Ele quer que a mãe consiga trabalhar tranquila."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     47.92,
+     48.68
+    ],
+    [
+     49.42,
+     51.22
+    ],
+    [
+     52.04,
+     53.16
+    ],
+    [
+     54.88,
+     56.76
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "os próximos curativos pra minha mamãe conseguir tranquilamente fazer um curativo, depois eu ficar bem confortável mesmo,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20240514_210632.jpg",
+     "until": 0.9
+    },
+    {
+     "src": "IMG-20260624-WA0043.jpg"
+    }
+   ],
+   "txt": "Os sonhos dele cabem numa caixa de curativos. E mesmo assim, essa caixa vive acabando."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cuts": [
+    [
+     105.14,
+     106.22
+    ],
+    [
+     106.94,
+     107.62
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Mas se isso não for assim, aí como é que eu faço,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 70.0,
+     "until": 1.15
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 78.0
+    }
+   ],
+   "txt": "Ele preferia não pedir. Mas a pele não espera a vergonha passar."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 75.0,
+     "until": 1.36
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 10.0
+    }
+   ],
+   "txt": "Clique em Saiba mais e risque um pedido dessa lista."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "RISQUE UM PEDIDO",
+    "DA *LISTA* DELE"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 180 - NARRADO DE IMPACTO.mp4"
+}

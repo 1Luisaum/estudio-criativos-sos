@@ -1,0 +1,217 @@
+{
+ "nome": "Pedrinho_organico_almofada_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\Um Vídeo Novo pra campanha 💚.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "out": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_organico_almofada_v1\\corpo.mp4",
+ "saida_fixa": true,
+ "face": [
+  440,
+  740
+ ],
+ "zooms": {
+  "ZA": {
+   "z": 1.35,
+   "center": [
+    440,
+    845
+   ]
+  },
+  "ZB": {
+   "z": 1.5,
+   "center": [
+    440,
+    845
+   ]
+  },
+  "ZC": {
+   "z": 1.42,
+   "center": [
+    450,
+    845
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 52.98,
+   "out": 53.72,
+   "zoom": "ZA",
+   "txt": "Essa noite,"
+  },
+  {
+   "in": 54.22,
+   "out": 56.32,
+   "zoom": "ZB",
+   "txt": "eu acho que assim foi a vez que eu mais"
+  },
+  {
+   "in": 57.38,
+   "out": 58.3,
+   "zoom": "ZC",
+   "txt": "virei na cama,"
+  },
+  {
+   "in": 62.58,
+   "out": 64.62,
+   "zoom": "ZA",
+   "txt": "Aí eu deitei de barriga pra baixo,"
+  },
+  {
+   "in": 65.24,
+   "out": 68.32,
+   "zoom": "ZB",
+   "txt": "aí eu tentei virar de lado, virar do outro,"
+  },
+  {
+   "in": 81.84,
+   "out": 82.72,
+   "zoom": "ZC",
+   "txt": "que que aconteceu?"
+  },
+  {
+   "in": 82.96,
+   "out": 84.18,
+   "zoom": "ZA",
+   "txt": "a casca que tava aqui"
+  },
+  {
+   "in": 85.58,
+   "out": 87.3,
+   "zoom": "ZB",
+   "txt": "quando eu fui acordar de manhã,"
+  },
+  {
+   "in": 87.84,
+   "out": 89.14,
+   "zoom": "ZC",
+   "txt": "minha mamãe foi me trocar,"
+  },
+  {
+   "in": 115.02,
+   "out": 115.66,
+   "zoom": "ZA",
+   "txt": "saiu"
+  },
+  {
+   "in": 116.2,
+   "out": 117.02,
+   "zoom": "ZB",
+   "txt": "na almofada,"
+  },
+  {
+   "in": 117.36,
+   "out": 118.02,
+   "zoom": "ZC",
+   "txt": "tinha grudado"
+  },
+  {
+   "in": 119.58,
+   "out": 120.52,
+   "zoom": "ZA",
+   "txt": "saiu a casca"
+  },
+  {
+   "in": 151.76,
+   "out": 152.56,
+   "zoom": "ZB",
+   "txt": "Minha mamãe"
+  },
+  {
+   "in": 152.56,
+   "out": 153.98,
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 157.0
+    }
+   ],
+   "txt": "teve que enfaixar o ombro."
+  },
+  {
+   "in": 174.34,
+   "out": 176.98,
+   "zoom": "ZC",
+   "txt": "pra proteger de mosquito, vê poeira"
+  },
+  {
+   "in": 181.18,
+   "out": 182.06,
+   "zoom": "ZA",
+   "txt": "quando minha mamãe"
+  },
+  {
+   "in": 182.06,
+   "out": 184.5,
+   "broll": [
+    {
+     "src": "Pomada.png"
+    },
+    {
+     "src": "GAZE.png"
+    }
+   ],
+   "txt": "passou a pomadinha no gaze"
+  },
+  {
+   "in": 184.56,
+   "out": 185.98,
+   "zoom": "ZB",
+   "txt": "e colocou nesse ferimento,"
+  },
+  {
+   "in": 191.08,
+   "out": 193.3,
+   "zoom": "ZC",
+   "txt": "Por isso que é muito importante a pomadinha,"
+  },
+  {
+   "in": 194.8,
+   "out": 195.82,
+   "zoom": "ZA",
+   "txt": "o gaze, tudo,"
+  },
+  {
+   "in": 285.72,
+   "out": 287.76,
+   "zoom": "ZB",
+   "txt": "pra não deixar faltar nada pra mim,"
+  },
+  {
+   "in": 290.06,
+   "out": 291.7,
+   "broll": [
+    {
+     "src": "crepe bandagem.png"
+    },
+    {
+     "src": "Curativos 2 x ao Dia.png"
+    }
+   ],
+   "txt": "que é os itens de curativo,"
+  }
+ ],
+ "fix": {
+  "AGUDADO": "GRUDADO"
+ },
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "CASCA",
+  "GRUDADO",
+  "POMADINHA",
+  "GAZE"
+ ],
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 30.0,
+  "dur": 3.4,
+  "lines": [
+   "NÃO DEIXE FALTAR",
+   "CURATIVO PRO PEDRINHO"
+  ],
+  "cta": "AJUDE PELO LINK NA BIO"
+ },
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 7.85
+}

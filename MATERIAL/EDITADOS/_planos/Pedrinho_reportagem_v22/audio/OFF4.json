@@ -1,0 +1,65 @@
+{
+ "text": "O que a doença cobra por dia, ele resume em uma frase.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "que",
+   "start": 0.151,
+   "end": 0.221
+  },
+  {
+   "text": "a",
+   "start": 0.244,
+   "end": 0.294
+  },
+  {
+   "text": "doença",
+   "start": 0.313,
+   "end": 0.685
+  },
+  {
+   "text": "cobra",
+   "start": 0.755,
+   "end": 1.091
+  },
+  {
+   "text": "por",
+   "start": 1.138,
+   "end": 1.335
+  },
+  {
+   "text": "dia,",
+   "start": 1.393,
+   "end": 1.741
+  },
+  {
+   "text": "ele",
+   "start": 1.788,
+   "end": 2.02
+  },
+  {
+   "text": "resume",
+   "start": 2.055,
+   "end": 2.554
+  },
+  {
+   "text": "em",
+   "start": 2.577,
+   "end": 2.67
+  },
+  {
+   "text": "uma",
+   "start": 2.74,
+   "end": 2.891
+  },
+  {
+   "text": "frase.",
+   "start": 2.949,
+   "end": 3.44
+  }
+ ]
+}

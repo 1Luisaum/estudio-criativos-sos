@@ -1,0 +1,105 @@
+{
+ "text": "Ela cuida de cada bolha. De cada faixa. E quando termina, já está na hora de olhar tudo de novo.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "cuida",
+   "start": 0.209,
+   "end": 0.418
+  },
+  {
+   "text": "de",
+   "start": 0.453,
+   "end": 0.511
+  },
+  {
+   "text": "cada",
+   "start": 0.546,
+   "end": 0.743
+  },
+  {
+   "text": "bolha.",
+   "start": 0.789,
+   "end": 1.231
+  },
+  {
+   "text": "De",
+   "start": 1.567,
+   "end": 1.672
+  },
+  {
+   "text": "cada",
+   "start": 1.718,
+   "end": 1.904
+  },
+  {
+   "text": "faixa.",
+   "start": 1.962,
+   "end": 2.508
+  },
+  {
+   "text": "E",
+   "start": 2.972,
+   "end": 3.1
+  },
+  {
+   "text": "quando",
+   "start": 3.239,
+   "end": 3.529
+  },
+  {
+   "text": "termina,",
+   "start": 3.599,
+   "end": 4.296
+  },
+  {
+   "text": "já",
+   "start": 4.458,
+   "end": 4.621
+  },
+  {
+   "text": "está",
+   "start": 4.679,
+   "end": 5.05
+  },
+  {
+   "text": "na",
+   "start": 5.143,
+   "end": 5.224
+  },
+  {
+   "text": "hora",
+   "start": 5.283,
+   "end": 5.503
+  },
+  {
+   "text": "de",
+   "start": 5.561,
+   "end": 5.619
+  },
+  {
+   "text": "olhar",
+   "start": 5.666,
+   "end": 5.956
+  },
+  {
+   "text": "tudo",
+   "start": 6.084,
+   "end": 6.385
+  },
+  {
+   "text": "de",
+   "start": 6.432,
+   "end": 6.502
+  },
+  {
+   "text": "novo.",
+   "start": 6.56,
+   "end": 7.245
+  }
+ ]
+}

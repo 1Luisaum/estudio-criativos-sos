@@ -1,0 +1,231 @@
+{
+ "nome": "Pedrinho_lettering_anjos_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "Cortes com lettering (criativo-lettering-ong)",
+ "angulo": "os ferimentos aumentaram essa semana; cada um ajuda como pode, para nao faltar curativo, suplemento e alimentacao, e assim ele vai vencendo a batalha",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\Um Vídeo Novo pra campanha 💚.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  420,
+  600
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.0,
+   "face": [
+    540,
+    384
+   ]
+  },
+  "Z2": {
+   "z": 1.06,
+   "center": [
+    420,
+    975
+   ]
+  },
+  "Z3": {
+   "z": 1.12,
+   "center": [
+    420,
+    980
+   ]
+  },
+  "ZF": {
+   "z": 1.18,
+   "center": [
+    420,
+    985
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 231.41,
+   "out": 232.52,
+   "zoom": "Z1",
+   "txt": "não sei o que que aconteceu,"
+  },
+  {
+   "in": 232.78,
+   "out": 233.72,
+   "zoom": "Z2",
+   "txt": "essa semana,"
+  },
+  {
+   "in": 235.83,
+   "out": 236.62,
+   "zoom": "Z3",
+   "txt": "os ferimento"
+  },
+  {
+   "in": 237.75,
+   "out": 239.3,
+   "zoom": "ZF",
+   "txt": "aumentou de uma forma,"
+  },
+  {
+   "in": 243.17,
+   "out": 245.46,
+   "zoom": "Z1",
+   "txt": "eu tô até assim um pouco ansioso"
+  },
+  {
+   "in": 266.28,
+   "out": 267.34,
+   "zoom": "Z2",
+   "txt": "vocês que são anjos,"
+  },
+  {
+   "in": 267.33,
+   "out": 269.66,
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 4.0
+    }
+   ],
+   "txt": "sempre tá comigo nessa batalha,"
+  },
+  {
+   "in": 281.23,
+   "out": 282.66,
+   "zoom": "Z3",
+   "txt": "cada um ajuda como pode,"
+  },
+  {
+   "in": 285.73,
+   "out": 287.78,
+   "zoom": "ZF",
+   "txt": "pra não deixar faltar nada pra mim,"
+  },
+  {
+   "in": 287.93,
+   "out": 289.0,
+   "zoom": "Z1",
+   "txt": "nada que eu precise"
+  },
+  {
+   "in": 290.07,
+   "out": 291.7,
+   "broll": [
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134039.jpg"
+    }
+   ],
+   "txt": "que é os itens de curativo,"
+  },
+  {
+   "in": 292.17,
+   "out": 293.12,
+   "broll": [
+    {
+     "src": "20260825_133754.jpg"
+    }
+   ],
+   "txt": "suplemento,"
+  },
+  {
+   "in": 293.99,
+   "out": 294.88,
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 30.0
+    }
+   ],
+   "txt": "alimentação"
+  },
+  {
+   "in": 297.69,
+   "out": 299.38,
+   "zoom": "Z2",
+   "txt": "cada um ajudando de uma forma,"
+  },
+  {
+   "in": 299.7,
+   "out": 302.46,
+   "zoom": "Z3",
+   "txt": "uns ajudando daqui, outros ajudando daqui,"
+  },
+  {
+   "in": 306.98,
+   "out": 308.94,
+   "zoom": "Z1",
+   "txt": "a gente vai ir caminhando"
+  },
+  {
+   "in": 309.23,
+   "out": 310.58,
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 15.0
+    }
+   ],
+   "txt": "vai vencendo essa batalha,"
+  },
+  {
+   "in": 313.37,
+   "out": 315.48,
+   "zoom": "ZF",
+   "txt": "por Deus ter colocado tantos anjo,"
+  },
+  {
+   "in": 316.23,
+   "out": 318.2,
+   "zoom": "Z2",
+   "txt": "nessa caminhada dele e de minha mamãe,"
+  },
+  {
+   "in": 318.51,
+   "out": 320.54,
+   "zoom": "Z3",
+   "txt": "que meu coração fica cheio de gratidão"
+  }
+ ],
+ "fix": {
+  "FERIMENTO": "FERIMENTOS",
+  "ANJO": "ANJOS"
+ },
+ "red": [
+  "FERIMENTOS",
+  "ANSIOSO",
+  "ANJOS",
+  "BATALHA",
+  "CURATIVO",
+  "SUPLEMENTO",
+  "ALIMENTAÇÃO",
+  "GRATIDÃO"
+ ],
+ "badge": null,
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_53_29.png",
+  "texto_do_lettering": "R$ 10,00 PODEM AJUDAR NO CUIDADO DO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 14.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [],
+ "caption_y": 1000,
+ "fatos": {
+  "os ferimentos aumentaram essa semana; ele esta ansioso": "Pedrinho, Um Video Novo pra campanha.mp4, 231-245 s",
+  "voces que sao anjos, sempre comigo nessa batalha": "Pedrinho, mesmo bruto, 266-270 s",
+  "cada um ajuda como pode, pra nao faltar nada: itens de curativo, suplemento, alimentacao": "Pedrinho, mesmo bruto, 281-295 s",
+  "cada um ajudando de uma forma, a gente vai vencendo essa batalha": "Pedrinho, mesmo bruto, 297-310 s",
+  "Deus colocou tantos anjos, coracao cheio de gratidao": "Pedrinho, mesmo bruto, 313-321 s",
+  "R$10 'cuidado' (lettering)": "padrao dos pedidos (brief do lote); sem valor dito no bruto. Arquivo 17_53_29 (mesmo texto do 17_46_04, outro arquivo)",
+  "cortado": "a mencao aos anjos da SOS Human Help (256-260 s), por nao saber se ele pronuncia 'esse o esse'"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 32\\PEB 137 - CORTES COM LETTERING.mp4"
+}

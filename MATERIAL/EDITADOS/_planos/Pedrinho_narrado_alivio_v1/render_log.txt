@@ -1,0 +1,17 @@
+N1: 5.21s  Pedrinho nasceu com epidermólise bolhosa. Para ele, pomada e gaze não são luxo. São remédio.
+N2: 3.31s  Duas trocas por dia. Em poucos dias, o estoque inteiro vai embora.
+N3: 2.70s  Um curativo não cura a doença. Mas muda o dia dele.
+N4: 3.42s  Toque em Saiba mais e dê ao Pedrinho um dia com menos dor.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_alivio_v1.mp4
+real  ok  t=  3.13
+narr  ok  t=  8.50
+real  ok  t= 13.57
+narr  ok  t= 17.03
+real  ok  t= 23.80
+card  ok  t= 25.20
+narr  ok  t= 28.07
+real  ok  t= 37.87
+narr  ok  t= 41.43
+end   ok  t= 45.03
+audio: 45.03s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_alivio_v1.mp4  duracao=45.03s

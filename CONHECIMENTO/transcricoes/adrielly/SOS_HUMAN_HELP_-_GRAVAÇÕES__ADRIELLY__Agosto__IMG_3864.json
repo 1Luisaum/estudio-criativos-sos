@@ -1,0 +1,226 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Então, se você puder me ajudar a comprar os meus curativos, eu vou ser muito grata",
+ "words": [
+  {
+   "text": "Então,",
+   "start": 0.24,
+   "end": 0.88,
+   "type": "word",
+   "logprob": -0.003969145192968426
+  },
+  {
+   "text": " ",
+   "start": 0.88,
+   "end": 1.2,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "se",
+   "start": 1.2,
+   "end": 1.34,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 1.34,
+   "end": 1.46,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "você",
+   "start": 1.46,
+   "end": 1.92,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 1.92,
+   "end": 2.04,
+   "type": "spacing",
+   "logprob": -4.458328112377785e-05
+  },
+  {
+   "text": "puder",
+   "start": 2.04,
+   "end": 2.5,
+   "type": "word",
+   "logprob": -2.6797652387244854e-05
+  },
+  {
+   "text": " ",
+   "start": 2.5,
+   "end": 3.14,
+   "type": "spacing",
+   "logprob": -5.364403477869928e-06
+  },
+  {
+   "text": "me",
+   "start": 3.14,
+   "end": 3.28,
+   "type": "word",
+   "logprob": -5.364403477869928e-06
+  },
+  {
+   "text": " ",
+   "start": 3.28,
+   "end": 3.36,
+   "type": "spacing",
+   "logprob": -3.814624506048858e-05
+  },
+  {
+   "text": "ajudar",
+   "start": 3.44,
+   "end": 3.96,
+   "type": "word",
+   "logprob": -3.814624506048858e-05
+  },
+  {
+   "text": " ",
+   "start": 3.96,
+   "end": 4.28,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 4.34,
+   "end": 4.38,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.38,
+   "end": 4.5,
+   "type": "spacing",
+   "logprob": -1.585470999998506e-05
+  },
+  {
+   "text": "comprar",
+   "start": 4.5,
+   "end": 4.92,
+   "type": "word",
+   "logprob": -1.585470999998506e-05
+  },
+  {
+   "text": " ",
+   "start": 4.92,
+   "end": 4.98,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "os",
+   "start": 4.98,
+   "end": 5.14,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 5.14,
+   "end": 5.18,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "meus",
+   "start": 5.18,
+   "end": 5.4,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 5.4,
+   "end": 5.48,
+   "type": "spacing",
+   "logprob": -2.7417760065873154e-05
+  },
+  {
+   "text": "curativos,",
+   "start": 5.48,
+   "end": 6.42,
+   "type": "word",
+   "logprob": -0.00020480552284425358
+  },
+  {
+   "text": " ",
+   "start": 6.42,
+   "end": 6.42,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "eu",
+   "start": 6.9,
+   "end": 7.04,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 7.04,
+   "end": 7.08,
+   "type": "spacing",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": "vou",
+   "start": 7.08,
+   "end": 7.24,
+   "type": "word",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": " ",
+   "start": 7.24,
+   "end": 7.3,
+   "type": "spacing",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": "ser",
+   "start": 7.3,
+   "end": 7.46,
+   "type": "word",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": " ",
+   "start": 7.46,
+   "end": 7.54,
+   "type": "spacing",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "muito",
+   "start": 7.54,
+   "end": 7.9,
+   "type": "word",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": " ",
+   "start": 7.9,
+   "end": 7.94,
+   "type": "spacing",
+   "logprob": -6.556489552167477e-06
+  },
+  {
+   "text": "grata",
+   "start": 7.94,
+   "end": 8.46,
+   "type": "word",
+   "logprob": -3.123274632343964e-06
+  }
+ ],
+ "transcription_id": "hhrSBp86qoHQjUF4DqjR",
+ "audio_duration_secs": 8.898375
+}

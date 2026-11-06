@@ -1,0 +1,436 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Enfim, desculpem pelo choro, mas é um choro de desespero e eu conto com a ajuda, com a colaboração de vocês pra que a Liz possa voltar a caminhar, a brincar",
+ "words": [
+  {
+   "text": "Enfim,",
+   "start": 0.18,
+   "end": 0.66,
+   "type": "word",
+   "logprob": -6.436987799437095e-05
+  },
+  {
+   "text": " ",
+   "start": 0.66,
+   "end": 1.06,
+   "type": "spacing",
+   "logprob": -8.22540732769994e-06
+  },
+  {
+   "text": "desculpem",
+   "start": 1.06,
+   "end": 1.78,
+   "type": "word",
+   "logprob": -0.00016837526921638832
+  },
+  {
+   "text": " ",
+   "start": 1.78,
+   "end": 1.82,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "pelo",
+   "start": 1.82,
+   "end": 2.1,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 2.1,
+   "end": 2.16,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "choro,",
+   "start": 2.16,
+   "end": 2.54,
+   "type": "word",
+   "logprob": -4.0668694358222034e-05
+  },
+  {
+   "text": " ",
+   "start": 2.54,
+   "end": 2.54,
+   "type": "spacing",
+   "logprob": -2.098061486321967e-05
+  },
+  {
+   "text": "mas",
+   "start": 3.16,
+   "end": 3.46,
+   "type": "word",
+   "logprob": -2.098061486321967e-05
+  },
+  {
+   "text": " ",
+   "start": 3.46,
+   "end": 3.5,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "é",
+   "start": 3.5,
+   "end": 3.56,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 3.56,
+   "end": 3.6,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "um",
+   "start": 3.6,
+   "end": 3.72,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 3.72,
+   "end": 3.78,
+   "type": "spacing",
+   "logprob": -7.986990567587782e-06
+  },
+  {
+   "text": "choro",
+   "start": 3.78,
+   "end": 4.3,
+   "type": "word",
+   "logprob": -0.00254539948546153
+  },
+  {
+   "text": " ",
+   "start": 4.3,
+   "end": 4.32,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "de",
+   "start": 5.18,
+   "end": 5.54,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 5.54,
+   "end": 6.08,
+   "type": "spacing",
+   "logprob": -0.00016735584358684719
+  },
+  {
+   "text": "desespero",
+   "start": 6.08,
+   "end": 6.88,
+   "type": "word",
+   "logprob": -0.00013792625617902054
+  },
+  {
+   "text": " ",
+   "start": 6.88,
+   "end": 7.44,
+   "type": "spacing",
+   "logprob": -0.000559292733669281
+  },
+  {
+   "text": "e",
+   "start": 7.44,
+   "end": 7.5,
+   "type": "word",
+   "logprob": -0.000559292733669281
+  },
+  {
+   "text": " ",
+   "start": 7.5,
+   "end": 7.54,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "eu",
+   "start": 7.54,
+   "end": 7.7,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 7.7,
+   "end": 7.76,
+   "type": "spacing",
+   "logprob": -0.0001908358681248501
+  },
+  {
+   "text": "conto",
+   "start": 7.76,
+   "end": 8.08,
+   "type": "word",
+   "logprob": -0.0001908358681248501
+  },
+  {
+   "text": " ",
+   "start": 8.08,
+   "end": 8.14,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "com",
+   "start": 8.14,
+   "end": 8.28,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 8.28,
+   "end": 8.36,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "a",
+   "start": 8.36,
+   "end": 8.4,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 8.4,
+   "end": 8.48,
+   "type": "spacing",
+   "logprob": -1.156323378381785e-05
+  },
+  {
+   "text": "ajuda,",
+   "start": 8.48,
+   "end": 8.92,
+   "type": "word",
+   "logprob": -4.3567485590756405e-05
+  },
+  {
+   "text": " ",
+   "start": 8.92,
+   "end": 9.08,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "com",
+   "start": 9.08,
+   "end": 9.2,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 9.2,
+   "end": 9.22,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 9.22,
+   "end": 9.34,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.34,
+   "end": 9.4,
+   "type": "spacing",
+   "logprob": -8.332382276421413e-05
+  },
+  {
+   "text": "colaboração",
+   "start": 9.4,
+   "end": 10.34,
+   "type": "word",
+   "logprob": -5.315429732697587e-05
+  },
+  {
+   "text": " ",
+   "start": 10.34,
+   "end": 10.98,
+   "type": "spacing",
+   "logprob": -1.0490362910786644e-05
+  },
+  {
+   "text": "de",
+   "start": 10.98,
+   "end": 11.1,
+   "type": "word",
+   "logprob": -1.0490362910786644e-05
+  },
+  {
+   "text": " ",
+   "start": 11.1,
+   "end": 11.14,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "vocês",
+   "start": 11.14,
+   "end": 11.78,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 11.78,
+   "end": 12.28,
+   "type": "spacing",
+   "logprob": -0.00022230061586014926
+  },
+  {
+   "text": "pra",
+   "start": 12.28,
+   "end": 12.52,
+   "type": "word",
+   "logprob": -0.00022230061586014926
+  },
+  {
+   "text": " ",
+   "start": 12.52,
+   "end": 12.6,
+   "type": "spacing",
+   "logprob": -1.0847986231965479e-05
+  },
+  {
+   "text": "que",
+   "start": 12.6,
+   "end": 12.78,
+   "type": "word",
+   "logprob": -1.0847986231965479e-05
+  },
+  {
+   "text": " ",
+   "start": 12.78,
+   "end": 13.5,
+   "type": "spacing",
+   "logprob": -0.011261943727731705
+  },
+  {
+   "text": "a",
+   "start": 13.5,
+   "end": 13.62,
+   "type": "word",
+   "logprob": -0.011261943727731705
+  },
+  {
+   "text": " ",
+   "start": 13.62,
+   "end": 13.68,
+   "type": "spacing",
+   "logprob": -0.018545562401413918
+  },
+  {
+   "text": "Liz",
+   "start": 13.68,
+   "end": 14.04,
+   "type": "word",
+   "logprob": -0.018545562401413918
+  },
+  {
+   "text": " ",
+   "start": 14.04,
+   "end": 14.7,
+   "type": "spacing",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": "possa",
+   "start": 14.7,
+   "end": 15.24,
+   "type": "word",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": " ",
+   "start": 15.24,
+   "end": 15.84,
+   "type": "spacing",
+   "logprob": -1.7881233361549675e-05
+  },
+  {
+   "text": "voltar",
+   "start": 15.84,
+   "end": 16.36,
+   "type": "word",
+   "logprob": -1.7881233361549675e-05
+  },
+  {
+   "text": " ",
+   "start": 16.36,
+   "end": 17.06,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "a",
+   "start": 17.06,
+   "end": 17.18,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 17.18,
+   "end": 17.24,
+   "type": "spacing",
+   "logprob": -5.090107151772827e-05
+  },
+  {
+   "text": "caminhar,",
+   "start": 17.24,
+   "end": 17.9,
+   "type": "word",
+   "logprob": -2.9033364108323036e-05
+  },
+  {
+   "text": " ",
+   "start": 17.9,
+   "end": 18.54,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "a",
+   "start": 18.54,
+   "end": 18.62,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 18.62,
+   "end": 18.68,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "brincar",
+   "start": 18.68,
+   "end": 19.26,
+   "type": "word",
+   "logprob": -5.8071666444448056e-06
+  }
+ ],
+ "transcription_id": "QP3tz3euKuS8PHlT7fcj",
+ "audio_duration_secs": 19.998375
+}

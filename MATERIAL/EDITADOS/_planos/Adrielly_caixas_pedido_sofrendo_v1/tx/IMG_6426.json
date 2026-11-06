@@ -1,0 +1,156 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Ajude no meu tratamento dessa semana com dois ou cinco reais",
+ "words": [
+  {
+   "text": "Ajude",
+   "start": 0.32,
+   "end": 1.04,
+   "type": "word",
+   "logprob": -9.852638447682693e-05
+  },
+  {
+   "text": " ",
+   "start": 1.04,
+   "end": 1.14,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "no",
+   "start": 1.14,
+   "end": 1.26,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 1.26,
+   "end": 1.32,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "meu",
+   "start": 1.32,
+   "end": 1.5,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 1.5,
+   "end": 1.52,
+   "type": "spacing",
+   "logprob": -5.972207145532593e-05
+  },
+  {
+   "text": "tratamento",
+   "start": 1.52,
+   "end": 2.28,
+   "type": "word",
+   "logprob": -5.972207145532593e-05
+  },
+  {
+   "text": " ",
+   "start": 2.28,
+   "end": 2.38,
+   "type": "spacing",
+   "logprob": -0.00010191874753218144
+  },
+  {
+   "text": "dessa",
+   "start": 2.38,
+   "end": 2.64,
+   "type": "word",
+   "logprob": -0.00010191874753218144
+  },
+  {
+   "text": " ",
+   "start": 2.64,
+   "end": 2.74,
+   "type": "spacing",
+   "logprob": -3.373566141817719e-05
+  },
+  {
+   "text": "semana",
+   "start": 2.74,
+   "end": 3.3,
+   "type": "word",
+   "logprob": -3.373566141817719e-05
+  },
+  {
+   "text": " ",
+   "start": 3.3,
+   "end": 3.9,
+   "type": "spacing",
+   "logprob": -0.061971649527549744
+  },
+  {
+   "text": "com",
+   "start": 3.9,
+   "end": 4.1,
+   "type": "word",
+   "logprob": -0.061971649527549744
+  },
+  {
+   "text": " ",
+   "start": 4.1,
+   "end": 4.16,
+   "type": "spacing",
+   "logprob": -0.5233142375946045
+  },
+  {
+   "text": "dois",
+   "start": 4.16,
+   "end": 4.66,
+   "type": "word",
+   "logprob": -0.5233142375946045
+  },
+  {
+   "text": " ",
+   "start": 4.66,
+   "end": 4.94,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "ou",
+   "start": 4.94,
+   "end": 5.02,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 5.02,
+   "end": 5.16,
+   "type": "spacing",
+   "logprob": -0.00022706791060045362
+  },
+  {
+   "text": "cinco",
+   "start": 5.16,
+   "end": 5.52,
+   "type": "word",
+   "logprob": -0.00022706791060045362
+  },
+  {
+   "text": " ",
+   "start": 5.52,
+   "end": 5.58,
+   "type": "spacing",
+   "logprob": -1.2993727978027891e-05
+  },
+  {
+   "text": "reais",
+   "start": 5.58,
+   "end": 6.16,
+   "type": "word",
+   "logprob": -1.2993727978027891e-05
+  }
+ ],
+ "transcription_id": "M3VBq7lYgPVyl6xjDRV0",
+ "audio_duration_secs": 6.965
+}

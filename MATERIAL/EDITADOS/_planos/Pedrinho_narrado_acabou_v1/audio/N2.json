@@ -1,0 +1,75 @@
+{
+ "text": "Ele tem a doença da pele de borboleta. Sem atadura, cada ferida fica descoberta.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.139
+  },
+  {
+   "text": "tem",
+   "start": 0.174,
+   "end": 0.279
+  },
+  {
+   "text": "a",
+   "start": 0.313,
+   "end": 0.363
+  },
+  {
+   "text": "doença",
+   "start": 0.372,
+   "end": 0.662
+  },
+  {
+   "text": "da",
+   "start": 0.697,
+   "end": 0.755
+  },
+  {
+   "text": "pele",
+   "start": 0.824,
+   "end": 1.01
+  },
+  {
+   "text": "de",
+   "start": 1.045,
+   "end": 1.095
+  },
+  {
+   "text": "borboleta.",
+   "start": 1.138,
+   "end": 1.708
+  },
+  {
+   "text": "Sem",
+   "start": 1.735,
+   "end": 1.91
+  },
+  {
+   "text": "atadura,",
+   "start": 1.956,
+   "end": 2.676
+  },
+  {
+   "text": "cada",
+   "start": 2.69,
+   "end": 2.9
+  },
+  {
+   "text": "ferida",
+   "start": 2.958,
+   "end": 3.271
+  },
+  {
+   "text": "fica",
+   "start": 3.318,
+   "end": 3.504
+  },
+  {
+   "text": "descoberta.",
+   "start": 3.527,
+   "end": 4.053
+  }
+ ]
+}

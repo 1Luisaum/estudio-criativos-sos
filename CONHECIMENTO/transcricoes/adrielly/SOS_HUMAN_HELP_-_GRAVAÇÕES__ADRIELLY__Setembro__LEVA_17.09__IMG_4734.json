@@ -1,0 +1,156 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Envia seus filhos pra me ajudar, Senhor. Envia, Senhor, por favor",
+ "words": [
+  {
+   "text": "Envia",
+   "start": 2.76,
+   "end": 3.34,
+   "type": "word",
+   "logprob": -0.030047202861169353
+  },
+  {
+   "text": " ",
+   "start": 3.34,
+   "end": 3.42,
+   "type": "spacing",
+   "logprob": -0.00015507926582358778
+  },
+  {
+   "text": "seus",
+   "start": 3.42,
+   "end": 3.74,
+   "type": "word",
+   "logprob": -0.00015507926582358778
+  },
+  {
+   "text": " ",
+   "start": 3.74,
+   "end": 3.8,
+   "type": "spacing",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": "filhos",
+   "start": 3.8,
+   "end": 4.34,
+   "type": "word",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": " ",
+   "start": 4.34,
+   "end": 4.46,
+   "type": "spacing",
+   "logprob": -5.280832192511298e-05
+  },
+  {
+   "text": "pra",
+   "start": 4.46,
+   "end": 4.64,
+   "type": "word",
+   "logprob": -5.280832192511298e-05
+  },
+  {
+   "text": " ",
+   "start": 4.64,
+   "end": 4.66,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 4.66,
+   "end": 4.72,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.72,
+   "end": 4.78,
+   "type": "spacing",
+   "logprob": -2.1815061700181104e-05
+  },
+  {
+   "text": "ajudar,",
+   "start": 4.78,
+   "end": 5.26,
+   "type": "word",
+   "logprob": -4.531387561915575e-05
+  },
+  {
+   "text": " ",
+   "start": 5.26,
+   "end": 5.42,
+   "type": "spacing",
+   "logprob": -0.523131251335144
+  },
+  {
+   "text": "Senhor.",
+   "start": 5.42,
+   "end": 5.86,
+   "type": "word",
+   "logprob": -0.4484050612850946
+  },
+  {
+   "text": " ",
+   "start": 5.86,
+   "end": 5.86,
+   "type": "spacing",
+   "logprob": -5.280832192511298e-05
+  },
+  {
+   "text": "Envia,",
+   "start": 6.44,
+   "end": 7.04,
+   "type": "word",
+   "logprob": -0.00013644247883348726
+  },
+  {
+   "text": " ",
+   "start": 7.04,
+   "end": 7.2,
+   "type": "spacing",
+   "logprob": -0.0007099968497641385
+  },
+  {
+   "text": "Senhor,",
+   "start": 7.2,
+   "end": 7.58,
+   "type": "word",
+   "logprob": -0.0006128091102125056
+  },
+  {
+   "text": " ",
+   "start": 7.58,
+   "end": 7.8,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "por",
+   "start": 7.8,
+   "end": 8.02,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 8.02,
+   "end": 8.14,
+   "type": "spacing",
+   "logprob": -0.0003987947420682758
+  },
+  {
+   "text": "favor",
+   "start": 8.14,
+   "end": 8.76,
+   "type": "word",
+   "logprob": -0.0003987947420682758
+  }
+ ],
+ "transcription_id": "aQAxzgRRUnBd4Oo0szWx",
+ "audio_duration_secs": 11.7316875
+}

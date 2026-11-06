@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e dê essa resposta a ele.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.372
+  },
+  {
+   "text": "em",
+   "start": 0.395,
+   "end": 0.453
+  },
+  {
+   "text": "Saiba",
+   "start": 0.534,
+   "end": 0.906
+  },
+  {
+   "text": "mais",
+   "start": 0.964,
+   "end": 1.289
+  },
+  {
+   "text": "e",
+   "start": 1.37,
+   "end": 1.393
+  },
+  {
+   "text": "dê",
+   "start": 1.463,
+   "end": 1.637
+  },
+  {
+   "text": "essa",
+   "start": 1.683,
+   "end": 1.881
+  },
+  {
+   "text": "resposta",
+   "start": 1.916,
+   "end": 2.461
+  },
+  {
+   "text": "a",
+   "start": 2.485,
+   "end": 2.508
+  },
+  {
+   "text": "ele.",
+   "start": 2.577,
+   "end": 3.111
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "text": "Seguidor não troca curativo. Curtida não compra atadura. E o preço do material é outra conversa.",
+ "words": [
+  {
+   "text": "Seguidor",
+   "start": 0.0,
+   "end": 0.569
+  },
+  {
+   "text": "não",
+   "start": 0.65,
+   "end": 0.789
+  },
+  {
+   "text": "troca",
+   "start": 0.848,
+   "end": 1.184
+  },
+  {
+   "text": "curativo.",
+   "start": 1.242,
+   "end": 1.916
+  },
+  {
+   "text": "Curtida",
+   "start": 2.09,
+   "end": 2.589
+  },
+  {
+   "text": "não",
+   "start": 2.635,
+   "end": 2.752
+  },
+  {
+   "text": "compra",
+   "start": 2.81,
+   "end": 3.111
+  },
+  {
+   "text": "atadura.",
+   "start": 3.135,
+   "end": 3.773
+  },
+  {
+   "text": "E",
+   "start": 3.982,
+   "end": 4.075
+  },
+  {
+   "text": "o",
+   "start": 4.122,
+   "end": 4.145
+  },
+  {
+   "text": "preço",
+   "start": 4.203,
+   "end": 4.505
+  },
+  {
+   "text": "do",
+   "start": 4.551,
+   "end": 4.609
+  },
+  {
+   "text": "material",
+   "start": 4.656,
+   "end": 5.178
+  },
+  {
+   "text": "é",
+   "start": 5.224,
+   "end": 5.294
+  },
+  {
+   "text": "outra",
+   "start": 5.341,
+   "end": 5.642
+  },
+  {
+   "text": "conversa.",
+   "start": 5.677,
+   "end": 6.641
+  }
+ ]
+}

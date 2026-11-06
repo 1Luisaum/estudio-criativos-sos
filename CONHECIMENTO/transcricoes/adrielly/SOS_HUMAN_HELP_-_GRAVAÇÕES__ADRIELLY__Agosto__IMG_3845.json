@@ -1,0 +1,72 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Vai me ajudar muito. Obrigada",
+ "words": [
+  {
+   "text": "Vai",
+   "start": 0.46,
+   "end": 0.66,
+   "type": "word",
+   "logprob": -0.0002422039397060871
+  },
+  {
+   "text": " ",
+   "start": 0.66,
+   "end": 0.7,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 0.7,
+   "end": 0.84,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 0.84,
+   "end": 0.88,
+   "type": "spacing",
+   "logprob": -0.00015114595589693636
+  },
+  {
+   "text": "ajudar",
+   "start": 0.88,
+   "end": 1.4,
+   "type": "word",
+   "logprob": -0.00015114595589693636
+  },
+  {
+   "text": " ",
+   "start": 1.4,
+   "end": 1.46,
+   "type": "spacing",
+   "logprob": -6.723177648382261e-05
+  },
+  {
+   "text": "muito.",
+   "start": 1.46,
+   "end": 1.94,
+   "type": "word",
+   "logprob": -0.00028262830286015134
+  },
+  {
+   "text": " ",
+   "start": 1.94,
+   "end": 1.94,
+   "type": "spacing",
+   "logprob": -4.494089080253616e-05
+  },
+  {
+   "text": "Obrigada",
+   "start": 2.54,
+   "end": 3.2,
+   "type": "word",
+   "logprob": -2.880331180676876e-05
+  }
+ ],
+ "transcription_id": "EvOQljvxu4a01kIAsBeO",
+ "audio_duration_secs": 3.7466875
+}

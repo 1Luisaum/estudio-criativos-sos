@@ -1,0 +1,243 @@
+{
+ "nome": "Pedrinho_lista_v2",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\LISTA NARRADA\\LEVA 01\\Pedrinho_lista_v2.mp4",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.12,
+ "chamada": [
+  "SEJA O ANJO DO PEDRINHO 👼",
+  "DOE R$ 10 PRO CURATIVO DELE 💔"
+ ],
+ "etiqueta": "R$ 5 já ajuda ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "palavras_chave": [
+  "ATADURA",
+  "GAZE",
+  "POMADA",
+  "SORO",
+  "FISIOLÓGICO",
+  "ESPARADRAPO",
+  "IMPERMEÁVEL",
+  "ÓLEO",
+  "GIRASSOL",
+  "DUAS",
+  "VEZES",
+  "CINCO",
+  "HORAS",
+  "BOLHAS",
+  "SANGUE",
+  "ACABANDO",
+  "DORMIR",
+  "DOIS",
+  "REAIS",
+  "AGORA",
+  "PELE",
+  "BORBOLETA",
+  "EPIDERMÓLISE",
+  "BOLHOSA",
+  "SAIBA",
+  "MAIS"
+ ],
+ "narracao": {
+  "N01": "Essa é a lista de compras de uma criança com pele de borboleta.",
+  "I1": "Atadura.",
+  "I2": "Gaze.",
+  "I3": "Pomada.",
+  "I4": "Soro fisiológico.",
+  "I5": "Esparadrapo impermeável.",
+  "I6": "Óleo de girassol.",
+  "N03": "Tudo isso... duas vezes por dia.",
+  "N04": "O Pedrinho tem epidermólise bolhosa. Todo dia aparecem bolhas de sangue e de água, e a mãe dele precisa romper.",
+  "N05": "Da última vez, o curativo levou cinco horas.",
+  "N06": "As feridas estão cada vez mais abertas. E a dor não deixa ele dormir.",
+  "N07": "E agora... essa lista está acabando.",
+  "N08": "Dois reais. Cinco reais. Como a mãe dele diz: já ajuda demais.",
+  "N09": "Toque em Saiba mais e ajude a completar a lista do Pedrinho."
+ },
+ "fatos": {
+  "cinco horas, bolhas de sangue e de agua, feridas mais abertas": "20260916_234157.mp4 (Pedrinho)",
+  "nao consegue dormir de dor": "Roteiro_ Eu não aguento mais não conseguir dormir.mp4 (Pedrinho)",
+  "dois ou cinco reais ja ajuda demais; segundo curativo do dia": "Roteiro_ esse calor tá acabando... (mae)",
+  "seja um anjo (base da chamada)": "Roteiro_ os meus curativos estão acabando... (Pedrinho)",
+  "itens da lista e 2x ao dia": "fotos do banco (crepe bandagem, GAZE, Pomada, soro, esparadrapo, OLeo de girassol, Curativos 2 x ao Dia)"
+ },
+ "blocos": [
+  {
+   "nome": "s01",
+   "fala": "N01",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+     0.2,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     185.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i1",
+   "fala": "I1",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/crepe bandagem.png"
+  },
+  {
+   "nome": "i2",
+   "fala": "I2",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/GAZE.png"
+  },
+  {
+   "nome": "i3",
+   "fala": "I3",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Pomada.png"
+  },
+  {
+   "nome": "i4",
+   "fala": "I4",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/soro fisiológico.png"
+  },
+  {
+   "nome": "i5",
+   "fala": "I5",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/esparadrapo impermeável.png"
+  },
+  {
+   "nome": "i6",
+   "fala": "I6",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/OLeo de girassol.png"
+  },
+  {
+   "nome": "s03",
+   "fala": "N03",
+   "pausa": 0.08,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Curativos 2 x ao Dia.png"
+  },
+  {
+   "nome": "s04",
+   "fala": "N04",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     160.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     232.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     290.0
+    ]
+   ]
+  },
+  {
+   "nome": "s05",
+   "fala": "N05",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+     27.5
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+     40.0
+    ]
+   ]
+  },
+  {
+   "nome": "s06",
+   "fala": "N06",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+     6.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+     4.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "s07",
+   "fala": "N07",
+   "pausa": 0.08,
+   "etiqueta": true,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+     9.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     300.0
+    ]
+   ]
+  },
+  {
+   "nome": "s08",
+   "fala": "N08",
+   "pausa": 0.08,
+   "etiqueta": true,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+     20.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     250.0
+    ]
+   ]
+  },
+  {
+   "nome": "s09",
+   "fala": "N09",
+   "pausa": 1.6,
+   "final": true,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Ana e Pedro sorrindo.png"
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 6.0,
+   "caixa": [
+    660,
+    960,
+    1080,
+    1400
+   ],
+   "quem": "Pedrinho pequeno no fundo da selfie da mae"
+  },
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 20.0,
+   "caixa": [
+    660,
+    960,
+    1080,
+    1400
+   ],
+   "quem": "Pedrinho pequeno no fundo da selfie da mae"
+  }
+ ]
+}

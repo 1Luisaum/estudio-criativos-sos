@@ -1,0 +1,85 @@
+{
+ "text": "Ele fala dos comentários que lê. E do peso de voltar sempre com o mesmo pedido.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "fala",
+   "start": 0.267,
+   "end": 0.476
+  },
+  {
+   "text": "dos",
+   "start": 0.522,
+   "end": 0.639
+  },
+  {
+   "text": "comentários",
+   "start": 0.685,
+   "end": 1.265
+  },
+  {
+   "text": "que",
+   "start": 1.324,
+   "end": 1.416
+  },
+  {
+   "text": "lê.",
+   "start": 1.463,
+   "end": 1.788
+  },
+  {
+   "text": "E",
+   "start": 2.067,
+   "end": 2.148
+  },
+  {
+   "text": "do",
+   "start": 2.218,
+   "end": 2.287
+  },
+  {
+   "text": "peso",
+   "start": 2.368,
+   "end": 2.705
+  },
+  {
+   "text": "de",
+   "start": 2.752,
+   "end": 2.81
+  },
+  {
+   "text": "voltar",
+   "start": 2.879,
+   "end": 3.262
+  },
+  {
+   "text": "sempre",
+   "start": 3.32,
+   "end": 3.68
+  },
+  {
+   "text": "com",
+   "start": 3.715,
+   "end": 3.855
+  },
+  {
+   "text": "o",
+   "start": 3.878,
+   "end": 3.901
+  },
+  {
+   "text": "mesmo",
+   "start": 3.947,
+   "end": 4.296
+  },
+  {
+   "text": "pedido.",
+   "start": 4.342,
+   "end": 5.201
+  }
+ ]
+}

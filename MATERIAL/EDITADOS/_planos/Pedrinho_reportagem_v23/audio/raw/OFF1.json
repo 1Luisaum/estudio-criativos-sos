@@ -1,0 +1,85 @@
+{
+ "text": "Uma troca de curativo não é um item só. É uma cama inteira coberta de material.",
+ "words": [
+  {
+   "text": "Uma",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "troca",
+   "start": 0.221,
+   "end": 0.522
+  },
+  {
+   "text": "de",
+   "start": 0.569,
+   "end": 0.627
+  },
+  {
+   "text": "curativo",
+   "start": 0.673,
+   "end": 1.219
+  },
+  {
+   "text": "não",
+   "start": 1.277,
+   "end": 1.405
+  },
+  {
+   "text": "é",
+   "start": 1.463,
+   "end": 1.498
+  },
+  {
+   "text": "um",
+   "start": 1.567,
+   "end": 1.625
+  },
+  {
+   "text": "item",
+   "start": 1.695,
+   "end": 1.927
+  },
+  {
+   "text": "só.",
+   "start": 1.985,
+   "end": 2.264
+  },
+  {
+   "text": "É",
+   "start": 2.438,
+   "end": 2.496
+  },
+  {
+   "text": "uma",
+   "start": 2.554,
+   "end": 2.694
+  },
+  {
+   "text": "cama",
+   "start": 2.752,
+   "end": 3.007
+  },
+  {
+   "text": "inteira",
+   "start": 3.042,
+   "end": 3.506
+  },
+  {
+   "text": "coberta",
+   "start": 3.553,
+   "end": 3.994
+  },
+  {
+   "text": "de",
+   "start": 4.029,
+   "end": 4.098
+  },
+  {
+   "text": "material.",
+   "start": 4.145,
+   "end": 5.062
+  }
+ ]
+}

@@ -1,0 +1,478 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "As pessoas falam pra eu tentar tomar chá, passar óleo, fazer terapia de luz, comprar um filtro com água especial. Mas você acham mesmo que eu e minha mãe já não tentamos de tudo?",
+ "words": [
+  {
+   "text": "As",
+   "start": 0.34,
+   "end": 0.52,
+   "type": "word",
+   "logprob": -0.00013279033009894192
+  },
+  {
+   "text": " ",
+   "start": 0.52,
+   "end": 0.56,
+   "type": "spacing",
+   "logprob": -2.13382354559144e-05
+  },
+  {
+   "text": "pessoas",
+   "start": 0.56,
+   "end": 1.14,
+   "type": "word",
+   "logprob": -2.13382354559144e-05
+  },
+  {
+   "text": " ",
+   "start": 1.14,
+   "end": 1.2,
+   "type": "spacing",
+   "logprob": -1.3947389561508317e-05
+  },
+  {
+   "text": "falam",
+   "start": 1.2,
+   "end": 1.7,
+   "type": "word",
+   "logprob": -1.3947389561508317e-05
+  },
+  {
+   "text": " ",
+   "start": 1.7,
+   "end": 2.22,
+   "type": "spacing",
+   "logprob": -0.0001438752660760656
+  },
+  {
+   "text": "pra",
+   "start": 2.22,
+   "end": 2.48,
+   "type": "word",
+   "logprob": -0.0001438752660760656
+  },
+  {
+   "text": " ",
+   "start": 2.48,
+   "end": 2.56,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "eu",
+   "start": 2.56,
+   "end": 2.84,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 2.84,
+   "end": 3.34,
+   "type": "spacing",
+   "logprob": -1.3589766240329482e-05
+  },
+  {
+   "text": "tentar",
+   "start": 3.34,
+   "end": 3.86,
+   "type": "word",
+   "logprob": -1.3589766240329482e-05
+  },
+  {
+   "text": " ",
+   "start": 3.86,
+   "end": 3.94,
+   "type": "spacing",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": "tomar",
+   "start": 3.94,
+   "end": 4.34,
+   "type": "word",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": " ",
+   "start": 4.34,
+   "end": 4.4,
+   "type": "spacing",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": "chá,",
+   "start": 4.4,
+   "end": 4.74,
+   "type": "word",
+   "logprob": -1.4751876278751297e-05
+  },
+  {
+   "text": " ",
+   "start": 4.74,
+   "end": 5.24,
+   "type": "spacing",
+   "logprob": -1.1205610462639015e-05
+  },
+  {
+   "text": "passar",
+   "start": 5.24,
+   "end": 5.78,
+   "type": "word",
+   "logprob": -1.1205610462639015e-05
+  },
+  {
+   "text": " ",
+   "start": 5.78,
+   "end": 5.92,
+   "type": "spacing",
+   "logprob": -0.00010263393050990999
+  },
+  {
+   "text": "óleo,",
+   "start": 5.92,
+   "end": 6.34,
+   "type": "word",
+   "logprob": -8.315618342749075e-05
+  },
+  {
+   "text": " ",
+   "start": 6.34,
+   "end": 6.94,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "fazer",
+   "start": 6.94,
+   "end": 7.36,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 7.36,
+   "end": 7.42,
+   "type": "spacing",
+   "logprob": -7.962863310240209e-05
+  },
+  {
+   "text": "terapia",
+   "start": 7.42,
+   "end": 8.119,
+   "type": "word",
+   "logprob": -7.962863310240209e-05
+  },
+  {
+   "text": " ",
+   "start": 8.119,
+   "end": 8.18,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 8.18,
+   "end": 8.3,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 8.3,
+   "end": 8.38,
+   "type": "spacing",
+   "logprob": -6.818538531661034e-05
+  },
+  {
+   "text": "luz,",
+   "start": 8.38,
+   "end": 8.78,
+   "type": "word",
+   "logprob": -5.727824191126274e-05
+  },
+  {
+   "text": " ",
+   "start": 8.78,
+   "end": 9.32,
+   "type": "spacing",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": "comprar",
+   "start": 9.32,
+   "end": 10.12,
+   "type": "word",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": " ",
+   "start": 10.12,
+   "end": 10.22,
+   "type": "spacing",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": "um",
+   "start": 10.22,
+   "end": 10.38,
+   "type": "word",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": " ",
+   "start": 10.38,
+   "end": 10.46,
+   "type": "spacing",
+   "logprob": -8.177422569133341e-05
+  },
+  {
+   "text": "filtro",
+   "start": 10.46,
+   "end": 10.86,
+   "type": "word",
+   "logprob": -8.177422569133341e-05
+  },
+  {
+   "text": " ",
+   "start": 10.86,
+   "end": 10.92,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "com",
+   "start": 10.92,
+   "end": 11.14,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 11.14,
+   "end": 11.3,
+   "type": "spacing",
+   "logprob": -0.00012373158824630082
+  },
+  {
+   "text": "água",
+   "start": 11.3,
+   "end": 11.46,
+   "type": "word",
+   "logprob": -0.00012373158824630082
+  },
+  {
+   "text": " ",
+   "start": 11.46,
+   "end": 11.5,
+   "type": "spacing",
+   "logprob": -0.00014161060971673578
+  },
+  {
+   "text": "especial.",
+   "start": 11.5,
+   "end": 12.5,
+   "type": "word",
+   "logprob": -0.003865319601674047
+  },
+  {
+   "text": " ",
+   "start": 12.5,
+   "end": 12.5,
+   "type": "spacing",
+   "logprob": -8.821448318485636e-06
+  },
+  {
+   "text": "Mas",
+   "start": 13.28,
+   "end": 13.52,
+   "type": "word",
+   "logprob": -8.821448318485636e-06
+  },
+  {
+   "text": " ",
+   "start": 13.52,
+   "end": 13.56,
+   "type": "spacing",
+   "logprob": -0.08898580819368362
+  },
+  {
+   "text": "você",
+   "start": 13.56,
+   "end": 13.84,
+   "type": "word",
+   "logprob": -0.08898580819368362
+  },
+  {
+   "text": " ",
+   "start": 13.84,
+   "end": 14.3,
+   "type": "spacing",
+   "logprob": -0.049112726002931595
+  },
+  {
+   "text": "acham",
+   "start": 14.3,
+   "end": 14.6,
+   "type": "word",
+   "logprob": -0.029467969387633276
+  },
+  {
+   "text": " ",
+   "start": 14.6,
+   "end": 14.68,
+   "type": "spacing",
+   "logprob": -0.0003045333724003285
+  },
+  {
+   "text": "mesmo",
+   "start": 14.68,
+   "end": 15.08,
+   "type": "word",
+   "logprob": -0.0003045333724003285
+  },
+  {
+   "text": " ",
+   "start": 15.08,
+   "end": 15.58,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "que",
+   "start": 15.58,
+   "end": 15.72,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 15.72,
+   "end": 15.82,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "eu",
+   "start": 15.84,
+   "end": 15.94,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 15.94,
+   "end": 15.96,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "e",
+   "start": 15.96,
+   "end": 16.02,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 16.02,
+   "end": 16.079,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "minha",
+   "start": 16.079,
+   "end": 16.32,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 16.32,
+   "end": 16.379,
+   "type": "spacing",
+   "logprob": -2.8132995794294402e-05
+  },
+  {
+   "text": "mãe",
+   "start": 16.379,
+   "end": 16.7,
+   "type": "word",
+   "logprob": -2.8132995794294402e-05
+  },
+  {
+   "text": " ",
+   "start": 16.7,
+   "end": 17.1,
+   "type": "spacing",
+   "logprob": -9.179073458653875e-06
+  },
+  {
+   "text": "já",
+   "start": 17.1,
+   "end": 17.2,
+   "type": "word",
+   "logprob": -9.179073458653875e-06
+  },
+  {
+   "text": " ",
+   "start": 17.2,
+   "end": 17.24,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "não",
+   "start": 17.24,
+   "end": 17.38,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 17.38,
+   "end": 17.44,
+   "type": "spacing",
+   "logprob": -4.2199197196168825e-05
+  },
+  {
+   "text": "tentamos",
+   "start": 17.44,
+   "end": 17.96,
+   "type": "word",
+   "logprob": -2.1338017120342556e-05
+  },
+  {
+   "text": " ",
+   "start": 17.96,
+   "end": 18.04,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "de",
+   "start": 18.04,
+   "end": 18.14,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 18.14,
+   "end": 18.32,
+   "type": "spacing",
+   "logprob": -2.0265558760002023e-06
+  },
+  {
+   "text": "tudo?",
+   "start": 18.32,
+   "end": 18.84,
+   "type": "word",
+   "logprob": -4.81602819490945e-06
+  }
+ ],
+ "transcription_id": "IXIX8WrryL1UpVdak1Xo",
+ "audio_duration_secs": 20.765
+}

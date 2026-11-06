@@ -1,0 +1,80 @@
+{
+ "text": "De fora, parece que ele nunca está sozinho. Tem gente assistindo, gente curtindo, gente passando.",
+ "words": [
+  {
+   "text": "De",
+   "start": 0.0,
+   "end": 0.139
+  },
+  {
+   "text": "fora,",
+   "start": 0.209,
+   "end": 0.441
+  },
+  {
+   "text": "parece",
+   "start": 0.464,
+   "end": 0.72
+  },
+  {
+   "text": "que",
+   "start": 0.743,
+   "end": 0.813
+  },
+  {
+   "text": "ele",
+   "start": 0.836,
+   "end": 0.952
+  },
+  {
+   "text": "nunca",
+   "start": 1.01,
+   "end": 1.265
+  },
+  {
+   "text": "está",
+   "start": 1.289,
+   "end": 1.463
+  },
+  {
+   "text": "sozinho.",
+   "start": 1.533,
+   "end": 1.985
+  },
+  {
+   "text": "Tem",
+   "start": 2.02,
+   "end": 2.125
+  },
+  {
+   "text": "gente",
+   "start": 2.159,
+   "end": 2.357
+  },
+  {
+   "text": "assistindo,",
+   "start": 2.38,
+   "end": 3.123
+  },
+  {
+   "text": "gente",
+   "start": 3.286,
+   "end": 3.506
+  },
+  {
+   "text": "curtindo,",
+   "start": 3.541,
+   "end": 4.284
+  },
+  {
+   "text": "gente",
+   "start": 4.505,
+   "end": 4.748
+  },
+  {
+   "text": "passando.",
+   "start": 4.783,
+   "end": 5.712
+  }
+ ]
+}

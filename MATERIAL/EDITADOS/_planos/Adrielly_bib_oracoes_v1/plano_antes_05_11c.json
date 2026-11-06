@@ -1,0 +1,129 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1403709941748846.mp4",
+ "estilo": "BIB L2 SEU SINAL",
+ "base": [
+  {
+   "arq": "{SKILL}\\assets\\imagens\\leao.png",
+   "ini": 0,
+   "fim": 6,
+   "som": false,
+   "kb": true
+  },
+  {
+   "arq": "{SKILL}\\assets\\imagens\\jesus.png",
+   "ini": 0,
+   "fim": 6,
+   "som": false,
+   "kb": true
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_pernas_faixas.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false,
+   "pb": true
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_costas_faixas.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.31.27.mp4",
+   "ini": 0.5,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_infusao_cama.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.32.36 (2).mp4",
+   "ini": 3,
+   "fim": 6,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_curativos_juntos.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "ini": 6,
+   "fim": 9,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\79212854-35CA-4B92-85A4-9354BFBE7E30.mov",
+   "ini": 30,
+   "fim": 34,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_oracoes_v1\\n_oracoes_adrielly_sr.mp3",
+  "tx": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_oracoes_v1\\n_oracoes_adrielly_sr.json",
+  "de": 0.3
+ },
+ "textos": [
+  {
+   "de": 12,
+   "ate": 35.3,
+   "linhas": [
+    "esse é o seu sinal para fazer",
+    "uma boa ação hoje ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 34,
+   "y": 140,
+   "pad": [
+    16,
+    8
+   ],
+   "fonte": "serif_bold",
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "amarelo",
+  "y": 1500,
+  "size": 38,
+  "fonte": "bold",
+  "caixa_alta": false,
+  "contorno": 3
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 35.3
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1403 - orações (fundo sem voz).mp3",
+ "musica_volume": 2.089,
+ "modelo": {
+  "id": "peb221_l2_oracoes",
+  "exemplo": "PEB 221",
+  "descricao": "1403709941748846: imagens de IA no gancho (leao, Jesus), narracao, caixa branca no alto, legenda pequena",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1403709941748846",
+  "titulo": "Orações (leão e Jesus)"
+ },
+ "fatos": {
+  "doença rara, a pele arde e sangra": "IMG_4227 0,76-6,10 ('A pele arde, sangra e eu só consigo chorar de dor'); EB: IMG_4193",
+  "precisa de ajuda com os curativos, cinco reais": "IMG_4205 0,34-7,52 ('me ajuda com cinco ou R$10 pra eu conseguir meus curativos')"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 63\\AEB 92 - BIB L2 SEU SINAL.mp4",
+ "ajuste_05_11": "Rot 3 (parede lilás, proibida desde 30/10) trocado por 79212854-35CA-4B92-85A4-9354BFBE7E30.mov"
+}

@@ -1,0 +1,18 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v4.mp4
+narracao I6
+  s01: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+  s01: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+  s02: chamada=290 legenda=1000 etiqueta=None
+  i1: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1020 etiqueta=None
+  i2: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1020 etiqueta=None
+  i3: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=900 etiqueta=None
+  i4: chamada=290 legenda=1000 etiqueta=None
+  s03: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+  i5: chamada=290 legenda=1000 etiqueta=None
+  i6: chamada=290 legenda=1000 etiqueta=None
+  i7: chamada=290 legenda=1000 etiqueta=None
+  s04: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+  s05: chamada=290 legenda=1000 etiqueta=None
+  s05: chamada=290 legenda=920 etiqueta=1150
+  s06: chamada=290 legenda=920 etiqueta=1150
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v4.mp4 duracao=25.5s

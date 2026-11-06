@@ -1,0 +1,380 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu já perdi as contas de quantas vezes eu precisei reutilizar os mesmos curativos, mas graças ao apoio de vocês, eu consegui os meus primeiros curativos. Obrigada!",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.98,
+   "end": 1.1,
+   "type": "word",
+   "logprob": -0.0015748253790661693
+  },
+  {
+   "text": " ",
+   "start": 1.1,
+   "end": 1.16,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "já",
+   "start": 1.16,
+   "end": 1.34,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 1.34,
+   "end": 1.4,
+   "type": "spacing",
+   "logprob": -0.0002019201492657885
+  },
+  {
+   "text": "perdi",
+   "start": 1.4,
+   "end": 1.74,
+   "type": "word",
+   "logprob": -0.00012334553448454245
+  },
+  {
+   "text": " ",
+   "start": 1.74,
+   "end": 1.82,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "as",
+   "start": 1.82,
+   "end": 2.0,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.12,
+   "type": "spacing",
+   "logprob": -0.00011967896716669202
+  },
+  {
+   "text": "contas",
+   "start": 2.12,
+   "end": 2.78,
+   "type": "word",
+   "logprob": -0.00011967896716669202
+  },
+  {
+   "text": " ",
+   "start": 2.78,
+   "end": 3.28,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "de",
+   "start": 3.28,
+   "end": 3.36,
+   "type": "word",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": " ",
+   "start": 3.36,
+   "end": 3.52,
+   "type": "spacing",
+   "logprob": -8.070142939686775e-05
+  },
+  {
+   "text": "quantas",
+   "start": 3.52,
+   "end": 4.0,
+   "type": "word",
+   "logprob": -8.070142939686775e-05
+  },
+  {
+   "text": " ",
+   "start": 4.0,
+   "end": 4.1,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "vezes",
+   "start": 4.1,
+   "end": 4.68,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 4.68,
+   "end": 4.9,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "eu",
+   "start": 4.9,
+   "end": 5.04,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 5.04,
+   "end": 5.08,
+   "type": "spacing",
+   "logprob": -0.0002108589978888631
+  },
+  {
+   "text": "precisei",
+   "start": 5.08,
+   "end": 5.92,
+   "type": "word",
+   "logprob": -0.00018453142547159018
+  },
+  {
+   "text": " ",
+   "start": 5.92,
+   "end": 6.42,
+   "type": "spacing",
+   "logprob": -1.6569954823353328e-05
+  },
+  {
+   "text": "reutilizar",
+   "start": 6.42,
+   "end": 7.44,
+   "type": "word",
+   "logprob": -1.051417707458313e-05
+  },
+  {
+   "text": " ",
+   "start": 7.44,
+   "end": 7.82,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "os",
+   "start": 7.82,
+   "end": 7.98,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 7.98,
+   "end": 8.039,
+   "type": "spacing",
+   "logprob": -0.0001045410826918669
+  },
+  {
+   "text": "mesmos",
+   "start": 8.039,
+   "end": 8.52,
+   "type": "word",
+   "logprob": -0.0001045410826918669
+  },
+  {
+   "text": " ",
+   "start": 8.52,
+   "end": 8.56,
+   "type": "spacing",
+   "logprob": -1.680836794548668e-05
+  },
+  {
+   "text": "curativos,",
+   "start": 8.56,
+   "end": 9.46,
+   "type": "word",
+   "logprob": -0.00016517040312464816
+  },
+  {
+   "text": " ",
+   "start": 9.46,
+   "end": 9.46,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "mas",
+   "start": 10.44,
+   "end": 10.7,
+   "type": "word",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": " ",
+   "start": 10.7,
+   "end": 10.78,
+   "type": "spacing",
+   "logprob": -0.31594961881637573
+  },
+  {
+   "text": "graças",
+   "start": 10.78,
+   "end": 11.4,
+   "type": "word",
+   "logprob": -0.31594961881637573
+  },
+  {
+   "text": " ",
+   "start": 11.4,
+   "end": 11.84,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "ao",
+   "start": 11.84,
+   "end": 12.0,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 12.0,
+   "end": 12.12,
+   "type": "spacing",
+   "logprob": -3.2186455882765586e-06
+  },
+  {
+   "text": "apoio",
+   "start": 12.12,
+   "end": 12.7,
+   "type": "word",
+   "logprob": -3.2186455882765586e-06
+  },
+  {
+   "text": " ",
+   "start": 12.7,
+   "end": 13.28,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "de",
+   "start": 13.28,
+   "end": 13.48,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 13.48,
+   "end": 13.54,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "vocês,",
+   "start": 13.54,
+   "end": 14.32,
+   "type": "word",
+   "logprob": -0.006340533494901972
+  },
+  {
+   "text": " ",
+   "start": 14.32,
+   "end": 14.52,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "eu",
+   "start": 14.52,
+   "end": 14.68,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 14.68,
+   "end": 14.74,
+   "type": "spacing",
+   "logprob": -0.00018594920402392745
+  },
+  {
+   "text": "consegui",
+   "start": 14.74,
+   "end": 15.42,
+   "type": "word",
+   "logprob": -0.00013952150765561555
+  },
+  {
+   "text": " ",
+   "start": 15.42,
+   "end": 15.92,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "os",
+   "start": 15.92,
+   "end": 16.04,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 16.04,
+   "end": 16.1,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "meus",
+   "start": 16.1,
+   "end": 16.3,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 16.3,
+   "end": 16.34,
+   "type": "spacing",
+   "logprob": -6.949660019017756e-05
+  },
+  {
+   "text": "primeiros",
+   "start": 16.34,
+   "end": 16.88,
+   "type": "word",
+   "logprob": -6.949660019017756e-05
+  },
+  {
+   "text": " ",
+   "start": 16.88,
+   "end": 17.0,
+   "type": "spacing",
+   "logprob": -1.764281842042692e-05
+  },
+  {
+   "text": "curativos.",
+   "start": 17.0,
+   "end": 17.9,
+   "type": "word",
+   "logprob": -2.2816387900093105e-05
+  },
+  {
+   "text": " ",
+   "start": 17.9,
+   "end": 18.2,
+   "type": "spacing",
+   "logprob": -7.128461584215984e-05
+  },
+  {
+   "text": "Obrigada!",
+   "start": 18.2,
+   "end": 18.9,
+   "type": "word",
+   "logprob": -0.006991788986852043
+  }
+ ],
+ "transcription_id": "02RPVIxkfXvsmb4ZrFNP",
+ "audio_duration_secs": 19.7666875
+}

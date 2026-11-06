@@ -1,0 +1,80 @@
+{
+ "text": "Cada troca de curativo sai das mãos dela. Cuidado nunca faltou nessa casa. Dinheiro, sim.",
+ "words": [
+  {
+   "text": "Cada",
+   "start": 0.0,
+   "end": 0.372
+  },
+  {
+   "text": "troca",
+   "start": 0.453,
+   "end": 0.743
+  },
+  {
+   "text": "de",
+   "start": 0.789,
+   "end": 0.848
+  },
+  {
+   "text": "curativo",
+   "start": 0.894,
+   "end": 1.451
+  },
+  {
+   "text": "sai",
+   "start": 1.614,
+   "end": 1.904
+  },
+  {
+   "text": "das",
+   "start": 1.95,
+   "end": 2.078
+  },
+  {
+   "text": "mãos",
+   "start": 2.125,
+   "end": 2.276
+  },
+  {
+   "text": "dela.",
+   "start": 2.334,
+   "end": 2.646
+  },
+  {
+   "text": "Cuidado",
+   "start": 2.646,
+   "end": 3.015
+  },
+  {
+   "text": "nunca",
+   "start": 3.05,
+   "end": 3.294
+  },
+  {
+   "text": "faltou",
+   "start": 3.329,
+   "end": 3.596
+  },
+  {
+   "text": "nessa",
+   "start": 3.642,
+   "end": 3.839
+  },
+  {
+   "text": "casa.",
+   "start": 3.897,
+   "end": 4.269
+  },
+  {
+   "text": "Dinheiro,",
+   "start": 4.304,
+   "end": 4.838
+  },
+  {
+   "text": "sim.",
+   "start": 4.884,
+   "end": 5.242
+  }
+ ]
+}

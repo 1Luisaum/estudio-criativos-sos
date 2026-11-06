@@ -1,0 +1,27 @@
+N1: 7.00s  Pedrinho nasceu com uma doença rara, que faz a pele formar bolhas e se abrir com quase nada.
+N2: 6.56s  Quatro a cinco horas por dia. Faixa por faixa, ferida por ferida, até o corpo inteiro estar coberto.
+N3: 5.61s  Cada troca consome faixas, gazes, soro e pomada. E isso se repete todos os dias.
+N4: 1.37s  Nada nesse vídeo foi encenado.
+N5: 4.81s  O próximo curativo do Pedrinho pode vir de você. O botão está logo abaixo.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_verdade_v1.mp4
+real  ok  t=  4.93
+narr  ok  t= 12.07
+real  ok  t= 16.03
+real  ok  t= 23.13
+narr  ok  t= 29.83
+card  ok  t= 31.23
+real  ok  t= 33.53
+real  ok  t= 36.03
+real  ok  t= 37.73
+real  ok  t= 42.57
+narr  ok  t= 48.33
+real  ok  t= 51.93
+real  ok  t= 56.07
+card  ok  t= 57.47
+real  ok  t= 59.10
+narr  ok  t= 60.63
+real  ok  t= 62.03
+narr  ok  t= 67.00
+end   ok  t= 70.60
+audio: 70.57s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_verdade_v1.mp4  duracao=70.60s

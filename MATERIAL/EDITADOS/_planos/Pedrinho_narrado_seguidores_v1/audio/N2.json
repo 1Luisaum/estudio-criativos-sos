@@ -1,0 +1,95 @@
+{
+ "text": "Quando o vídeo acaba, quem fica é a mãe dele, a caixa de curativos e a próxima troca.",
+ "words": [
+  {
+   "text": "Quando",
+   "start": 0.0,
+   "end": 0.255
+  },
+  {
+   "text": "o",
+   "start": 0.279,
+   "end": 0.329
+  },
+  {
+   "text": "vídeo",
+   "start": 0.395,
+   "end": 0.592
+  },
+  {
+   "text": "acaba,",
+   "start": 0.627,
+   "end": 1.022
+  },
+  {
+   "text": "quem",
+   "start": 1.045,
+   "end": 1.207
+  },
+  {
+   "text": "fica",
+   "start": 1.289,
+   "end": 1.672
+  },
+  {
+   "text": "é",
+   "start": 1.707,
+   "end": 1.757
+  },
+  {
+   "text": "a",
+   "start": 1.788,
+   "end": 1.838
+  },
+  {
+   "text": "mãe",
+   "start": 1.869,
+   "end": 2.067
+  },
+  {
+   "text": "dele,",
+   "start": 2.113,
+   "end": 2.525
+  },
+  {
+   "text": "a",
+   "start": 2.532,
+   "end": 2.59
+  },
+  {
+   "text": "caixa",
+   "start": 2.648,
+   "end": 2.892
+  },
+  {
+   "text": "de",
+   "start": 2.926,
+   "end": 2.984
+  },
+  {
+   "text": "curativos",
+   "start": 3.019,
+   "end": 3.588
+  },
+  {
+   "text": "e",
+   "start": 3.669,
+   "end": 3.751
+  },
+  {
+   "text": "a",
+   "start": 3.809,
+   "end": 3.859
+  },
+  {
+   "text": "próxima",
+   "start": 3.902,
+   "end": 4.273
+  },
+  {
+   "text": "troca.",
+   "start": 4.32,
+   "end": 4.65
+  }
+ ]
+}

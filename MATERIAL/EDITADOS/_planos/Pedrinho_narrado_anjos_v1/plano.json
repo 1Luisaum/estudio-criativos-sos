@@ -1,0 +1,296 @@
+{
+ "nome": "Pedrinho_narrado_anjos_v1",
+ "crianca": "Pedrinho",
+ "angulo": "anjos",
+ "gancho": "os anjos que apareceram",
+ "fatos": [
+  "os anjos da SOS Human Help: Pedrinho, Um Vídeo Novo 250 a 259 s",
+  "vocês que são anjos: Pedrinho, Um Vídeo Novo 266 s",
+  "coração cheio de gratidão: Pedrinho, Um Vídeo Novo 318 s"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/gospel/Lifted_by_the_Light.mp3",
+ "music_start": 10.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "ANJO",
+  "ANJOS",
+  "BATALHA",
+  "GRATIDÃO",
+  "MEDO"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“OS *ANJOS*”",
+    "fs": 140
+   },
+   {
+    "text": "QUE APARECERAM NA VIDA DELE",
+    "fs": 55
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     250.14,
+     250.14
+    ],
+    [
+     251.02,
+     251.6
+    ],
+    [
+     253.78,
+     254.6
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20241109_123330.jpg"
+    },
+    {
+     "src": "20241107_202353.jpg"
+    }
+   ],
+   "txt": "tem os anjo que apareceu, pra ajudar nessa batalha,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 1.94
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 45.0,
+     "until": 3.09
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 160.0
+    }
+   ],
+   "txt": "Ele chama de anjos as pessoas que ajudam. Não é jeito de falar. É como ele enxerga quem chega perto da dor dele."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V2.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     266.3,
+     267.02
+    ],
+    [
+     267.36,
+     268.98
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260729_180353.jpg"
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 20.0
+    }
+   ],
+   "txt": "vocês que são anjos, sempre tá comigo nessa batalha,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 168.0,
+     "until": 2.83
+    },
+    {
+     "src": "20260825_134438.jpg"
+    }
+   ],
+   "txt": "Porque cada faixa que chega vira uma troca sem medo. E cada gaze vira uma noite menos dura."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V3.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     313.4,
+     315.18
+    ],
+    [
+     316.26,
+     317.8
+    ],
+    [
+     318.54,
+     320.56
+    ]
+   ],
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 35.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 15.0
+    }
+   ],
+   "txt": "por Deus ter colocado tantos anjo, nessa caminhada dele e de minha mamãe, que meu coração fica cheio de gratidão mesmo,"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "CORAÇÃO",
+    "CHEIO DE GRATIDÃO"
+   ],
+   "dur": 1.5,
+   "fs": 190
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 40.0,
+     "until": 1.61
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 48.0
+    }
+   ],
+   "txt": "A mãe dele também enxerga assim. Cada ajuda que chega é um dia a menos de desespero."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240411_115750.jpg",
+     "until": 1.1
+    }
+   ],
+   "txt": "Anjo não tem asa. Anjo tem um celular na mão. E um minuto de coragem."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V4.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     255.56,
+     255.74
+    ],
+    [
+     257.18,
+     259.12
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260729_164523.jpg"
+    }
+   ],
+   "txt": "os anjos da SOS Human Help,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 215.0,
+     "until": 3.14
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 55.0
+    }
+   ],
+   "txt": "Quem ajuda pela SOS Human Help não aparece no vídeo. Mas aparece em cada curativo novo dele."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     18.88,
+     20.26
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      845
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "seja um anjo na minha vida"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 29.0
+    }
+   ],
+   "txt": "Clique em Saiba mais e entre para essa lista de anjos. O nome fica com você. O alívio fica com ele."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20250401_204159.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "FALTA UM *ANJO*",
+    "PODE SER VOCÊ"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 182 - NARRADO DE IMPACTO.mp4"
+}

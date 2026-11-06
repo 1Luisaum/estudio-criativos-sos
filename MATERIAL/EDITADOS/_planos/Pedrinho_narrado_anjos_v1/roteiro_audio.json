@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Ele chama de anjos as pessoas que ajudam. Não é jeito de falar. É como ele enxerga quem chega perto da dor dele.",
+  "N2": "Porque cada faixa que chega vira uma troca sem medo. E cada gaze vira uma noite menos dura.",
+  "N3": "A mãe dele também enxerga assim. Cada ajuda que chega é um dia a menos de desespero.",
+  "N4": "Anjo não tem asa. Anjo tem um celular na mão. E um minuto de coragem.",
+  "N5": "Quem ajuda pela SOS Human Help não aparece no vídeo. Mas aparece em cada curativo novo dele.",
+  "N6": "Clique em Saiba mais e entre para essa lista de anjos. O nome fica com você. O alívio fica com ele."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

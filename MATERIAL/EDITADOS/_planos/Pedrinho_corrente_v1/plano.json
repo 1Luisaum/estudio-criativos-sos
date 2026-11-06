@@ -1,0 +1,124 @@
+{
+ "nome": "Pedrinho_corrente_v1",
+ "referencia": "Causas do Bem, anuncio 1444789200923601 (Kauê, 28,9 s): texto fixo no alto com destaque amarelo, voz da crianca 0-9 s, depois so musica, b-roll com 2 passagens pelo preto, final com cuidado/colo",
+ "texto": [
+  [
+   "Corrente do bem: ",
+   ""
+  ],
+  [
+   "Se você ajudar",
+   "y"
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "com R$10",
+   "y"
+  ],
+  [
+   ", vamo conseguir os",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "curativos que o Pedrinho precisa",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "pra aliviar as dores dele",
+   ""
+  ]
+ ],
+ "texto_y": 255,
+ "falas": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "corte": [
+    4.26,
+    6.7
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "corte": [
+    7.2,
+    8.2
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "corte": [
+    28.5,
+    29.16
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "corte": [
+    30.0,
+    32.02
+   ]
+  }
+ ],
+ "voz_inicio": 0.4,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_sob_voz": 0.12,
+ "musica_depois": 0.45,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "start": 40.0,
+   "dur": 4.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 205.0,
+   "dur": 4.3
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 262.0,
+   "dur": 3.6,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "start": 70.0,
+   "dur": 4.8,
+   "fade_in": true,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "start": 25.0,
+   "dur": 4.0,
+   "fade_in": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+   "start": 6.0,
+   "dur": 4.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Ana e Pedro sorrindo.png",
+   "dur": 4.2
+  }
+ ],
+ "fatos": {
+  "corrente do bem": "Pedrinho, 20260916_234157 ('entre junto nessa corrente do bem')",
+  "R$10": "pedido do usuario (o Pedrinho fala em 'dez reais' no Roteiro_ peço perdão)",
+  "curativos aliviam as dores": "Pedrinho, roteiro 7 (134 s)",
+  "falas": "Roteiro_ os meus curativos... (4-8 s); 20260916_235338 (28-32 s)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\CORRENTE DO BEM\\LEVA 01\\Pedrinho_corrente_v1.mp4"
+}

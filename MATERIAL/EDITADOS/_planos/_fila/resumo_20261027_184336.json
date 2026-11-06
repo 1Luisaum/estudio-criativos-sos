@@ -1,0 +1,82 @@
+{
+ "total_s": 1013,
+ "videos": [
+  {
+   "plano": "Pedrinho_narrado_duas_vozes_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 101,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_duas_vozes_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 26\\PEB 141 - NARRADO DE IMPACTO.mp4",
+   "duracao": 54.4,
+   "avisos": [
+    "duração 54.4 s fora da faixa do estilo (55-80 s)",
+    "travadinha(s) de 0,2 s ou mais em [(23.03, 1.2)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 1 momento(s): [11.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 141 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_caixas_pedido_cama_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 129,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_caixas_pedido_cama_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 27\\PEB 142 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 34.4,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 9 momento(s): [0.0, 0.5, 1.0, 1.5, 14.5, 15.0, 18.0, 18.5, 28.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 142 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v13",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 261,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v13.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 28\\PEB 144 - REPORTAGEM.mp4",
+   "duracao": 59.77,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 66 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 144 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_caixas_aspas_24horas_v1",
+   "skill": "criativo-caixas-aspas-ong",
+   "montagem_s": 150,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_caixas_aspas_24horas_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 31\\PEB 147 - CAIXAS ASPAS.mp4",
+   "duracao": 31.82,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 17 momento(s): [0.5, 2.5, 5.0, 5.5, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 147 - CAIXAS ASPAS_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_esperanca_v5",
+   "skill": "criativo-esperanca-ong",
+   "montagem_s": 137,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_esperanca_v5.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 33\\PEB 149 - DA DOR À ESPERANÇA.mp4",
+   "duracao": 39.73,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 4 momento(s): [4.0, 4.5, 5.0, 24.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 149 - DA DOR À ESPERANÇA_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  }
+ ]
+}

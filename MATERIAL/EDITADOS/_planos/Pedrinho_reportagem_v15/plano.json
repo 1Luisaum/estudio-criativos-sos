@@ -1,0 +1,118 @@
+{
+ "nome": "Pedrinho_reportagem_v15",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "TODO DIA SURGEM BOLHAS NOVAS",
+  "NA PELE DE MENINO COM EB"
+ ],
+ "etiqueta": "🔁 Compartilhe com alguém",
+ "etiqueta_final": "🔁 Compartilhe com alguém",
+ "narracao": {
+  "OFF1": "Bolhas de sangue. Bolhas de água. Todos os dias, na pele do Pedrinho.",
+  "OFF2": "É a epidermólise bolhosa. E é a mãe quem cuida de cada ferida.",
+  "OFF3": "Compartilhe este vídeo. Quanto mais gente conhecer o Pedrinho, mais força ele ganha."
+ },
+ "fatos": {
+  "bolhas de sangue e de agua todo dia": "Pedrinho em 20260916_234157.mp4 (39.96)",
+  "mae cuida dos curativos": "Roteiro 4 / mae em 'Roteiro_ esse calor...'",
+  "epidermolise bolhosa (pele de borboleta)": "Pedrinho e mae nos brutos"
+ },
+ "obs": "curto, CTA de engajamento sem 'Saiba mais' e sem logo SOS (@juntospelopedrinho no lugar) - pedido do usuario 29/10/2026",
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240426_144311.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v1_cinco_horas.json",
+   "cortes": [
+    [
+     39.96,
+     44.2
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     185.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     205.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v3_mae_calor.json",
+   "cortes": [
+    [
+     0.8,
+     2.74
+    ]
+   ],
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos do filho"
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 0.8,
+   "caixa": [
+    0,
+    80,
+    640,
+    1020
+   ],
+   "quem": "rosto da mae (quem fala)"
+  },
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 0.8,
+   "caixa": [
+    660,
+    960,
+    1080,
+    1400
+   ],
+   "quem": "Pedrinho pequeno ao fundo"
+  }
+ ],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\TUDO BALBINO\\LEVA 34\\PEB 152 - REPORTAGEM.mp4"
+}

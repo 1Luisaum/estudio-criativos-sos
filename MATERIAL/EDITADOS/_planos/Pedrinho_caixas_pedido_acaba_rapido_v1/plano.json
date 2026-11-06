@@ -1,0 +1,201 @@
+{
+ "nome": "Pedrinho_caixas_pedido_acaba_rapido_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "crianca": "Pedrinho",
+ "gancho": "os curativo tão acabando? Meu Deus, e agora?",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.07,
+ "final_extra": 2.2,
+ "fatos": {
+  "curativo tão acabando, e agora": "Pedrinho, 20260917_000819 (3-7 s)",
+  "acaba rápido, preciso novamente": "Pedrinho, 20260917_001530 (28-39 s)",
+  "não é algo que compra e depois não precisa": "Pedrinho, 20260917_001530 (21-25 s)",
+  "próximos curativos": "Pedrinho, 20260917_001530 (43-57 s)",
+  "um, dois, três, cinco reais; seja um anjo": "Pedrinho, 20260917_001530 (78-92 s)"
+ },
+ "modelo": "estrutura do AEB 35 (um gancho só, sem_caixas) da skill criativo-caixas-pedido-ong",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     3.54,
+     6.58
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+     3.48
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "LOGO EM SEGUIDA",
+    "EU PRECISO NOVAMENTE"
+   ],
+   "texto_verde_y": 1310
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     28.22,
+     29.6
+    ],
+    [
+     31.06,
+     33.18
+    ],
+    [
+     36.7,
+     38.6
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     132.25
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     21.25
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     140.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     143.23
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     21.44,
+     25.28
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+     21.38
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     43.5,
+     46.3
+    ],
+    [
+     47.92,
+     48.68
+    ],
+    [
+     49.42,
+     51.22
+    ],
+    [
+     52.04,
+     53.16
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     85.8
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     28.98
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     146.46
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     8.33
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     88.96
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     78.38,
+     83.08
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     161.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1774481214_3860949812967821509_1642859680.mp4",
+     119.8
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     92.12
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     90.22,
+     91.84
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/IMG-20260624-WA0043.jpg",
+   "final": true,
+   "texto_verde": [
+    "CLIQUE EM SAIBA MAIS",
+    "AJUDE O PEDRINHO"
+   ],
+   "texto_verde_y": 1660,
+   "zoom": 0.12
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS QUE ACABAM RAPIDAMENTE"
+  ],
+  "topo_y": 240,
+  "valor": "R$5,00",
+  "valor_linhas": [
+   "DEIXAM PEDRINHO MAIS PERTO DE COMPRAR",
+   "OS PRÓXIMOS CURATIVOS"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 169 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

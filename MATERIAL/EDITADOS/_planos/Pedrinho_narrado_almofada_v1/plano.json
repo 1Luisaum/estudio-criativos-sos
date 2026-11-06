@@ -1,0 +1,411 @@
+{
+ "nome": "Pedrinho_narrado_almofada_v1",
+ "pedido": "chat 26/10/2026: video para o ORGANICO (nao e anuncio). Gancho forte com imagem de dor em P&B, dinamismo depois dos primeiros segundos, narracao alternando com falas reais. CTA: comente e salve (sem botao Saiba mais).",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 1.2,
+ "red": [
+  "FERIDA",
+  "FERIDAS",
+  "CASCA",
+  "LATEJANDO",
+  "MACHUCA",
+  "DOR",
+  "OMBRO"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "RELATO REAL",
+  "lines": [
+   {
+    "text": "A CASCA *GRUDOU*",
+    "fs": 120
+   },
+   {
+    "text": "NA ALMOFADA DO HOMEM-ARANHA",
+    "fs": 60
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "gancho_dor.png",
+     "zoom": 0.12
+    }
+   ],
+   "txt": "Virar na cama. Pra ele, até isso machuca."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "tx/video_novo.json",
+   "cuts": [
+    [
+     53.0,
+     53.34
+    ],
+    [
+     54.26,
+     54.58
+    ],
+    [
+     55.22,
+     56.0
+    ],
+    [
+     57.42,
+     57.98
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      480,
+      900
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      470,
+      860
+     ]
+    }
+   ],
+   "txt": "Essa noite, eu acho que foi a vez que eu mais virei na cama."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "close_casca.png",
+     "until": 1.9
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 205.0
+    }
+   ],
+   "txt": "Uma ferida aberta no ombro. Durante a noite, a casca grudou na almofada."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "tx/video_novo.json",
+   "cuts": [
+    [
+     108.68,
+     109.26
+    ],
+    [
+     111.12,
+     111.32
+    ],
+    [
+     112.56,
+     113.54
+    ],
+    [
+     119.62,
+     120.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      480,
+      900
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      470,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Aquela minha almofadinha do Homem-Aranha que eu durmo com ela. Saiu a casca. (cortado 'pensa como é que eu não tava latejando': ficou ambíguo no vídeo final)"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "2 FERIDAS",
+    "NUMA NOITE SÓ"
+   ],
+   "dur": 1.3
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 232.0
+    }
+   ],
+   "txt": "De manhã, não teve outro jeito."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "tx/video_novo.json",
+   "cuts": [
+    [
+     151.8,
+     153.62
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Minha mamãe teve que enfaixar o ombro."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "GAZE.png",
+     "until": 1.0
+    },
+    {
+     "src": "Pomada.png",
+     "until": 2.0
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 262.0
+    }
+   ],
+   "txt": "Cada camada de gaze com pomada vira uma armadura pra pele dele.",
+   "fix": {
+    "gáze": "gaze"
+   }
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "tx/video_novo.json",
+   "cuts": [
+    [
+     174.36,
+     175.28
+    ],
+    [
+     177.84,
+     178.8
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      480,
+      900
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      470,
+      860
+     ]
+    }
+   ],
+   "txt": "Pra proteger de mosquito, eu me sinto bem mais seguro."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "tx/video_novo.json",
+   "cuts": [
+    [
+     191.12,
+     192.44
+    ],
+    [
+     194.84,
+     195.5
+    ],
+    [
+     196.88,
+     197.0
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      480,
+      900
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      470,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Por isso que é muito importante a pomadinha, o gaze, tudo, pra aliviar."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20221127_220927.jpg",
+     "until": 1.8
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 12.0
+    }
+   ],
+   "txt": "A pele dele não aguenta nem a almofada. A fé dele aguenta tudo."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "tx/video_novo.json",
+   "cuts": [
+    [
+     325.0,
+     325.82
+    ],
+    [
+     326.84,
+     327.78
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      470,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      480,
+      900
+     ]
+    }
+   ],
+   "txt": "Deus vai nos dando força. Não tá sendo muito fácil."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "tx/video_novo.json",
+   "cuts": [
+    [
+     346.24,
+     349.1
+    ],
+    [
+     350.74,
+     352.46
+    ],
+    [
+     352.94,
+     353.3
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      480,
+      900
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      470,
+      860
+     ]
+    }
+   ],
+   "txt": "É só a gente também focar nas coisas boas, que aí a luta fica mais fácil de ser vencida."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "Ana e Pedro sorrindo.png"
+    }
+   ],
+   "txt": "Deixe aqui nos comentários uma palavra de força pro Pedrinho. E salve esse vídeo."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "IMG-20260624-WA0043.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "COMENTE UMA",
+    "PALAVRA DE *FORÇA*"
+   ],
+   "button": "SALVE ESTE VÍDEO"
+  }
+ ],
+ "fatos": {
+  "virou na cama a noite toda, ferida do ombro, casca grudou na almofada do Homem-Aranha e saiu de manhã, latejando": "Pedrinho, Um Vídeo Novo pra campanha, 53-145 s ('agudou' na transcrição = grudou)",
+  "duas feridas grudaram (a da frente na almofada, a do lado no forro)": "Pedrinho, mesmo vídeo, 127-145 s",
+  "a mãe teve que enfaixar o ombro; pomada na gaze; protege de mosquito e poeira": "Pedrinho, mesmo vídeo, 151-197 s",
+  "Deus vai dando força / focar nas coisas boas": "Pedrinho, mesmo vídeo, 324-353 s",
+  "organico": "sem pedido de valor e sem botão Saiba mais, a pedido do usuário (comente e salve)"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 03\\Pedrinho_narrado_almofada_v1.mp4"
+}

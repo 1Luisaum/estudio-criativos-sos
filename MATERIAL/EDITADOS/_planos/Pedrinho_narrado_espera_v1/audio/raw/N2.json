@@ -1,0 +1,60 @@
+{
+ "text": "Sem soro fisiológico, o banho dele tem que ser com água.",
+ "words": [
+  {
+   "text": "Sem",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "soro",
+   "start": 0.279,
+   "end": 0.441
+  },
+  {
+   "text": "fisiológico,",
+   "start": 0.464,
+   "end": 1.08
+  },
+  {
+   "text": "o",
+   "start": 1.126,
+   "end": 1.184
+  },
+  {
+   "text": "banho",
+   "start": 1.265,
+   "end": 1.556
+  },
+  {
+   "text": "dele",
+   "start": 1.602,
+   "end": 1.788
+  },
+  {
+   "text": "tem",
+   "start": 1.823,
+   "end": 1.916
+  },
+  {
+   "text": "que",
+   "start": 1.95,
+   "end": 2.02
+  },
+  {
+   "text": "ser",
+   "start": 2.043,
+   "end": 2.183
+  },
+  {
+   "text": "com",
+   "start": 2.229,
+   "end": 2.368
+  },
+  {
+   "text": "água.",
+   "start": 2.45,
+   "end": 3.019
+  }
+ ]
+}

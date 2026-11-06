@@ -1,0 +1,520 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Por favor, me ajude. Eu não aguento mais não conseguir dormir pelo motivo dos pelomenetes estarem bem abertos e estarem muito doloridos mesmo. Eu quero conseguir dormir bem. Então, por favor, me ajude. Desde já, gratidão. [silêncio]",
+ "words": [
+  {
+   "text": "Por",
+   "start": 1.02,
+   "end": 1.12,
+   "type": "word",
+   "logprob": -5.686121585313231e-05
+  },
+  {
+   "text": " ",
+   "start": 1.12,
+   "end": 1.22,
+   "type": "spacing",
+   "logprob": -1.7404405298293568e-05
+  },
+  {
+   "text": "favor,",
+   "start": 1.22,
+   "end": 1.5,
+   "type": "word",
+   "logprob": -2.207328877072238e-05
+  },
+  {
+   "text": " ",
+   "start": 1.5,
+   "end": 1.92,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 1.92,
+   "end": 2.0,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.04,
+   "type": "spacing",
+   "logprob": -3.6000557884108275e-05
+  },
+  {
+   "text": "ajude.",
+   "start": 2.04,
+   "end": 2.52,
+   "type": "word",
+   "logprob": -1.2953859557759037e-05
+  },
+  {
+   "text": " ",
+   "start": 2.52,
+   "end": 2.52,
+   "type": "spacing",
+   "logprob": -6.556489552167477e-06
+  },
+  {
+   "text": "Eu",
+   "start": 3.22,
+   "end": 3.3,
+   "type": "word",
+   "logprob": -6.556489552167477e-06
+  },
+  {
+   "text": " ",
+   "start": 3.3,
+   "end": 3.34,
+   "type": "spacing",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": "não",
+   "start": 3.34,
+   "end": 3.36,
+   "type": "word",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": " ",
+   "start": 3.36,
+   "end": 3.44,
+   "type": "spacing",
+   "logprob": -9.894321920000948e-06
+  },
+  {
+   "text": "aguento",
+   "start": 3.44,
+   "end": 3.8,
+   "type": "word",
+   "logprob": -4.105804743760798e-05
+  },
+  {
+   "text": " ",
+   "start": 3.8,
+   "end": 3.9,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "mais",
+   "start": 3.92,
+   "end": 4.1,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 4.1,
+   "end": 4.14,
+   "type": "spacing",
+   "logprob": -3.361645576660521e-05
+  },
+  {
+   "text": "não",
+   "start": 4.14,
+   "end": 4.24,
+   "type": "word",
+   "logprob": -3.361645576660521e-05
+  },
+  {
+   "text": " ",
+   "start": 4.24,
+   "end": 4.28,
+   "type": "spacing",
+   "logprob": -0.00021872512297704816
+  },
+  {
+   "text": "conseguir",
+   "start": 4.28,
+   "end": 4.7,
+   "type": "word",
+   "logprob": -0.00021872512297704816
+  },
+  {
+   "text": " ",
+   "start": 4.7,
+   "end": 4.76,
+   "type": "spacing",
+   "logprob": -6.794906312279636e-06
+  },
+  {
+   "text": "dormir",
+   "start": 4.76,
+   "end": 5.1,
+   "type": "word",
+   "logprob": -6.794906312279636e-06
+  },
+  {
+   "text": " ",
+   "start": 5.1,
+   "end": 5.1,
+   "type": "spacing",
+   "logprob": -0.18414343893527985
+  },
+  {
+   "text": "pelo",
+   "start": 5.6,
+   "end": 5.82,
+   "type": "word",
+   "logprob": -0.18414343893527985
+  },
+  {
+   "text": " ",
+   "start": 5.82,
+   "end": 5.88,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "motivo",
+   "start": 5.88,
+   "end": 6.42,
+   "type": "word",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": " ",
+   "start": 6.42,
+   "end": 6.48,
+   "type": "spacing",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": "dos",
+   "start": 6.48,
+   "end": 6.64,
+   "type": "word",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": " ",
+   "start": 6.64,
+   "end": 6.7,
+   "type": "spacing",
+   "logprob": -1.8371047973632812
+  },
+  {
+   "text": "pelomenetes",
+   "start": 6.7,
+   "end": 7.26,
+   "type": "word",
+   "logprob": -1.141632155938582
+  },
+  {
+   "text": " ",
+   "start": 7.26,
+   "end": 7.28,
+   "type": "spacing",
+   "logprob": -0.0002673506969586015
+  },
+  {
+   "text": "estarem",
+   "start": 7.28,
+   "end": 7.72,
+   "type": "word",
+   "logprob": -0.00011771236287521398
+  },
+  {
+   "text": " ",
+   "start": 7.72,
+   "end": 7.76,
+   "type": "spacing",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": "bem",
+   "start": 7.76,
+   "end": 7.94,
+   "type": "word",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": " ",
+   "start": 7.94,
+   "end": 8.0,
+   "type": "spacing",
+   "logprob": -6.675497570540756e-05
+  },
+  {
+   "text": "abertos",
+   "start": 8.0,
+   "end": 8.6,
+   "type": "word",
+   "logprob": -2.3585759013907852e-05
+  },
+  {
+   "text": " ",
+   "start": 8.6,
+   "end": 8.6,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "e",
+   "start": 9.1,
+   "end": 9.14,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.14,
+   "end": 9.2,
+   "type": "spacing",
+   "logprob": -2.4914430468925275e-05
+  },
+  {
+   "text": "estarem",
+   "start": 9.2,
+   "end": 9.62,
+   "type": "word",
+   "logprob": -2.0691106068885085e-05
+  },
+  {
+   "text": " ",
+   "start": 9.62,
+   "end": 9.68,
+   "type": "spacing",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": "muito",
+   "start": 9.68,
+   "end": 9.9,
+   "type": "word",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": " ",
+   "start": 9.9,
+   "end": 9.96,
+   "type": "spacing",
+   "logprob": -0.6244106888771057
+  },
+  {
+   "text": "doloridos",
+   "start": 9.96,
+   "end": 10.58,
+   "type": "word",
+   "logprob": -0.3469010789748508
+  },
+  {
+   "text": " ",
+   "start": 10.58,
+   "end": 10.64,
+   "type": "spacing",
+   "logprob": -1.6689160474925302e-05
+  },
+  {
+   "text": "mesmo.",
+   "start": 10.64,
+   "end": 11.02,
+   "type": "word",
+   "logprob": -1.3907633729104418e-05
+  },
+  {
+   "text": " ",
+   "start": 11.02,
+   "end": 11.5,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "Eu",
+   "start": 11.5,
+   "end": 11.62,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 11.62,
+   "end": 11.7,
+   "type": "spacing",
+   "logprob": -1.9192511899746023e-05
+  },
+  {
+   "text": "quero",
+   "start": 11.7,
+   "end": 11.96,
+   "type": "word",
+   "logprob": -1.9192511899746023e-05
+  },
+  {
+   "text": " ",
+   "start": 11.96,
+   "end": 12.02,
+   "type": "spacing",
+   "logprob": -3.290122185717337e-05
+  },
+  {
+   "text": "conseguir",
+   "start": 12.02,
+   "end": 12.46,
+   "type": "word",
+   "logprob": -3.290122185717337e-05
+  },
+  {
+   "text": " ",
+   "start": 12.46,
+   "end": 12.52,
+   "type": "spacing",
+   "logprob": -1.1324817933200393e-05
+  },
+  {
+   "text": "dormir",
+   "start": 12.52,
+   "end": 12.8,
+   "type": "word",
+   "logprob": -1.1324817933200393e-05
+  },
+  {
+   "text": " ",
+   "start": 12.8,
+   "end": 12.88,
+   "type": "spacing",
+   "logprob": -1.6689160474925302e-05
+  },
+  {
+   "text": "bem.",
+   "start": 12.88,
+   "end": 13.08,
+   "type": "word",
+   "logprob": -1.284469567508495e-05
+  },
+  {
+   "text": " ",
+   "start": 13.08,
+   "end": 13.08,
+   "type": "spacing",
+   "logprob": -2.4318398573086597e-05
+  },
+  {
+   "text": "Então,",
+   "start": 13.72,
+   "end": 14.16,
+   "type": "word",
+   "logprob": -2.026533214423883e-05
+  },
+  {
+   "text": " ",
+   "start": 14.16,
+   "end": 14.16,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "por",
+   "start": 14.86,
+   "end": 15.16,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 15.16,
+   "end": 15.2,
+   "type": "spacing",
+   "logprob": -5.364403477869928e-06
+  },
+  {
+   "text": "favor,",
+   "start": 15.2,
+   "end": 15.36,
+   "type": "word",
+   "logprob": -4.490204445299166e-06
+  },
+  {
+   "text": " ",
+   "start": 15.36,
+   "end": 15.66,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 15.66,
+   "end": 15.78,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 15.78,
+   "end": 15.86,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "ajude.",
+   "start": 15.86,
+   "end": 16.3,
+   "type": "word",
+   "logprob": -2.6424681086230826e-06
+  },
+  {
+   "text": " ",
+   "start": 16.3,
+   "end": 16.3,
+   "type": "spacing",
+   "logprob": -0.000481132126878947
+  },
+  {
+   "text": "Desde",
+   "start": 16.98,
+   "end": 17.28,
+   "type": "word",
+   "logprob": -0.000481132126878947
+  },
+  {
+   "text": " ",
+   "start": 17.28,
+   "end": 17.28,
+   "type": "spacing",
+   "logprob": -4.0531076592742465e-06
+  },
+  {
+   "text": "já,",
+   "start": 17.28,
+   "end": 17.46,
+   "type": "word",
+   "logprob": -4.768359758600127e-06
+  },
+  {
+   "text": " ",
+   "start": 17.46,
+   "end": 18.12,
+   "type": "spacing",
+   "logprob": -0.0002053765201708302
+  },
+  {
+   "text": "gratidão.",
+   "start": 18.12,
+   "end": 18.64,
+   "type": "word",
+   "logprob": -0.001051799335831068
+  },
+  {
+   "text": " ",
+   "start": 18.64,
+   "end": 18.68,
+   "type": "spacing",
+   "logprob": -0.4760780930519104
+  },
+  {
+   "text": "[silêncio]",
+   "start": 18.68,
+   "end": 20.14,
+   "type": "audio_event",
+   "logprob": -0.1410921110401612
+  }
+ ],
+ "transcription_id": "e2xIoEPAThSMo3oSqTgZ",
+ "audio_duration_secs": 20.2026875
+}

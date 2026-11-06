@@ -1,0 +1,113 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1403709941748846.mp4",
+ "estilo": "BIB ORACOES RESPOSTA",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\vitral_capela.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\altar_catolico.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_agulha_0850.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\85fe8774-511b-460c-a587-4ae5d58e0b82.mov",
+   "ini": 5,
+   "fim": 8.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_mepilex.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+   "ini": 3,
+   "fim": 6.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_urgotul.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\375B0806-B2AE-4470-938C-26C98249DAD2.mov",
+   "ini": 10,
+   "fim": 13.5,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_oracoes_resposta_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_oracoes_resposta_sr.json",
+  "de": 0.3
+ },
+ "textos": [
+  {
+   "de": 12,
+   "ate": 28.13,
+   "linhas": [
+    "às vezes a resposta da sua oração",
+    "é ser a resposta de alguém ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 34,
+   "y": 140,
+   "pad": [
+    16,
+    8
+   ],
+   "fonte": "serif_bold",
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "nenhuma"
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 28.13
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1403 - orações (fundo sem voz).mp3",
+ "musica_volume": 2.089,
+ "modelo": {
+  "id": "peb221_l2_oracoes",
+  "exemplo": "PEB 221",
+  "descricao": "1403709941748846: imagens de IA no gancho (leao, Jesus), narracao, caixa branca no alto, legenda pequena",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1403709941748846",
+  "titulo": "Orações (leão e Jesus)",
+  "variacao": "oracoes_resposta"
+ },
+ "fatos": {
+  "EB distrofica, rara e sem cura": "IMG_3868 / IMG_5709",
+  "a pele arde, sangra e ela so consegue chorar de dor": "IMG_4227 0,76-6,10",
+  "os curativos aliviam": "IMG_4484 / IMG_5709",
+  "curativos acabando": "IMG_6452 (30/10) 'Nao temos quase nada de curativo para os cuidados dessa semana'",
+  "dois ou cinco reais, tratamento dessa semana": "IMG_6418 (30/10)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 64\\AEB 100 - BIB ORACOES RESPOSTA.mp4",
+ "ajuste_05_11": "pedido do usuário: igreja católica no lugar das velas, legenda no estilo UNICEF (posta pelo leg_unicef.py), sem P&B"
+}

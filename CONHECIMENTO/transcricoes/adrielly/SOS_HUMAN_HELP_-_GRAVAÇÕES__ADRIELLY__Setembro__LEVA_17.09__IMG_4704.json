@@ -1,0 +1,184 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Se você puder me ajudar a continuar o meu tratamento, obrigada de coração",
+ "words": [
+  {
+   "text": "Se",
+   "start": 1.1,
+   "end": 1.22,
+   "type": "word",
+   "logprob": -0.0001699779968475923
+  },
+  {
+   "text": " ",
+   "start": 1.22,
+   "end": 1.34,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "você",
+   "start": 1.34,
+   "end": 1.88,
+   "type": "word",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": " ",
+   "start": 1.88,
+   "end": 2.06,
+   "type": "spacing",
+   "logprob": -2.169585604860913e-05
+  },
+  {
+   "text": "puder",
+   "start": 2.06,
+   "end": 2.5,
+   "type": "word",
+   "logprob": -1.3255932140054938e-05
+  },
+  {
+   "text": " ",
+   "start": 2.5,
+   "end": 2.66,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "me",
+   "start": 2.66,
+   "end": 2.74,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.74,
+   "end": 2.8,
+   "type": "spacing",
+   "logprob": -1.8358061424805783e-05
+  },
+  {
+   "text": "ajudar",
+   "start": 2.8,
+   "end": 3.3,
+   "type": "word",
+   "logprob": -1.8358061424805783e-05
+  },
+  {
+   "text": " ",
+   "start": 3.3,
+   "end": 3.8,
+   "type": "spacing",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": "a",
+   "start": 3.8,
+   "end": 3.84,
+   "type": "word",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": " ",
+   "start": 3.84,
+   "end": 3.96,
+   "type": "spacing",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": "continuar",
+   "start": 3.96,
+   "end": 4.52,
+   "type": "word",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": " ",
+   "start": 4.52,
+   "end": 4.58,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "o",
+   "start": 4.58,
+   "end": 4.66,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 4.66,
+   "end": 4.72,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "meu",
+   "start": 4.72,
+   "end": 4.88,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 4.88,
+   "end": 4.92,
+   "type": "spacing",
+   "logprob": -3.85038583772257e-05
+  },
+  {
+   "text": "tratamento,",
+   "start": 4.92,
+   "end": 5.72,
+   "type": "word",
+   "logprob": -5.126870184374804e-05
+  },
+  {
+   "text": " ",
+   "start": 5.72,
+   "end": 5.72,
+   "type": "spacing",
+   "logprob": -7.986703712958843e-05
+  },
+  {
+   "text": "obrigada",
+   "start": 6.38,
+   "end": 7.12,
+   "type": "word",
+   "logprob": -5.0810966854442086e-05
+  },
+  {
+   "text": " ",
+   "start": 7.12,
+   "end": 7.42,
+   "type": "spacing",
+   "logprob": -2.0265558760002023e-06
+  },
+  {
+   "text": "de",
+   "start": 7.42,
+   "end": 7.56,
+   "type": "word",
+   "logprob": -2.0265558760002023e-06
+  },
+  {
+   "text": " ",
+   "start": 7.56,
+   "end": 7.6,
+   "type": "spacing",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": "coração",
+   "start": 7.6,
+   "end": 8.36,
+   "type": "word",
+   "logprob": -4.291525328881107e-06
+  }
+ ],
+ "transcription_id": "YtUckylpZIz2IMDZwrkN",
+ "audio_duration_secs": 9.5316875
+}

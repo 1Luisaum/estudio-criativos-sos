@@ -1,0 +1,254 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Estou gravando esse pedido de ajuda com muita dor. Somos só eu e minha mãe aqui em casa",
+ "words": [
+  {
+   "text": "Estou",
+   "start": 0.98,
+   "end": 1.38,
+   "type": "word",
+   "logprob": -0.0007896029759649536
+  },
+  {
+   "text": " ",
+   "start": 1.38,
+   "end": 1.44,
+   "type": "spacing",
+   "logprob": -1.7046782886609435e-05
+  },
+  {
+   "text": "gravando",
+   "start": 1.44,
+   "end": 2.26,
+   "type": "word",
+   "logprob": -9.11943754999811e-06
+  },
+  {
+   "text": " ",
+   "start": 2.26,
+   "end": 2.56,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "esse",
+   "start": 2.56,
+   "end": 2.84,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 2.84,
+   "end": 2.94,
+   "type": "spacing",
+   "logprob": -0.007701348513364792
+  },
+  {
+   "text": "pedido",
+   "start": 2.94,
+   "end": 3.3,
+   "type": "word",
+   "logprob": -0.007701348513364792
+  },
+  {
+   "text": " ",
+   "start": 3.3,
+   "end": 3.38,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "de",
+   "start": 3.38,
+   "end": 3.46,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 3.46,
+   "end": 3.52,
+   "type": "spacing",
+   "logprob": -5.364403477869928e-06
+  },
+  {
+   "text": "ajuda",
+   "start": 3.52,
+   "end": 4.12,
+   "type": "word",
+   "logprob": -5.364403477869928e-06
+  },
+  {
+   "text": " ",
+   "start": 4.12,
+   "end": 4.12,
+   "type": "spacing",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": "com",
+   "start": 4.68,
+   "end": 4.84,
+   "type": "word",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": " ",
+   "start": 4.84,
+   "end": 4.9,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "muita",
+   "start": 4.9,
+   "end": 5.32,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 5.32,
+   "end": 5.36,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "dor.",
+   "start": 5.36,
+   "end": 5.68,
+   "type": "word",
+   "logprob": -1.636098534163466e-05
+  },
+  {
+   "text": " ",
+   "start": 5.68,
+   "end": 5.68,
+   "type": "spacing",
+   "logprob": -5.590759246842936e-05
+  },
+  {
+   "text": "Somos",
+   "start": 6.28,
+   "end": 6.62,
+   "type": "word",
+   "logprob": -5.590759246842936e-05
+  },
+  {
+   "text": " ",
+   "start": 6.62,
+   "end": 6.68,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "só",
+   "start": 6.68,
+   "end": 6.9,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.9,
+   "end": 6.94,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "eu",
+   "start": 6.96,
+   "end": 7.26,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 7.26,
+   "end": 7.26,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "e",
+   "start": 7.68,
+   "end": 7.76,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 7.76,
+   "end": 7.82,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "minha",
+   "start": 7.82,
+   "end": 8.119,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 8.119,
+   "end": 8.18,
+   "type": "spacing",
+   "logprob": -9.131014667218551e-05
+  },
+  {
+   "text": "mãe",
+   "start": 8.18,
+   "end": 8.58,
+   "type": "word",
+   "logprob": -9.131014667218551e-05
+  },
+  {
+   "text": " ",
+   "start": 8.58,
+   "end": 8.8,
+   "type": "spacing",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": "aqui",
+   "start": 8.8,
+   "end": 9.12,
+   "type": "word",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": " ",
+   "start": 9.12,
+   "end": 9.14,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "em",
+   "start": 9.14,
+   "end": 9.24,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.24,
+   "end": 9.36,
+   "type": "spacing",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": "casa",
+   "start": 9.36,
+   "end": 9.86,
+   "type": "word",
+   "logprob": -1.07287787614041e-05
+  }
+ ],
+ "transcription_id": "M9K1yHsTgYDe13z5d7dW",
+ "audio_duration_secs": 10.2983125
+}

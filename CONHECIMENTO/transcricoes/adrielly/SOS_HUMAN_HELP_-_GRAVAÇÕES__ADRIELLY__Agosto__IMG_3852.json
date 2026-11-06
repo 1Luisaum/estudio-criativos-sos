@@ -1,0 +1,352 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Ontem a advogada me disse que o governo negou o meu pedido de curativo. Ai, meu Deus! Será que eles acham que eu não preciso?",
+ "words": [
+  {
+   "text": "Ontem",
+   "start": 0.38,
+   "end": 0.92,
+   "type": "word",
+   "logprob": -0.001449681083613541
+  },
+  {
+   "text": " ",
+   "start": 0.92,
+   "end": 1.1,
+   "type": "spacing",
+   "logprob": -0.006715348921716213
+  },
+  {
+   "text": "a",
+   "start": 1.1,
+   "end": 1.2,
+   "type": "word",
+   "logprob": -0.006715348921716213
+  },
+  {
+   "text": " ",
+   "start": 1.2,
+   "end": 1.26,
+   "type": "spacing",
+   "logprob": -5.340433563105762e-05
+  },
+  {
+   "text": "advogada",
+   "start": 1.26,
+   "end": 2.14,
+   "type": "word",
+   "logprob": -3.434625944009895e-05
+  },
+  {
+   "text": " ",
+   "start": 2.14,
+   "end": 2.18,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 2.18,
+   "end": 2.32,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 2.32,
+   "end": 2.42,
+   "type": "spacing",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": "disse",
+   "start": 2.42,
+   "end": 2.9,
+   "type": "word",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": " ",
+   "start": 2.9,
+   "end": 3.44,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "que",
+   "start": 3.44,
+   "end": 3.54,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 3.54,
+   "end": 3.56,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "o",
+   "start": 3.56,
+   "end": 3.62,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 3.62,
+   "end": 3.68,
+   "type": "spacing",
+   "logprob": -0.011110581457614899
+  },
+  {
+   "text": "governo",
+   "start": 3.68,
+   "end": 4.42,
+   "type": "word",
+   "logprob": -0.011110581457614899
+  },
+  {
+   "text": " ",
+   "start": 4.42,
+   "end": 4.5,
+   "type": "spacing",
+   "logprob": -0.00010883215873036534
+  },
+  {
+   "text": "negou",
+   "start": 4.5,
+   "end": 5.0,
+   "type": "word",
+   "logprob": -6.534697895119735e-05
+  },
+  {
+   "text": " ",
+   "start": 5.0,
+   "end": 5.34,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "o",
+   "start": 5.34,
+   "end": 5.4,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 5.4,
+   "end": 5.46,
+   "type": "spacing",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": "meu",
+   "start": 5.46,
+   "end": 5.62,
+   "type": "word",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": " ",
+   "start": 5.62,
+   "end": 5.66,
+   "type": "spacing",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": "pedido",
+   "start": 5.66,
+   "end": 6.16,
+   "type": "word",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": " ",
+   "start": 6.16,
+   "end": 6.2,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "de",
+   "start": 6.2,
+   "end": 6.34,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.34,
+   "end": 6.38,
+   "type": "spacing",
+   "logprob": -2.312633478140924e-05
+  },
+  {
+   "text": "curativo.",
+   "start": 6.38,
+   "end": 7.2,
+   "type": "word",
+   "logprob": -8.874379141666901e-06
+  },
+  {
+   "text": " ",
+   "start": 7.2,
+   "end": 7.26,
+   "type": "spacing",
+   "logprob": -0.00032419670606032014
+  },
+  {
+   "text": "Ai,",
+   "start": 7.94,
+   "end": 8.16,
+   "type": "word",
+   "logprob": -0.0022143953246995807
+  },
+  {
+   "text": " ",
+   "start": 8.16,
+   "end": 8.2,
+   "type": "spacing",
+   "logprob": -0.00010966652916977182
+  },
+  {
+   "text": "meu",
+   "start": 8.2,
+   "end": 8.38,
+   "type": "word",
+   "logprob": -0.00010966652916977182
+  },
+  {
+   "text": " ",
+   "start": 8.38,
+   "end": 8.5,
+   "type": "spacing",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": "Deus!",
+   "start": 8.5,
+   "end": 8.92,
+   "type": "word",
+   "logprob": -0.06266634463827359
+  },
+  {
+   "text": " ",
+   "start": 8.92,
+   "end": 8.92,
+   "type": "spacing",
+   "logprob": -1.5258672647178173e-05
+  },
+  {
+   "text": "Será",
+   "start": 9.5,
+   "end": 10.06,
+   "type": "word",
+   "logprob": -1.5258672647178173e-05
+  },
+  {
+   "text": " ",
+   "start": 10.06,
+   "end": 10.22,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "que",
+   "start": 10.22,
+   "end": 10.3,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 10.3,
+   "end": 10.36,
+   "type": "spacing",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": "eles",
+   "start": 10.36,
+   "end": 10.68,
+   "type": "word",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": " ",
+   "start": 10.68,
+   "end": 10.9,
+   "type": "spacing",
+   "logprob": -2.276871418871451e-05
+  },
+  {
+   "text": "acham",
+   "start": 10.92,
+   "end": 11.3,
+   "type": "word",
+   "logprob": -1.3661228513228707e-05
+  },
+  {
+   "text": " ",
+   "start": 11.3,
+   "end": 11.7,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 11.7,
+   "end": 11.76,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 11.76,
+   "end": 11.8,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "eu",
+   "start": 11.8,
+   "end": 11.88,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 11.88,
+   "end": 11.92,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "não",
+   "start": 11.92,
+   "end": 12.1,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 12.1,
+   "end": 12.14,
+   "type": "spacing",
+   "logprob": -0.00028951745480298996
+  },
+  {
+   "text": "preciso?",
+   "start": 12.14,
+   "end": 12.94,
+   "type": "word",
+   "logprob": -0.00033256193273700774
+  }
+ ],
+ "transcription_id": "s2ZVLJKQXzzjNZEkZ1vQ",
+ "audio_duration_secs": 13.8316875
+}

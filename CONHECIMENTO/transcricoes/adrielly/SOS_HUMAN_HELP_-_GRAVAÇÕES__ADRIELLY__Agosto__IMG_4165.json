@@ -1,0 +1,198 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Por favor, eu e minha mãe precisamos muito de você. Me ajuda de coração?",
+ "words": [
+  {
+   "text": "Por",
+   "start": 0.4,
+   "end": 0.52,
+   "type": "word",
+   "logprob": -0.01821574941277504
+  },
+  {
+   "text": " ",
+   "start": 0.52,
+   "end": 0.64,
+   "type": "spacing",
+   "logprob": -6.318072337307967e-06
+  },
+  {
+   "text": "favor,",
+   "start": 0.64,
+   "end": 1.18,
+   "type": "word",
+   "logprob": -3.252202229001947e-05
+  },
+  {
+   "text": " ",
+   "start": 1.18,
+   "end": 1.18,
+   "type": "spacing",
+   "logprob": -3.2186455882765586e-06
+  },
+  {
+   "text": "eu",
+   "start": 1.86,
+   "end": 1.98,
+   "type": "word",
+   "logprob": -3.2186455882765586e-06
+  },
+  {
+   "text": " ",
+   "start": 1.98,
+   "end": 2.02,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "e",
+   "start": 2.02,
+   "end": 2.12,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 2.12,
+   "end": 2.16,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "minha",
+   "start": 2.16,
+   "end": 2.44,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.44,
+   "end": 2.5,
+   "type": "spacing",
+   "logprob": -0.00010656742961145937
+  },
+  {
+   "text": "mãe",
+   "start": 2.5,
+   "end": 2.86,
+   "type": "word",
+   "logprob": -0.00010656742961145937
+  },
+  {
+   "text": " ",
+   "start": 2.86,
+   "end": 3.38,
+   "type": "spacing",
+   "logprob": -0.00033146608620882034
+  },
+  {
+   "text": "precisamos",
+   "start": 3.38,
+   "end": 4.48,
+   "type": "word",
+   "logprob": -0.00033146608620882034
+  },
+  {
+   "text": " ",
+   "start": 4.48,
+   "end": 4.48,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "muito",
+   "start": 5.02,
+   "end": 5.38,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 5.38,
+   "end": 5.44,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 5.44,
+   "end": 5.56,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 5.56,
+   "end": 5.62,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "você.",
+   "start": 5.62,
+   "end": 6.08,
+   "type": "word",
+   "logprob": -4.810730988538126e-05
+  },
+  {
+   "text": " ",
+   "start": 6.08,
+   "end": 6.08,
+   "type": "spacing",
+   "logprob": -4.172316494077677e-06
+  },
+  {
+   "text": "Me",
+   "start": 6.9,
+   "end": 7.02,
+   "type": "word",
+   "logprob": -4.172316494077677e-06
+  },
+  {
+   "text": " ",
+   "start": 7.02,
+   "end": 7.1,
+   "type": "spacing",
+   "logprob": -3.3854863431770355e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 7.16,
+   "end": 7.66,
+   "type": "word",
+   "logprob": -3.3854863431770355e-05
+  },
+  {
+   "text": " ",
+   "start": 7.66,
+   "end": 7.72,
+   "type": "spacing",
+   "logprob": -3.540453326422721e-05
+  },
+  {
+   "text": "de",
+   "start": 7.72,
+   "end": 7.8,
+   "type": "word",
+   "logprob": -3.540453326422721e-05
+  },
+  {
+   "text": " ",
+   "start": 7.8,
+   "end": 7.86,
+   "type": "spacing",
+   "logprob": -1.3351351299206726e-05
+  },
+  {
+   "text": "coração?",
+   "start": 7.86,
+   "end": 8.56,
+   "type": "word",
+   "logprob": -0.00017780935218070226
+  }
+ ],
+ "transcription_id": "tjA1EflQsAowFtLEWnPt",
+ "audio_duration_secs": 9.7316875
+}

@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Ele conhece a regra. A família também. O problema começa quando a regra encontra a falta de material.",
+  "OFF2": "Não é descuido. Se dependesse de vontade, o menino teria tudo.",
+  "OFF3": "A mãe, que faz as trocas, repete o mesmo desejo com outras palavras.",
+  "OFF4": "A falta, aqui, não é de cuidado. É de faixa, de gaze e de dinheiro.",
+  "OFF5": "Com dez reais, você ajuda a SOS Human Help a garantir curativo para a próxima troca.",
+  "OFF6": "Clique em Saiba mais. Para ele, curativo novo não é luxo."
+ }
+}

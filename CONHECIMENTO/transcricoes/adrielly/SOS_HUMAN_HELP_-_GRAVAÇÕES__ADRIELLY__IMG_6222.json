@@ -1,0 +1,282 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu ainda estou viva e quero viver mais ainda. Se você é um filho de Deus, me escuta, por favor",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.52,
+   "end": 0.7,
+   "type": "word",
+   "logprob": -0.002050679875537753
+  },
+  {
+   "text": " ",
+   "start": 0.7,
+   "end": 0.78,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "ainda",
+   "start": 0.78,
+   "end": 1.36,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 1.36,
+   "end": 1.6,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "estou",
+   "start": 1.6,
+   "end": 2.02,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 2.02,
+   "end": 2.1,
+   "type": "spacing",
+   "logprob": -1.6331539882230572e-05
+  },
+  {
+   "text": "viva",
+   "start": 2.1,
+   "end": 2.5,
+   "type": "word",
+   "logprob": -1.6331539882230572e-05
+  },
+  {
+   "text": " ",
+   "start": 2.5,
+   "end": 3.0,
+   "type": "spacing",
+   "logprob": -3.1709168979432434e-05
+  },
+  {
+   "text": "e",
+   "start": 3.0,
+   "end": 3.04,
+   "type": "word",
+   "logprob": -3.1709168979432434e-05
+  },
+  {
+   "text": " ",
+   "start": 3.04,
+   "end": 3.18,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "quero",
+   "start": 3.18,
+   "end": 3.5,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 3.5,
+   "end": 3.56,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "viver",
+   "start": 3.56,
+   "end": 3.88,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 3.88,
+   "end": 3.94,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "mais",
+   "start": 3.94,
+   "end": 4.2,
+   "type": "word",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": " ",
+   "start": 4.2,
+   "end": 4.32,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "ainda.",
+   "start": 4.32,
+   "end": 4.72,
+   "type": "word",
+   "logprob": -2.622589420298027e-06
+  },
+  {
+   "text": " ",
+   "start": 4.72,
+   "end": 4.72,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "Se",
+   "start": 5.46,
+   "end": 5.64,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 5.64,
+   "end": 5.7,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "você",
+   "start": 5.7,
+   "end": 6.42,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 6.42,
+   "end": 6.52,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "é",
+   "start": 6.52,
+   "end": 6.6,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.6,
+   "end": 6.64,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "um",
+   "start": 6.64,
+   "end": 6.78,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.78,
+   "end": 6.84,
+   "type": "spacing",
+   "logprob": -7.748573807475623e-06
+  },
+  {
+   "text": "filho",
+   "start": 6.84,
+   "end": 7.14,
+   "type": "word",
+   "logprob": -7.748573807475623e-06
+  },
+  {
+   "text": " ",
+   "start": 7.14,
+   "end": 7.18,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "de",
+   "start": 7.18,
+   "end": 7.28,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 7.28,
+   "end": 7.36,
+   "type": "spacing",
+   "logprob": -1.680836794548668e-05
+  },
+  {
+   "text": "Deus,",
+   "start": 7.36,
+   "end": 7.84,
+   "type": "word",
+   "logprob": -0.00013888704415876418
+  },
+  {
+   "text": " ",
+   "start": 7.84,
+   "end": 7.84,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "me",
+   "start": 8.38,
+   "end": 8.48,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 8.48,
+   "end": 8.54,
+   "type": "spacing",
+   "logprob": -2.610649426060263e-05
+  },
+  {
+   "text": "escuta,",
+   "start": 8.54,
+   "end": 9.12,
+   "type": "word",
+   "logprob": -0.0042616223255436125
+  },
+  {
+   "text": " ",
+   "start": 9.12,
+   "end": 9.26,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "por",
+   "start": 9.26,
+   "end": 9.4,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 9.4,
+   "end": 9.48,
+   "type": "spacing",
+   "logprob": -2.8013790142722428e-05
+  },
+  {
+   "text": "favor",
+   "start": 9.48,
+   "end": 9.96,
+   "type": "word",
+   "logprob": -2.8013790142722428e-05
+  }
+ ],
+ "transcription_id": "XU90NKAFbc0eU3SiTc4c",
+ "audio_duration_secs": 11.065
+}

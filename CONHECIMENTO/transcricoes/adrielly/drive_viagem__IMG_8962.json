@@ -1,0 +1,97 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Vai acabar, Adrielly? Vai. E, bom",
+ "words": [
+  {
+   "text": "Vai",
+   "start": 0.0,
+   "end": 0.12,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.2881168723106384
+  },
+  {
+   "text": " ",
+   "start": 0.12,
+   "end": 0.18,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.2666337192058563
+  },
+  {
+   "text": "acabar,",
+   "start": 0.18,
+   "end": 0.54,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.2533907060112272
+  },
+  {
+   "text": " ",
+   "start": 0.54,
+   "end": 0.54,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.006240169517695904
+  },
+  {
+   "text": "Adrielly?",
+   "start": 0.54,
+   "end": 0.86,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.04579282086342573
+  },
+  {
+   "text": " ",
+   "start": 0.86,
+   "end": 1.32,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.169327974319458
+  },
+  {
+   "text": "Vai.",
+   "start": 1.38,
+   "end": 1.7,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -0.08887029252946377
+  },
+  {
+   "text": " ",
+   "start": 1.7,
+   "end": 1.7,
+   "type": "spacing",
+   "speaker_id": "speaker_1",
+   "logprob": -0.0934906080365181
+  },
+  {
+   "text": "E,",
+   "start": 4.72,
+   "end": 4.74,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.060355438850820065
+  },
+  {
+   "text": " ",
+   "start": 4.74,
+   "end": 4.76,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.35836291313171387
+  },
+  {
+   "text": "bom",
+   "start": 4.76,
+   "end": 4.92,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.35836291313171387
+  }
+ ],
+ "transcription_id": "ufOMuLg17TDt1qQTDSL8",
+ "audio_duration_secs": 5.2983125
+}

@@ -1,0 +1,178 @@
+{
+ "nome": "Adrielly_caixas_pedido_var76_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "gancho": "placa com o entrevistador (IMG_8977) + a gente precisa muito da sua ajuda",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/cortes/salmo_121.mp3",
+ "musica_volume": 0.034,
+ "fatos": {
+  "falas": "brutos IMG_8945, 9004, 9005 (Drive, Bruto viagem/Balbino), 3651, 3666, 5487, 6420, 6423",
+  "EB": "IMG_9004 / IMG_9005",
+  "R$5": "IMG_8945 / IMG_6420",
+  "R$90 mil por mês": "IMG_9004 / IMG_9005"
+ },
+ "modelo": "edição do AEB 35 (criativo-caixas-pedido-ong)",
+ "teste": "variação do AEB 76 do Drive com a edição do AEB 35 (30/10/2026)",
+ "frases": [
+  {
+   "nome": "h1",
+   "cortes": [
+    [
+     353.32,
+     354.58
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_8977.MOV",
+     1.0
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "O TRATAMENTO COMPLETO CUSTA",
+    "NOVENTA MIL REAIS POR MÊS"
+   ],
+   "texto_verde_y": 1560,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_9004.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_var76_v1/tx/IMG_9004.json"
+  },
+  {
+   "nome": "c1",
+   "cortes": [
+    [
+     293.24,
+     300.98
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_9004.MOV",
+     293.18
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_9004.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_var76_v1/tx/IMG_9004.json"
+  },
+  {
+   "nome": "c2",
+   "cortes": [
+    [
+     301.74,
+     303.9
+    ],
+    [
+     304.18,
+     304.68
+    ],
+    [
+     306.62,
+     307.74
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_8999.MOV",
+     18.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     21.7
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     11.0
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_9004.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_var76_v1/tx/IMG_9004.json"
+  },
+  {
+   "nome": "c3",
+   "cortes": [
+    [
+     358.54,
+     362.54
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     5.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     4.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_8973.MOV",
+     3.0
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_9004.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_var76_v1/tx/IMG_9004.json"
+  },
+  {
+   "nome": "c4",
+   "cortes": [
+    [
+     383.28,
+     389.56
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_9004.MOV",
+     383.22
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/DRIVE - VIAGEM/IMG_9004.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_var76_v1/tx/IMG_9004.json"
+  },
+  {
+   "nome": "c5",
+   "cortes": [
+    [
+     0.34,
+     3.04
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo Urgutul silver 15x15.jpeg",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6420.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_var76_v1/tx/IMG_6420.json"
+  },
+  {
+   "nome": "c6",
+   "cortes": [
+    [
+     4.06,
+     6.36
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png",
+   "final": true,
+   "texto_verde": [
+    "CLIQUE EM SAIBA MAIS",
+    "E AJUDE A ADRIELLY"
+   ],
+   "texto_verde_y": 1660,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6420.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_var76_v1/tx/IMG_6420.json"
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "ADRIELLY TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS ESPECIAIS QUE CUSTAM CARO"
+  ],
+  "topo_y": 240,
+  "valor": "R$5,00",
+  "valor_linhas": [
+   "DEIXAM A ADRIELLY MAIS PERTO DE COMPRAR",
+   "OS CURATIVOS DO TRATAMENTO DELA"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "final_extra": 2.2,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 51\\AEB 89 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

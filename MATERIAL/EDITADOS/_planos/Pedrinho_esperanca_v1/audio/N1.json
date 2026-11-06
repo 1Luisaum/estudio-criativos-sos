@@ -1,0 +1,70 @@
+{
+ "text": "São bolhas de sangue, feridas abertas e horas de curativo. Todos os dias.",
+ "words": [
+  {
+   "text": "São",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "bolhas",
+   "start": 0.244,
+   "end": 0.488
+  },
+  {
+   "text": "de",
+   "start": 0.511,
+   "end": 0.561
+  },
+  {
+   "text": "sangue,",
+   "start": 0.639,
+   "end": 1.196
+  },
+  {
+   "text": "feridas",
+   "start": 1.28,
+   "end": 1.674
+  },
+  {
+   "text": "abertas",
+   "start": 1.744,
+   "end": 2.475
+  },
+  {
+   "text": "e",
+   "start": 2.603,
+   "end": 2.789
+  },
+  {
+   "text": "horas",
+   "start": 2.824,
+   "end": 3.114
+  },
+  {
+   "text": "de",
+   "start": 3.149,
+   "end": 3.207
+  },
+  {
+   "text": "curativo.",
+   "start": 3.253,
+   "end": 4.007
+  },
+  {
+   "text": "Todos",
+   "start": 4.007,
+   "end": 4.282
+  },
+  {
+   "text": "os",
+   "start": 4.351,
+   "end": 4.421
+  },
+  {
+   "text": "dias.",
+   "start": 4.456,
+   "end": 5.171
+  }
+ ]
+}

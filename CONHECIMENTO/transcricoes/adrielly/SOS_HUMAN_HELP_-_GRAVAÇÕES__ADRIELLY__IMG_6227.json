@@ -1,0 +1,128 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu preciso de mais de R$ 90.000 em curativo",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.38,
+   "end": 0.5,
+   "type": "word",
+   "logprob": -0.0008463853155262768
+  },
+  {
+   "text": " ",
+   "start": 0.5,
+   "end": 0.6,
+   "type": "spacing",
+   "logprob": -9.881961887003854e-05
+  },
+  {
+   "text": "preciso",
+   "start": 0.6,
+   "end": 1.42,
+   "type": "word",
+   "logprob": -9.881961887003854e-05
+  },
+  {
+   "text": " ",
+   "start": 1.42,
+   "end": 1.5,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 1.5,
+   "end": 1.62,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 1.62,
+   "end": 1.66,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "mais",
+   "start": 1.66,
+   "end": 1.92,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 1.92,
+   "end": 1.98,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "de",
+   "start": 1.98,
+   "end": 2.08,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 2.08,
+   "end": 2.1,
+   "type": "spacing",
+   "logprob": -0.029839975759387016
+  },
+  {
+   "text": "R$",
+   "start": 2.1,
+   "end": 2.12,
+   "type": "word",
+   "logprob": -0.015203863818896934
+  },
+  {
+   "text": " ",
+   "start": 2.12,
+   "end": 2.46,
+   "type": "spacing",
+   "logprob": -0.004620352294296026
+  },
+  {
+   "text": "90.000",
+   "start": 2.46,
+   "end": 3.0,
+   "type": "word",
+   "logprob": -0.07148681581006026
+  },
+  {
+   "text": " ",
+   "start": 3.0,
+   "end": 3.0,
+   "type": "spacing",
+   "logprob": -0.0005548844928853214
+  },
+  {
+   "text": "em",
+   "start": 4.26,
+   "end": 4.42,
+   "type": "word",
+   "logprob": -0.0005548844928853214
+  },
+  {
+   "text": " ",
+   "start": 4.42,
+   "end": 4.48,
+   "type": "spacing",
+   "logprob": -8.106198947643861e-06
+  },
+  {
+   "text": "curativo",
+   "start": 4.48,
+   "end": 5.42,
+   "type": "word",
+   "logprob": -1.4364604794536717e-05
+  }
+ ],
+ "transcription_id": "LXuB3BxzUi3mvtX0vkdb",
+ "audio_duration_secs": 6.1666875
+}

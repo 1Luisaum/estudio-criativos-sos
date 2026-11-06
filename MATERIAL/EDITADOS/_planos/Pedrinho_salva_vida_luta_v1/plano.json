@@ -1,0 +1,52 @@
+{
+ "nome": "Pedrinho_salva_vida_luta_v1",
+ "referencia": "Ampara Brasil, anuncio 1473150411323796: sem fala, valor grande e faixa branca com o pedido no alto, cenas intimas lentas com fusao",
+ "angulo": "lute junto com o Pedrinho",
+ "valor": "R$10,00",
+ "pedido": "LUTE JUNTO COM O PEDRINHO❤️",
+ "topo_y": 180,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "transicao": 0.6,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 5.5,
+   "start": 8.0,
+   "zoom": 1.4,
+   "topo": true,
+   "lado": "direita"
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 5.0,
+   "start": 166.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 5.0,
+   "start": 58.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 5.0,
+   "start": 238.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+   "dur": 5.0,
+   "start": 4.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_salva_vida_luta_v1/fotos/20250401_204159.png",
+   "dur": 5.0,
+   "fonte_original": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20250401_204159.jpg"
+  }
+ ],
+ "fatos": {
+  "luta com a gente": "Pedrinho, banco Roteiro 3 (52-56 s: 'E se você puder, luta com a gente')",
+  "R$10": "valor padrao",
+  "cenas": "banco do Pedrinho"
+ },
+ "modelo": "lote de 30 (27/10/2026), frente D",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 31\\PEB 131 - SALVA VIDA.mp4"
+}

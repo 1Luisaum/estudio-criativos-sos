@@ -1,0 +1,324 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Mas não precisa ser assim. O tratamento existe e eu te peço ajuda, por favor, se sentir no coração, me ajuda de coração?",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.82,
+   "end": 1.04,
+   "type": "word",
+   "logprob": -0.0004807746736332774
+  },
+  {
+   "text": " ",
+   "start": 1.04,
+   "end": 1.06,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "não",
+   "start": 1.06,
+   "end": 1.24,
+   "type": "word",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": " ",
+   "start": 1.24,
+   "end": 1.28,
+   "type": "spacing",
+   "logprob": -2.0265373677830212e-05
+  },
+  {
+   "text": "precisa",
+   "start": 1.28,
+   "end": 2.02,
+   "type": "word",
+   "logprob": -2.0265373677830212e-05
+  },
+  {
+   "text": " ",
+   "start": 2.02,
+   "end": 2.36,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "ser",
+   "start": 2.36,
+   "end": 2.54,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 2.54,
+   "end": 2.6,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "assim.",
+   "start": 2.6,
+   "end": 3.04,
+   "type": "word",
+   "logprob": -9.28583126646269e-05
+  },
+  {
+   "text": " ",
+   "start": 3.04,
+   "end": 3.04,
+   "type": "spacing",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": "O",
+   "start": 3.58,
+   "end": 3.7,
+   "type": "word",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": " ",
+   "start": 3.7,
+   "end": 3.72,
+   "type": "spacing",
+   "logprob": -0.00037174468161538243
+  },
+  {
+   "text": "tratamento",
+   "start": 3.72,
+   "end": 4.52,
+   "type": "word",
+   "logprob": -0.00037174468161538243
+  },
+  {
+   "text": " ",
+   "start": 4.52,
+   "end": 4.52,
+   "type": "spacing",
+   "logprob": -3.290122185717337e-05
+  },
+  {
+   "text": "existe",
+   "start": 4.94,
+   "end": 5.58,
+   "type": "word",
+   "logprob": -3.290122185717337e-05
+  },
+  {
+   "text": " ",
+   "start": 5.58,
+   "end": 6.04,
+   "type": "spacing",
+   "logprob": -0.0005532164941541851
+  },
+  {
+   "text": "e",
+   "start": 6.06,
+   "end": 6.08,
+   "type": "word",
+   "logprob": -0.0005532164941541851
+  },
+  {
+   "text": " ",
+   "start": 6.08,
+   "end": 6.12,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "eu",
+   "start": 6.12,
+   "end": 6.2,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 6.2,
+   "end": 6.26,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "te",
+   "start": 6.26,
+   "end": 6.36,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.36,
+   "end": 6.4,
+   "type": "spacing",
+   "logprob": -9.202533692587167e-05
+  },
+  {
+   "text": "peço",
+   "start": 6.4,
+   "end": 6.66,
+   "type": "word",
+   "logprob": -4.607227310415851e-05
+  },
+  {
+   "text": " ",
+   "start": 6.66,
+   "end": 6.74,
+   "type": "spacing",
+   "logprob": -0.00028010259848088026
+  },
+  {
+   "text": "ajuda,",
+   "start": 6.74,
+   "end": 7.26,
+   "type": "word",
+   "logprob": -0.0002569212738308124
+  },
+  {
+   "text": " ",
+   "start": 7.26,
+   "end": 7.26,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "por",
+   "start": 7.72,
+   "end": 7.88,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 7.88,
+   "end": 7.94,
+   "type": "spacing",
+   "logprob": -4.9828242481453344e-05
+  },
+  {
+   "text": "favor,",
+   "start": 7.94,
+   "end": 8.4,
+   "type": "word",
+   "logprob": -7.99442344335451e-05
+  },
+  {
+   "text": " ",
+   "start": 8.4,
+   "end": 8.4,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "se",
+   "start": 8.88,
+   "end": 8.98,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 8.98,
+   "end": 9.04,
+   "type": "spacing",
+   "logprob": -0.0028393452521413565
+  },
+  {
+   "text": "sentir",
+   "start": 9.04,
+   "end": 9.44,
+   "type": "word",
+   "logprob": -0.0028393452521413565
+  },
+  {
+   "text": " ",
+   "start": 9.44,
+   "end": 9.48,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "no",
+   "start": 9.48,
+   "end": 9.6,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 9.6,
+   "end": 9.64,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "coração,",
+   "start": 9.64,
+   "end": 10.3,
+   "type": "word",
+   "logprob": -3.0588516594320936e-05
+  },
+  {
+   "text": " ",
+   "start": 10.3,
+   "end": 10.3,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "me",
+   "start": 10.92,
+   "end": 11.0,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 11.0,
+   "end": 11.08,
+   "type": "spacing",
+   "logprob": -2.7417760065873154e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 11.08,
+   "end": 11.64,
+   "type": "word",
+   "logprob": -2.7417760065873154e-05
+  },
+  {
+   "text": " ",
+   "start": 11.64,
+   "end": 11.92,
+   "type": "spacing",
+   "logprob": -0.0002759314374998212
+  },
+  {
+   "text": "de",
+   "start": 11.92,
+   "end": 12.02,
+   "type": "word",
+   "logprob": -0.0002759314374998212
+  },
+  {
+   "text": " ",
+   "start": 12.02,
+   "end": 12.06,
+   "type": "spacing",
+   "logprob": -1.5139465176616795e-05
+  },
+  {
+   "text": "coração?",
+   "start": 12.06,
+   "end": 12.7,
+   "type": "word",
+   "logprob": -0.014126143317980677
+  }
+ ],
+ "transcription_id": "NuKHjbgDPveQL3XUcxXt",
+ "audio_duration_secs": 13.943375
+}

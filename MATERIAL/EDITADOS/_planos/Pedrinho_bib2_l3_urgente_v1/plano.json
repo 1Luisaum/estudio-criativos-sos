@@ -1,0 +1,139 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\leaodejuda_29061162426836111.mp4",
+ "estilo": "BIB L3 URGENTE",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 0.5,
+   "fim": 3.0,
+   "som": false,
+   "pb": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 1.5,
+   "fim": 2.95,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 3.45,
+   "fim": 7.05,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 10.35,
+   "fim": 12.85,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 13.25,
+   "fim": 16.95,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 19.0,
+   "fim": 22.4,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 22.7,
+   "fim": 23.7,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 26.9,
+   "fim": 28.65,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 31.7,
+   "fim": 34.55,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 34.9,
+   "fim": 38.25,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 38.7,
+   "fim": 40.6,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 41.0,
+   "fim": 43.0,
+   "som": true
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 2.5,
+   "linhas": [
+    "Urgente!! Os curativos do",
+    "Pedrinho estão acabando 😢"
+   ],
+   "estilo": "caixa",
+   "por_linha": true,
+   "barra": true,
+   "bg": "branco",
+   "fg": "preto",
+   "size": 48,
+   "y": 1355,
+   "alinha": "esq",
+   "x": 70,
+   "pad": [
+    12,
+    0
+   ],
+   "lh": 1.12,
+   "fonte": "medium"
+  },
+  {
+   "de": 2.5,
+   "ate": 28.0,
+   "linhas": [
+    "COM APENAS R$5,00",
+    "VOCÊ AJUDA NOS CURATIVOS",
+    "DO PEDRINHO"
+   ],
+   "estilo": "caixa",
+   "por_linha": true,
+   "bg": "preto",
+   "fg": "branco",
+   "size": 50,
+   "y": 280,
+   "fonte": "impact",
+   "pad": [
+    12,
+    0
+   ],
+   "lh": 1.08
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 28.0
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\magnific_tristes\\Fading_Ember.mp3",
+ "musica_volume": 0.18,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 59\\PEB 225 - BIB L3 URGENTE.mp4"
+}

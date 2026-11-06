@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Nem ele sabe explicar. Naquela semana, as feridas só aumentavam. E a mãe tentando dar conta de tudo.",
+  "N2": "Essa é a parte que ninguém avisa. A doença não marca dia. Não manda recado.",
+  "N3": "Imagine sentir a própria pele piorar e não saber até onde isso vai.",
+  "N4": "Tem muita coisa que ele não sabe explicar. Mas uma, ele sabe.",
+  "N5": "Clique em Saiba mais e ajude esse alívio a não faltar. Ele não precisa entender a doença. Só precisa sentir menos dor."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

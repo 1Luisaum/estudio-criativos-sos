@@ -1,0 +1,16 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v4.mp4
+  f01: chamada=290 legenda=1000 etiqueta=None
+ok f01 3.07s as pessoas se esqueceram de mim,
+  f02: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+ok f02 4.21s Até mesmo pessoas que me ajudaram, elas também sumiram
+  f03: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+ok f03 9.53s há quase quatro anos atrás eu fiz uma Vakinha eu consegui comprar quase um ano de curativos e eu tava ficando bem.
+  f04: chamada=290 legenda=1000 etiqueta=None
+ok f04 6.31s as minhas ataduras, que são as faixas, elas estão acabando e eu estou com muito medo mesmo
+  f05: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1020 etiqueta=None
+ok f05 4.01s as bolhas estão ficando cada vez, piores mesmo.
+  f06: chamada=290 legenda=540 etiqueta=None
+ok f06 8.89s E se você, puder me ajudar com dois ou, três, reais, seja com uma faixa ou com um gazes.
+  f07: chamada=410 legenda=920 etiqueta=1150
+ok f07 4.03s eu vou te agradecer muito e muito mesmo.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v4.mp4 duracao=40.0s

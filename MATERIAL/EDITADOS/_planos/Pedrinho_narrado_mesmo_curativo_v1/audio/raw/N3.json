@@ -1,0 +1,70 @@
+{
+ "text": "A regra ele já sabe de cor. O que falta é o material.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.104
+  },
+  {
+   "text": "regra",
+   "start": 0.174,
+   "end": 0.43
+  },
+  {
+   "text": "ele",
+   "start": 0.453,
+   "end": 0.58
+  },
+  {
+   "text": "já",
+   "start": 0.627,
+   "end": 0.708
+  },
+  {
+   "text": "sabe",
+   "start": 0.755,
+   "end": 0.929
+  },
+  {
+   "text": "de",
+   "start": 0.952,
+   "end": 1.01
+  },
+  {
+   "text": "cor.",
+   "start": 1.045,
+   "end": 1.312
+  },
+  {
+   "text": "O",
+   "start": 1.474,
+   "end": 1.544
+  },
+  {
+   "text": "que",
+   "start": 1.614,
+   "end": 1.695
+  },
+  {
+   "text": "falta",
+   "start": 1.788,
+   "end": 2.252
+  },
+  {
+   "text": "é",
+   "start": 2.31,
+   "end": 2.357
+  },
+  {
+   "text": "o",
+   "start": 2.392,
+   "end": 2.438
+  },
+  {
+   "text": "material.",
+   "start": 2.496,
+   "end": 3.529
+  }
+ ]
+}

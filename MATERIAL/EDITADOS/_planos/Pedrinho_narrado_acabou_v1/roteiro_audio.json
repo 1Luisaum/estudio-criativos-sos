@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Foi assim que o Pedrinho recebeu a notícia. O material dos curativos chegou ao fim.",
+  "N2": "Ele tem a doença da pele de borboleta. Sem atadura, cada ferida fica descoberta.",
+  "N3": "E o material não dura. A gaze de hoje já não serve amanhã.",
+  "N4": "Acabou o curativo. A coragem dele, não.",
+  "N5": "Toque em Saiba mais e ajude a repor o material do Pedrinho hoje."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

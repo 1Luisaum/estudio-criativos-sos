@@ -1,0 +1,65 @@
+{
+ "text": "Toque em Saiba mais e mostre a ela que não está sozinha.",
+ "words": [
+  {
+   "text": "Toque",
+   "start": 0.0,
+   "end": 0.302
+  },
+  {
+   "text": "em",
+   "start": 0.325,
+   "end": 0.372
+  },
+  {
+   "text": "Saiba",
+   "start": 0.441,
+   "end": 0.743
+  },
+  {
+   "text": "mais",
+   "start": 0.789,
+   "end": 1.045
+  },
+  {
+   "text": "e",
+   "start": 1.103,
+   "end": 1.126
+  },
+  {
+   "text": "mostre",
+   "start": 1.173,
+   "end": 1.533
+  },
+  {
+   "text": "a",
+   "start": 1.567,
+   "end": 1.591
+  },
+  {
+   "text": "ela",
+   "start": 1.683,
+   "end": 1.904
+  },
+  {
+   "text": "que",
+   "start": 1.962,
+   "end": 2.055
+  },
+  {
+   "text": "não",
+   "start": 2.101,
+   "end": 2.229
+  },
+  {
+   "text": "está",
+   "start": 2.264,
+   "end": 2.45
+  },
+  {
+   "text": "sozinha.",
+   "start": 2.519,
+   "end": 3.344
+  }
+ ]
+}

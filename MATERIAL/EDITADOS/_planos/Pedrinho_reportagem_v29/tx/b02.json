@@ -1,0 +1,222 @@
+{
+"text": "aí pra não deixar faltar nada pra mim, né, nada que eu precise e tal, né, que é os itens de curativo, tudo, suplemento, né, alimentação também,",
+"words": [
+{
+"text": "aí",
+"start": 0.06,
+"end": 0.24,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.22578974068164825
+},
+{
+"text": "pra",
+"start": 0.3,
+"end": 0.5,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.4318954050540924
+},
+{
+"text": "não",
+"start": 0.66,
+"end": 0.78,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -8.606540359323844e-05
+},
+{
+"text": "deixar",
+"start": 0.86,
+"end": 1.2,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.9430925021879375e-05
+},
+{
+"text": "faltar",
+"start": 1.26,
+"end": 1.62,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0001501074001074206
+},
+{
+"text": "nada",
+"start": 1.68,
+"end": 1.96,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.7165990357170813e-05
+},
+{
+"text": "pra",
+"start": 2.02,
+"end": 2.12,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.003137667663395405
+},
+{
+"text": "mim,",
+"start": 2.18,
+"end": 2.3,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.816262076521525e-05
+},
+{
+"text": "né,",
+"start": 2.34,
+"end": 2.42,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.005093292824312812
+},
+{
+"text": "nada",
+"start": 2.5,
+"end": 2.74,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -4.172238186583854e-05
+},
+{
+"text": "que",
+"start": 2.78,
+"end": 2.82,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.145764938177308e-06
+},
+{
+"text": "eu",
+"start": 2.84,
+"end": 2.94,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -9.298280929215252e-06
+},
+{
+"text": "precise",
+"start": 2.98,
+"end": 3.52,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.4321281909942627
+},
+{
+"text": "e",
+"start": 3.56,
+"end": 3.64,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.311301275563892e-06
+},
+{
+"text": "tal,",
+"start": 3.72,
+"end": 3.94,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.1324668093948276e-05
+},
+{
+"text": "né,",
+"start": 4.44,
+"end": 4.58,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.1126191926299118e-06
+},
+{
+"text": "que",
+"start": 4.64,
+"end": 4.68,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.7881377516459906e-06
+},
+{
+"text": "é",
+"start": 4.76,
+"end": 4.76,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.062299427052494e-05
+},
+{
+"text": "os",
+"start": 4.8,
+"end": 4.9,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.1920928244535389e-07
+},
+{
+"text": "itens",
+"start": 4.96,
+"end": 5.26,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0008700875914655626
+},
+{
+"text": "de",
+"start": 5.28,
+"end": 5.36,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -4.768370445162873e-07
+},
+{
+"text": "curativo,",
+"start": 5.4,
+"end": 6.18,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.993427396328722e-05
+},
+{
+"text": "tudo,",
+"start": 6.32,
+"end": 6.68,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00010206048609546769
+},
+{
+"text": "suplemento,",
+"start": 6.74,
+"end": 7.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.40796764301458927
+},
+{
+"text": "né,",
+"start": 8.3,
+"end": 8.5,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.1403708358275253
+},
+{
+"text": "alimentação",
+"start": 8.56,
+"end": 9.38,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.004823239985853434
+},
+{
+"text": "também,",
+"start": 9.44,
+"end": 9.9,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.6842407343834305e-05
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (285.46 a 295.66 s); imagem trocada por b-roll sem boca em movimento"
+}

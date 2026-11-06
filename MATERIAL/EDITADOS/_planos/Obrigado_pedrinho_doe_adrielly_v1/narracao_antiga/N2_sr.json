@@ -1,0 +1,338 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "O Pedrinho tem epidermólise bolhosa, a pele de borboleta, uma doença rara e sem cura que faz surgir bolhas e feridas pelo corpo todo",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.08,
+   "end": 0.1,
+   "type": "word",
+   "logprob": -2.8490614567999728e-05
+  },
+  {
+   "text": " ",
+   "start": 0.1,
+   "end": 0.18,
+   "type": "spacing",
+   "logprob": -7.83174327807501e-05
+  },
+  {
+   "text": "Pedrinho",
+   "start": 0.18,
+   "end": 0.58,
+   "type": "word",
+   "logprob": -3.063563471528141e-05
+  },
+  {
+   "text": " ",
+   "start": 0.58,
+   "end": 0.7,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "tem",
+   "start": 0.7,
+   "end": 0.92,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 0.92,
+   "end": 0.98,
+   "type": "spacing",
+   "logprob": -0.00016711745411157608
+  },
+  {
+   "text": "epidermólise",
+   "start": 0.98,
+   "end": 1.92,
+   "type": "word",
+   "logprob": -0.00011573969951920542
+  },
+  {
+   "text": " ",
+   "start": 1.92,
+   "end": 1.98,
+   "type": "spacing",
+   "logprob": -9.333651541965082e-05
+  },
+  {
+   "text": "bolhosa,",
+   "start": 1.98,
+   "end": 2.58,
+   "type": "word",
+   "logprob": -6.457807393189796e-05
+  },
+  {
+   "text": " ",
+   "start": 2.58,
+   "end": 2.84,
+   "type": "spacing",
+   "logprob": -4.172238186583854e-05
+  },
+  {
+   "text": "a",
+   "start": 2.84,
+   "end": 2.86,
+   "type": "word",
+   "logprob": -4.172238186583854e-05
+  },
+  {
+   "text": " ",
+   "start": 2.86,
+   "end": 3.0,
+   "type": "spacing",
+   "logprob": -0.007642199285328388
+  },
+  {
+   "text": "pele",
+   "start": 3.0,
+   "end": 3.22,
+   "type": "word",
+   "logprob": -0.007642199285328388
+  },
+  {
+   "text": " ",
+   "start": 3.22,
+   "end": 3.26,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "de",
+   "start": 3.26,
+   "end": 3.36,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 3.36,
+   "end": 3.38,
+   "type": "spacing",
+   "logprob": -0.00019894051365554333
+  },
+  {
+   "text": "borboleta,",
+   "start": 3.38,
+   "end": 4.04,
+   "type": "word",
+   "logprob": -0.0007593847505631857
+  },
+  {
+   "text": " ",
+   "start": 4.04,
+   "end": 4.28,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "uma",
+   "start": 4.28,
+   "end": 4.38,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 4.38,
+   "end": 4.42,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "doença",
+   "start": 4.42,
+   "end": 4.78,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 4.78,
+   "end": 4.88,
+   "type": "spacing",
+   "logprob": -4.351044481154531e-05
+  },
+  {
+   "text": "rara",
+   "start": 4.88,
+   "end": 5.16,
+   "type": "word",
+   "logprob": -4.351044481154531e-05
+  },
+  {
+   "text": " ",
+   "start": 5.16,
+   "end": 5.2,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "e",
+   "start": 5.2,
+   "end": 5.22,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 5.22,
+   "end": 5.34,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "sem",
+   "start": 5.34,
+   "end": 5.54,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 5.54,
+   "end": 5.58,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "cura",
+   "start": 5.58,
+   "end": 5.86,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 5.86,
+   "end": 6.16,
+   "type": "spacing",
+   "logprob": -0.20141343772411346
+  },
+  {
+   "text": "que",
+   "start": 6.16,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -0.20141343772411346
+  },
+  {
+   "text": " ",
+   "start": 6.26,
+   "end": 6.3,
+   "type": "spacing",
+   "logprob": -1.0132738680113107e-05
+  },
+  {
+   "text": "faz",
+   "start": 6.3,
+   "end": 6.46,
+   "type": "word",
+   "logprob": -1.0132738680113107e-05
+  },
+  {
+   "text": " ",
+   "start": 6.46,
+   "end": 6.5,
+   "type": "spacing",
+   "logprob": -0.00013696208770852536
+  },
+  {
+   "text": "surgir",
+   "start": 6.5,
+   "end": 6.88,
+   "type": "word",
+   "logprob": -0.00013696208770852536
+  },
+  {
+   "text": " ",
+   "start": 6.88,
+   "end": 7.04,
+   "type": "spacing",
+   "logprob": -7.402622577501461e-05
+  },
+  {
+   "text": "bolhas",
+   "start": 7.04,
+   "end": 7.38,
+   "type": "word",
+   "logprob": -3.945689741158276e-05
+  },
+  {
+   "text": " ",
+   "start": 7.38,
+   "end": 7.42,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "e",
+   "start": 7.42,
+   "end": 7.44,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 7.44,
+   "end": 7.56,
+   "type": "spacing",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": "feridas",
+   "start": 7.56,
+   "end": 7.94,
+   "type": "word",
+   "logprob": -2.299033423826456e-06
+  },
+  {
+   "text": " ",
+   "start": 7.94,
+   "end": 8.039,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "pelo",
+   "start": 8.039,
+   "end": 8.26,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 8.26,
+   "end": 8.3,
+   "type": "spacing",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": "corpo",
+   "start": 8.3,
+   "end": 8.62,
+   "type": "word",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": " ",
+   "start": 8.62,
+   "end": 8.66,
+   "type": "spacing",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": "todo",
+   "start": 8.66,
+   "end": 8.94,
+   "type": "word",
+   "logprob": -9.65590606938349e-06
+  }
+ ],
+ "transcription_id": "TuPyVwBQf3QkgPGEF84l",
+ "audio_duration_secs": 9.0476875
+}

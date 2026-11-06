@@ -1,0 +1,59 @@
+{
+ "total": 61.94560100000002,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.142698,
+   "texto": "Para a família do Pedrinho, o curativo é uma compra que nunca termina."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 13.240000000000007,
+   "texto": "não é algo que compra, e depois não precisa mais. a gente usa curativo e logo depois acaba rapidamente, e logo em seguida eu preciso novamente."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.844898,
+   "texto": "Ele tem epidermólise bolhosa. Por causa das feridas abertas, a troca agora é feita duas vezes por dia."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.140000000000005,
+   "texto": "para manter os cuidado do meu filho, do Pedrinho, passa dos quarenta mil, é uma luta contínuo,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 3.099796,
+   "texto": "Cada pacote que a mãe abre já começa a acabar."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 10.540000000000012,
+   "texto": "por isso eu estou aqui te pedindo ajuda pra conseguir, os próximos curativos pra minha mamãe conseguir tranquilamente fazer um curativo,"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 7.436599,
+   "texto": "A SOS Human Help recebe doações para o próximo estoque de curativos do Pedrinho. Dez reais já ajudam."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 5.799999999999987,
+   "texto": "Então hoje eu tô aqui pra te pedir, quem Deus tocar no coração de ajudar,"
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 4.7016100000000005,
+   "texto": "Toque em Saiba mais e ajude a garantir a próxima troca."
+  }
+ ]
+}

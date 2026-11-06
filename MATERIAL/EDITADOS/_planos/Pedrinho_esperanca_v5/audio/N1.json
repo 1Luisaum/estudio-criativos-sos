@@ -1,0 +1,125 @@
+{
+ "text": "Na cidade dele, o calor chega perto dos quarenta e seis graus. E ele mesmo conta: esse calor é muito ruim para a pele.",
+ "words": [
+  {
+   "text": "Na",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "cidade",
+   "start": 0.232,
+   "end": 0.557
+  },
+  {
+   "text": "dele,",
+   "start": 0.615,
+   "end": 1.033
+  },
+  {
+   "text": "o",
+   "start": 1.126,
+   "end": 1.207
+  },
+  {
+   "text": "calor",
+   "start": 1.265,
+   "end": 1.521
+  },
+  {
+   "text": "chega",
+   "start": 1.544,
+   "end": 1.765
+  },
+  {
+   "text": "perto",
+   "start": 1.834,
+   "end": 2.136
+  },
+  {
+   "text": "dos",
+   "start": 2.183,
+   "end": 2.287
+  },
+  {
+   "text": "quarenta",
+   "start": 2.345,
+   "end": 2.705
+  },
+  {
+   "text": "e",
+   "start": 2.728,
+   "end": 2.778
+  },
+  {
+   "text": "seis",
+   "start": 2.798,
+   "end": 2.984
+  },
+  {
+   "text": "graus.",
+   "start": 3.042,
+   "end": 3.471
+  },
+  {
+   "text": "E",
+   "start": 3.701,
+   "end": 3.799
+  },
+  {
+   "text": "ele",
+   "start": 3.892,
+   "end": 4.031
+  },
+  {
+   "text": "mesmo",
+   "start": 4.078,
+   "end": 4.368
+  },
+  {
+   "text": "conta:",
+   "start": 4.415,
+   "end": 4.846
+  },
+  {
+   "text": "esse",
+   "start": 4.866,
+   "end": 5.121
+  },
+  {
+   "text": "calor",
+   "start": 5.167,
+   "end": 5.527
+  },
+  {
+   "text": "é",
+   "start": 5.597,
+   "end": 5.647
+  },
+  {
+   "text": "muito",
+   "start": 5.69,
+   "end": 5.992
+  },
+  {
+   "text": "ruim",
+   "start": 6.038,
+   "end": 6.305
+  },
+  {
+   "text": "para",
+   "start": 6.363,
+   "end": 6.514
+  },
+  {
+   "text": "a",
+   "start": 6.537,
+   "end": 6.587
+  },
+  {
+   "text": "pele.",
+   "start": 6.63,
+   "end": 7.126
+  }
+ ]
+}

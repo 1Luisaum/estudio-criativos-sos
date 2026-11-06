@@ -1,0 +1,200 @@
+{
+ "nome": "Adrielly_caixas_aspas_v2",
+ "gancho": "ref 2: pergunta/entrevista ('Seus curativos vão te curar?') com a citação em aspas",
+ "angulo": "a doença não tem cura, mas o curativo tira a dor",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "EB não tem cura; curativos dão menos dor e menos lesão": "IMG_5709 (0-24 s)",
+  "curativo leva cerca de 3 horas": "IMG_5487 (16-21 s)",
+  "hoje consegui fazer o curativo, significa muito": "IMG_5169",
+  "amanhã tem outro curativo": "IMG_5174",
+  "R$ 10 mensais": "IMG_3682 (7-12 s)"
+ },
+ "modelo": "skill caixas (exemplo Pedrinho_vsl_voz_v7/v8), material da Adrielly",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5709.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5709.json",
+   "cortes": [
+    [
+     0.48,
+     2.4
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5709.MOV",
+     0.42
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "UM CURATIVO É SÓ UM CURATIVO.",
+    "PARA A ADRIELLY, É MENOS DOR",
+    "TODOS OS DIAS."
+   ]
+  },
+  {
+   "nome": "h2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5709.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5709.json",
+   "cortes": [
+    [
+     3.36,
+     7.66
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5709.MOV",
+     3.3
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "UM CURATIVO É SÓ UM CURATIVO.",
+    "PARA A ADRIELLY, É MENOS DOR",
+    "TODOS OS DIAS."
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5709.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5709.json",
+   "cortes": [
+    [
+     8.76,
+     12.54
+    ],
+    [
+     13.96,
+     18.04
+    ],
+    [
+     21.26,
+     23.62
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5709.MOV",
+     9.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_urgotul.mp4",
+     0.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (1).mp4",
+     8.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (4).mp4",
+     10.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_curativos_juntos.mp4",
+     0.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5487.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5487.json",
+   "cortes": [
+    [
+     16.54,
+     20.36
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     8.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_pernas_faixas.mp4",
+     0.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_5169.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_5169.json",
+   "cortes": [
+    [
+     0.26,
+     2.64
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_5169.MOV",
+     0.2
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_5169.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_5169.json",
+   "cortes": [
+    [
+     4.32,
+     9.32
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3886.MOV",
+     1.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     12.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_allevyn.mp4",
+     0.0
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3682.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3682.json",
+   "cortes": [
+    [
+     7.22,
+     11.94
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos urgo verde.jpeg",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "ADRIELLY TEM EPIDERMÓLISE BOLHOSA E LEVA",
+   "CERCA DE 3 HORAS NO CURATIVO DE CADA DIA"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "AJUDAM ADRIELLY A TER O",
+   "CURATIVO DE AMANHÃ"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 45\\AEB 58 - CAIXAS ASPAS.mp4"
+}

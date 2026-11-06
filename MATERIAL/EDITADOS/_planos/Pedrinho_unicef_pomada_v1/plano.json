@@ -1,0 +1,279 @@
+{
+ "nome": "Pedrinho_unicef_pomada_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "UNICEF (criativo-unicef-ong)",
+ "angulo": "parece uma simples pomada, mas e o que a mae passa nas feridas e traz alivio na hora; quando a mae passou a pomadinha no gaze, o alivio que ele sentiu",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\Um Vídeo Novo pra campanha 💚.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  420,
+  600
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.0,
+   "face": [
+    540,
+    384
+   ]
+  },
+  "Z2": {
+   "z": 1.06,
+   "center": [
+    420,
+    975
+   ]
+  },
+  "Z3": {
+   "z": 1.12,
+   "center": [
+    420,
+    980
+   ]
+  },
+  "ZF": {
+   "z": 1.18,
+   "center": [
+    420,
+    985
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 151.77,
+   "out": 153.94,
+   "zoom": "Z1",
+   "txt": "Minha mamãe teve que enfaixar o ombro."
+  },
+  {
+   "in": 165.62,
+   "out": 167.56,
+   "zoom": "Z2",
+   "txt": "a gente não gosta muito de enfaixar o ombro,"
+  },
+  {
+   "in": 167.72,
+   "out": 169.2,
+   "zoom": "Z3",
+   "txt": "Porque aí que demora mesmo"
+  },
+  {
+   "in": 169.57,
+   "out": 170.34,
+   "zoom": "ZF",
+   "txt": "o curativo,"
+  },
+  {
+   "in": 174.21,
+   "out": 176.14,
+   "zoom": "Z1",
+   "txt": "é pra proteger de mosquito,"
+  },
+  {
+   "in": 177.84,
+   "out": 179.4,
+   "zoom": "Z2",
+   "txt": "eu me sinto bem mais seguro."
+  },
+  {
+   "in": 181.19,
+   "out": 182.64,
+   "zoom": "Z3",
+   "txt": "quando minha mamãe passou"
+  },
+  {
+   "in": 182.99,
+   "out": 184.38,
+   "broll": [
+    {
+     "src": "20260825_134039.jpg"
+    },
+    {
+     "src": "20260825_134710.jpg"
+    }
+   ],
+   "txt": "a pomadinha no gaze"
+  },
+  {
+   "in": 184.51,
+   "out": 185.98,
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 214.0
+    }
+   ],
+   "txt": "e colocou nesse ferimento"
+  },
+  {
+   "in": 188.21,
+   "out": 189.72,
+   "zoom": "ZF",
+   "txt": "o alívio que eu não senti,"
+  },
+  {
+   "in": 191.09,
+   "out": 193.32,
+   "zoom": "Z1",
+   "txt": "Por isso que é muito importante a pomadinha,"
+  },
+  {
+   "in": 194.81,
+   "out": 195.84,
+   "zoom": "Z2",
+   "txt": "o gaze tudo,"
+  },
+  {
+   "in": 196.85,
+   "out": 197.78,
+   "zoom": "Z3",
+   "txt": "pra aliviar."
+  },
+  {
+   "in": 209.39,
+   "out": 210.86,
+   "zoom": "ZF",
+   "txt": "mas minha mamãe tá atenta,"
+  },
+  {
+   "in": 220.37,
+   "out": 222.08,
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 270.0
+    }
+   ],
+   "txt": "tá sendo protegido por um gazezinho"
+  },
+  {
+   "in": 321.49,
+   "out": 323.62,
+   "zoom": "Z1",
+   "txt": "E eu quero expressar minha gratidão."
+  }
+ ],
+ "fix": {
+  "POMADINHA": "POMADINHA"
+ },
+ "red": [
+  "OMBRO",
+  "CURATIVO",
+  "MOSQUITO",
+  "POMADINHA",
+  "GAZE",
+  "ALÍVIO",
+  "ALIVIAR",
+  "PROTEGIDO"
+ ],
+ "badge": null,
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_45_48.png",
+  "texto_do_lettering": "R$ 10,00 PODEM FAZER DIFERENÇA PRO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260824_182501.mp4",
+  "start": 45.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [],
+ "caption_y": 1000,
+ "gancho": {
+  "referencia": "1669162520799709",
+  "musica_vol": 0.12,
+  "legenda_y": 1190,
+  "legenda_fs": 56,
+  "destaque": "#D90429",
+  "narracao": [
+   {
+    "id": "N0",
+    "t": 0.15
+   },
+   {
+    "id": "N1",
+    "t": 2.35
+   },
+   {
+    "id": "N2",
+    "t": 8.14
+   }
+  ],
+  "fim": 9.76,
+  "cenas": [
+   {
+    "src": "Pomada.png",
+    "t0": 0.0,
+    "t1": 2.35,
+    "zoom": [
+     1.0,
+     1.06
+    ]
+   },
+   {
+    "src": "foto em close.png",
+    "zoom": [
+     1.04,
+     1.12
+    ],
+    "t0": 2.35,
+    "t1": 6.15,
+    "papel": "cena forte do Pedrinho"
+   },
+   {
+    "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+    "start": 207.0,
+    "t0": 6.15,
+    "t1": 8.14,
+    "zoom": [
+     1.0,
+     1.0
+    ]
+   },
+   {
+    "src": "IMG-20260620-WA0011.jpg",
+    "t0": 8.14,
+    "t1": 9.76,
+    "zoom": [
+     1.04,
+     1.12
+    ]
+   }
+  ],
+  "blocos": [
+   [
+    "ISSO PODE PARECER",
+    "UMA SIMPLES POMADA."
+   ],
+   [
+    "MAS PARA O PEDRINHO,"
+   ],
+   [
+    "QUE TEM",
+    "EPIDERMÓLISE BOLHOSA,"
+   ],
+   [
+    "É O QUE A MÃE PASSA",
+    "NAS FERIDAS."
+   ],
+   [
+    "É O QUE TRAZ",
+    "ALÍVIO NA HORA."
+   ]
+  ]
+ },
+ "music_start": 9.76,
+ "fatos": {
+  "a mae passou a pomadinha no gaze e colocou no ferimento; o alivio que ele sentiu (N1, N2)": "Pedrinho, Um Video Novo pra campanha.mp4, 181-190 s",
+  "muito importante a pomadinha, o gaze, pra aliviar": "Pedrinho, mesmo bruto, 191-198 s",
+  "mamae teve que enfaixar o ombro; demora o curativo; proteger de mosquito; se sente mais seguro": "Pedrinho, mesmo bruto, 151.8-179.3 s",
+  "mamae ta atenta; protegido por um gazezinho": "Pedrinho, mesmo bruto, 209-222 s",
+  "R$10 'fazer diferenca' (lettering)": "padrao dos pedidos (brief do lote); sem valor dito neste trecho"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 33\\PEB 140 - UNICEF.mp4"
+}

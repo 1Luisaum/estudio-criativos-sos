@@ -1,0 +1,100 @@
+{
+ "text": "Você vê as faixas. Mas ninguém, de fora, sabe o que é dormir e acordar sentindo a própria pele.",
+ "words": [
+  {
+   "text": "Você",
+   "start": 0.0,
+   "end": 0.267
+  },
+  {
+   "text": "vê",
+   "start": 0.313,
+   "end": 0.395
+  },
+  {
+   "text": "as",
+   "start": 0.418,
+   "end": 0.488
+  },
+  {
+   "text": "faixas.",
+   "start": 0.546,
+   "end": 1.009
+  },
+  {
+   "text": "Mas",
+   "start": 1.077,
+   "end": 1.368
+  },
+  {
+   "text": "ninguém,",
+   "start": 1.437,
+   "end": 1.867
+  },
+  {
+   "text": "de",
+   "start": 1.89,
+   "end": 1.96
+  },
+  {
+   "text": "fora,",
+   "start": 2.041,
+   "end": 2.563
+  },
+  {
+   "text": "sabe",
+   "start": 2.749,
+   "end": 3.179
+  },
+  {
+   "text": "o",
+   "start": 3.214,
+   "end": 3.264
+  },
+  {
+   "text": "que",
+   "start": 3.318,
+   "end": 3.457
+  },
+  {
+   "text": "é",
+   "start": 3.515,
+   "end": 3.573
+  },
+  {
+   "text": "dormir",
+   "start": 3.701,
+   "end": 4.212
+  },
+  {
+   "text": "e",
+   "start": 4.258,
+   "end": 4.421
+  },
+  {
+   "text": "acordar",
+   "start": 4.479,
+   "end": 5.002
+  },
+  {
+   "text": "sentindo",
+   "start": 5.048,
+   "end": 5.501
+  },
+  {
+   "text": "a",
+   "start": 5.536,
+   "end": 5.586
+  },
+  {
+   "text": "própria",
+   "start": 5.605,
+   "end": 5.907
+  },
+  {
+   "text": "pele.",
+   "start": 5.965,
+   "end": 6.27
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "text": "O pedido não é para o ano. É para a semana. É para a próxima troca.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "pedido",
+   "start": 0.174,
+   "end": 0.615
+  },
+  {
+   "text": "não",
+   "start": 0.673,
+   "end": 0.813
+  },
+  {
+   "text": "é",
+   "start": 0.871,
+   "end": 0.906
+  },
+  {
+   "text": "para",
+   "start": 0.964,
+   "end": 1.149
+  },
+  {
+   "text": "o",
+   "start": 1.184,
+   "end": 1.242
+  },
+  {
+   "text": "ano.",
+   "start": 1.335,
+   "end": 1.66
+  },
+  {
+   "text": "É",
+   "start": 1.718,
+   "end": 1.765
+  },
+  {
+   "text": "para",
+   "start": 1.846,
+   "end": 2.009
+  },
+  {
+   "text": "a",
+   "start": 2.032,
+   "end": 2.055
+  },
+  {
+   "text": "semana.",
+   "start": 2.125,
+   "end": 2.705
+  },
+  {
+   "text": "É",
+   "start": 2.879,
+   "end": 2.937
+  },
+  {
+   "text": "para",
+   "start": 3.019,
+   "end": 3.181
+  },
+  {
+   "text": "a",
+   "start": 3.204,
+   "end": 3.228
+  },
+  {
+   "text": "próxima",
+   "start": 3.297,
+   "end": 3.831
+  },
+  {
+   "text": "troca.",
+   "start": 3.878,
+   "end": 4.69
+  }
+ ]
+}

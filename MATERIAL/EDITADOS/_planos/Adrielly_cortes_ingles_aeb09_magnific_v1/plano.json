@@ -1,0 +1,174 @@
+{
+ "nome": "Adrielly_cortes_ingles_aeb09_magnific_v1",
+ "crianca": "Adrielly",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_AEB09_EN/Adrielly_AEB09_EN_lipsync_magnific.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  480,
+  600
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.0,
+   "center": [
+    540,
+    960
+   ]
+  },
+  "Z2": {
+   "z": 1.15,
+   "center": [
+    480,
+    883
+   ]
+  },
+  "Z3": {
+   "z": 1.3,
+   "center": [
+    480,
+    870
+   ]
+  },
+  "ZF": {
+   "z": 1.45,
+   "center": [
+    480,
+    860
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 0.36,
+   "out": 2.3,
+   "txt": "I've already lost count",
+   "zoom": "Z2"
+  },
+  {
+   "in": 2.98,
+   "out": 4.4,
+   "txt": "of how many times",
+   "zoom": "Z3"
+  },
+  {
+   "in": 5.05,
+   "out": 6.4,
+   "txt": "I hit record",
+   "zoom": "Z1"
+  },
+  {
+   "in": 7.53,
+   "out": 8.62,
+   "txt": "and stopped",
+   "zoom": "ZF"
+  },
+  {
+   "in": 9.2,
+   "out": 12.2,
+   "txt": "so you guys wouldn't see me like this,",
+   "broll": [
+    {
+     "src": "_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 7.0
+    }
+   ]
+  },
+  {
+   "in": 13.12,
+   "out": 14.12,
+   "txt": "because",
+   "zoom": "Z2"
+  },
+  {
+   "in": 15.5,
+   "out": 17.44,
+   "txt": "I've always come on here",
+   "broll": [
+    {
+     "src": "1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 4.0
+    }
+   ]
+  },
+  {
+   "in": 17.86,
+   "out": 18.66,
+   "txt": "to share",
+   "broll": [
+    {
+     "src": "WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     "start": 12.0
+    }
+   ]
+  },
+  {
+   "in": 19.62,
+   "out": 20.2,
+   "txt": "joy",
+   "zoom": "ZF"
+  }
+ ],
+ "red": [
+  "COUNT",
+  "STOPPED",
+  "JOY"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "GIVE ME 10 SECONDS"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "ADRIELLY IS 28",
+    "AND WAS BORN WITH",
+    "BUTTERFLY SKIN"
+   ],
+   "fs": 92
+  }
+ ],
+ "chamada": {
+  "linhas": [
+   [
+    "JUST $10",
+    124
+   ],
+   [
+    "CAN CHANGE THE LIFE OF",
+    64
+   ],
+   [
+    "BRAVE ADRIELLY!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "endcard": {
+  "src": "WhatsApp Video 2026-07-07 at 19.32.36 (8).mp4",
+  "start": 3.0,
+  "dur": 3.4,
+  "lines": [
+   "HELP ADRIELLY",
+   "SHARE JOY AGAIN"
+  ],
+  "cta": "TAP LEARN MORE"
+ },
+ "badge": null,
+ "fatos": {
+  "fala real (bruto 5E4503B5 = AEB 09, TOP 1 da LEVA 1), dublada EN no ElevenLabs": "lipsync magnific",
+  "28 anos, epidermólise bolhosa": "IMG_5805, ADRIELLY.md",
+  "$10": "IMG_4740 (cinco ou dez), trocado para dólares a pedido do usuário"
+ },
+ "modelo": "edicao-criativo-ong, versão em inglês",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 47\\AEB 67 - CORTES COM GANCHO.mp4"
+}

@@ -1,0 +1,199 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,100,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,4,5,0,0,0,1
+Style: Box,Arial,20,&H00631EE9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Hook,Arial Black,84,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Cta,Arial Black,62,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,5,3,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001C10C8&\p1}m 0 1209 l 1080 1209 1080 1218 0 1218{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001E12CD&\p1}m 0 1217 l 1080 1217 1080 1226 0 1226{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002014D3&\p1}m 0 1225 l 1080 1225 1080 1234 0 1234{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002216D8&\p1}m 0 1233 l 1080 1233 1080 1242 0 1242{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002418DD&\p1}m 0 1241 l 1080 1241 1080 1250 0 1250{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00261AE2&\p1}m 0 1249 l 1080 1249 1080 1258 0 1258{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00261BE4&\p1}m 0 1257 l 1080 1257 1080 1266 0 1266{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002519DD&\p1}m 0 1265 l 1080 1265 1080 1274 0 1274{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002318D7&\p1}m 0 1273 l 1080 1273 1080 1282 0 1282{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002116D0&\p1}m 0 1281 l 1080 1281 1080 1290 0 1290{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001F15CA&\p1}m 0 1289 l 1080 1289 1080 1298 0 1298{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001D13C3&\p1}m 0 1297 l 1080 1297 1080 1306 0 1306{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001B12BC&\p1}m 0 1305 l 1080 1305 1080 1314 0 1314{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001910B6&\p1}m 0 1313 l 1080 1313 1080 1322 0 1322{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00170FAF&\p1}m 0 1321 l 1080 1321 1080 1330 0 1330{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00160DA8&\p1}m 0 1329 l 1080 1329 1080 1338 0 1338{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00140CA2&\p1}m 0 1337 l 1080 1337 1080 1346 0 1346{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00120A9B&\p1}m 0 1345 l 1080 1345 1080 1354 0 1354{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00100995&\p1}m 0 1353 l 1080 1353 1080 1362 0 1362{\p0}
+Dialogue: 0,0:00:00.00,0:00:01.90,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H000E078E&\p1}m 0 1361 l 1080 1361 1080 1371 0 1371{\p0}
+Dialogue: 2,0:00:00.00,0:00:01.90,Hook,,0,0,0,,{\an5\pos(540,1290)\fnImpact\fs139\fscx108\bord0\fad(0,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}ELE NÃO DORMIU
+Dialogue: 3,0:00:00.00,0:00:01.90,Hook,,0,0,0,,{\an5\pos(540,1290)\fnImpact\fs139\fscx108\bord0\fad(0,0)\1c&H00FFFFFF&\shad0\clip(0,1192,1080,1292)}ELE NÃO DORMIU
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001C10C8&\p1}m 0 1099 l 1080 1099 1080 1119 0 1119{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001E12CD&\p1}m 0 1118 l 1080 1118 1080 1138 0 1138{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002014D3&\p1}m 0 1137 l 1080 1137 1080 1157 0 1157{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002216D8&\p1}m 0 1156 l 1080 1156 1080 1176 0 1176{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002418DD&\p1}m 0 1175 l 1080 1175 1080 1195 0 1195{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00261AE2&\p1}m 0 1194 l 1080 1194 1080 1214 0 1214{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00261BE4&\p1}m 0 1213 l 1080 1213 1080 1233 0 1233{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002519DD&\p1}m 0 1232 l 1080 1232 1080 1252 0 1252{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002318D7&\p1}m 0 1251 l 1080 1251 1080 1271 0 1271{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H002116D0&\p1}m 0 1270 l 1080 1270 1080 1290 0 1290{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001F15CA&\p1}m 0 1289 l 1080 1289 1080 1309 0 1309{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001D13C3&\p1}m 0 1308 l 1080 1308 1080 1328 0 1328{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001B12BC&\p1}m 0 1327 l 1080 1327 1080 1347 0 1347{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H001910B6&\p1}m 0 1346 l 1080 1346 1080 1366 0 1366{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00170FAF&\p1}m 0 1365 l 1080 1365 1080 1385 0 1385{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00160DA8&\p1}m 0 1384 l 1080 1384 1080 1404 0 1404{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00140CA2&\p1}m 0 1403 l 1080 1403 1080 1423 0 1423{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00120A9B&\p1}m 0 1422 l 1080 1422 1080 1442 0 1442{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H00100995&\p1}m 0 1441 l 1080 1441 1080 1461 0 1461{\p0}
+Dialogue: 0,0:00:01.90,0:00:05.00,Box,,0,0,0,,{\an7\pos(0,0)\fad(0,0)\1c&H000E078E&\p1}m 0 1460 l 1080 1460 1080 1481 0 1481{\p0}
+Dialogue: 2,0:00:01.90,0:00:05.00,Hook,,0,0,0,,{\an5\pos(540,1173)\fnImpact\fs126\fscx108\bord0\fad(0,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}O PEDRINHO VIU
+Dialogue: 3,0:00:01.90,0:00:05.00,Hook,,0,0,0,,{\an5\pos(540,1173)\fnImpact\fs126\fscx108\bord0\fad(0,0)\1c&H00FFFFFF&\shad0\clip(0,1084,1080,1175)}O PEDRINHO VIU
+Dialogue: 2,0:00:01.90,0:00:05.00,Hook,,0,0,0,,{\an5\pos(540,1290)\fnImpact\fs126\fscx108\bord0\fad(0,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}O DIA AMANHECER
+Dialogue: 3,0:00:01.90,0:00:05.00,Hook,,0,0,0,,{\an5\pos(540,1290)\fnImpact\fs126\fscx108\bord0\fad(0,0)\1c&H00FFFFFF&\shad0\clip(0,1202,1080,1292)}O DIA AMANHECER
+Dialogue: 2,0:00:01.90,0:00:05.00,Hook,,0,0,0,,{\an5\pos(540,1407)\fnImpact\fs126\fscx108\bord0\fad(0,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}DE DOR
+Dialogue: 3,0:00:01.90,0:00:05.00,Hook,,0,0,0,,{\an5\pos(540,1407)\fnImpact\fs126\fscx108\bord0\fad(0,0)\1c&H00FFFFFF&\shad0\clip(0,1319,1080,1409)}DE DOR
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H001C10C8&\p1}m 0 1131 l 1080 1131 1080 1148 0 1148{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H001E12CD&\p1}m 0 1147 l 1080 1147 1080 1165 0 1165{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H002014D3&\p1}m 0 1164 l 1080 1164 1080 1182 0 1182{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H002216D8&\p1}m 0 1181 l 1080 1181 1080 1199 0 1199{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H002418DD&\p1}m 0 1198 l 1080 1198 1080 1216 0 1216{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H00261AE2&\p1}m 0 1215 l 1080 1215 1080 1233 0 1233{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H00261BE4&\p1}m 0 1232 l 1080 1232 1080 1250 0 1250{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H002519DD&\p1}m 0 1249 l 1080 1249 1080 1267 0 1267{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H002318D7&\p1}m 0 1266 l 1080 1266 1080 1284 0 1284{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H002116D0&\p1}m 0 1283 l 1080 1283 1080 1301 0 1301{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H001F15CA&\p1}m 0 1300 l 1080 1300 1080 1317 0 1317{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H001D13C3&\p1}m 0 1316 l 1080 1316 1080 1334 0 1334{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H001B12BC&\p1}m 0 1333 l 1080 1333 1080 1351 0 1351{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H001910B6&\p1}m 0 1350 l 1080 1350 1080 1368 0 1368{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H00170FAF&\p1}m 0 1367 l 1080 1367 1080 1385 0 1385{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H00160DA8&\p1}m 0 1384 l 1080 1384 1080 1402 0 1402{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H00140CA2&\p1}m 0 1401 l 1080 1401 1080 1419 0 1419{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H00120A9B&\p1}m 0 1418 l 1080 1418 1080 1436 0 1436{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H00100995&\p1}m 0 1435 l 1080 1435 1080 1453 0 1453{\p0}
+Dialogue: 5,0:00:05.00,0:00:33.27,Box,,0,0,0,,{\an7\pos(0,0)\fad(180,0)\1c&H000E078E&\p1}m 0 1452 l 1080 1452 1080 1470 0 1470{\p0}
+Dialogue: 7,0:00:05.00,0:00:33.27,Hook,,0,0,0,,{\an5\pos(540,1217)\fnImpact\fs149\fscx108\bord0\fad(180,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}APENAS R$12
+Dialogue: 8,0:00:05.00,0:00:33.27,Hook,,0,0,0,,{\an5\pos(540,1217)\fnImpact\fs149\fscx108\bord0\fad(180,0)\1c&H00FFFFFF&\shad0\clip(0,1113,1080,1220)}APENAS R$12
+Dialogue: 7,0:00:05.00,0:00:33.27,Hook,,0,0,0,,{\an5\pos(540,1322)\fnImpact\fs77\fscx108\bord0\fad(180,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}PODEM MUDAR A VIDA DO
+Dialogue: 8,0:00:05.00,0:00:33.27,Hook,,0,0,0,,{\an5\pos(540,1322)\fnImpact\fs77\fscx108\bord0\fad(180,0)\1c&H00FFFFFF&\shad0\clip(0,1268,1080,1324)}PODEM MUDAR A VIDA DO
+Dialogue: 7,0:00:05.00,0:00:33.27,Hook,,0,0,0,,{\an5\pos(540,1405)\fnImpact\fs101\fscx108\bord0\fad(180,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}PEDRINHO GUERREIRO!
+Dialogue: 8,0:00:05.00,0:00:33.27,Hook,,0,0,0,,{\an5\pos(540,1405)\fnImpact\fs101\fscx108\bord0\fad(180,0)\1c&H00FFFFFF&\shad0\clip(0,1334,1080,1407)}PEDRINHO GUERREIRO!
+Dialogue: 2,0:00:00.07,0:00:00.31,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}A {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}NOITE {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}PASSADA
+Dialogue: 2,0:00:00.31,0:00:00.65,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}A {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NOITE {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}PASSADA
+Dialogue: 2,0:00:00.65,0:00:01.59,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}A {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NOITE {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PASSADA
+Dialogue: 2,0:00:01.59,0:00:01.75,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}PASSEI {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}ELA
+Dialogue: 2,0:00:01.75,0:00:02.31,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PASSEI {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}ELA
+Dialogue: 2,0:00:02.31,0:00:02.63,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PASSEI {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}ELA
+Dialogue: 2,0:00:02.63,0:00:02.83,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EM {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}CLARO
+Dialogue: 2,0:00:02.83,0:00:03.30,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EM {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}CLARO
+Dialogue: 2,0:00:03.30,0:00:03.50,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}VI {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}O
+Dialogue: 2,0:00:03.50,0:00:03.68,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}VI {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}O
+Dialogue: 2,0:00:03.68,0:00:03.86,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}VI {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}O
+Dialogue: 2,0:00:03.86,0:00:04.40,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}DIA {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}AMANHECER
+Dialogue: 2,0:00:04.40,0:00:05.40,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}DIA {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}AMANHECER
+Dialogue: 2,0:00:05.40,0:00:05.58,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}SÓ {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}TENHO
+Dialogue: 2,0:00:05.58,0:00:05.84,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}SÓ {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}TENHO
+Dialogue: 2,0:00:05.84,0:00:06.24,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}EU {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}SÓ {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}TENHO
+Dialogue: 2,0:00:06.24,0:00:06.64,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}CINCO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}DIAS
+Dialogue: 2,0:00:06.64,0:00:07.24,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}CINCO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}DIAS
+Dialogue: 2,0:00:07.24,0:00:07.46,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}CONSEGUIR
+Dialogue: 2,0:00:07.46,0:00:08.34,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}CONSEGUIR
+Dialogue: 2,0:00:08.34,0:00:08.60,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PELO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}MENOS
+Dialogue: 2,0:00:08.60,0:00:09.27,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PELO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}MENOS
+Dialogue: 2,0:00:09.27,0:00:09.55,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}SEIS {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}PESSOAS
+Dialogue: 2,0:00:09.55,0:00:10.30,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}SEIS {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PESSOAS
+Dialogue: 2,0:00:10.30,0:00:10.48,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}ME {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}AJUDAR
+Dialogue: 2,0:00:10.48,0:00:10.64,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}AJUDAR
+Dialogue: 2,0:00:10.64,0:00:11.40,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}AJUDAR
+Dialogue: 2,0:00:11.40,0:00:11.68,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}COM {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}PELO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}MENOS
+Dialogue: 2,0:00:11.68,0:00:11.94,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}COM {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PELO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}MENOS
+Dialogue: 2,0:00:11.94,0:00:12.90,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}COM {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PELO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}MENOS
+Dialogue: 2,0:00:12.90,0:00:12.92,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}R$ {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}12 {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}POR
+Dialogue: 2,0:00:12.92,0:00:13.96,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}R$ {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}12 {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}POR
+Dialogue: 2,0:00:13.96,0:00:14.18,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}R$ {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}12 {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}POR
+Dialogue: 2,0:00:14.18,0:00:14.60,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}AÍ
+Dialogue: 2,0:00:14.60,0:00:14.88,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}ME {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}GARANTIR
+Dialogue: 2,0:00:14.88,0:00:15.18,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}GARANTIR
+Dialogue: 2,0:00:15.18,0:00:16.24,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}GARANTIR
+Dialogue: 2,0:00:16.24,0:00:16.46,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}OS {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}ITENS {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}DE
+Dialogue: 2,0:00:16.46,0:00:16.78,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}OS {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}ITENS {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}DE
+Dialogue: 2,0:00:16.78,0:00:16.92,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}OS {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}ITENS {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}DE
+Dialogue: 2,0:00:16.92,0:00:17.60,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}CURATIVO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}PRA
+Dialogue: 2,0:00:17.60,0:00:17.76,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}CURATIVO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PRA
+Dialogue: 2,0:00:17.76,0:00:17.92,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}MINHA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}MAMÃE
+Dialogue: 2,0:00:17.92,0:00:18.24,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}MINHA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}MAMÃE
+Dialogue: 2,0:00:18.24,0:00:18.70,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}CONSEGUIR {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}FAZER
+Dialogue: 2,0:00:18.70,0:00:19.20,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}CONSEGUIR {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}FAZER
+Dialogue: 2,0:00:19.20,0:00:19.44,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}UMA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}TROCA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}DE
+Dialogue: 2,0:00:19.44,0:00:19.74,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}UMA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}TROCA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}DE
+Dialogue: 2,0:00:19.74,0:00:19.90,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}UMA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}TROCA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}DE
+Dialogue: 2,0:00:19.90,0:00:20.40,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}CURATIVO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}BEM
+Dialogue: 2,0:00:20.40,0:00:20.56,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}CURATIVO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}BEM
+Dialogue: 2,0:00:20.56,0:00:21.47,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}CONFORTÁVEL
+Dialogue: 2,0:00:21.47,0:00:21.67,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}AJUDE
+Dialogue: 2,0:00:21.67,0:00:22.13,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}AJUDE
+Dialogue: 2,0:00:22.13,0:00:22.70,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PESSOAL
+Dialogue: 2,0:00:22.70,0:00:22.86,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}A {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}PASSAR {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}ESSA
+Dialogue: 2,0:00:22.86,0:00:23.32,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}A {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PASSAR {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}ESSA
+Dialogue: 2,0:00:23.32,0:00:23.68,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}A {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}PASSAR {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}ESSA
+Dialogue: 2,0:00:23.68,0:00:24.16,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NOITE {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}SEM {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}DOR
+Dialogue: 2,0:00:24.16,0:00:24.42,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NOITE {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}SEM {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}DOR
+Dialogue: 2,0:00:24.42,0:00:24.79,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NOITE {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}SEM {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}DOR
+Dialogue: 2,0:00:24.79,0:00:24.95,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H002A2AFF&\3a&HFF&\1a&HFF&\4a&HFF&}AJUDE {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}NESSA
+Dialogue: 2,0:00:24.95,0:00:25.75,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}AJUDE {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}NESSA
+Dialogue: 2,0:00:25.75,0:00:26.07,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}ME {\1c&H002A2AFF&\3a&H00&\1a&H00&\4a&H64&}AJUDE {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NESSA
+Dialogue: 2,0:00:26.07,0:00:26.80,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}BATALHA
+Dialogue: 2,0:00:26.80,0:00:27.22,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}ENTRA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}COMIGO
+Dialogue: 2,0:00:27.22,0:00:27.84,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}ENTRA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}COMIGO
+Dialogue: 2,0:00:27.84,0:00:28.26,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NESSA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}CORRENTE
+Dialogue: 2,0:00:28.26,0:00:28.76,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NESSA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}CORRENTE
+Dialogue: 2,0:00:28.76,0:00:28.92,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}DO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}BEM
+Dialogue: 2,0:00:28.92,0:00:29.34,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}DO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}BEM
+Dialogue: 2,0:00:29.34,0:00:29.52,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}QUE {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}NÃO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}TÁ
+Dialogue: 2,0:00:29.52,0:00:29.70,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}QUE {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NÃO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}TÁ
+Dialogue: 2,0:00:29.70,0:00:29.90,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}QUE {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NÃO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}TÁ
+Dialogue: 2,0:00:29.90,0:00:30.04,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NEM {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}UM {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}POUCO
+Dialogue: 2,0:00:30.04,0:00:30.18,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NEM {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}UM {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}POUCO
+Dialogue: 2,0:00:30.18,0:00:30.56,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NEM {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}UM {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}POUCO
+Dialogue: 2,0:00:30.56,0:00:31.00,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}FÁCIL
+Dialogue: 2,0:00:31.00,0:00:31.62,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}VAMO {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}JUNTOS
+Dialogue: 2,0:00:31.62,0:00:32.32,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}VAMO {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}JUNTOS
+Dialogue: 2,0:00:32.32,0:00:32.62,Cap,,0,0,0,,{\an5\pos(540,1010)\fscx90\fscy90\t(0,90,\fscx100\fscy100)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NESSA {\1c&H00FFFFFF&\3a&HFF&\1a&HFF&\4a&HFF&}BATALHA
+Dialogue: 2,0:00:32.62,0:00:33.27,Cap,,0,0,0,,{\an5\pos(540,1010)}{\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}NESSA {\1c&H00FFFFFF&\3a&H00&\1a&H00&\4a&H64&}BATALHA
+Dialogue: 0,0:00:33.27,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(250,0)\1c&H00000000&\1a&H70&\p1}m 0 0 l 1080 0 1080 1920 0 1920{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H001C10C8&\p1}m 0 742 l 1080 742 1080 754 0 754{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H001E12CD&\p1}m 0 753 l 1080 753 1080 766 0 766{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H002014D3&\p1}m 0 765 l 1080 765 1080 778 0 778{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H002216D8&\p1}m 0 777 l 1080 777 1080 790 0 790{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H002418DD&\p1}m 0 789 l 1080 789 1080 802 0 802{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H00261AE2&\p1}m 0 801 l 1080 801 1080 813 0 813{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H00261BE4&\p1}m 0 812 l 1080 812 1080 825 0 825{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H002519DD&\p1}m 0 824 l 1080 824 1080 837 0 837{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H002318D7&\p1}m 0 836 l 1080 836 1080 849 0 849{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H002116D0&\p1}m 0 848 l 1080 848 1080 861 0 861{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H001F15CA&\p1}m 0 860 l 1080 860 1080 872 0 872{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H001D13C3&\p1}m 0 871 l 1080 871 1080 884 0 884{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H001B12BC&\p1}m 0 883 l 1080 883 1080 896 0 896{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H001910B6&\p1}m 0 895 l 1080 895 1080 908 0 908{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H00170FAF&\p1}m 0 907 l 1080 907 1080 920 0 920{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H00160DA8&\p1}m 0 919 l 1080 919 1080 931 0 931{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H00140CA2&\p1}m 0 930 l 1080 930 1080 943 0 943{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H00120A9B&\p1}m 0 942 l 1080 942 1080 955 0 955{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H00100995&\p1}m 0 954 l 1080 954 1080 967 0 967{\p0}
+Dialogue: 0,0:00:33.42,0:00:36.67,Box,,0,0,0,,{\an7\pos(0,0)\fad(200,0)\1c&H000E078E&\p1}m 0 966 l 1080 966 1080 979 0 979{\p0}
+Dialogue: 2,0:00:33.42,0:00:36.67,Hook,,0,0,0,,{\an5\pos(540,808)\fnImpact\fs113\fscx108\bord0\fad(200,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}DÊ AO PEDRINHO
+Dialogue: 3,0:00:33.42,0:00:36.67,Hook,,0,0,0,,{\an5\pos(540,808)\fnImpact\fs113\fscx108\bord0\fad(200,0)\1c&H00FFFFFF&\shad0\clip(0,728,1080,810)}DÊ AO PEDRINHO
+Dialogue: 2,0:00:33.42,0:00:36.67,Hook,,0,0,0,,{\an5\pos(540,913)\fnImpact\fs113\fscx108\bord0\fad(200,0)\1c&H00D8D8D8&\xshad3\yshad5\4c&H00100820&\4a&H40&}UMA NOITE SEM DOR
+Dialogue: 3,0:00:33.42,0:00:36.67,Hook,,0,0,0,,{\an5\pos(540,913)\fnImpact\fs113\fscx108\bord0\fad(200,0)\1c&H00FFFFFF&\shad0\clip(0,834,1080,915)}UMA NOITE SEM DOR
+Dialogue: 2,0:00:33.77,0:00:36.67,Cta,,0,0,0,,{\an5\pos(540,1080)\fad(200,0)}TOQUE EM SAIBA MAIS {\fnSegoe UI Symbol\1c&H002A2AFF&}♥

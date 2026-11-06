@@ -1,0 +1,249 @@
+{
+ "nome": "Pedrinho_unicef_suplemento_v1",
+ "pedido": "Completar as LEVAs 27/10/2026 - Frente 1",
+ "estilo": "UNICEF (criativo-unicef-ong)",
+ "angulo": "parece um simples suplemento, mas e um dos cuidados que nao podem faltar, junto com cada curativo; ele nao quer ficar sem os cuidados e sentir mais dor, e queria estar bem de ajuda para nao ter que ficar sempre pedindo",
+ "gancho": {
+  "referencia": "1669162520799709",
+  "musica_vol": 0.12,
+  "legenda_y": 1190,
+  "legenda_fs": 56,
+  "destaque": "#D90429",
+  "narracao": [
+   {
+    "id": "N0",
+    "t": 0.15
+   },
+   {
+    "id": "N1",
+    "t": 2.62
+   },
+   {
+    "id": "N2",
+    "t": 8.32
+   }
+  ],
+  "fim": 10.19,
+  "cenas": [
+   {
+    "src": "Cubitan -Suplementos e Dieta Terapêutica.png",
+    "t0": 0.0,
+    "t1": 2.62,
+    "zoom": [
+     1.0,
+     1.06
+    ]
+   },
+   {
+    "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\roteiro 8.mp4",
+    "start": 30.0,
+    "t0": 2.62,
+    "t1": 6.26,
+    "papel": "cena forte do Pedrinho",
+    "zoom": [
+     1.0,
+     1.0
+    ]
+   },
+   {
+    "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+    "start": 176.0,
+    "t0": 6.26,
+    "t1": 8.32,
+    "zoom": [
+     1.0,
+     1.0
+    ]
+   },
+   {
+    "src": "20260729_164523.jpg",
+    "t0": 8.32,
+    "t1": 10.19,
+    "zoom": [
+     1.04,
+     1.12
+    ]
+   }
+  ],
+  "blocos": [
+   [
+    "ISSO PODE PARECER",
+    "UM SIMPLES SUPLEMENTO."
+   ],
+   [
+    "MAS PARA O PEDRINHO,"
+   ],
+   [
+    "QUE TEM",
+    "EPIDERMÓLISE BOLHOSA,"
+   ],
+   [
+    "É UM DOS CUIDADOS",
+    "QUE NÃO PODEM FALTAR."
+   ],
+   [
+    "JUNTO COM",
+    "CADA CURATIVO."
+   ]
+  ]
+ },
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\roteiro 7.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  585,
+  645
+ ],
+ "segments": [
+  {
+   "in": 119.45,
+   "out": 121.24,
+   "zoom": "Z1",
+   "txt": "por favor, me ajuda, eu não quero,"
+  },
+  {
+   "in": 121.87,
+   "out": 122.98,
+   "zoom": "Z2",
+   "txt": "ter que ficar sem"
+  },
+  {
+   "in": 123.17,
+   "out": 126.56,
+   "zoom": "Z3",
+   "txt": "os meus cuidados que eu preciso, sem os meus curativos,"
+  },
+  {
+   "in": 126.99,
+   "out": 128.56,
+   "txt": "gazes, atadura,",
+   "broll": [
+    {
+     "src": "GAZE.png"
+    },
+    {
+     "src": "crepe bandagem.png"
+    }
+   ]
+  },
+  {
+   "in": 129.67,
+   "out": 131.34,
+   "zoom": "Z2",
+   "txt": "e acabar sentindo mais dor,"
+  },
+  {
+   "in": 131.43,
+   "out": 132.98,
+   "txt": "porque com os meus curativos,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 150.0
+    }
+   ]
+  },
+  {
+   "in": 134.51,
+   "out": 136.36,
+   "zoom": "ZF",
+   "txt": "alivia bastante as minhas dores."
+  },
+  {
+   "in": 85.71,
+   "out": 86.76,
+   "zoom": "Z1",
+   "txt": "eu queria muito,"
+  },
+  {
+   "in": 87.69,
+   "out": 88.98,
+   "zoom": "Z3",
+   "txt": "tá bem de ajuda,"
+  },
+  {
+   "in": 92.27,
+   "out": 93.34,
+   "zoom": "Z2",
+   "txt": "pra não precisar"
+  },
+  {
+   "in": 102.29,
+   "out": 104.36,
+   "zoom": "ZF",
+   "txt": "ter que ficar sempre pedindo ajuda."
+  },
+  {
+   "in": 105.11,
+   "out": 106.6,
+   "zoom": "Z1",
+   "txt": "Mas se isso não for assim,"
+  },
+  {
+   "in": 106.91,
+   "out": 108.0,
+   "zoom": "Z3",
+   "txt": "aí como é que eu faço?"
+  },
+  {
+   "in": 148.43,
+   "out": 149.52,
+   "zoom": "Z2",
+   "txt": "Então, por favor,"
+  },
+  {
+   "in": 150.17,
+   "out": 150.9,
+   "zoom": "ZF",
+   "txt": "me ajude."
+  },
+  {
+   "in": 138.71,
+   "out": 139.58,
+   "zoom": "Z1",
+   "txt": "minha eterna,"
+  },
+  {
+   "in": 140.39,
+   "out": 141.18,
+   "zoom": "Z2",
+   "txt": "gratidão mesmo."
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "GAZES",
+  "ATADURA",
+  "DOR",
+  "DORES",
+  "AJUDA",
+  "AJUDE",
+  "CUIDADOS",
+  "ALIVIA"
+ ],
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_45_55.png",
+  "texto_do_lettering": "R$ 5,00 PODEM LEVAR ALÍVIO PRO PEDRINHO"
+ },
+ "endcard": {
+  "src": "VID-20260702-WA0016.mp4",
+  "start": 50.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "hook": [],
+ "caption_y": 950,
+ "fatos": {
+  "suplemento e um dos cuidados que nao podem faltar, junto com os itens de curativo (N1, N2)": "Pedrinho, Um Video Novo pra campanha.mp4, 281-295 s ('pra nao deixar faltar nada... itens de curativo, tudo, suplemento, alimentacao'); foto do Cubitan no banco",
+  "nao quer ficar sem os cuidados, curativos, gazes, atadura e sentir mais dor; com os curativos alivia as dores": "Pedrinho, roteiro 7.mp4, 118.6-136.3 s",
+  "queria estar bem de ajuda para nao ter que ficar sempre pedindo ajuda; se nao for assim, como e que faz": "Pedrinho, roteiro 7.mp4, 85.2-108.0 s",
+  "R$5 'alivio' (lettering)": "sem valor dito no bruto: R$5 (regra da skill); 'alivia bastante as minhas dores' (roteiro 7, 134.5 s). Arquivo 17_45_55",
+  "cortado": "'e', 'cre aqui', 'sabe, galera', 'por comentarios desse tipo...', 'ne, pessoal'"
+ },
+ "music_start": 10.19,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 29\\PEB 145 - UNICEF.mp4"
+}

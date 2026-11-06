@@ -1,0 +1,140 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1289222076667000.mp4",
+ "estilo": "BIB LUCAS ALEGRIA",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 6.4,
+   "linhas": [
+    "Deus ama quem dá com alegria – 2 Coríntios 9:7"
+   ],
+   "estilo": "caixa",
+   "bg": "preto",
+   "fg": "branco",
+   "size": 40,
+   "y": 300,
+   "pad": [
+    16,
+    6
+   ],
+   "destaque": [
+    "Lucas",
+    "6:38"
+   ],
+   "cor_destaque": [
+    120,
+    200,
+    255
+   ]
+  },
+  {
+   "de": 6.4,
+   "ate": 25.51,
+   "linhas": [
+    "Doe R$2 com alegria",
+    "e ajude o Pedrinho 🙏"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 355,
+   "contorno": 2,
+   "lh": 1.05
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1330
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 25.51
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1289 - Lucas 6.38 (fundo sem voz).mp3",
+ "musica_volume": 1.479,
+ "modelo": {
+  "id": "peb222_l2_lucas",
+  "exemplo": "PEB 222",
+  "descricao": "1289222076667000: faixa preta \"Dai, e vos sera dado - Lucas 6:38\", depois texto amarelo no alto e legenda com a palavra falada em verde; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1289222076667000",
+  "titulo": "Dai e vos será dado (Lucas 6:38)",
+  "variacao": "pedrinho_lucas_alegria"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas.mp4",
+   "ini": 0,
+   "fim": 3.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_estendido.mp4",
+   "ini": 0,
+   "fim": 3.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 20.0,
+   "fim": 23.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151540.mp4",
+   "ini": 2.0,
+   "fim": 5.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_curativo.mp4",
+   "ini": 0,
+   "fim": 3.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_bracos_close.mp4",
+   "ini": 0,
+   "fim": 3.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 2.0,
+   "fim": 5.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_close.mp4",
+   "ini": 0,
+   "fim": 3.146,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_peito_bracos.mp4",
+   "ini": 0,
+   "fim": 3.142,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_lucas_alegria_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_lucas_alegria_sr.json",
+  "de": 0.2
+ },
+ "fatos": {
+  "doenca rara": "lv_0_20261102155438 1,7-3,1",
+  "feridas aumentaram, carne viva": "lv_0_20261102155438 15,3-23,3",
+  "tratamento caro ameniza as dores": "lv_0_20261102155438 7,6-14,4",
+  "caixa R$1.500": "placa 20261102_152739",
+  "R$2": "placa 20261102_151635/152631"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 68\\PEB 252 - BIB LUCAS ALEGRIA.mp4",
+ "saida_fixa": true
+}

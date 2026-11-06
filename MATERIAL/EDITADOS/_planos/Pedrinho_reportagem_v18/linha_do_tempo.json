@@ -1,0 +1,35 @@
+{
+ "total": 25.589569000000004,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.316984,
+   "texto": "Ela cuida de cada ferida do filho. E ainda ouviu que a culpa era dela."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 6.299999999999999,
+   "texto": "nenhuma mãe deveria ouvir isso: \"Você é culpada pelo que o seu filho passa\"."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.240884,
+   "texto": "O Pedrinho tem epidermólise bolhosa, uma doença genética. E os cuidados não cabem no orçamento da família."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 3.380000000000007,
+   "texto": "o que eu faço com mil e quinhentos? Não consigo fazer nada."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.351701,
+   "texto": "Marque nos comentários uma mãe guerreira como ela."
+  }
+ ]
+}

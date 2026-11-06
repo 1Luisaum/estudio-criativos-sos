@@ -1,0 +1,55 @@
+{
+ "text": "Para acreditar na dor dele, ninguém precisa ver ferida nenhuma.",
+ "words": [
+  {
+   "text": "Para",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "acreditar",
+   "start": 0.232,
+   "end": 0.685
+  },
+  {
+   "text": "na",
+   "start": 0.72,
+   "end": 0.801
+  },
+  {
+   "text": "dor",
+   "start": 0.848,
+   "end": 0.975
+  },
+  {
+   "text": "dele,",
+   "start": 1.033,
+   "end": 1.416
+  },
+  {
+   "text": "ninguém",
+   "start": 1.521,
+   "end": 1.811
+  },
+  {
+   "text": "precisa",
+   "start": 1.846,
+   "end": 2.195
+  },
+  {
+   "text": "ver",
+   "start": 2.253,
+   "end": 2.404
+  },
+  {
+   "text": "ferida",
+   "start": 2.566,
+   "end": 3.03
+  },
+  {
+   "text": "nenhuma.",
+   "start": 3.077,
+   "end": 3.545
+  }
+ ]
+}

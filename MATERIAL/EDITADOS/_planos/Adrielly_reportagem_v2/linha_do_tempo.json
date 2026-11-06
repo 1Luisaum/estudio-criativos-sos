@@ -1,0 +1,59 @@
+{
+ "total": 59.453968,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.5136959999999995,
+   "texto": "Todos os dias, a cama da Adrielly amanhece com sangue nos lençóis."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 7.959999999999999,
+   "texto": "Todos os dias eu preciso trocar os meus lençóis da cama porque fica sujo de sangue."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.633379,
+   "texto": "Ela tem epidermólise bolhosa. A pele se rompe com qualquer atrito, e as feridas sangram."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 8.520000000000016,
+   "texto": "anemia crônica gravíssima. A minha hemoglobina tá em oito vírgula dois,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.330385,
+   "texto": "Para não piorar, ela recebe ferro direto na veia. Quando não dá, precisa de bolsa de sangue."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 6.52,
+   "texto": "Tem dias que eu preciso de bolsa de sangue pra não acontecer o pior"
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 8.327914,
+   "texto": "Curativos que não grudam protegem a pele na troca. A SOS Human Help arrecada para comprar. Com dez reais, você já ajuda."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 7.679999999999998,
+   "texto": "E a cada dia sem os meus curativos, a minha saúde piora, a minha pele piora."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.9685939999999995,
+   "texto": "Toque em Saiba mais e ajude a proteger a pele da Adrielly."
+  }
+ ]
+}

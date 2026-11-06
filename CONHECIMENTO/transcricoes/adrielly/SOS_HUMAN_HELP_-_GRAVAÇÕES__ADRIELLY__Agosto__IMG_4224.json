@@ -1,0 +1,268 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Pai amado, eu não pedi pra nascer assim. Por favor, me ajuda. Tem dias que a dor me paralisa",
+ "words": [
+  {
+   "text": "Pai",
+   "start": 3.32,
+   "end": 3.56,
+   "type": "word",
+   "logprob": -0.00042866366614665213
+  },
+  {
+   "text": " ",
+   "start": 3.56,
+   "end": 3.58,
+   "type": "spacing",
+   "logprob": -0.0001401803019689396
+  },
+  {
+   "text": "amado,",
+   "start": 3.58,
+   "end": 4.36,
+   "type": "word",
+   "logprob": -5.6581140919812846e-05
+  },
+  {
+   "text": " ",
+   "start": 4.36,
+   "end": 4.36,
+   "type": "spacing",
+   "logprob": -4.6491513785440475e-06
+  },
+  {
+   "text": "eu",
+   "start": 5.26,
+   "end": 5.36,
+   "type": "word",
+   "logprob": -4.6491513785440475e-06
+  },
+  {
+   "text": " ",
+   "start": 5.36,
+   "end": 5.4,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "não",
+   "start": 5.4,
+   "end": 5.56,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 5.56,
+   "end": 5.6,
+   "type": "spacing",
+   "logprob": -6.985420623095706e-05
+  },
+  {
+   "text": "pedi",
+   "start": 5.6,
+   "end": 6.02,
+   "type": "word",
+   "logprob": -6.985420623095706e-05
+  },
+  {
+   "text": " ",
+   "start": 6.02,
+   "end": 6.08,
+   "type": "spacing",
+   "logprob": -6.0794889577664435e-05
+  },
+  {
+   "text": "pra",
+   "start": 6.08,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -6.0794889577664435e-05
+  },
+  {
+   "text": " ",
+   "start": 6.26,
+   "end": 6.3,
+   "type": "spacing",
+   "logprob": -1.8596476365928538e-05
+  },
+  {
+   "text": "nascer",
+   "start": 6.3,
+   "end": 6.74,
+   "type": "word",
+   "logprob": -1.0728747611210565e-05
+  },
+  {
+   "text": " ",
+   "start": 6.74,
+   "end": 6.82,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "assim.",
+   "start": 6.82,
+   "end": 7.34,
+   "type": "word",
+   "logprob": -2.046419581347436e-06
+  },
+  {
+   "text": " ",
+   "start": 7.34,
+   "end": 7.34,
+   "type": "spacing",
+   "logprob": -9.77468371274881e-05
+  },
+  {
+   "text": "Por",
+   "start": 8.16,
+   "end": 8.32,
+   "type": "word",
+   "logprob": -9.77468371274881e-05
+  },
+  {
+   "text": " ",
+   "start": 8.32,
+   "end": 8.4,
+   "type": "spacing",
+   "logprob": -7.033323527139146e-06
+  },
+  {
+   "text": "favor,",
+   "start": 8.4,
+   "end": 9.0,
+   "type": "word",
+   "logprob": -6.198862251949322e-06
+  },
+  {
+   "text": " ",
+   "start": 9.0,
+   "end": 9.42,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 9.42,
+   "end": 9.52,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.52,
+   "end": 9.6,
+   "type": "spacing",
+   "logprob": -2.002696055569686e-05
+  },
+  {
+   "text": "ajuda.",
+   "start": 9.6,
+   "end": 10.38,
+   "type": "word",
+   "logprob": -1.8377923576432902e-05
+  },
+  {
+   "text": " ",
+   "start": 10.38,
+   "end": 10.38,
+   "type": "spacing",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": "Tem",
+   "start": 11.16,
+   "end": 11.38,
+   "type": "word",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": " ",
+   "start": 11.38,
+   "end": 11.46,
+   "type": "spacing",
+   "logprob": -5.447716102935374e-05
+  },
+  {
+   "text": "dias",
+   "start": 11.46,
+   "end": 12.06,
+   "type": "word",
+   "logprob": -5.447716102935374e-05
+  },
+  {
+   "text": " ",
+   "start": 12.06,
+   "end": 12.26,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "que",
+   "start": 12.26,
+   "end": 12.32,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 12.32,
+   "end": 12.36,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 12.36,
+   "end": 12.44,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 12.44,
+   "end": 12.5,
+   "type": "spacing",
+   "logprob": -7.033323527139146e-06
+  },
+  {
+   "text": "dor",
+   "start": 12.5,
+   "end": 12.66,
+   "type": "word",
+   "logprob": -7.033323527139146e-06
+  },
+  {
+   "text": " ",
+   "start": 12.66,
+   "end": 12.7,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "me",
+   "start": 12.7,
+   "end": 12.82,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 12.82,
+   "end": 12.88,
+   "type": "spacing",
+   "logprob": -0.0005635818815790117
+  },
+  {
+   "text": "paralisa",
+   "start": 12.88,
+   "end": 13.8,
+   "type": "word",
+   "logprob": -0.00038889373990969034
+  }
+ ],
+ "transcription_id": "iHWhpJScNxyG977rYGIS",
+ "audio_duration_secs": 16.7316875
+}

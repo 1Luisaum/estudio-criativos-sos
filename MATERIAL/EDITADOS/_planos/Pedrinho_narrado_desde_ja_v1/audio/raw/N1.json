@@ -1,0 +1,95 @@
+{
+ "text": "Repare no fim de cada pedido dessa família. A ajuda ainda nem chegou, e o obrigado já veio.",
+ "words": [
+  {
+   "text": "Repare",
+   "start": 0.0,
+   "end": 0.627
+  },
+  {
+   "text": "no",
+   "start": 0.662,
+   "end": 0.755
+  },
+  {
+   "text": "fim",
+   "start": 0.836,
+   "end": 1.01
+  },
+  {
+   "text": "de",
+   "start": 1.057,
+   "end": 1.126
+  },
+  {
+   "text": "cada",
+   "start": 1.173,
+   "end": 1.382
+  },
+  {
+   "text": "pedido",
+   "start": 1.44,
+   "end": 2.009
+  },
+  {
+   "text": "dessa",
+   "start": 2.171,
+   "end": 2.403
+  },
+  {
+   "text": "família.",
+   "start": 2.461,
+   "end": 2.961
+  },
+  {
+   "text": "A",
+   "start": 3.599,
+   "end": 3.68
+  },
+  {
+   "text": "ajuda",
+   "start": 3.727,
+   "end": 4.087
+  },
+  {
+   "text": "ainda",
+   "start": 4.11,
+   "end": 4.342
+  },
+  {
+   "text": "nem",
+   "start": 4.4,
+   "end": 4.54
+  },
+  {
+   "text": "chegou,",
+   "start": 4.586,
+   "end": 5.062
+  },
+  {
+   "text": "e",
+   "start": 5.085,
+   "end": 5.12
+  },
+  {
+   "text": "o",
+   "start": 5.178,
+   "end": 5.201
+  },
+  {
+   "text": "obrigado",
+   "start": 5.259,
+   "end": 5.747
+  },
+  {
+   "text": "já",
+   "start": 5.793,
+   "end": 5.886
+  },
+  {
+   "text": "veio.",
+   "start": 5.968,
+   "end": 6.641
+  }
+ ]
+}

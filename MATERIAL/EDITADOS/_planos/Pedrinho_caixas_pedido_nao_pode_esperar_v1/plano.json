@@ -1,0 +1,219 @@
+{
+ "nome": "Pedrinho_caixas_pedido_nao_pode_esperar_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "crianca": "Pedrinho",
+ "gancho": "quem é EB não pode esperar, galera. E eu não posso esperar mais.",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.07,
+ "final_extra": 2.2,
+ "fatos": {
+  "quem é EB não pode esperar": "Pedrinho, roteiro 9 (44-51 s)",
+  "ferimentos cada vez mais abertos": "Pedrinho, 20260916_234157 (35-39 s)",
+  "bolhas piores": "Pedrinho, roteiro 8 (92-96 s)",
+  "não pode usar o mesmo curativo": "Pedrinho, roteiro 9 (2-8 s)",
+  "quatro, cinco, dez reais": "Pedrinho, Roteiro_ peço perdão... (63-74 s)"
+ },
+ "modelo": "estrutura do AEB 35 (um gancho só, sem_caixas) da skill criativo-caixas-pedido-ong",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cortes": [
+    [
+     44.18,
+     48.42
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+     44.12
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "OS MEUS FERIMENTOS",
+    "NÃO PODEM ESPERAR"
+   ],
+   "texto_verde_y": 1310
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     35.02,
+     36.22
+    ],
+    [
+     37.18,
+     39.2
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     149.11
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     94.6
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro8.json",
+   "cortes": [
+    [
+     92.46,
+     95.88
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1760826007_3746400716379323451_1642859680.mp4",
+     152.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1774481214_3860949812967821509_1642859680.mp4",
+     122.28
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cortes": [
+    [
+     2.08,
+     8.28
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+     2.02
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cortes": [
+    [
+     79.36,
+     80.98
+    ],
+    [
+     82.22,
+     83.64
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     152.55
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     21.25
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     63.0,
+     65.54
+    ],
+    [
+     66.36,
+     66.92
+    ],
+    [
+     67.72,
+     69.72
+    ],
+    [
+     71.56,
+     74.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     98.03
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     18.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     163.48
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     167.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     101.09
+    ]
+   ]
+  },
+  {
+   "nome": "c6",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cortes": [
+    [
+     91.56,
+     91.8
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/soro fisiológico.png",
+   "final": true,
+   "texto_verde": [
+    "CLIQUE EM SAIBA MAIS",
+    "AJUDE O PEDRINHO"
+   ],
+   "texto_verde_y": 1660
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS QUE NÃO PODEM ESPERAR"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "DEIXAM PEDRINHO MAIS PERTO DE COMPRAR",
+   "O CURATIVO NOVO DE CADA TROCA"
+  ],
+  "valor_y": 1300,
+  "cor_caixa": [
+   200,
+   16,
+   28
+  ],
+  "cor_texto": [
+   235,
+   40,
+   40
+  ]
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 170 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

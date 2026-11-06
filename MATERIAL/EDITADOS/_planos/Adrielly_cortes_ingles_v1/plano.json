@@ -1,0 +1,160 @@
+{
+ "nome": "Adrielly_cortes_ingles_v1",
+ "crianca": "Adrielly",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "music_start": 5.0,
+ "face": [
+  357,
+  450
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.0,
+   "center": [
+    405,
+    720
+   ]
+  },
+  "Z2": {
+   "z": 1.15,
+   "center": [
+    357,
+    660
+   ]
+  },
+  "Z3": {
+   "z": 1.3,
+   "center": [
+    357,
+    650
+   ]
+  },
+  "ZF": {
+   "z": 1.45,
+   "center": [
+    357,
+    640
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 1.2,
+   "out": 2.18,
+   "zoom": "Z2",
+   "txt": "If you feel"
+  },
+  {
+   "in": 2.46,
+   "out": 4.24,
+   "zoom": "Z3",
+   "txt": "in your heart to help me,"
+  },
+  {
+   "in": 5.14,
+   "out": 6.48,
+   "zoom": "Z1",
+   "txt": "even just a little,"
+  },
+  {
+   "in": 7.28,
+   "out": 8.02,
+   "zoom": "ZF",
+   "txt": "five"
+  },
+  {
+   "in": 8.64,
+   "out": 10.0,
+   "zoom": "Z2",
+   "txt": "or ten dollars"
+  },
+  {
+   "in": 10.6,
+   "out": 14.02,
+   "txt": "is gonna make a huge difference in my life.",
+   "broll": [
+    {
+     "src": "1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 11.0,
+     "until": 12.3
+    },
+    {
+     "src": "WhatsApp Video 2026-07-07 at 19.32.36 (2).mp4",
+     "start": 14.4
+    }
+   ]
+  },
+  {
+   "in": 14.84,
+   "out": 15.82,
+   "zoom": "ZF",
+   "txt": "God bless you"
+  }
+ ],
+ "red": [
+  "HELP",
+  "FIVE",
+  "TEN",
+  "DOLLARS",
+  "LIFE"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "GIVE ME 10 SECONDS"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "ADRIELLY IS 28",
+    "AND WAS BORN WITH",
+    "BUTTERFLY SKIN"
+   ],
+   "fs": 92
+  }
+ ],
+ "chamada": {
+  "linhas": [
+   [
+    "JUST $10",
+    124
+   ],
+   [
+    "CAN CHANGE THE LIFE OF",
+    64
+   ],
+   [
+    "BRAVE ADRIELLY!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "endcard": {
+  "src": "WhatsApp Video 2026-07-07 at 19.32.36 (8).mp4",
+  "start": 3.0,
+  "dur": 3.4,
+  "lines": [
+   "MAKE A HUGE",
+   "DIFFERENCE IN HER LIFE"
+  ],
+  "cta": "TAP LEARN MORE"
+ },
+ "badge": null,
+ "fatos": {
+  "fala (dublada em inglês pelo ElevenLabs, lipsync DreamFace)": "IMG_4740",
+  "28 anos, nasceu com epidermólise bolhosa (pele de borboleta)": "IMG_5805 (há vinte e oito anos atrás), ADRIELLY.md",
+  "$10 (ela diz cinco ou dez reais; trocado para dólares a pedido do usuário)": "IMG_4740"
+ },
+ "modelo": "edicao-criativo-ong, versão em inglês (textos traduzidos no plano)",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 47\\AEB 64 - CORTES COM GANCHO.mp4"
+}

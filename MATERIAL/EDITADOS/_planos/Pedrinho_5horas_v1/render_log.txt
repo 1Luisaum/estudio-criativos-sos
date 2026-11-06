@@ -1,0 +1,21 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_5horas_v1.mp4
+seg 00 ok  t=  2.27
+seg 01 ok  t=  2.83
+seg 02 ok  t=  5.17
+seg 03 ok  t=  5.80
+seg 04 ok  t=  6.57
+seg 05 ok  t=  7.50
+seg 06 ok  t=  8.63
+seg 07 ok  t=  9.70
+seg 08 ok  t= 13.17
+seg 09 ok  t= 14.83
+seg 10 ok  t= 16.27
+seg 11 ok  t= 18.03
+seg 12 ok  t= 20.50
+seg 13 ok  t= 25.33
+seg 14 ok  t= 29.87
+seg 15 ok  t= 30.60
+seg 16 ok  t= 33.23
+seg 17 ok  t= 35.93
+audio: 39.33s  buracos=nenhum  ganho voz=+12.1dB
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_5horas_v1.mp4  duracao=39.33s  tela_final=35.93s

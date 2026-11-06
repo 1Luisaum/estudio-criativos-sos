@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Existe uma prova do que o curativo faz pela vida do Pedrinho. Ela tem quase quatro anos.",
+  "OFF2": "Com o material garantido, sobrou espaço para outra coisa.",
+  "OFF3": "Hoje, os gibis continuam por perto. O estoque de faixas, não.",
+  "OFF4": "Ele sabe explicar a diferença que o curativo faz no corpo.",
+  "OFF5": "Aquela ajuda funcionou porque muita gente entrou junto. Agora, dez reais pela SOS Human Help já contam.",
+  "OFF6": "Clique em Saiba mais e ajude o Pedrinho a ficar bem de novo."
+ }
+}

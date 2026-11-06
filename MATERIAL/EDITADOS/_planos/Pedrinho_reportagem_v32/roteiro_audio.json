@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Um ferimento no ombro mudou o curativo do Pedrinho. O corpo já vive enfaixado, e agora a faixa precisou subir.",
+  "OFF2": "Parece um detalhe. Mas a família evita esse ponto por um motivo: o tempo.",
+  "OFF3": "O curativo já era de todo dia. Com os ferimentos bem abertos, passou a ser duas vezes ao dia.",
+  "OFF4": "E a mãe já vigia outro ponto.",
+  "OFF5": "Curativo maior pede mais faixa e mais gaze. Com dez reais, a SOS Human Help ajuda nessa troca.",
+  "OFF6": "Clique em Saiba mais e ajude nesse curativo."
+ }
+}

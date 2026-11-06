@@ -1,0 +1,27 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v3.mp4
+narracao OFF1
+narracao OFF2
+narracao OFF3
+narracao OFF4
+narracao OFF5
+  b01: manchete=450 gc=- legenda=890 etiqueta=None
+  b01: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b01 off 3.71s O Pedrinho só tem os curativos que cabem nas mãos dele.
+  b02: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1060 etiqueta=None
+ok b02 sonora 3.90s Os meus curativos estão acabando e eu tô com medo,
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1070 etiqueta=None
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b03 off 5.19s Ele tem epidermólise bolhosa. A pele dele precisa de curativo todos os dias.
+  b04: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=790 etiqueta=None
+ok b04 sonora 6.78s porque as coisas deles estão acabando. Pedrinho tá precisando de atadura, precisando de pomada.
+  b05: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b05 off 6.19s Gaze, atadura, pomada e soro. Os cuidados com a pele dele passam de quarenta mil reais por mês.
+  b06: manchete=ESCONDIDA (rosto) gc=- legenda=1080 etiqueta=None
+ok b06 sonora 6.18s porque se acabar tudo, eu e minha mamãe não sabe o que que a gente, vai fazer.
+  b07: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b07 off 7.62s A SOS Human Help está arrecadando doações para repor os curativos do Pedrinho. Dez reais já fazem diferença.
+  b08: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b08 sonora 3.66s e desde já, minha eterna gratidão mesmo.
+  b09: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b09 off 4.86s Toque em Saiba mais e ajude a repor os curativos do Pedrinho.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v3.mp4 duracao=48.1s

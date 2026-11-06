@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e risque um pedido dessa lista.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.43
+  },
+  {
+   "text": "em",
+   "start": 0.464,
+   "end": 0.522
+  },
+  {
+   "text": "Saiba",
+   "start": 0.604,
+   "end": 0.894
+  },
+  {
+   "text": "mais",
+   "start": 0.94,
+   "end": 1.312
+  },
+  {
+   "text": "e",
+   "start": 1.44,
+   "end": 1.567
+  },
+  {
+   "text": "risque",
+   "start": 1.602,
+   "end": 1.858
+  },
+  {
+   "text": "um",
+   "start": 1.881,
+   "end": 1.927
+  },
+  {
+   "text": "pedido",
+   "start": 1.974,
+   "end": 2.241
+  },
+  {
+   "text": "dessa",
+   "start": 2.287,
+   "end": 2.485
+  },
+  {
+   "text": "lista.",
+   "start": 2.531,
+   "end": 3.158
+  }
+ ]
+}

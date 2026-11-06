@@ -1,0 +1,273 @@
+{
+ "nome": "Pedrinho_narrado_culpa_v1",
+ "pedido": "2026-10-26_105743",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 20.0,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "FERIDA",
+  "ACABANDO",
+  "ACABOU",
+  "DOR",
+  "CHORAR",
+  "ARDE"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.6,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*CULPADA?*",
+    "fs": 150
+   },
+   {
+    "text": "NENHUMA MÃE DEVERIA OUVIR",
+    "fs": 64
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     1.74,
+     3.78
+    ],
+    [
+     4.08,
+     6.98
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "Nenhuma mãe deveria ouvir isso: “Você é culpada pelo que o seu filho passa”."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240402_095732.jpg"
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 200.0
+    }
+   ],
+   "txt": "A epidermólise bolhosa é uma doença genética. Não é culpa de ninguém."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     9.84,
+     11.52
+    ],
+    [
+     12.72,
+     15.46
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "Eu faço tudo o que tá no meu alcance, mas a EB, essa enfermidade, ela é terrível."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 245.0
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 310.0
+    }
+   ],
+   "txt": "São duas trocas de curativo por dia. Quem faz cada uma delas é a mãe."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_absurdo_caro.json",
+   "cuts": [
+    [
+     17.72,
+     21.08
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      550,
+      1260
+     ]
+    },
+    {
+     "z": 1.5,
+     "center": [
+      550,
+      1260
+     ]
+    }
+   ],
+   "txt": "Os curativo para os cuidado do Pedrinho são absurdo de caro."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_absurdo_caro.json",
+   "cuts": [
+    [
+     35.86,
+     38.34
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.5,
+     "center": [
+      550,
+      1260
+     ]
+    }
+   ],
+   "txt": "O que eu faço com mil e quinhentos? Não consigo fazer nada."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "R$ 1.500",
+    "NÃO DÃO CONTA"
+   ],
+   "dur": 1.4,
+   "fs": 200
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     33.92,
+     34.86
+    ],
+    [
+     36.24,
+     37.82
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "E pela minha condição, eu não consigo nem o básico pra ele."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20250401_204159.jpg"
+    }
+   ],
+   "txt": "Ela não tem culpa. Tem coragem."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     44.9,
+     48.62
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "Você não tem obrigação, mas ajude a salvar o meu filho."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 150.0
+    }
+   ],
+   "txt": "Toque em Saiba mais e mostre a ela que não está sozinha."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "Ana e Pedro sorrindo.png",
+    "look": "cor"
+   },
+   "lines": [
+    "ESSA MÃE NÃO",
+    "ESTÁ *SOZINHA*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 02\\Pedrinho_narrado_culpa_v1.mp4"
+}

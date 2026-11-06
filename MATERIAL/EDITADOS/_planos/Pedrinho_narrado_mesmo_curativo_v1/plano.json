@@ -1,0 +1,258 @@
+{
+ "nome": "Pedrinho_narrado_mesmo_curativo_v1",
+ "pedido": "lote 30 videos 27/10/2026 - frente B",
+ "angulo": "ele sabe que curativo usado nao pode ser reaproveitado, mas sem material: 'vai fazer o que?'",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 60.0,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FALTASSE",
+  "FALTA",
+  "CONDIÇÃO",
+  "NOVO"
+ ],
+ "caption_fix": {
+  "dez": "10"
+ },
+ "fatos": {
+  "nao pode usar o mesmo curativo; eu e minha mae vai fazer o que": "Pedrinho, roteiro 9.mp4 (2-8 s)",
+  "nao ia deixar faltar nada do curativo, mas pela nossa condicao": "Pedrinho, roteiro 9.mp4 (9-24 s)",
+  "aí como é que eu faço": "mae, Roteiro_ Nenhuma mae... (40.9 s)",
+  "eu peço a sua ajuda": "Pedrinho, 20260917_000819.mp4 (50.9 s)",
+  "R$10": "padrao dos pedidos (brief do lote)"
+ },
+ "hook": {
+  "t1": 4.4,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*SEM CURATIVO NOVO*",
+    "fs": 100
+   },
+   {
+    "text": "“VAI FAZER O QUÊ?”",
+    "fs": 72
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cuts": [
+    [
+     2.08,
+     4.28
+    ],
+    [
+     7.08,
+     8.28
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    }
+   ],
+   "txt": "Eu sei que não pode usar o mesmo curativo. Eu e minha mãe vai fazer o quê?"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 168.0
+    },
+    {
+     "src": "GAZE.png"
+    },
+    {
+     "src": "crepe bandagem.png"
+    }
+   ],
+   "txt": "Na epidermólise bolhosa, existe uma regra: curativo usado não volta para a pele."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cuts": [
+    [
+     9.2,
+     10.2
+    ],
+    [
+     11.12,
+     11.64
+    ],
+    [
+     12.38,
+     12.52
+    ],
+    [
+     14.42,
+     14.72
+    ],
+    [
+     15.64,
+     17.52
+    ],
+    [
+     21.92,
+     22.86
+    ],
+    [
+     23.78,
+     24.44
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      580,
+      560
+     ]
+    }
+   ],
+   "txt": "Por mim e pela minha mãe, a gente não ia deixar que faltasse nada do curativo. Mas pela nossa condição, aí como é que faz?"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 22.0
+    }
+   ],
+   "txt": "Do outro lado da cama, a mãe faz a mesma pergunta."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     40.86,
+     41.54
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "Aí como é que eu faço?"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "NOVO",
+    "A CADA TROCA"
+   ],
+   "dur": 1.4,
+   "fs": 230
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 30.0
+    },
+    {
+     "src": "20241107_202353.jpg"
+    }
+   ],
+   "txt": "A regra ele já sabe de cor. O que falta é o material."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cuts": [
+    [
+     51.8,
+     52.94
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    }
+   ],
+   "txt": "Eu peço a sua ajuda."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "fix": {
+    "dez": "10"
+   },
+   "broll": [
+    {
+     "src": "20241109_123330.jpg"
+    },
+    {
+     "src": "20241110_104724.mp4",
+     "start": 5.0
+    }
+   ],
+   "txt": "Com dez reais, a próxima troca do Pedrinho começa com material novo. Toque em Saiba mais."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20260729_180353.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "MATERIAL *NOVO*",
+    "PRA PRÓXIMA TROCA"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 26\\PEB 112 - NARRADO DE IMPACTO.mp4"
+}

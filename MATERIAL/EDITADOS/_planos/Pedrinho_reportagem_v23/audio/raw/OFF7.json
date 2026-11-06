@@ -1,0 +1,55 @@
+{
+ "text": "A mãe diz, item por item, o que está faltando.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "mãe",
+   "start": 0.174,
+   "end": 0.337
+  },
+  {
+   "text": "diz,",
+   "start": 0.36,
+   "end": 0.824
+  },
+  {
+   "text": "item",
+   "start": 0.998,
+   "end": 1.289
+  },
+  {
+   "text": "por",
+   "start": 1.347,
+   "end": 1.509
+  },
+  {
+   "text": "item,",
+   "start": 1.567,
+   "end": 1.892
+  },
+  {
+   "text": "o",
+   "start": 1.95,
+   "end": 2.02
+  },
+  {
+   "text": "que",
+   "start": 2.078,
+   "end": 2.159
+  },
+  {
+   "text": "está",
+   "start": 2.194,
+   "end": 2.357
+  },
+  {
+   "text": "faltando.",
+   "start": 2.415,
+   "end": 3.344
+  }
+ ]
+}

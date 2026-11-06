@@ -1,0 +1,100 @@
+{
+ "text": "A pele dele forma bolhas e feridas a cada dia. E o curativo é o que protege essa pele.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "pele",
+   "start": 0.163,
+   "end": 0.395
+  },
+  {
+   "text": "dele",
+   "start": 0.441,
+   "end": 0.789
+  },
+  {
+   "text": "forma",
+   "start": 0.836,
+   "end": 1.115
+  },
+  {
+   "text": "bolhas",
+   "start": 1.196,
+   "end": 1.614
+  },
+  {
+   "text": "e",
+   "start": 1.672,
+   "end": 1.722
+  },
+  {
+   "text": "feridas",
+   "start": 1.741,
+   "end": 2.159
+  },
+  {
+   "text": "a",
+   "start": 2.229,
+   "end": 2.279
+  },
+  {
+   "text": "cada",
+   "start": 2.299,
+   "end": 2.554
+  },
+  {
+   "text": "dia.",
+   "start": 2.612,
+   "end": 2.984
+  },
+  {
+   "text": "E",
+   "start": 3.204,
+   "end": 3.286
+  },
+  {
+   "text": "o",
+   "start": 3.344,
+   "end": 3.394
+  },
+  {
+   "text": "curativo",
+   "start": 3.402,
+   "end": 3.982
+  },
+  {
+   "text": "é",
+   "start": 4.017,
+   "end": 4.067
+  },
+  {
+   "text": "o",
+   "start": 4.11,
+   "end": 4.16
+  },
+  {
+   "text": "que",
+   "start": 4.191,
+   "end": 4.296
+  },
+  {
+   "text": "protege",
+   "start": 4.354,
+   "end": 4.83
+  },
+  {
+   "text": "essa",
+   "start": 4.853,
+   "end": 4.981
+  },
+  {
+   "text": "pele.",
+   "start": 5.05,
+   "end": 5.325
+  }
+ ]
+}

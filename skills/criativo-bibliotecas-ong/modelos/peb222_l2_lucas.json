@@ -1,0 +1,152 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1289222076667000.mp4",
+ "estilo": "BIB L2 LUCAS",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151540.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn2_1760826007_92s.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151715.mp4",
+   "ini": 2,
+   "fim": 5.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 14,
+   "fim": 17.5,
+   "som": false,
+   "pb": true
+  }
+ ],
+ "voz": {
+  "arq": "{SKILL}\\assets\\narracoes\\n_1289_lucas_sr.mp3",
+  "tx": "{SKILL}\\assets\\narracoes\\n_1289_lucas_sr.json",
+  "de": 0.3
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 5.8,
+   "linhas": [
+    "Dai, e vos será dado – Lucas 6:38"
+   ],
+   "estilo": "caixa",
+   "bg": "preto",
+   "fg": "branco",
+   "size": 40,
+   "y": 300,
+   "pad": [
+    16,
+    6
+   ],
+   "destaque": [
+    "Lucas",
+    "6:38"
+   ],
+   "cor_destaque": [
+    120,
+    200,
+    255
+   ]
+  },
+  {
+   "de": 5.8,
+   "ate": 34.8,
+   "linhas": [
+    "Doe R$5 e faça parte",
+    "dessa missão de amor 🙏"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 355,
+   "contorno": 2,
+   "lh": 1.05
+  }
+ ],
+ "legenda": {
+  "estilo": "amarelo",
+  "y": 1290,
+  "size": 50,
+  "fonte": "bold",
+  "caixa_alta": false,
+  "contorno": 3,
+  "cor": [
+   40,
+   210,
+   70
+  ]
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 34.8
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1289 - Lucas 6.38 (fundo sem voz).mp3",
+ "musica_volume": 1.479,
+ "modelo": {
+  "id": "peb222_l2_lucas",
+  "exemplo": "PEB 222",
+  "descricao": "1289222076667000: faixa preta \"Dai, e vos sera dado - Lucas 6:38\", depois texto amarelo no alto e legenda com a palavra falada em verde; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1289222076667000",
+  "titulo": "Dai e vos será dado (Lucas 6:38)"
+ }
+}

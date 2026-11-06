@@ -1,0 +1,162 @@
+{
+ "total_s": 2773,
+ "videos": [
+  {
+   "plano": "Adrielly_esperanca_milagre_v1",
+   "skill": "criativo-esperanca-ong",
+   "montagem_s": 258,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_esperanca_milagre_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 34\\PEB 155 - DA DOR À ESPERANÇA.mp4",
+   "duracao": 45.07,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 4 momento(s): [9.5, 30.5, 31.5, 37.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 155 - DA DOR À ESPERANÇA_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_urgente_governo_v1",
+   "skill": "criativo-caixas-urgente-ong",
+   "montagem_s": 338,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_urgente_governo_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 35\\PEB 158 - CAIXAS URGENTE.mp4",
+   "duracao": 36.74,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 15 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 20.0, 20.5, 24.0, 24.5, 25.0, 25.5, 26.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 158 - CAIXAS URGENTE_suspeitos.jpg",
+   "prevoo_avisos": [
+    ".frases[0]: rosto de gancho_dor.png (y 136-1062) cai numa faixa de texto [(200, 470), (1220, 1480)]; troque por: 55fa07b9-32b7-4fd1-afb8-f4f3322bb3a4_pb.jpg, ADERIELLY CRIANÇA.png, Adrielly criança 3.jpg"
+   ],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_aspas_dormir_v1",
+   "skill": "criativo-caixas-aspas-ong",
+   "montagem_s": 277,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_aspas_dormir_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 36\\PEB 162 - CAIXAS ASPAS.mp4",
+   "duracao": 35.06,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 18 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 21.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 162 - CAIXAS ASPAS_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_esperanca_primeiros_curativos_v1",
+   "skill": "criativo-esperanca-ong",
+   "montagem_s": 205,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_esperanca_primeiros_curativos_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 166 - DA DOR À ESPERANÇA.mp4",
+   "duracao": 45.93,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 2 momento(s): [18.0, 18.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 166 - DA DOR À ESPERANÇA_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_urgente_90mil_v1",
+   "skill": "criativo-caixas-urgente-ong",
+   "montagem_s": 248,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_urgente_90mil_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 168 - CAIXAS URGENTE.mp4",
+   "duracao": 37.03,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 32 momento(s): [0.0, 0.5, 1.0, 20.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5, 26.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 168 - CAIXAS URGENTE_suspeitos.jpg",
+   "prevoo_avisos": [
+    ".frases[0]: rosto de gancho_dor.png (y 160-1106) cai numa faixa de texto [(200, 470), (1220, 1480)]; troque por: 55fa07b9-32b7-4fd1-afb8-f4f3322bb3a4_pb.jpg, ADERIELLY CRIANÇA.png, Adrielly criança 3.jpg",
+    ".frases[5]: rosto de Curativo Urgutul 20x30cm.jpeg (y 1266-1358) cai numa faixa de texto [(200, 470), (1220, 1480)]; troque por: 55fa07b9-32b7-4fd1-afb8-f4f3322bb3a4_pb.jpg, ADERIELLY CRIANÇA.png, Adrielly criança 3.jpg"
+   ],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_salva_vida_fisioterapia_v1",
+   "skill": "criativo-salva-vida-ong",
+   "montagem_s": 88,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_salva_vida_fisioterapia_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 171 - SALVA VIDA.mp4",
+   "duracao": 28.0,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 2 momento(s): [8.0, 12.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 171 - SALVA VIDA_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_esperanca_milkshake_v1",
+   "skill": "criativo-esperanca-ong",
+   "montagem_s": 160,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_esperanca_milkshake_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 172 - DA DOR À ESPERANÇA.mp4",
+   "duracao": 47.53,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 3 momento(s): [22.5, 23.0, 24.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 172 - DA DOR À ESPERANÇA_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_aspas_cura_v1",
+   "skill": "criativo-caixas-aspas-ong",
+   "montagem_s": 242,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_aspas_cura_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 175 - CAIXAS ASPAS.mp4",
+   "duracao": 41.5,
+   "avisos": [
+    "duração 41.5 s fora da faixa do estilo (25-40 s)",
+    "rosto encostando numa faixa de texto em 11 momento(s): [17.5, 18.5, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 32.5, 34.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 175 - CAIXAS ASPAS_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_urgente_anemia_v1",
+   "skill": "criativo-caixas-urgente-ong",
+   "montagem_s": 181,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_urgente_anemia_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 178 - CAIXAS URGENTE.mp4",
+   "duracao": 34.06,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 8 momento(s): [10.5, 11.0, 11.5, 12.0, 12.5, 13.0, 13.5, 14.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 178 - CAIXAS URGENTE_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_esperanca_vontade_de_viver_v1",
+   "skill": "criativo-esperanca-ong",
+   "montagem_s": 151,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_esperanca_vontade_de_viver_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 180 - DA DOR À ESPERANÇA.mp4",
+   "duracao": 44.2,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(41.33, 0.2), (41.67, 0.2), (42.37, 0.2), (42.9, 0.2), (43.1, 0.2), (43.3, 0.2), (43.83, 0.2)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 4 momento(s): [8.5, 10.0, 17.0, 17.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 180 - DA DOR À ESPERANÇA_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  }
+ ]
+}

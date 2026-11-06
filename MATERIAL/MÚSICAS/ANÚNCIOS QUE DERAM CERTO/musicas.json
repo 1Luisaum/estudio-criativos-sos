@@ -1,0 +1,128 @@
+[
+ {
+  "arquivo": "Mãos Amigas 1342 - esqueceram da gente.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1342577441148988",
+  "clima": "gospel lento, só música",
+  "duracao_s": 30.6,
+  "usada_em": "PEB 212",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Mãos Amigas 2241 - Mateus 25.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2241390946718073",
+  "clima": "louvor calmo, só música",
+  "duracao_s": 23.2,
+  "usada_em": "PEB 213",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Mãos Amigas 1126 - cansados de pedir ajuda.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1126949516397141",
+  "clima": "gospel (Deus te trouxe aqui), só música",
+  "duracao_s": 38.2,
+  "usada_em": "PEB 214",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Mãos Amigas 907 - mais um dia postando.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=907048145709918",
+  "clima": "louvor (Tu és o Deus), só música",
+  "duracao_s": 32.6,
+  "usada_em": "PEB 215",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Mãos Amigas 1961 - compartilhe.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1961085214849293",
+  "clima": "MPB leve, só música",
+  "duracao_s": 28.0,
+  "usada_em": "PEB 216",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Mãe Ritinha 1433 - Deus toque seu coração.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1433775218854991",
+  "clima": "gospel (Como pode me amar), só música",
+  "duracao_s": 31.5,
+  "usada_em": "PEB 217",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Florisbela 1445 - o sinal que faltava.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1445110604492533",
+  "clima": "gospel (Como pode me amar), só música",
+  "duracao_s": 24.1,
+  "usada_em": "PEB 218",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Mãe Ritinha 1629 - POV.mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1629309275506783",
+  "clima": "música suave, só música",
+  "duracao_s": 23.8,
+  "usada_em": "PEB 219",
+  "volume": 1.0,
+  "obs": "nível original do anúncio; sem fala, use 1.0"
+ },
+ {
+  "arquivo": "Mãe Ritinha 931 - viralizou (fundo sem voz).mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=931067246550453",
+  "clima": "fundo calmo, voz do anúncio removida",
+  "duracao_s": 66.7,
+  "usada_em": "PEB 220",
+  "volume": 1.603,
+  "obs": "volume para ficar por baixo da fala (-27 LUFS)"
+ },
+ {
+  "arquivo": "Mãe Ritinha 1403 - orações (fundo sem voz).mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1403709941748846",
+  "clima": "fundo emocional, voz removida",
+  "duracao_s": 54.6,
+  "usada_em": "PEB 221",
+  "volume": 2.089,
+  "obs": "volume para ficar por baixo da fala (-27 LUFS)"
+ },
+ {
+  "arquivo": "Mãe Ritinha 1289 - Lucas 6.38 (fundo sem voz).mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1289222076667000",
+  "clima": "fundo suave, voz removida",
+  "duracao_s": 45.0,
+  "usada_em": "PEB 222",
+  "volume": 1.479,
+  "obs": "volume para ficar por baixo da fala (-27 LUFS)"
+ },
+ {
+  "arquivo": "Mãe Ritinha 1658 - conselho (fundo sem voz).mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "clima": "fundo suave, voz removida",
+  "duracao_s": 50.9,
+  "usada_em": "PEB 223",
+  "volume": 1.995,
+  "obs": "volume para ficar por baixo da fala (-27 LUFS)"
+ },
+ {
+  "arquivo": "Florisbela 2388 - Deus te trouxe aqui (fundo sem voz).mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2388547078640410",
+  "clima": "fundo calmo, voz removida",
+  "duracao_s": 29.4,
+  "usada_em": "PEB 224",
+  "volume": 1.531,
+  "obs": "volume para ficar por baixo da fala (-27 LUFS)"
+ },
+ {
+  "arquivo": "Leão de Judá 2906 - urgente (fundo sem voz).mp3",
+  "anuncio": "https://www.facebook.com/ads/library/?id=29061162426836111",
+  "clima": "fundo calmo e baixo, voz removida",
+  "duracao_s": 36.6,
+  "usada_em": "PEB 225",
+  "volume": 3.0,
+  "obs": "volume para ficar por baixo da fala (-27 LUFS)"
+ }
+]

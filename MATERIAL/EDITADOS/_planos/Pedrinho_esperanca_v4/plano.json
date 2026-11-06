@@ -1,0 +1,244 @@
+{
+ "nome": "Pedrinho_esperanca_v4",
+ "estilo": "Da dor à esperança",
+ "pedido": "lote 30 videos 27/10/2026 - frente B",
+ "angulo": "gratidao: feridas em carne viva e 'nao ta nem um pouco facil', mas ele nunca deixa de agradecer os anjos; cada um ajuda como pode",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "tensa_inicio": 30,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/11145955-mesa-10550.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 4,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "gancho_dor.png",
+   "look": "pb",
+   "dur": 2.4,
+   "palavras": [
+    [
+     "FERIDAS",
+     0.25,
+     "branco",
+     160
+    ],
+    [
+     "EM CARNE",
+     0.74,
+     "branco",
+     150
+    ],
+    [
+     "VIVA",
+     1.13,
+     "vermelho",
+     280
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.13
+    ]
+   ],
+   "palavras_y": 1350,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_235338.json",
+   "look": "pb",
+   "cortes": [
+    [
+     51.22,
+     52.82
+    ],
+    [
+     53.34,
+     54.28
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      690,
+      700
+     ]
+    },
+    {
+     "z": 1.5,
+     "center": [
+      690,
+      560
+     ]
+    }
+   ],
+   "txt": "Que não tá nem um pouco fácil, nem um pouco mesmo."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 250
+    },
+    {
+     "src": "f_cama.png"
+    }
+   ]
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_absurdo_caro.json",
+   "look": "pb",
+   "cortes": [
+    [
+     2.06,
+     2.58
+    ],
+    [
+     2.9,
+     4.42
+    ],
+    [
+     5.48,
+     6.38
+    ],
+    [
+     6.94,
+     9.86
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      550,
+      1260
+     ]
+    },
+    {
+     "z": 1.5,
+     "center": [
+      550,
+      1260
+     ]
+    }
+   ],
+   "txt": "Quando fiz a primeira vaquinha do Pedrinho, eu nunca pensei que fosse precisar de eu vim aqui pedir uma ajuda."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 5
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_video_novo.json",
+   "look": "cor",
+   "cortes": [
+    [
+     297.14,
+     299.38
+    ],
+    [
+     299.66,
+     302.44
+    ],
+    [
+     306.66,
+     310.56
+    ],
+    [
+     313.36,
+     315.46
+    ],
+    [
+     316.22,
+     318.18
+    ],
+    [
+     318.5,
+     320.82
+    ]
+   ],
+   "broll": [
+    {
+     "src": "f_capitao.png"
+    },
+    {
+     "src": "20241110_104724.mp4",
+     "start": 14
+    },
+    {
+     "src": "Ana e Pedro sorrindo.png"
+    },
+    {
+     "src": "IMG-20260620-WA0011.jpg"
+    }
+   ],
+   "txt": "Aí cada um ajudando de uma forma, uns ajudando daqui, outros ajudando daqui, e assim a gente vai ir caminhando e vai vencendo essa batalha. Por Deus ter colocado tantos anjo nessa caminhada dele e de minha mamãe, que meu coração fica cheio de gratidão mesmo."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "fix": {
+    "dez": "10",
+    "Dez": "10"
+   },
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 40
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "IMG-20260624-WA0043.jpg",
+   "dur": 3.6,
+   "linhas": [
+    "CADA UM AJUDA",
+    "*COMO PODE*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "ferimentos bem abertos na carne viva": "Pedrinho, 20260916_234157.mp4 (23.5-27 s)",
+  "nao ta nem um pouco facil": "Pedrinho, 20260916_235338.mp4 (51-54 s)",
+  "essa semana os ferimentos aumentaram de um jeito que nao sei explicar": "Pedrinho, Um Video Novo pra campanha (230-241 s)",
+  "nunca pensei que fosse precisar vir pedir ajuda": "mae, Roteiro_ os curativos ... absurdo de caro (2-10 s)",
+  "cada um ajudando de uma forma; tantos anjos; coracao cheio de gratidao": "Pedrinho, Um Video Novo pra campanha (297-321 s), so o audio",
+  "R$10": "padrao dos pedidos (brief do lote)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 33\\PEB 139 - DA DOR À ESPERANÇA.mp4",
+ "obs": "tela final trocada para foto com o rosto dele no alto (na do evento o texto encostava nele)"
+}

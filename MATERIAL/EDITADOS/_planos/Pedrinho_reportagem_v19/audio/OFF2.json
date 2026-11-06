@@ -1,0 +1,105 @@
+{
+ "text": "A doença é a epidermólise bolhosa. Quem encontra o Pedrinho na internet não vê essa conta. E ele sabe disso.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.104
+  },
+  {
+   "text": "doença",
+   "start": 0.174,
+   "end": 0.627
+  },
+  {
+   "text": "é",
+   "start": 0.743,
+   "end": 0.824
+  },
+  {
+   "text": "a",
+   "start": 0.859,
+   "end": 0.909
+  },
+  {
+   "text": "epidermólise",
+   "start": 0.975,
+   "end": 1.892
+  },
+  {
+   "text": "bolhosa.",
+   "start": 1.939,
+   "end": 2.556
+  },
+  {
+   "text": "Quem",
+   "start": 2.556,
+   "end": 2.704
+  },
+  {
+   "text": "encontra",
+   "start": 2.75,
+   "end": 3.203
+  },
+  {
+   "text": "o",
+   "start": 3.226,
+   "end": 3.276
+  },
+  {
+   "text": "Pedrinho",
+   "start": 3.296,
+   "end": 3.749
+  },
+  {
+   "text": "na",
+   "start": 3.795,
+   "end": 3.853
+  },
+  {
+   "text": "internet",
+   "start": 3.888,
+   "end": 4.457
+  },
+  {
+   "text": "não",
+   "start": 4.573,
+   "end": 4.724
+  },
+  {
+   "text": "vê",
+   "start": 4.77,
+   "end": 4.933
+  },
+  {
+   "text": "essa",
+   "start": 4.956,
+   "end": 5.13
+  },
+  {
+   "text": "conta.",
+   "start": 5.177,
+   "end": 5.609
+  },
+  {
+   "text": "E",
+   "start": 5.609,
+   "end": 5.674
+  },
+  {
+   "text": "ele",
+   "start": 5.732,
+   "end": 5.871
+  },
+  {
+   "text": "sabe",
+   "start": 5.941,
+   "end": 6.266
+  },
+  {
+   "text": "disso.",
+   "start": 6.312,
+   "end": 6.696
+  }
+ ]
+}

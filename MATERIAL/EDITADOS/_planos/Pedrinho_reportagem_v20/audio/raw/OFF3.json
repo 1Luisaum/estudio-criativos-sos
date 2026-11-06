@@ -1,0 +1,80 @@
+{
+ "text": "Só que a ferida não existe apenas no dia em que vai para a internet.",
+ "words": [
+  {
+   "text": "Só",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "que",
+   "start": 0.267,
+   "end": 0.348
+  },
+  {
+   "text": "a",
+   "start": 0.383,
+   "end": 0.406
+  },
+  {
+   "text": "ferida",
+   "start": 0.476,
+   "end": 0.906
+  },
+  {
+   "text": "não",
+   "start": 0.952,
+   "end": 1.068
+  },
+  {
+   "text": "existe",
+   "start": 1.126,
+   "end": 1.498
+  },
+  {
+   "text": "apenas",
+   "start": 1.544,
+   "end": 1.95
+  },
+  {
+   "text": "no",
+   "start": 2.02,
+   "end": 2.101
+  },
+  {
+   "text": "dia",
+   "start": 2.171,
+   "end": 2.485
+  },
+  {
+   "text": "em",
+   "start": 2.531,
+   "end": 2.601
+  },
+  {
+   "text": "que",
+   "start": 2.67,
+   "end": 2.775
+  },
+  {
+   "text": "vai",
+   "start": 2.844,
+   "end": 3.053
+  },
+  {
+   "text": "para",
+   "start": 3.111,
+   "end": 3.332
+  },
+  {
+   "text": "a",
+   "start": 3.355,
+   "end": 3.379
+  },
+  {
+   "text": "internet.",
+   "start": 3.495,
+   "end": 4.69
+  }
+ ]
+}

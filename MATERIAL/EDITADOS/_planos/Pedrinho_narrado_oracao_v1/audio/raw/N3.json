@@ -1,0 +1,40 @@
+{
+ "text": "Oração ele já tem. Falta a faixa.",
+ "words": [
+  {
+   "text": "Oração",
+   "start": 0.0,
+   "end": 0.453
+  },
+  {
+   "text": "ele",
+   "start": 0.476,
+   "end": 0.557
+  },
+  {
+   "text": "já",
+   "start": 0.592,
+   "end": 0.673
+  },
+  {
+   "text": "tem.",
+   "start": 0.743,
+   "end": 0.998
+  },
+  {
+   "text": "Falta",
+   "start": 1.254,
+   "end": 1.556
+  },
+  {
+   "text": "a",
+   "start": 1.579,
+   "end": 1.602
+  },
+  {
+   "text": "faixa.",
+   "start": 1.66,
+   "end": 2.461
+  }
+ ]
+}

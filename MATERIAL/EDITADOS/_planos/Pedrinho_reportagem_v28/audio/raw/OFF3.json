@@ -1,0 +1,45 @@
+{
+ "text": "Nas semanas piores, ela chega ainda mais perto.",
+ "words": [
+  {
+   "text": "Nas",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "semanas",
+   "start": 0.232,
+   "end": 0.615
+  },
+  {
+   "text": "piores,",
+   "start": 0.685,
+   "end": 1.184
+  },
+  {
+   "text": "ela",
+   "start": 1.207,
+   "end": 1.37
+  },
+  {
+   "text": "chega",
+   "start": 1.416,
+   "end": 1.683
+  },
+  {
+   "text": "ainda",
+   "start": 1.707,
+   "end": 1.962
+  },
+  {
+   "text": "mais",
+   "start": 2.009,
+   "end": 2.183
+  },
+  {
+   "text": "perto.",
+   "start": 2.264,
+   "end": 3.065
+  }
+ ]
+}

@@ -1,0 +1,228 @@
+{
+ "nome": "Pedrinho_reportagem_v33",
+ "crianca": "Pedrinho",
+ "angulo": "a rede de ajuda em volta dele",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reporter brasileiro)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/good_b_music-melody-of-nature-main-6672.mp3",
+ "musica_volume": 0.027,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "“CADA UM AJUDA COMO PODE”: A",
+  "REDE EM VOLTA DE MENINO COM EB"
+ ],
+ "etiqueta": "R$ 5 entra nessa rede ❤️",
+ "etiqueta_final": "👇 Clique em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Sozinha, a família do Pedrinho não alcança a conta dos cuidados. Por isso, ele aprendeu a contar com uma rede.",
+  "OFF2": "Nessa rede tem seguidor antigo. E tem gente nova, que ele faz questão de citar.",
+  "OFF3": "A ajuda não precisa ser grande. A mãe explica.",
+  "OFF4": "E quando a ajuda chega, é assim que ele agradece.",
+  "OFF5": "Cinco reais, pela SOS Human Help, já colocam você nessa rede.",
+  "OFF6": "Clique em Saiba mais e entre para essa rede."
+ },
+ "fatos": {
+  "cada um ajuda como pode": "voz do Pedrinho em Um Video Novo (281,2 a 310,8 s), so o audio, sobre fotos",
+  "anjos da SOS Human Help": "voz do Pedrinho em Um Video Novo (250,1 a 259,6 s), so o audio, sobre fotos",
+  "seguidores sempre com ele": "Pedrinho em Um Video Novo (257,2 a 269,6 s), fato do OFF, sem imagem desse bruto",
+  "luta ficou cara demais": "Roteiro 4 (20,7 s)",
+  "dois ou cinco reais": "mae em Roteiro_ esse calor (26,4 s)",
+  "agradecimento": "Pedrinho em 20260916_234157.mp4 (60,8 s)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1774481214_3860949812967821509_1642859680.mp4",
+     143.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     202.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v33/fonte/b02.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v33/tx/b02.json",
+   "cortes": [
+    [
+     0.3,
+     1.28
+    ]
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v33/fonte/b03.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v33/tx/b03.json",
+   "cortes": [
+    [
+     0.3,
+     2.56
+    ],
+    [
+     7.16,
+     10.76
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     10.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     8.0
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v33/fonte/b05.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v33/tx/b05.json",
+   "cortes": [
+    [
+     0.3,
+     1.76
+    ],
+    [
+     3.94,
+     4.76
+    ],
+    [
+     5.52,
+     5.9
+    ],
+    [
+     7.34,
+     9.28
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     66.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     88.0
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos todos os dias"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v3_mae_calor.json",
+   "cortes": [
+    [
+     26.42,
+     29.72
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     103.0
+    ]
+   ]
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     60.76,
+     63.24
+    ]
+   ]
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF5",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     14.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     116.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "fala": "OFF6",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20250401_204159.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 26.42,
+   "caixa": [
+    660,
+    960,
+    1080,
+    1400
+   ],
+   "quem": "rosto de quem fala / crianca"
+  },
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 26.42,
+   "caixa": [
+    0,
+    80,
+    640,
+    1020
+   ],
+   "quem": "rosto de quem fala / crianca"
+  }
+ ],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 201 - REPORTAGEM.mp4"
+}

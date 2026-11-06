@@ -1,0 +1,65 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "É, tá invariável, né?",
+ "words": [
+  {
+   "text": "É,",
+   "start": 0.0,
+   "end": 0.04,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.019207174953407957
+  },
+  {
+   "text": " ",
+   "start": 0.04,
+   "end": 0.22,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0007853999268263578
+  },
+  {
+   "text": "tá",
+   "start": 0.22,
+   "end": 0.3,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0007853999268263578
+  },
+  {
+   "text": " ",
+   "start": 0.3,
+   "end": 0.36,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -1.5901447534561157
+  },
+  {
+   "text": "invariável,",
+   "start": 0.36,
+   "end": 0.86,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.9175871664827521
+  },
+  {
+   "text": " ",
+   "start": 0.86,
+   "end": 0.9,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -2.4676019165781327e-05
+  },
+  {
+   "text": "né?",
+   "start": 0.9,
+   "end": 0.96,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0001834210621988556
+  }
+ ],
+ "transcription_id": "RRz3SOPinhm7uTpTUAtc",
+ "audio_duration_secs": 3.9316875
+}

@@ -1,0 +1,100 @@
+{
+ "text": "O curativo já era de todo dia. Com os ferimentos bem abertos, passou a ser duas vezes ao dia.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "curativo",
+   "start": 0.151,
+   "end": 0.789
+  },
+  {
+   "text": "já",
+   "start": 0.871,
+   "end": 1.022
+  },
+  {
+   "text": "era",
+   "start": 1.08,
+   "end": 1.254
+  },
+  {
+   "text": "de",
+   "start": 1.3,
+   "end": 1.382
+  },
+  {
+   "text": "todo",
+   "start": 1.451,
+   "end": 1.73
+  },
+  {
+   "text": "dia.",
+   "start": 1.788,
+   "end": 2.199
+  },
+  {
+   "text": "Com",
+   "start": 2.199,
+   "end": 2.308
+  },
+  {
+   "text": "os",
+   "start": 2.377,
+   "end": 2.435
+  },
+  {
+   "text": "ferimentos",
+   "start": 2.493,
+   "end": 3.062
+  },
+  {
+   "text": "bem",
+   "start": 3.132,
+   "end": 3.26
+  },
+  {
+   "text": "abertos,",
+   "start": 3.306,
+   "end": 3.863
+  },
+  {
+   "text": "passou",
+   "start": 3.898,
+   "end": 4.2
+  },
+  {
+   "text": "a",
+   "start": 4.247,
+   "end": 4.297
+  },
+  {
+   "text": "ser",
+   "start": 4.316,
+   "end": 4.514
+  },
+  {
+   "text": "duas",
+   "start": 4.572,
+   "end": 4.862
+  },
+  {
+   "text": "vezes",
+   "start": 4.943,
+   "end": 5.268
+  },
+  {
+   "text": "ao",
+   "start": 5.338,
+   "end": 5.408
+  },
+  {
+   "text": "dia.",
+   "start": 5.477,
+   "end": 5.816
+  }
+ ]
+}

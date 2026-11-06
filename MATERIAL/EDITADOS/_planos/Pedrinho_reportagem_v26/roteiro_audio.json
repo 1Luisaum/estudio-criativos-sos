@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Para muita gente, ele é o menino que vive pedindo ajuda. Pouca gente sabe o que ele queria de verdade.",
+  "OFF2": "Ele fala dos comentários que lê. E do peso de voltar sempre com o mesmo pedido.",
+  "OFF3": "A mãe sente o mesmo. Na primeira vaquinha, ela não imaginava voltar.",
+  "OFF4": "Mas o curativo acaba. E, quando acaba, a dor aumenta.",
+  "OFF5": "Com dez reais, pela SOS Human Help, você responde a essa pergunta.",
+  "OFF6": "Clique em Saiba mais e dê essa resposta a ele."
+ }
+}

@@ -1,0 +1,362 @@
+{
+ "nome": "Pedrinho_narrado_medo_v1",
+ "crianca": "Pedrinho",
+ "angulo": "medo",
+ "gancho": "medo de a faixa acabar",
+ "fatos": [
+  "muito medo das faixas acabarem: Pedrinho, roteiro 8 65 s",
+  "não quero ficar sem os curativos e sentir mais dor: Pedrinho, roteiro 7 120 s",
+  "corpo quase todo enfaixado: CONHECIMENTO seção 1; mosquito e poeira: 20260917_000819"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 110.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "MEDO",
+  "ACABANDO",
+  "ACABAR",
+  "DOR",
+  "DESESPERADA",
+  "ATADURAS"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“MUITO *MEDO*”",
+    "fs": 125
+   },
+   {
+    "text": "DE AS FAIXAS ACABAREM",
+    "fs": 71
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240514_210632.jpg",
+     "until": 2.07
+    },
+    {
+     "src": "IMG-20260624-WA0043.jpg"
+    }
+   ],
+   "txt": "Tem criança que tem medo do escuro. O Pedrinho tem medo de a faixa acabar."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cuts": [
+    [
+     65.54,
+     67.42
+    ],
+    [
+     70.0,
+     70.54
+    ],
+    [
+     71.54,
+     72.0
+    ],
+    [
+     73.02,
+     74.52
+    ],
+    [
+     76.04,
+     77.06
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.25,
+     "center": [
+      550,
+      860
+     ]
+    }
+   ],
+   "txt": "as minhas ataduras, que são as faixas, elas estão acabando e eu estou com muito medo mesmo delas, acabar de tudo mesmo,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 171.0,
+     "until": 2.11
+    },
+    {
+     "src": "20260819_222914.jpg"
+    }
+   ],
+   "txt": "Essas faixas cobrem quase o corpo inteiro. Sem elas, fica tudo exposto: a pele, a dor, o mosquito, a poeira."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cuts": [
+    [
+     26.46,
+     27.8
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      520,
+      500
+     ]
+    }
+   ],
+   "txt": "Até pra mim me sentir mais protegido,"
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cuts": [
+    [
+     120.6,
+     120.88
+    ],
+    [
+     121.9,
+     122.7
+    ],
+    [
+     123.38,
+     124.48
+    ],
+    [
+     125.12,
+     125.78
+    ],
+    [
+     127.02,
+     127.78
+    ],
+    [
+     129.7,
+     131.06
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "eu não quero, ter que ficar sem meus cuidados que eu preciso, sem os meus curativos, gazes, atadura, e acabar sentindo mais dor,"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "MEDO",
+    "DE SENTIR MAIS DOR"
+   ],
+   "dur": 1.5,
+   "fs": 230
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 204.0,
+     "until": 1.79
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 170.0
+    }
+   ],
+   "txt": "A mãe dele olha o que sobrou e sente o mesmo medo."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v3_mae_calor.json",
+   "cuts": [
+    [
+     8.12,
+     8.84
+    ],
+    [
+     10.5,
+     11.2
+    ],
+    [
+     11.88,
+     12.18
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      330,
+      800
+     ]
+    }
+   ],
+   "txt": "e estou ficando desesperada, porque as coisas deles estão acabando."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     10.54,
+     12.32
+    ],
+    [
+     13.2,
+     14.98
+    ],
+    [
+     16.18,
+     16.4
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      845
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "eu e minha mamãe realmente não sabe o que que a gente, vai fazer."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cuts": [
+    [
+     6.0,
+     7.08
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      520,
+      500
+     ]
+    }
+   ],
+   "txt": "Meu Deus, e agora?"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 100.0,
+     "until": 2.37
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 26.0
+    }
+   ],
+   "txt": "Um medo desses não passa com palavras. Passa com faixa nova."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 28.0
+    }
+   ],
+   "txt": "Clique em Saiba mais e tire esse medo da vida dele. Toda criança merece dormir sem ter medo de amanhã."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "TIRE ESSE *MEDO*",
+    "DO PEDRINHO"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 176 - NARRADO DE IMPACTO.mp4"
+}

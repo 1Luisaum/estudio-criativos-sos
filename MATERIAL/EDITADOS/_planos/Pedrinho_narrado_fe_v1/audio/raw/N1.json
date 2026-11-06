@@ -1,0 +1,80 @@
+{
+ "text": "Foi assim que ele começou o pedido. Com poucos curativos na mão e muita fé.",
+ "words": [
+  {
+   "text": "Foi",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "assim",
+   "start": 0.244,
+   "end": 0.511
+  },
+  {
+   "text": "que",
+   "start": 0.569,
+   "end": 0.639
+  },
+  {
+   "text": "ele",
+   "start": 0.662,
+   "end": 0.755
+  },
+  {
+   "text": "começou",
+   "start": 0.789,
+   "end": 1.126
+  },
+  {
+   "text": "o",
+   "start": 1.149,
+   "end": 1.173
+  },
+  {
+   "text": "pedido.",
+   "start": 1.207,
+   "end": 1.753
+  },
+  {
+   "text": "Com",
+   "start": 2.159,
+   "end": 2.357
+  },
+  {
+   "text": "poucos",
+   "start": 2.485,
+   "end": 3.03
+  },
+  {
+   "text": "curativos",
+   "start": 3.17,
+   "end": 4.075
+  },
+  {
+   "text": "na",
+   "start": 4.133,
+   "end": 4.249
+  },
+  {
+   "text": "mão",
+   "start": 4.331,
+   "end": 4.644
+  },
+  {
+   "text": "e",
+   "start": 4.737,
+   "end": 4.865
+  },
+  {
+   "text": "muita",
+   "start": 4.934,
+   "end": 5.248
+  },
+  {
+   "text": "fé.",
+   "start": 5.329,
+   "end": 5.944
+  }
+ ]
+}

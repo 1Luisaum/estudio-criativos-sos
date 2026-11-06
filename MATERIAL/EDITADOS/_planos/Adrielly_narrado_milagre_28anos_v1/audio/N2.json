@@ -1,0 +1,80 @@
+{
+ "text": "Ninguém encontrou uma cura. A pele arde e machuca até com a água do banho.",
+ "words": [
+  {
+   "text": "Ninguém",
+   "start": 0.0,
+   "end": 0.406
+  },
+  {
+   "text": "encontrou",
+   "start": 0.464,
+   "end": 0.929
+  },
+  {
+   "text": "uma",
+   "start": 0.952,
+   "end": 1.068
+  },
+  {
+   "text": "cura.",
+   "start": 1.126,
+   "end": 1.524
+  },
+  {
+   "text": "A",
+   "start": 1.553,
+   "end": 1.623
+  },
+  {
+   "text": "pele",
+   "start": 1.751,
+   "end": 2.053
+  },
+  {
+   "text": "arde",
+   "start": 2.145,
+   "end": 2.68
+  },
+  {
+   "text": "e",
+   "start": 2.77,
+   "end": 2.87
+  },
+  {
+   "text": "machuca",
+   "start": 2.951,
+   "end": 3.52
+  },
+  {
+   "text": "até",
+   "start": 3.555,
+   "end": 3.764
+  },
+  {
+   "text": "com",
+   "start": 3.833,
+   "end": 3.961
+  },
+  {
+   "text": "a",
+   "start": 3.984,
+   "end": 4.034
+  },
+  {
+   "text": "água",
+   "start": 4.077,
+   "end": 4.298
+  },
+  {
+   "text": "do",
+   "start": 4.344,
+   "end": 4.414
+  },
+  {
+   "text": "banho.",
+   "start": 4.46,
+   "end": 4.873
+  }
+ ]
+}

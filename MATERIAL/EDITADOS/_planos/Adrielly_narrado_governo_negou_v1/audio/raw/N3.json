@@ -1,0 +1,55 @@
+{
+ "text": "O material certo protege as feridas. Sem ele, tudo piora.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "material",
+   "start": 0.116,
+   "end": 0.499
+  },
+  {
+   "text": "certo",
+   "start": 0.569,
+   "end": 0.894
+  },
+  {
+   "text": "protege",
+   "start": 0.929,
+   "end": 1.289
+  },
+  {
+   "text": "as",
+   "start": 1.312,
+   "end": 1.37
+  },
+  {
+   "text": "feridas.",
+   "start": 1.428,
+   "end": 1.985
+  },
+  {
+   "text": "Sem",
+   "start": 2.322,
+   "end": 2.566
+  },
+  {
+   "text": "ele,",
+   "start": 2.647,
+   "end": 2.856
+  },
+  {
+   "text": "tudo",
+   "start": 2.902,
+   "end": 3.146
+  },
+  {
+   "text": "piora.",
+   "start": 3.193,
+   "end": 3.901
+  }
+ ]
+}

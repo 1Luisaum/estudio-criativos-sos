@@ -1,0 +1,175 @@
+{
+ "nome": "Pedrinho_vsl_voz_v3",
+ "pedido": "completar LEVA 01 (26/10/2026)",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.09,
+ "chamada": [
+  "6 PESSOAS EM 5 DIAS 💔",
+  "DOE R$ 12 PROS CURATIVOS DELE 👼"
+ ],
+ "etiqueta": "R$ 12 garante a semana ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "palavras_chave": [
+  "CURATIVO",
+  "CURATIVOS",
+  "ACABANDO",
+  "ACABOU",
+  "DOR",
+  "DORES",
+  "MEDO",
+  "ANJO",
+  "NOITE",
+  "AMANHECER",
+  "ESPERAR",
+  "ARDE",
+  "ÁGUA",
+  "SORO",
+  "FAIXA",
+  "ATADURA",
+  "REAIS",
+  "GRATIDÃO",
+  "BATALHA",
+  "ESQUECERAM",
+  "SUMIRAM"
+ ],
+ "frases": [
+  {
+   "nome": "f01",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cortes": [
+    [
+     33.24,
+     36.0
+    ],
+    [
+     37.4,
+     38.5
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+     33.1,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "f02",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro9.json",
+   "cortes": [
+    [
+     52.64,
+     52.98
+    ],
+    [
+     54.56,
+     58.42
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     175.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "f03",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cortes": [
+    [
+     1.58,
+     2.82
+    ],
+    [
+     4.2,
+     4.42
+    ],
+    [
+     5.88,
+     6.14
+    ],
+    [
+     7.14,
+     7.42
+    ],
+    [
+     8.46,
+     8.8
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260127_110703.jpg"
+  },
+  {
+   "nome": "f04",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cortes": [
+    [
+     10.32,
+     10.86
+    ],
+    [
+     12.78,
+     14.06
+    ],
+    [
+     14.96,
+     17.28
+    ],
+    [
+     18.7,
+     21.66
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Curativos 2 x ao Dia.png",
+   "etiqueta": true
+  },
+  {
+   "nome": "f05",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cortes": [
+    [
+     28.56,
+     28.76
+    ],
+    [
+     30.04,
+     31.76
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     20.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "f06",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cortes": [
+    [
+     51.26,
+     52.48
+    ],
+    [
+     55.18,
+     56.8
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\VSL COM VOZ DA CRIANÇA\\LEVA 01\\Pedrinho_vsl_voz_v3.mp4"
+}

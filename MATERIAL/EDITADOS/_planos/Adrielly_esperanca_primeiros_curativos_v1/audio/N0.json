@@ -1,0 +1,35 @@
+{
+ "text": "O curativo arrancava a pele dela.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "curativo",
+   "start": 0.139,
+   "end": 0.557
+  },
+  {
+   "text": "arrancava",
+   "start": 0.58,
+   "end": 1.184
+  },
+  {
+   "text": "a",
+   "start": 1.207,
+   "end": 1.257
+  },
+  {
+   "text": "pele",
+   "start": 1.265,
+   "end": 1.474
+  },
+  {
+   "text": "dela.",
+   "start": 1.533,
+   "end": 1.874
+  }
+ ]
+}

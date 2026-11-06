@@ -1,0 +1,111 @@
+{
+ "nome": "Adrielly_corrente_sonho_v1",
+ "referencia": "Causas do Bem, anuncio 1444789200923601 (Kauê): texto fixo no alto com destaque amarelo, voz 0-9 s, depois so musica",
+ "texto": [
+  [
+   "Corrente do bem: ",
+   ""
+  ],
+  [
+   "Se você ajudar",
+   "y"
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "com R$10",
+   "y"
+  ],
+  [
+   ", a gente consegue os",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "curativos que a Adrielly precisa",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "pra viver sem chorar de dor",
+   ""
+  ]
+ ],
+ "texto_y": 255,
+ "falas": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4719.MOV",
+   "corte": [
+    1.05,
+    5.36
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4719.MOV",
+   "corte": [
+    5.9,
+    9.32
+   ]
+  }
+ ],
+ "voz_inicio": 0.4,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "musica_sob_voz": 0.12,
+ "musica_depois": 0.45,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.23_pb.mp4",
+   "start": 0.0,
+   "dur": 4.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (3).mp4",
+   "start": 2.0,
+   "dur": 4.3
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8378_pb.mp4",
+   "dur": 3.6,
+   "fade_out": true,
+   "start": 42.5
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+   "start": 4.0,
+   "dur": 4.8,
+   "fade_in": true,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (5).mp4",
+   "start": 3.0,
+   "dur": 4.0,
+   "fade_in": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "start": 22.0,
+   "dur": 3.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/wmremove-transformed.jpg",
+   "dur": 4.5
+  }
+ ],
+ "fatos": {
+  "viver sem chorar de dor": "Adrielly, IMG_4719 ('Meu sonho nao e como o das outras meninas. Eu so queria viver sem chorar de dor')",
+  "R$10": "Adrielly, IMG_3676 / IMG_3682 (R$ 10 todos os meses)",
+  "curativos que ela precisa": "Adrielly, IMG_3838 / IMG_4503",
+  "falas": "IMG_4719 (1.1-9.3)"
+ },
+ "modelo": "criativo-corrente-ong",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 42\\AEB 42 - CORRENTE DO BEM.mp4"
+}

@@ -1,0 +1,41 @@
+{
+ "total": 39.96088400000001,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.463787,
+   "texto": "Vinte e oito anos. E a comida da Adrielly ainda precisa ser coada."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.279999999999984,
+   "texto": "a minha alimentação ela é especial, líquida, triturada, coada."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.068503,
+   "texto": "Ela tem epidermólise bolhosa, a doença da pele de borboleta. As bolhas aparecem também na boca e no esôfago."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 8.420000000000025,
+   "texto": "Confesso que tenho muita vontade de comer sanduíche, pizza, arroz, feijão e a carne."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 9.071202000000001,
+   "texto": "A pele dela também precisa de curativos caros todos os dias. A SOS Human Help está arrecadando. Com dez reais, você já ajuda."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.657392,
+   "texto": "Clique em Saiba mais e veja como ajudar a Adrielly."
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "text": "Ela passa horas no banho, horas no curativo e horas tentando dormir.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "passa",
+   "start": 0.232,
+   "end": 0.546
+  },
+  {
+   "text": "horas",
+   "start": 0.592,
+   "end": 0.801
+  },
+  {
+   "text": "no",
+   "start": 0.848,
+   "end": 0.917
+  },
+  {
+   "text": "banho,",
+   "start": 0.975,
+   "end": 1.335
+  },
+  {
+   "text": "horas",
+   "start": 1.358,
+   "end": 1.591
+  },
+  {
+   "text": "no",
+   "start": 1.637,
+   "end": 1.687
+  },
+  {
+   "text": "curativo",
+   "start": 1.73,
+   "end": 2.438
+  },
+  {
+   "text": "e",
+   "start": 2.485,
+   "end": 2.612
+  },
+  {
+   "text": "horas",
+   "start": 2.647,
+   "end": 2.879
+  },
+  {
+   "text": "tentando",
+   "start": 2.926,
+   "end": 3.239
+  },
+  {
+   "text": "dormir.",
+   "start": 3.286,
+   "end": 3.791
+  }
+ ]
+}

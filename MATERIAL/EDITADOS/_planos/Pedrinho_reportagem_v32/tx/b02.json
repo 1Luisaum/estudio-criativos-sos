@@ -1,0 +1,110 @@
+{
+"text": "Minha mamãe teve que enfaixar o ombro. Aí não teve outro jeito, né?",
+"words": [
+{
+"text": "Minha",
+"start": 0.3,
+"end": 0.44,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.3115464702859754e-05
+},
+{
+"text": "mamãe",
+"start": 0.5,
+"end": 1.04,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -5.182846357456583e-05
+},
+{
+"text": "teve",
+"start": 1.12,
+"end": 1.32,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -5.3165931603871286e-05
+},
+{
+"text": "que",
+"start": 1.38,
+"end": 1.52,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.0371154530730564e-05
+},
+{
+"text": "enfaixar",
+"start": 1.56,
+"end": 1.98,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.023748810519464314
+},
+{
+"text": "o",
+"start": 2.0,
+"end": 2.06,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.1920928244535389e-07
+},
+{
+"text": "ombro.",
+"start": 2.12,
+"end": 2.38,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -4.176123851114729e-05
+},
+{
+"text": "Aí",
+"start": 3.02,
+"end": 3.14,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.814689989667386e-06
+},
+{
+"text": "não",
+"start": 4.64,
+"end": 4.72,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.009355278685688972
+},
+{
+"text": "teve",
+"start": 4.8,
+"end": 5.06,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.0013530300057027e-05
+},
+{
+"text": "outro",
+"start": 5.08,
+"end": 5.26,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -5.280832192511298e-05
+},
+{
+"text": "jeito,",
+"start": 5.32,
+"end": 5.66,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.4835230760800187e-06
+},
+{
+"text": "né?",
+"start": 5.84,
+"end": 6.1,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.7815497105621034e-07
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (151.50 a 157.46 s); imagem trocada por b-roll sem boca em movimento"
+}

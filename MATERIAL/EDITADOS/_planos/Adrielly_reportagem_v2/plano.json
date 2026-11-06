@@ -1,0 +1,170 @@
+{
+ "nome": "Adrielly_reportagem_v2",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reportagem, conta paga)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/rockymetal-ambient-acoustic-239252.mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "JOVEM COM PELE DE BORBOLETA",
+  "PERDE SANGUE TODO DIA"
+ ],
+ "etiqueta": "R$ 10 protegem a pele dela ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Todos os dias, a cama da Adrielly amanhece com sangue nos lençóis.",
+  "OFF2": "Ela tem epidermólise bolhosa. A pele se rompe com qualquer atrito, e as feridas sangram.",
+  "OFF3": "Para não piorar, ela recebe ferro direto na veia. Quando não dá, precisa de bolsa de sangue.",
+  "OFF4": "Curativos que não grudam protegem a pele na troca. A SOS Human Help arrecada para comprar. Com dez reais, você já ajuda.",
+  "OFF5": "Toque em Saiba mais e ajude a proteger a pele da Adrielly."
+ },
+ "fatos": {
+  "lencois sujos de sangue todos os dias": "Adrielly, IMG_4200",
+  "pele se rompe com atrito, feridas sangram": "Adrielly, IMG_3711 (qualquer atrito pode machucar) e IMG_4227 (a pele arde, sangra)",
+  "anemia cronica gravissima, hemoglobina 8,2": "Adrielly, IMG_5440 (42-54)",
+  "ferro na veia / bolsa de sangue": "Adrielly, IMG_3707 (80-103) e IMG_4194",
+  "fico mais fraca": "Adrielly, IMG_4215",
+  "curativo que gruda arranca a pele": "Adrielly, IMG_4702 / IMG_5676",
+  "R$ 10": "Adrielly, IMG_3676"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/83e3b143-239c-44d6-9d2e-41268b95b7a2_pb.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4200.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4200.json",
+   "cortes": [
+    [
+     0.38,
+     2.64
+    ],
+    [
+     3.12,
+     5.42
+    ],
+    [
+     6.42,
+     8.06
+    ]
+   ],
+   "gc": [
+    "ADRIELLY, 28 ANOS",
+    "perde sangue pelas lesões"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     45.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.23_pb.mp4",
+     0.5,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5440.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5440.json",
+   "cortes": [
+    [
+     44.72,
+     46.76
+    ],
+    [
+     48.66,
+     49.2
+    ],
+    [
+     50.82,
+     53.42
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_0850_pb.mp4",
+     3.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8378_pb.mp4",
+     42.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4194.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4194.json",
+   "cortes": [
+    [
+     0.3,
+     3.36
+    ],
+    [
+     4.56,
+     6.48
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF4",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo Urgutul 20x30cm.jpeg",
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3667.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3667.json",
+   "cortes": [
+    [
+     0.22,
+     5.04
+    ],
+    [
+     6.36,
+     7.46
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/wmremove-transformed.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 43\\AEB 48 - REPORTAGEM.mp4"
+}

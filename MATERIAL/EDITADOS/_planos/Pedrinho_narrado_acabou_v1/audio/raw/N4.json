@@ -1,0 +1,40 @@
+{
+ "text": "Acabou o curativo. A coragem dele, não.",
+ "words": [
+  {
+   "text": "Acabou",
+   "start": 0.0,
+   "end": 0.383
+  },
+  {
+   "text": "o",
+   "start": 0.406,
+   "end": 0.441
+  },
+  {
+   "text": "curativo.",
+   "start": 0.476,
+   "end": 1.149
+  },
+  {
+   "text": "A",
+   "start": 1.683,
+   "end": 1.753
+  },
+  {
+   "text": "coragem",
+   "start": 1.823,
+   "end": 2.171
+  },
+  {
+   "text": "dele,",
+   "start": 2.218,
+   "end": 2.415
+  },
+  {
+   "text": "não.",
+   "start": 2.45,
+   "end": 2.972
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1403709941748846.mp4",
+ "estilo": "BIB ORACOES SINAL",
+ "textos": [
+  {
+   "de": 10.1,
+   "ate": 18.7,
+   "linhas": [
+    "às vezes Deus responde",
+    "através de você ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 34,
+   "y": 140,
+   "pad": [
+    16,
+    8
+   ],
+   "fonte": "serif_bold",
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 18.7
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1403 - orações (fundo sem voz).mp3",
+ "musica_volume": 2.089,
+ "modelo": {
+  "id": "peb221_l2_oracoes",
+  "exemplo": "PEB 221",
+  "descricao": "1403709941748846: imagens de IA no gancho (leao, Jesus), narracao, caixa branca no alto, legenda pequena",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1403709941748846",
+  "titulo": "Orações (leão e Jesus)",
+  "variacao": "pedrinho_oracoes_sinal"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\p_vitral_pastor.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\maos_oracao.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_curativo.mp4",
+   "ini": 0,
+   "fim": 2.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_estendido.mp4",
+   "ini": 0,
+   "fim": 2.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 20.0,
+   "fim": 22.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_153323.mp4",
+   "ini": 3.0,
+   "fim": 5.875,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_oracoes_sinal_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_oracoes_sinal_sr.json",
+  "de": 0.3
+ },
+ "fatos": {
+  "doenca rara, feridas": "20261102_144645 10,4-16,9",
+  "carne viva": "lv_0_20261102155438 19,6-23,3",
+  "ajuda no tratamento da semana, dois ou cinco reais": "lv_0_20261102155438 23,8-34,2"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 66\\PEB 244 - BIB ORACOES SINAL.mp4",
+ "saida_fixa": true
+}

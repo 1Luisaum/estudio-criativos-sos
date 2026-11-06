@@ -1,0 +1,35 @@
+{
+ "total": 34.74000000000004,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 5.190000000000002,
+   "texto": "Eu quero conseguir dormir bem. Então, por favor, me ajude."
+  },
+  {
+   "nome": "c1",
+   "d": 3.7900000000000023,
+   "texto": "Me ajude, pessoal, a passar essa noite sem dor,"
+  },
+  {
+   "nome": "c2",
+   "d": 7.290000000000002,
+   "texto": "Essa noite, eu acho que assim foi a vez que eu mais, virei na cama, que eu mais tentei, mudar de posição,"
+  },
+  {
+   "nome": "c3",
+   "d": 5.590000000000013,
+   "texto": "a noite passada eu passei ela em claro, Eu vi o dia amanhecer."
+  },
+  {
+   "nome": "c4",
+   "d": 8.810000000000013,
+   "texto": "seja com um, dois reais, três reais, cinco reais, não importa ajudar nas minhas dores a dar uma aliviada."
+  },
+  {
+   "nome": "c5",
+   "d": 4.07,
+   "texto": "Desde já, gratidão."
+  }
+ ]
+}

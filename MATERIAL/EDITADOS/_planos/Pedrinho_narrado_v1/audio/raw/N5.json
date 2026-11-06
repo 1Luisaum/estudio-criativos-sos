@@ -1,0 +1,60 @@
+{
+ "text": "Toque em Saiba mais. E seja a resposta para esse pedido.",
+ "words": [
+  {
+   "text": "Toque",
+   "start": 0.0,
+   "end": 0.29
+  },
+  {
+   "text": "em",
+   "start": 0.313,
+   "end": 0.36
+  },
+  {
+   "text": "Saiba",
+   "start": 0.418,
+   "end": 0.685
+  },
+  {
+   "text": "mais.",
+   "start": 0.731,
+   "end": 1.138
+  },
+  {
+   "text": "E",
+   "start": 1.544,
+   "end": 1.637
+  },
+  {
+   "text": "seja",
+   "start": 1.765,
+   "end": 2.276
+  },
+  {
+   "text": "a",
+   "start": 2.461,
+   "end": 2.543
+  },
+  {
+   "text": "resposta",
+   "start": 2.601,
+   "end": 3.262
+  },
+  {
+   "text": "para",
+   "start": 3.309,
+   "end": 3.437
+  },
+  {
+   "text": "esse",
+   "start": 3.495,
+   "end": 3.646
+  },
+  {
+   "text": "pedido.",
+   "start": 3.704,
+   "end": 4.505
+  }
+ ]
+}

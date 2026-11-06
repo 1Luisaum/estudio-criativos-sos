@@ -1,0 +1,231 @@
+{
+ "nome": "Adrielly_esperanca_v4",
+ "estilo": "Da dor à esperança (Adrielly, frente C, 27/10/2026)",
+ "angulo": "vontade de viver: a doença tirou os sonhos, não a vontade; fisioterapia",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647.mp3",
+ "tensa_inicio": 0,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 5,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/0b77990f-29fe-40fb-917f-e226febc5652_pb.jpg",
+   "look": "pb",
+   "dur": 2.4,
+   "palavras": [
+    [
+     "A DOENÇA",
+     0.25,
+     "branco",
+     150
+    ],
+    [
+     "ROUBOU",
+     0.82,
+     "branco",
+     160
+    ],
+    [
+     "OS SONHOS",
+     1.16,
+     "vermelho",
+     185
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.16
+    ]
+   ],
+   "palavras_y": 1560,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4216.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4216.json",
+   "look": "pb",
+   "cortes": [
+    [
+     0.52,
+     6.32
+    ],
+    [
+     7.04,
+     9.36
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Tem dias que a dor é tão grande que eu nem consigo levantar da cama. Tudo dói, dói muito"
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_jpg_do_heic/IMG_0403.jpg",
+     "look": "pb"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_2249_pb.jpg",
+     "look": "pb"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 18
+    }
+   ]
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4154.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4154.json",
+   "look": "cor",
+   "cortes": [
+    [
+     11.66,
+     15.12
+    ],
+    [
+     15.84,
+     17.46
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "simplesmente roubaram os meus sonhos, os meus projetos"
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3726.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3726.json",
+   "look": "cor",
+   "cortes": [
+    [
+     1.0,
+     9.54
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Minha mãe dorme aqui no colchão ao lado para me socorrer nas madrugadas onde tenho crises de dor."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (2).mp4",
+     "start": 2
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4157.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4157.json",
+   "look": "cor",
+   "cortes": [
+    [
+     0.44,
+     5.06
+    ]
+   ],
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (7).mp4",
+     "start": 3
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (5).mp4",
+     "start": 6
+    }
+   ],
+   "txt": "O que ela não tirou foi a minha vontade de viver"
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (1).mp4",
+     "start": 10
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (9).mp4",
+     "start": 5
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     "start": 8
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "vlcsnap-2026-07-07-17h27m41s513.png",
+   "dur": 3.6,
+   "linhas": [
+    "ELA QUER VIVER",
+    "*VIVA ESSA LUTA COM ELA*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "a EB roubou os sonhos": "IMG_4154 (11-17 s)",
+  "dor que não deixa levantar": "IMG_4216",
+  "horas no banho, no curativo e para dormir": "IMG_4738",
+  "mãe dorme no colchão ao lado": "IMG_3726 (1-9,5 s)",
+  "vontade de viver": "IMG_4157 (0,5-5 s)",
+  "fisioterapia para as mãos não atrofiarem": "IMG_3707 (103-114 s); vídeos de fisioterapia do banco",
+  "R$10": "IMG_4205/IMG_4493"
+ },
+ "modelo": "skill criativo-esperanca-ong (exemplo Pedrinho_esperanca_v1), material da Adrielly",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 46\\AEB 63 - DA DOR À ESPERANÇA.mp4",
+ "ajuste_05_11": "pedido do usuário 05/11/2026: marca @juntospelaadrielly; menos cenas em P&B"
+}

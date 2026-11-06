@@ -1,0 +1,177 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Dá uma olhada pra câmera também. Aí, shh, já foi isso",
+ "words": [
+  {
+   "text": "Dá",
+   "start": 1.28,
+   "end": 1.42,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.03829430905170739
+  },
+  {
+   "text": " ",
+   "start": 1.42,
+   "end": 1.54,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -2.47952248173533e-05
+  },
+  {
+   "text": "uma",
+   "start": 1.54,
+   "end": 1.62,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -2.47952248173533e-05
+  },
+  {
+   "text": " ",
+   "start": 1.62,
+   "end": 1.64,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -5.936446541454643e-05
+  },
+  {
+   "text": "olhada",
+   "start": 1.64,
+   "end": 1.82,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -2.606648134436303e-05
+  },
+  {
+   "text": " ",
+   "start": 1.82,
+   "end": 1.92,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -1.5616295058862306e-05
+  },
+  {
+   "text": "pra",
+   "start": 1.92,
+   "end": 2.06,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -1.5616295058862306e-05
+  },
+  {
+   "text": " ",
+   "start": 2.06,
+   "end": 2.1,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0006373281357809901
+  },
+  {
+   "text": "câmera",
+   "start": 2.1,
+   "end": 2.3,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0006373281357809901
+  },
+  {
+   "text": " ",
+   "start": 2.3,
+   "end": 2.34,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00024423000286333263
+  },
+  {
+   "text": "também.",
+   "start": 2.34,
+   "end": 2.74,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00201776235397639
+  },
+  {
+   "text": " ",
+   "start": 2.74,
+   "end": 2.76,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -1.2242194414138794
+  },
+  {
+   "text": "Aí,",
+   "start": 4.42,
+   "end": 4.6,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.9341359535853068
+  },
+  {
+   "text": " ",
+   "start": 4.6,
+   "end": 4.62,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.2548397481441498
+  },
+  {
+   "text": "shh,",
+   "start": 4.62,
+   "end": 4.78,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.17100136168301105
+  },
+  {
+   "text": " ",
+   "start": 4.78,
+   "end": 5.26,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -4.7444173105759546e-05
+  },
+  {
+   "text": "já",
+   "start": 5.26,
+   "end": 5.42,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -4.7444173105759546e-05
+  },
+  {
+   "text": " ",
+   "start": 5.42,
+   "end": 5.46,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -5.245071224635467e-05
+  },
+  {
+   "text": "foi",
+   "start": 5.46,
+   "end": 5.6,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -5.245071224635467e-05
+  },
+  {
+   "text": " ",
+   "start": 5.6,
+   "end": 5.66,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.10367611050605774
+  },
+  {
+   "text": "isso",
+   "start": 5.66,
+   "end": 5.84,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.10367611050605774
+  }
+ ],
+ "transcription_id": "XGbfVjFL7CtVa4Ukgwez",
+ "audio_duration_secs": 6.2666875
+}

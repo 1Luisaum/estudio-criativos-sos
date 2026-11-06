@@ -1,0 +1,70 @@
+{
+ "text": "Ela olha por ele o dia inteiro. Agora, alguém precisa olhar por ela.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "olha",
+   "start": 0.267,
+   "end": 0.43
+  },
+  {
+   "text": "por",
+   "start": 0.488,
+   "end": 0.65
+  },
+  {
+   "text": "ele",
+   "start": 0.708,
+   "end": 0.848
+  },
+  {
+   "text": "o",
+   "start": 0.871,
+   "end": 0.921
+  },
+  {
+   "text": "dia",
+   "start": 0.952,
+   "end": 1.08
+  },
+  {
+   "text": "inteiro.",
+   "start": 1.103,
+   "end": 1.638
+  },
+  {
+   "text": "Agora,",
+   "start": 1.675,
+   "end": 2.116
+  },
+  {
+   "text": "alguém",
+   "start": 2.185,
+   "end": 2.498
+  },
+  {
+   "text": "precisa",
+   "start": 2.544,
+   "end": 2.858
+  },
+  {
+   "text": "olhar",
+   "start": 2.881,
+   "end": 3.102
+  },
+  {
+   "text": "por",
+   "start": 3.148,
+   "end": 3.288
+  },
+  {
+   "text": "ela.",
+   "start": 3.346,
+   "end": 3.497
+  }
+ ]
+}

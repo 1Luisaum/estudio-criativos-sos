@@ -1,0 +1,387 @@
+{
+ "nome": "Pedrinho_narrado_fe_v1",
+ "crianca": "Pedrinho",
+ "angulo": "fe",
+ "gancho": "um pouco com Deus é muito",
+ "fatos": [
+  "um pouco com Deus é muito: Pedrinho, 20260916_234157",
+  "Deus vai nos dando força, já deu tudo certo: Pedrinho, Um Vídeo Novo 325 e 344 s",
+  "Deus colocou tantos anjos na caminhada: Pedrinho, Um Vídeo Novo 313 s"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/gospel/Still_Soul_Prayer.mp3",
+ "music_start": 30.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "DEUS",
+  "CERTO",
+  "CORAÇÃO",
+  "FÉ",
+  "MUITO"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“UM POUCO COM DEUS",
+    "fs": 83
+   },
+   {
+    "text": "*É MUITO*”",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     0.94,
+     2.64
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Um pouco com Deus é muito."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260825_134039.jpg",
+     "until": 1.74
+    },
+    {
+     "src": "20260825_134808.jpg"
+    }
+   ],
+   "txt": "Foi assim que ele começou o pedido. Com poucos curativos na mão e muita fé."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     4.82,
+     6.86
+    ],
+    [
+     7.98,
+     9.52
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "eu só tenho esses curativos aqui, que estão na minha mão."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 1.17
+    },
+    {
+     "src": "foto em close.png"
+    }
+   ],
+   "txt": "A dor não dá folga. A fé dele também não. Nos dias piores, é nela que ele se segura."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     325.0,
+     325.82
+    ],
+    [
+     326.84,
+     327.78
+    ],
+    [
+     342.18,
+     342.42
+    ],
+    [
+     343.02,
+     343.86
+    ],
+    [
+     344.18,
+     345.02
+    ]
+   ],
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 125.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 12.0
+    }
+   ],
+   "txt": "Deus vai nos dando força, Não tá sendo muito fácil, Deus quiser, vai dar tudo certo, já deu tudo certo,"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "JÁ DEU",
+    "TUDO CERTO"
+   ],
+   "dur": 1.5,
+   "fs": 210
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240411_115750.jpg",
+     "until": 1.38
+    },
+    {
+     "src": "20260819_222914.jpg"
+    }
+   ],
+   "txt": "Ele não disse que vai dar certo. Disse que já deu. Isso é fé de quem dorme com dor."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_absurdo_caro.json",
+   "cuts": [
+    [
+     58.28,
+     59.72
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.5,
+     "center": [
+      550,
+      1260
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      550,
+      1260
+     ]
+    }
+   ],
+   "txt": "Que Deus abençoe e fique com Deus"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 172.0,
+     "until": 2.4
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 44.0
+    }
+   ],
+   "txt": "Em casa, a mãe faz o curativo. E a fé faz o resto do caminho."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241109_123330.jpg",
+     "until": 2.44
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 5.0
+    }
+   ],
+   "txt": "Ele acredita que Deus coloca pessoas no caminho dele. Hoje, pode ser você."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     76.66,
+     77.98
+    ],
+    [
+     78.38,
+     79.02
+    ],
+    [
+     79.6,
+     79.88
+    ],
+    [
+     80.42,
+     80.68
+    ],
+    [
+     81.52,
+     81.9
+    ],
+    [
+     82.64,
+     83.68
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "Deus tocar no coração de ajudar, seja com um, dois reais, três reais, cinco reais, não importa pessoal."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cuts": [
+    [
+     78.1,
+     78.7
+    ],
+    [
+     79.36,
+     80.98
+    ],
+    [
+     82.22,
+     83.64
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      580,
+      560
+     ]
+    }
+   ],
+   "txt": "Então, pessoal, se você sentir no seu coração, ajude no meu tratamento."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260729_180353.jpg",
+     "until": 3.67
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 25.0
+    }
+   ],
+   "txt": "Clique em Saiba mais, pela SOS Human Help. Um pouco com você também é muito."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "UM POUCO COM VOCÊ",
+    "É *MUITO*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 181 - NARRADO DE IMPACTO.mp4"
+}

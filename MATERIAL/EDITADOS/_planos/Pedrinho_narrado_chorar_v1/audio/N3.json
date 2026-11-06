@@ -1,0 +1,85 @@
+{
+ "text": "De manhã, a mãe recomeça do zero. E ele encara mais uma troca sem ter dormido.",
+ "words": [
+  {
+   "text": "De",
+   "start": 0.0,
+   "end": 0.139
+  },
+  {
+   "text": "manhã,",
+   "start": 0.197,
+   "end": 0.488
+  },
+  {
+   "text": "a",
+   "start": 0.511,
+   "end": 0.561
+  },
+  {
+   "text": "mãe",
+   "start": 0.592,
+   "end": 0.755
+  },
+  {
+   "text": "recomeça",
+   "start": 0.778,
+   "end": 1.231
+  },
+  {
+   "text": "do",
+   "start": 1.265,
+   "end": 1.324
+  },
+  {
+   "text": "zero.",
+   "start": 1.382,
+   "end": 1.77
+  },
+  {
+   "text": "E",
+   "start": 1.77,
+   "end": 1.861
+  },
+  {
+   "text": "ele",
+   "start": 1.943,
+   "end": 2.047
+  },
+  {
+   "text": "encara",
+   "start": 2.07,
+   "end": 2.488
+  },
+  {
+   "text": "mais",
+   "start": 2.535,
+   "end": 2.674
+  },
+  {
+   "text": "uma",
+   "start": 2.732,
+   "end": 2.871
+  },
+  {
+   "text": "troca",
+   "start": 2.929,
+   "end": 3.243
+  },
+  {
+   "text": "sem",
+   "start": 3.289,
+   "end": 3.429
+  },
+  {
+   "text": "ter",
+   "start": 3.475,
+   "end": 3.568
+  },
+  {
+   "text": "dormido.",
+   "start": 3.603,
+   "end": 4.086
+  }
+ ]
+}

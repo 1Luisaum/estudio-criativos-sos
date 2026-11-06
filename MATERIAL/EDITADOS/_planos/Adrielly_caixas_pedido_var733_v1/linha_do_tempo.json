@@ -1,0 +1,35 @@
+{
+ "total": 37.04000000000022,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 2.5300000000000114,
+   "texto": "Por favor, fica só trinta segundos?"
+  },
+  {
+   "nome": "c1",
+   "d": 8.89000000000014,
+   "texto": "Esses curativos que eu preciso para o meu tipo de pele, eles têm o custo de noventa mil por mês"
+  },
+  {
+   "nome": "c2",
+   "d": 8.470000000000066,
+   "texto": "eu tô com processo pelo governo, pela justiça, até o momento ainda não tivemos resposta."
+  },
+  {
+   "nome": "c3",
+   "d": 8.590000000000014,
+   "texto": "Eu estou em um momento que eu não posso esperar, onde cada dia que passa eu tenho mais lesões, mais crises."
+  },
+  {
+   "nome": "c4",
+   "d": 2.6099999999999954,
+   "texto": "Por favor, me ajude."
+  },
+  {
+   "nome": "c5",
+   "d": 5.949999999999989,
+   "texto": "Por favor, me ajuda no tratamento com cinco reais."
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+- [Onde fica o Estúdio ONG](estudio-ong-onde-fica.md) — caminhos, skills, conhecimento, próximos nomes de vídeo
+- [Regras dos criativos ONG](estudio-ong-regras.md) — CTA "Clique em SAIBA MAIS", marca @soshumanhelppt, rosto livre, alto da tela, P&B, copy nova, vozes BR
+- [Chave antiga na sessão](elevenlabs-chave-antiga-na-sessao.md) — 402 com conta paga: puxar a chave do Windows antes de rodar
+- [Conferência antes de entregar](estudio-ong-conferencia.md) — fluxo do pedido, checagens do MP4 final e armadilhas
+- [Produção ao vivo no Estúdio](estudio-ong-producao-ao-vivo.md) — gravar EDITADOS\_demanda_atual.json no início de toda demanda; % por etapa
+- [Troca de cenário](troca-de-cenario-ganchos.md) — modelos de vídeo recusam por moderação; recorte local + fundo da Magnific funciona
+- [Música da Magnific](magnific-musica-api.md) — filtros da API que funcionam (`q`, `genre`, `mood`, `offset`) e faixas gospel baixadas
+- [Lote rápido da ONG](estudio-ong-lote-rapido.md) — roteirista-ong + fila.py (NVENC, conferência automática) + revisor-ong; não remontar sem pedido
+- [Armadilhas do banco e das LEVAs](estudio-ong-armadilhas-banco.md) — clipe horizontal, clipe com pix gravado e colisão de LEVAs entre as crianças
+- [Leonardo chiando](elevenlabs-leonardo-chiando.md) — desde 03/11 a voz Leonardo sai com chuvisco; usar o Kaique
+- [Cenas da Adrielly](adrielly-cenas-feridas.md) — sem pernas enfaixadas, pouco P&B, feridas com borrão leve, @juntospelaadrielly
+- [Bibliotecas de anúncios](estudio-ong-bibliotecas-anuncios.md) — PEB 202-211 modelados em 10 anúncios de outras ONGs; bib.py; músicas tristes da Magnific

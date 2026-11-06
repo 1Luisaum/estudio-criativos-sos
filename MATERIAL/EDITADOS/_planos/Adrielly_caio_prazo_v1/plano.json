@@ -1,0 +1,121 @@
+{
+ "nome": "Adrielly_caio_prazo_v1",
+ "crianca": "Adrielly",
+ "estilo": "ESTILO CAIO PRAZO",
+ "referencia": "primeiro vídeo do Caio (Drive 1vlTjZ, 'nosso prazo está acabando')",
+ "cor_vermelha": [
+  231,
+  0,
+  5
+ ],
+ "topo": {
+  "linhas": [
+   "nosso prazo",
+   "está acabando."
+  ],
+  "ref_frase": "está acabando.",
+  "ref_largura": 445,
+  "cx": 544,
+  "y": 246,
+  "passo": 58,
+  "padx": 11,
+  "pady": 1
+ },
+ "meio": {
+  "linhas": [
+   "Dia 6 tentando encontrar",
+   "4 mil pessoas para ajudar",
+   "com 2 reais no tratamento",
+   "da Adrielly."
+  ],
+  "ref_frase": "doar 2 reais para salvar",
+  "ref_largura": 707,
+  "cx": 556,
+  "y": 1333,
+  "passo": 60,
+  "padx": 9,
+  "pady": 0
+ },
+ "baixo": {
+  "linhas": [
+   "ME AJUDE, FAÇA O BEM..."
+  ],
+  "ref_frase": "ME AJUDE, FAÇA O BEM...",
+  "ref_largura": 674,
+  "cx": 552,
+  "y": 1612,
+  "passo": 65,
+  "padx": 9,
+  "pady": 0
+ },
+ "tomadas": [
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+   "inicio": 0.0,
+   "dur": 2.8,
+   "sem_topo": true
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_costas_faixas.mp4",
+   "inicio": 0.0,
+   "dur": 2.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+   "inicio": 5.2,
+   "dur": 2.6,
+   "sem_topo": true
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_pernas_faixas.mp4",
+   "inicio": 0.0,
+   "dur": 2.6
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+   "inicio": 10.4,
+   "dur": 3.2,
+   "sem_topo": true
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_lencol_sangue_pb.mp4",
+   "inicio": 0.0,
+   "dur": 2.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (1).mp4",
+   "inicio": 6.5,
+   "dur": 2.6
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_infusao_cama.mp4",
+   "inicio": 1.0,
+   "dur": 2.6
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+   "inicio": 21.2,
+   "dur": 4.2,
+   "sem_topo": true
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_curativos_juntos.mp4",
+   "inicio": 0.0,
+   "dur": 3.0
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+   "inicio": 28.4,
+   "dur": 3.55,
+   "sem_topo": true
+  }
+ ],
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+ "musica_inicio": 0,
+ "fatos": {
+  "fala e choro": "IMG_9180 (o mesmo trecho do AEB 12, que validou), no lugar da música",
+  "texto do meio": "o mesmo do AEB 12 (validou)",
+  "estilo": "primeiro anúncio do Caio (caixas, cortes com fusão)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 49\\AEB 79 - ESTILO CAIO PRAZO.mp4"
+}

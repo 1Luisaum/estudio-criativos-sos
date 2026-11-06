@@ -1,0 +1,65 @@
+{
+ "total": 53.613219000000015,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 3.220317,
+   "texto": "O processo na Justiça já começou. A resposta, não."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 8.160000000000009,
+   "texto": "a gente até chegou a entrar, com processos contra o governo, mas essas coisas, demora e demora muito mesmo"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.346599,
+   "texto": "Pedrinho tem epidermólise bolhosa. Duas vezes por dia, a mãe troca os curativos do corpo inteiro."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.06,
+   "texto": "Tem noites, que eu chego até a chorar por causa das feridas doloridas,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.12619,
+   "texto": "Sem dinheiro para o material, a família não consegue manter os cuidados."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 4.140000000000005,
+   "texto": "E pela minha condição, eu não consigo nem o básico pra ele."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 4.280000000000006,
+   "texto": "quem é EB não pode esperar, E eu não posso esperar mais."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 6.719206,
+   "texto": "A SOS Human Help está arrecadando doações para os curativos. Dez reais ajudam hoje."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 4.979999999999994,
+   "texto": "se você sentir no seu coração, ajude no meu tratamento."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 5.580907,
+   "texto": "Toque em Saiba mais. O tratamento do Pedrinho não pode esperar a Justiça."
+  }
+ ]
+}

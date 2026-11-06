@@ -1,0 +1,60 @@
+{
+ "text": "Um curativo não cura a doença. Mas muda o dia dele.",
+ "words": [
+  {
+   "text": "Um",
+   "start": 0.0,
+   "end": 0.116
+  },
+  {
+   "text": "curativo",
+   "start": 0.151,
+   "end": 0.604
+  },
+  {
+   "text": "não",
+   "start": 0.639,
+   "end": 0.755
+  },
+  {
+   "text": "cura",
+   "start": 0.813,
+   "end": 1.068
+  },
+  {
+   "text": "a",
+   "start": 1.091,
+   "end": 1.115
+  },
+  {
+   "text": "doença.",
+   "start": 1.149,
+   "end": 1.695
+  },
+  {
+   "text": "Mas",
+   "start": 2.101,
+   "end": 2.287
+  },
+  {
+   "text": "muda",
+   "start": 2.368,
+   "end": 2.554
+  },
+  {
+   "text": "o",
+   "start": 2.577,
+   "end": 2.601
+  },
+  {
+   "text": "dia",
+   "start": 2.647,
+   "end": 2.81
+  },
+  {
+   "text": "dele.",
+   "start": 2.868,
+   "end": 3.483
+  }
+ ]
+}

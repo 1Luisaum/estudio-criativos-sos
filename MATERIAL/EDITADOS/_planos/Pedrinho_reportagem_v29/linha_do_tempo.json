@@ -1,0 +1,71 @@
+{
+ "total": 48.55492,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.206213,
+   "texto": "Quando se fala do Pedrinho, todo mundo pensa em faixa. Mas a lista dele não termina na faixa."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 8.34,
+   "texto": "pra não deixar faltar nada pra mim, nada que eu precise que é os itens de curativo, tudo, suplemento, alimentação também,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 2.669002,
+   "texto": "Este é um dos suplementos da dieta dele."
+  },
+  {
+   "nome": "b04",
+   "tipo": "off",
+   "d": 3.1587069999999997,
+   "texto": "Este óleo também entra nos cuidados com a pele."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.108005,
+   "texto": "Somando tudo, o cuidado virou uma despesa que a família não alcança."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 3.9600000000000017,
+   "texto": "Só que essa luta ficou cara demais pra nossa família."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 4.499999999999997,
+   "texto": "E são mais de quarenta mil por mês, em cuidados."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 3.066508,
+   "texto": "Ele sabe o tamanho do pedido. E faz mesmo assim."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 3.0599999999999996,
+   "texto": "Então, pessoal, eu peço a sua ajuda."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 5.76229,
+   "texto": "A SOS Human Help reúne doações para esses cuidados. Dez reais já somam."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 4.724195,
+   "texto": "Clique em Saiba mais e veja como ajudar além da faixa."
+  }
+ ]
+}

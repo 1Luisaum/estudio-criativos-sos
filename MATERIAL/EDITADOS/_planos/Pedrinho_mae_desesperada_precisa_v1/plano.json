@@ -1,0 +1,141 @@
+{
+ "nome": "Pedrinho_mae_desesperada_precisa_v1",
+ "referencia": "Causas do Bem, anuncio 1428626718623984 (Kauê): mae falando para a camera, voz da crianca sobre b-roll, caixa vermelha fixa",
+ "angulo": "a mae pede ajuda porque o filho precisa, nao porque alguem precisou ve-lo sofrendo",
+ "gancho": {
+  "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+  "cortes": [
+   [
+    105.86,
+    107.8
+   ],
+   [
+    108.4,
+    109.54
+   ],
+   [
+    111.84,
+    113.3
+   ],
+   [
+    119.38,
+    121.9
+   ]
+  ],
+  "zooms": [
+   1.0,
+   1.15,
+   1.0,
+   1.15
+  ]
+ },
+ "voz_off": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    40.32,
+    42.16
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    42.98,
+    46.6
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    47.8,
+    50.52
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    51.74,
+    53.46
+   ],
+   "respiro": 0.25
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "corte": [
+    129.46,
+    130.9
+   ]
+  }
+ ],
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "musica_sob_voz": 0.1,
+ "musica_depois": 0.4,
+ "caixa": [
+  "ESSA MÃE PEDE AJUDA SEM EXPOR O FILHO...",
+  "AJUDE O PEDRINHO PORQUE ELE PRECISA",
+  "R$10,00 SE TORNA VIDA🙏"
+ ],
+ "cta": "👇 TOQUE EM SAIBA MAIS",
+ "caixa_y": 1344,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 142.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 172.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 2.6,
+   "start": 35.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 212.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+   "dur": 2.6,
+   "start": 100.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 268.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 2.6,
+   "start": 65.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 308.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "dur": 2.4,
+   "start": 44.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_mae_desesperada_precisa_v1/fotos/20260729_180353.png",
+   "dur": 3.0,
+   "fonte_original": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260729_180353.jpg"
+  }
+ ],
+ "fatos": {
+  "se você puder ajudar, ajude o meu filho, porque ele precisa; não porque você precisou vê-lo sofrendo; desde já, gratidão": "mãe, banco Roteiro 2 (105-122 s, 129-131 s)",
+  "sem expor o filho": "mãe, banco Roteiro 2 (89-103 s: 'eu tô aqui sem precisar mostrar, expor meu filho')",
+  "não tem como comprar nem dois, três pacotes de atadura ou um gaze pra passar a pomadinha; eu peço a sua ajuda": "Pedrinho, 20260917_000819 (40-54 s)",
+  "R$10": "valor padrao do pedido",
+  "Doe agora do bruto": "cortado (o Roteiro 2 termina em 'doe agora'; usamos so ate 'gratidão' em 129-131 s)"
+ },
+ "modelo": "lote de 30 (27/10/2026), frente D",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 29\\PEB 123 - MÃE DESESPERADA.mp4"
+}

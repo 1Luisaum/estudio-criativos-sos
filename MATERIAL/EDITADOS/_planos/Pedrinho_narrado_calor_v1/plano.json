@@ -1,0 +1,428 @@
+{
+ "nome": "Pedrinho_narrado_calor_v1",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 01\\Pedrinho_narrado_calor_v1.mp4",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 1.2,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "FERIDA",
+  "ACABANDO",
+  "MEDO",
+  "SANGUE",
+  "DORMIR",
+  "DESESPERADA",
+  "CALOR",
+  "40",
+  "MIL",
+  "CINCO"
+ ],
+ "caption_fix": {
+  "QUARENTA": "40"
+ },
+ "hook": {
+  "t1": 4.6,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*2º CURATIVO*",
+    "fs": 140
+   },
+   {
+    "text": "DO DIA. E O ESTOQUE ACABANDO.",
+    "fs": 62
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "tx/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     0.48,
+     0.7
+    ],
+    [
+     1.6,
+     2.7
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      520,
+      845
+     ]
+    }
+   ],
+   "txt": "Por favor, fica só 30 segundos."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "tx/v3_mae_calor.json",
+   "cuts": [
+    [
+     0.8,
+     2.74
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Esse calor tá acabando com a pele do meu filho."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+     "start": 27.5,
+     "until": 2.9
+    },
+    {
+     "src": "20240411_115750.jpg",
+     "until": 4.9
+    },
+    {
+     "src": "20260113_023031.jpg"
+    }
+   ],
+   "txt": "O Pedrinho tem epidermólise bolhosa, a doença da pele de borboleta. No calor, as feridas pioram."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     35.02,
+     36.22
+    ],
+    [
+     37.18,
+     39.2
+    ],
+    [
+     39.96,
+     44.2
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 2.0,
+     "center": [
+      560,
+      480
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    }
+   ],
+   "txt": "Os meus ferimentos estão cada vez mais abertos, mais do que nunca. A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 160.0,
+     "until": 1.9
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 232.0,
+     "until": 3.5
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 290.0
+    }
+   ],
+   "txt": "A mãe dele rompe cada bolha, limpa cada ferida... e cobre tudo de novo."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "tx/v3_mae_calor.json",
+   "cuts": [
+    [
+     3.9,
+     6.22
+    ],
+    [
+     8.12,
+     8.84
+    ],
+    [
+     10.5,
+     11.2
+    ],
+    [
+     11.88,
+     12.18
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      400,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      400,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Eu acabei de fazer o segundo curativo do dia e estou ficando desesperada, porque as coisas deles estão acabando."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+   "tx": "tx/v2_dormir.json",
+   "cuts": [
+    [
+     3.22,
+     4.76
+    ],
+    [
+     11.5,
+     12.88
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      845
+     ]
+    }
+   ],
+   "txt": "Eu não aguento mais não conseguir dormir. Eu quero conseguir dormir bem."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "fix": {
+    "quarenta": "40"
+   },
+   "broll": [
+    {
+     "src": "20260825_134438.jpg",
+     "until": 0.95
+    },
+    {
+     "src": "20260825_134710.jpg",
+     "until": 1.55
+    },
+    {
+     "src": "20260825_134039.jpg",
+     "until": 2.55
+    },
+    {
+     "src": "20260825_134808.jpg",
+     "until": 4.55
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 15.0
+    }
+   ],
+   "txt": "Atadura. Gaze. Pomada. Esparadrapo especial. Os cuidados dele passam de quarenta mil reais por mês."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "R$ 40 MIL",
+    "POR MÊS"
+   ],
+   "dur": 1.4,
+   "fs": 200
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "tx/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     4.32,
+     6.06
+    ],
+    [
+     7.24,
+     7.82
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      845
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Os meus curativos estão acabando e eu tô com medo."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "tx/v3_mae_calor.json",
+   "cuts": [
+    [
+     21.62,
+     21.8
+    ],
+    [
+     26.86,
+     28.36
+    ],
+    [
+     29.0,
+     29.72
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      400,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Quem quiser doar dois reais ou cinco reais, vai tá ajudando demais."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "R$ 5",
+    "JÁ AJUDA DEMAIS"
+   ],
+   "dur": 1.4,
+   "fs": 260
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20230603_203654.jpg",
+     "until": 1.5
+    },
+    {
+     "src": "20241110_104724.mp4",
+     "start": 8.0
+    }
+   ],
+   "txt": "A pele dele é frágil. Ele não."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "tx/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     18.88,
+     20.26
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      845
+     ]
+    }
+   ],
+   "txt": "Seja um anjo na minha vida."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 12.0
+    }
+   ],
+   "txt": "Toque em Saiba mais. Cinco reais já ajudam demais."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "SEJA O *ANJO*",
+    "DO PEDRINHO"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ]
+}

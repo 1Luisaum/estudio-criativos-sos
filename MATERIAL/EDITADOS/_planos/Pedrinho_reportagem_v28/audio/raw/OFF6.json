@@ -1,0 +1,50 @@
+{
+ "text": "Clique em Saiba mais e cuide de quem cuida.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.302
+  },
+  {
+   "text": "em",
+   "start": 0.325,
+   "end": 0.372
+  },
+  {
+   "text": "Saiba",
+   "start": 0.453,
+   "end": 0.801
+  },
+  {
+   "text": "mais",
+   "start": 0.859,
+   "end": 1.161
+  },
+  {
+   "text": "e",
+   "start": 1.219,
+   "end": 1.254
+  },
+  {
+   "text": "cuide",
+   "start": 1.312,
+   "end": 1.625
+  },
+  {
+   "text": "de",
+   "start": 1.672,
+   "end": 1.753
+  },
+  {
+   "text": "quem",
+   "start": 1.8,
+   "end": 1.962
+  },
+  {
+   "text": "cuida.",
+   "start": 2.02,
+   "end": 2.786
+  }
+ ]
+}

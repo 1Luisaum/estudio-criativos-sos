@@ -1,0 +1,30 @@
+{
+ "total": 33.709999999999994,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 4.289999999999999,
+   "texto": "Fica só 30 segundos para me ajudar no meu tratamento?"
+  },
+  {
+   "nome": "c1",
+   "d": 4.289999999999999,
+   "texto": "Meus curativos custam R$ 90.000."
+  },
+  {
+   "nome": "c2",
+   "d": 6.409999999999999,
+   "texto": "O que mais me assusta é em pensar em quando eu vou fazer a troca e não ter"
+  },
+  {
+   "nome": "c3",
+   "d": 8.389999999999999,
+   "texto": "Minha mãe já não tem mais dinheiro para meu tratamento. Eu te peço, por favor, me ajuda"
+  },
+  {
+   "nome": "c4",
+   "d": 10.33,
+   "texto": "Por favor, me ajuda com R$ 5 ou R$ 10 pra eu conseguir meus curativos. Deus abençoe você de coração"
+  }
+ ]
+}

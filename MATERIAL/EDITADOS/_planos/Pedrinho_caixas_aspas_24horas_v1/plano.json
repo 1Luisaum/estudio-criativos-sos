@@ -1,0 +1,213 @@
+{
+ "nome": "Pedrinho_caixas_aspas_24horas_v1",
+ "gancho": "aspas: mae 'e uma luta continua' + Pedrinho 'Sim, todo dia, vinte e quatro horas, todos os meses' (Roteiro 2, os dois juntos)",
+ "angulo": "o cuidado nao tem folga: e 24 horas, todos os meses, de dia e de noite",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/good_b_music-melody-of-nature-main-6672.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "e uma luta continua / sim, todo dia, vinte e quatro horas, todos os meses": "mae e Pedrinho, banco Roteiro 2.mp4 (73.1-78.8 s)",
+  "minha mamae precisa fazer os meus curativos todos os dias; agora, por conta dos ferimentos bem abertos, duas vezes ao dia": "Pedrinho, 20260917_001530.mp4 (4.6-16.9 s)",
+  "ja nao basta as dores do dia a dia e durante a noite": "Pedrinho, 20260917_001530.mp4 (58.1-62.1 s)",
+  "quatro, cinco reais, dez reais parece pouco, mas pra mim e uma nova esperanca de um dia sem dor": "Pedrinho, Roteiro_ peco perdao (63-74.5 s)",
+  "desde ja, meu muito obrigado": "Pedrinho, 20260917_001530.mp4 (93.1-95 s)"
+ },
+ "modelo": "completar as LEVAs 27/10/2026 - frente 2",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cortes": [
+    [
+     73.6,
+     74.2
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+     73.54
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "CUIDAR TEM HORA PRA PARAR.",
+    "PARA PEDRINHO, SÃO 24 HORAS,",
+    "TODOS OS MESES."
+   ]
+  },
+  {
+   "nome": "h2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cortes": [
+    [
+     75.3,
+     78.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+     75.24
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "CUIDAR TEM HORA PRA PARAR.",
+    "PARA PEDRINHO, SÃO 24 HORAS,",
+    "TODOS OS MESES."
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     4.6,
+     9.3
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+     4.54
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     11.12,
+     11.12
+    ],
+    [
+     12.58,
+     14.06
+    ],
+    [
+     15.22,
+     16.48
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     150.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     32.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     58.1,
+     60.22
+    ],
+    [
+     60.86,
+     61.7
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+     29.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     94.0
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     63.0,
+     65.54
+    ],
+    [
+     66.36,
+     66.92
+    ],
+    [
+     67.72,
+     67.72
+    ],
+    [
+     69.44,
+     69.72
+    ],
+    [
+     71.56,
+     74.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     208.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     14.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/vídeo na Horizontal para o Site_.mp4",
+     12.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     26.0
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     93.14,
+     94.48
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CUIDADOS DE DIA E DE NOITE"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "AJUDAM A MÃE DO PEDRINHO NA LUTA",
+   "DE TODOS OS DIAS, TODOS OS MESES"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 31\\PEB 147 - CAIXAS ASPAS.mp4",
+ "obs": "1a montagem: na foto final 20241108_111235(0) a caixa de valor cobria o rosto dele; trocada"
+}

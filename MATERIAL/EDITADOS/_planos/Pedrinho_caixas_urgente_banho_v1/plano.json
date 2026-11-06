@@ -1,0 +1,171 @@
+{
+ "nome": "Pedrinho_caixas_urgente_banho_v1",
+ "gancho": "urgente: Kaique 'Sem soro, a agua do banho arde na pele do Pedrinho.'",
+ "angulo": "sem soro fisiologico, o banho arde",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/11145955-mesa-10550.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "cada item de curativo e importante numa troca / sem soro a mae usa agua no banho / a agua arde muito / evita que isso aconteca / toda ajuda e bem-vinda": "Pedrinho, Roteiro_ peco perdao (20-59 s, speaker_1)",
+  "os custos sao muito altos, de cada atadura, de cada gaze": "Pedrinho, 20260917_001530 (65-70 s)"
+ },
+ "modelo": "lote 30 videos 27/10/2026, Frente C",
+ "frases": [
+  {
+   "nome": "h1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_caixas_urgente_banho_v1/gancho_close.png",
+   "sem_caixas": true,
+   "zoom": 0.14,
+   "sem_legenda": true,
+   "urgente_ref": [
+    "CASO DO PEDRINHO, QUE SOFRE ATÉ NO BANHO,",
+    "MOBILIZA PEDIDO DE AJUDA NAS REDES"
+   ],
+   "narracao": "N1"
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     21.46,
+     25.46
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     30.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     60.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     30.3,
+     30.8
+    ],
+    [
+     32.88,
+     33.44
+    ],
+    [
+     35.54,
+     38.78
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     135.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     235.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     55.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     40.08,
+     41.7
+    ],
+    [
+     42.36,
+     43.76
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     26.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     295.0
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     65.28,
+     69.86
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+     65.22
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     55.48,
+     56.62
+    ],
+    [
+     58.26,
+     59.26
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20230603_203654.jpg",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "SORO FISIOLÓGICO PARA O BANHO"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "AJUDAM A MÃE DO PEDRINHO A COMPRAR",
+   "CADA ITEM DA TROCA DE CURATIVO"
+  ],
+  "valor_y": 1300,
+  "cor_caixa": [
+   200,
+   16,
+   28
+  ],
+  "cor_texto": [
+   235,
+   40,
+   40
+  ]
+ },
+ "sem_legenda": true,
+ "narracao": {
+  "N1": "Sem soro, a água do banho arde na pele do Pedrinho."
+ },
+ "voz": {
+  "voice_id": "Hmn4B9B77pf6ttydteJ8"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 32\\PEB 133 - CAIXAS URGENTE.mp4"
+}

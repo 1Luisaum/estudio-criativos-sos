@@ -1,0 +1,80 @@
+{
+ "text": "Sem isso, a dor não dá trégua. E é justamente aí que ele pede ajuda.",
+ "words": [
+  {
+   "text": "Sem",
+   "start": 0.0,
+   "end": 0.255
+  },
+  {
+   "text": "isso,",
+   "start": 0.348,
+   "end": 0.615
+  },
+  {
+   "text": "a",
+   "start": 0.662,
+   "end": 0.712
+  },
+  {
+   "text": "dor",
+   "start": 0.766,
+   "end": 0.964
+  },
+  {
+   "text": "não",
+   "start": 1.033,
+   "end": 1.184
+  },
+  {
+   "text": "dá",
+   "start": 1.231,
+   "end": 1.312
+  },
+  {
+   "text": "trégua.",
+   "start": 1.382,
+   "end": 1.811
+  },
+  {
+   "text": "E",
+   "start": 1.811,
+   "end": 1.908
+  },
+  {
+   "text": "é",
+   "start": 1.966,
+   "end": 2.016
+  },
+  {
+   "text": "justamente",
+   "start": 2.048,
+   "end": 2.663
+  },
+  {
+   "text": "aí",
+   "start": 2.698,
+   "end": 2.907
+  },
+  {
+   "text": "que",
+   "start": 2.976,
+   "end": 3.058
+  },
+  {
+   "text": "ele",
+   "start": 3.081,
+   "end": 3.209
+  },
+  {
+   "text": "pede",
+   "start": 3.255,
+   "end": 3.499
+  },
+  {
+   "text": "ajuda.",
+   "start": 3.534,
+   "end": 4.01
+  }
+ ]
+}

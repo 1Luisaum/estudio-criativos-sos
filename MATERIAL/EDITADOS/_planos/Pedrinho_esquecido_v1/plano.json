@@ -1,0 +1,213 @@
+{
+ "nome": "Pedrinho_esquecido_v1",
+ "pedido": "completar LEVA 01 (26/10/2026)",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+ "transcript": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  551,
+  616
+ ],
+ "segments": [
+  {
+   "in": 22.81,
+   "out": 24.0,
+   "txt": "as pessoas",
+   "zoom": "Z2"
+  },
+  {
+   "in": 24.58,
+   "out": 26.24,
+   "txt": "se esqueceram de mim,",
+   "zoom": "ZF"
+  },
+  {
+   "in": 27.51,
+   "out": 30.04,
+   "txt": "Até mesmo pessoas que me ajudaram,",
+   "zoom": "Z1"
+  },
+  {
+   "in": 32.25,
+   "out": 33.64,
+   "txt": "elas também sumiram",
+   "zoom": "Z3"
+  },
+  {
+   "in": 2.49,
+   "out": 4.62,
+   "txt": "há quase quatro anos atrás",
+   "zoom": "Z2"
+  },
+  {
+   "in": 4.77,
+   "out": 6.24,
+   "txt": "eu fiz uma Vakinha",
+   "zoom": "Z1"
+  },
+  {
+   "in": 7.49,
+   "out": 11.42,
+   "txt": "eu consegui comprar quase um ano de curativos",
+   "broll": [
+    {
+     "src": "20240514_210632.jpg"
+    },
+    {
+     "src": "20260127_110703.jpg"
+    }
+   ]
+  },
+  {
+   "in": 11.97,
+   "out": 13.62,
+   "txt": "e eu tava ficando bem.",
+   "zoom": "Z3"
+  },
+  {
+   "in": 65.47,
+   "out": 67.9,
+   "txt": "as minhas ataduras, que são as faixas,",
+   "broll": [
+    {
+     "src": "crepe bandagem.png"
+    }
+   ]
+  },
+  {
+   "in": 69.93,
+   "out": 71.52,
+   "txt": "elas estão acabando",
+   "zoom": "Z2"
+  },
+  {
+   "in": 71.5,
+   "out": 72.14,
+   "txt": "e eu estou com",
+   "zoom": "Z1"
+  },
+  {
+   "in": 72.95,
+   "out": 74.18,
+   "txt": "muito medo mesmo",
+   "zoom": "ZF"
+  },
+  {
+   "in": 92.39,
+   "out": 94.86,
+   "txt": "as bolhas estão ficando cada vez,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 245.0
+    }
+   ]
+  },
+  {
+   "in": 95.25,
+   "out": 96.54,
+   "txt": "piores mesmo.",
+   "zoom": "Z3"
+  },
+  {
+   "in": 104.39,
+   "out": 105.42,
+   "txt": "E se você,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 105.99,
+   "out": 107.2,
+   "txt": "puder me ajudar",
+   "zoom": "Z1"
+  },
+  {
+   "in": 108.83,
+   "out": 110.42,
+   "txt": "com dois ou,",
+   "zoom": "Z3"
+  },
+  {
+   "in": 110.94,
+   "out": 111.58,
+   "txt": "três,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 112.49,
+   "out": 113.38,
+   "txt": "reais,",
+   "zoom": "ZF"
+  },
+  {
+   "in": 127.58,
+   "out": 130.14,
+   "txt": "eu vou te agradecer muito e muito mesmo.",
+   "zoom": "Z1"
+  }
+ ],
+ "fix": {
+  "VAKINHA": "VAQUINHA"
+ },
+ "red": [
+  "CURATIVOS",
+  "ATADURAS",
+  "FAIXAS",
+  "ACABANDO",
+  "MEDO",
+  "BOLHAS",
+  "PIORES",
+  "ESQUECERAM",
+  "SUMIRAM"
+ ],
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ELE FOI ESQUECIDO"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.2,
+   "lines": [
+    "AS FAIXAS DO PEDRINHO",
+    "ESTÃO ACABANDO",
+    "E ELE TEM *MEDO*"
+   ],
+   "fs": 88
+  }
+ ],
+ "endcard": {
+  "src": "20241110_104724.mp4",
+  "start": 4.0,
+  "dur": 3.4,
+  "lines": [
+   "NÃO DEIXE O PEDRINHO",
+   "SER ESQUECIDO"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\CORTES COM GANCHO\\LEVA 01\\Pedrinho_esquecido_v1.mp4",
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$3",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ }
+}

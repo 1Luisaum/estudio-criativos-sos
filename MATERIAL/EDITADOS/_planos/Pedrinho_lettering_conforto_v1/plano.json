@@ -1,0 +1,173 @@
+{
+ "nome": "Pedrinho_lettering_conforto_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "Cortes com lettering (criativo-lettering-ong)",
+ "angulo": "ele pede os proximos curativos para a mae fazer a troca com tranquilidade e ele ficar confortavel, porque as dores ja nao dao tregua dia e noite",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\20260917_001530.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  480,
+  240
+ ],
+ "segments": [
+  {
+   "in": 43.47,
+   "out": 45.6,
+   "zoom": "Z1",
+   "txt": "eu estou aqui te pedindo ajuda"
+  },
+  {
+   "in": 46.07,
+   "out": 47.06,
+   "zoom": "Z2",
+   "txt": "pra conseguir,"
+  },
+  {
+   "in": 47.89,
+   "out": 49.4,
+   "zoom": "Z3",
+   "txt": "os próximos curativos"
+  },
+  {
+   "in": 49.39,
+   "out": 52.54,
+   "zoom": "ZF",
+   "txt": "pra minha mamãe conseguir tranquilamente fazer"
+  },
+  {
+   "in": 52.99,
+   "out": 54.02,
+   "zoom": "Z1",
+   "txt": "um curativo,"
+  },
+  {
+   "in": 54.85,
+   "out": 57.12,
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 40.0
+    }
+   ],
+   "txt": "depois eu ficar bem confortável mesmo,"
+  },
+  {
+   "in": 58.07,
+   "out": 60.8,
+   "zoom": "Z3",
+   "txt": "já não basta as dores do dia a dia"
+  },
+  {
+   "in": 60.83,
+   "out": 62.2,
+   "zoom": "ZF",
+   "txt": "e durante a noite."
+  },
+  {
+   "in": 75.51,
+   "out": 75.96,
+   "zoom": "Z1",
+   "txt": "quem"
+  },
+  {
+   "in": 76.63,
+   "out": 78.36,
+   "zoom": "Z2",
+   "txt": "Deus tocar no coração de ajudar,"
+  },
+  {
+   "in": 78.35,
+   "out": 82.38,
+   "broll": [
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134438.jpg"
+    },
+    {
+     "src": "20260825_134808.jpg"
+    },
+    {
+     "src": "20260825_134039.jpg"
+    }
+   ],
+   "fix": {
+    "UM": "1",
+    "DOIS": "2",
+    "TRÊS": "3",
+    "CINCO": "5"
+   },
+   "txt": "seja com um, dois reais, três reais, cinco reais,"
+  },
+  {
+   "in": 82.61,
+   "out": 83.66,
+   "zoom": "ZF",
+   "txt": "não importa"
+  },
+  {
+   "in": 84.45,
+   "out": 85.86,
+   "zoom": "Z1",
+   "txt": "O que importa é"
+  },
+  {
+   "in": 86.43,
+   "out": 89.5,
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 100.0
+    }
+   ],
+   "txt": "ajudar nas minhas dores a dar uma aliviada."
+  },
+  {
+   "in": 90.19,
+   "out": 92.2,
+   "zoom": "Z3",
+   "txt": "seja um anjo na minha vida,"
+  },
+  {
+   "in": 93.25,
+   "out": 95.08,
+   "zoom": "Z2",
+   "txt": "desde já, meu muito obrigado."
+  }
+ ],
+ "fix": {},
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "CONFORTÁVEL",
+  "DORES",
+  "NOITE",
+  "5",
+  "ANJO"
+ ],
+ "badge": null,
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_46_14.png",
+  "texto_do_lettering": "R$ 5,00 PODEM LEVAR CONFORTO PRO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260824_182501.mp4",
+  "start": 70.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [],
+ "caption_y": 950,
+ "fatos": {
+  "pede os proximos curativos para a mae fazer o curativo tranquilamente e ele ficar confortavel": "Pedrinho, 20260917_001530.mp4, 43.5-57.1 s",
+  "ja nao basta as dores do dia a dia e durante a noite": "Pedrinho, 20260917_001530.mp4, 58.1-62.1 s",
+  "um, dois, tres, cinco reais; ajudar nas dores": "Pedrinho, 20260917_001530.mp4, 75.5-89.5 s",
+  "R$5 (lettering conforto)": "Pedrinho, 20260917_001530.mp4, 81.5 s ('cinco reais') + 'confortavel' 55.8 s"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 28\\PEB 119 - CORTES COM LETTERING.mp4"
+}

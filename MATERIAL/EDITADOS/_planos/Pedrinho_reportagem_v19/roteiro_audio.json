@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Mais de quarenta mil reais. Todo mês. Esse é o tamanho da conta para cuidar de um único menino.",
+  "OFF2": "A doença é a epidermólise bolhosa. Quem encontra o Pedrinho na internet não vê essa conta. E ele sabe disso.",
+  "OFF3": "A conta é feita de coisas pequenas. Atadura. Gaze. Pomada. E nada disso dura.",
+  "OFF4": "Para essa família, a conta não fecha no fim do mês. Ela só recomeça.",
+  "OFF5": "Ninguém precisa pagar tudo isso sozinho. A SOS Human Help arrecada doações para os curativos, e dez reais já entram nessa conta.",
+  "OFF6": "Clique em Saiba mais e divida essa conta com ele."
+ }
+}

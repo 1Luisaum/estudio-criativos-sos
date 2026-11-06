@@ -1,0 +1,23 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v10.mp4
+narracao OFF2
+  b01: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b01 off 5.28s Sem soro fisiológico, o banho do Pedrinho é feito com água. E a água arde na pele dele.
+  b02: manchete=290 gc=ESCONDIDA (rosto) legenda=700 etiqueta=None
+ok b02 sonora 7.16s se não ter um soro fisiológico, a minha mãe vai ter que usar água pra me dar banho,
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b03 off 6.10s Ele tem epidermólise bolhosa. Cada troca de curativo precisa de soro, gaze e pomada.
+  b04: manchete=ESCONDIDA (rosto) gc=- legenda=700 etiqueta=None
+ok b04 sonora 3.70s cada item de curativo é importante em uma troca
+  b05: manchete=290 gc=- legenda=700 etiqueta=None
+ok b05 sonora 4.32s E a água, se ela bater na pele, ela arde e arde muito
+  b06: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b06 off 3.82s A mãe dele nunca imaginou que um dia precisaria pedir ajuda.
+  b07: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1060 etiqueta=None
+ok b07 sonora 5.64s Infelizmente, precisou de eu vim aqui, pedir uma ajuda pra vocês, pro meu filho,
+  b08: manchete=290 gc=- legenda=700 etiqueta=1150
+ok b08 off 7.29s A SOS Human Help está arrecadando doações para os curativos do Pedrinho. Quatro reais já ajudam.
+  b09: manchete=290 gc=- legenda=740 etiqueta=870
+ok b09 sonora 9.06s quatro, cinco reais, dez reais, parece pouco, mas pra mim, é uma nova esperança de um dia sem dor.
+  b10: manchete=ESCONDIDA (rosto) gc=- legenda=700 etiqueta=870
+ok b10 off 4.89s Toque em Saiba mais e ajude o Pedrinho a ter um banho sem dor.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v10.mp4 duracao=57.3s

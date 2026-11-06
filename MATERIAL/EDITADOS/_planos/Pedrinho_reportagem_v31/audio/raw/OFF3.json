@@ -1,0 +1,40 @@
+{
+ "text": "E o gaze vai para a ferida.",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "o",
+   "start": 0.163,
+   "end": 0.197
+  },
+  {
+   "text": "gáze",
+   "start": 0.255,
+   "end": 0.604
+  },
+  {
+   "text": "vai",
+   "start": 0.662,
+   "end": 0.801
+  },
+  {
+   "text": "para",
+   "start": 0.848,
+   "end": 1.033
+  },
+  {
+   "text": "a",
+   "start": 1.057,
+   "end": 1.08
+  },
+  {
+   "text": "ferida.",
+   "start": 1.138,
+   "end": 1.95
+  }
+ ]
+}

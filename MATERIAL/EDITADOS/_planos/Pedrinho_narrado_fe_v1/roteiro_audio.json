@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Foi assim que ele começou o pedido. Com poucos curativos na mão e muita fé.",
+  "N2": "A dor não dá folga. A fé dele também não. Nos dias piores, é nela que ele se segura.",
+  "N3": "Ele não disse que vai dar certo. Disse que já deu. Isso é fé de quem dorme com dor.",
+  "N4": "Em casa, a mãe faz o curativo. E a fé faz o resto do caminho.",
+  "N5": "Ele acredita que Deus coloca pessoas no caminho dele. Hoje, pode ser você.",
+  "N6": "Clique em Saiba mais, pela SOS Human Help. Um pouco com você também é muito."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

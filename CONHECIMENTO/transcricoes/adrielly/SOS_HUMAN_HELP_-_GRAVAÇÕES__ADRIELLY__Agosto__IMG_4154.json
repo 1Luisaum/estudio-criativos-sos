@@ -1,0 +1,856 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "O que a epidermólise bolhosa te roubou? E o que você perdeu por conta da doença? Bem, a epidermólise bolhosa simplesmente roubaram os meus sonhos, os meus projetos e eu simplesmente perdi o meu lugar na sociedade, onde há preconceito, não há empatia comigo, com o próximo, achando que a minha doença é contagiosa e isso acaba doendo muito em mim",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.26,
+   "end": 0.4,
+   "type": "word",
+   "logprob": -0.0018135543214157224
+  },
+  {
+   "text": " ",
+   "start": 0.4,
+   "end": 0.48,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 0.48,
+   "end": 0.62,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 0.62,
+   "end": 0.68,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "a",
+   "start": 0.68,
+   "end": 0.74,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 0.74,
+   "end": 0.78,
+   "type": "spacing",
+   "logprob": -0.0004553949984256178
+  },
+  {
+   "text": "epidermólise",
+   "start": 0.78,
+   "end": 1.66,
+   "type": "word",
+   "logprob": -0.0013153317941032583
+  },
+  {
+   "text": " ",
+   "start": 1.66,
+   "end": 1.72,
+   "type": "spacing",
+   "logprob": -6.758938252460212e-05
+  },
+  {
+   "text": "bolhosa",
+   "start": 1.72,
+   "end": 2.4,
+   "type": "word",
+   "logprob": -6.283679717203736e-05
+  },
+  {
+   "text": " ",
+   "start": 2.4,
+   "end": 2.84,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "te",
+   "start": 2.84,
+   "end": 3.0,
+   "type": "word",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": " ",
+   "start": 3.0,
+   "end": 3.08,
+   "type": "spacing",
+   "logprob": -0.00010382589971413836
+  },
+  {
+   "text": "roubou?",
+   "start": 3.08,
+   "end": 3.62,
+   "type": "word",
+   "logprob": -0.036080181278521195
+  },
+  {
+   "text": " ",
+   "start": 3.62,
+   "end": 4.26,
+   "type": "spacing",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": "E",
+   "start": 4.26,
+   "end": 4.3,
+   "type": "word",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": " ",
+   "start": 4.3,
+   "end": 4.34,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "o",
+   "start": 4.34,
+   "end": 4.46,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 4.46,
+   "end": 4.52,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "que",
+   "start": 4.52,
+   "end": 4.68,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 4.68,
+   "end": 4.76,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "você",
+   "start": 4.76,
+   "end": 5.16,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 5.16,
+   "end": 5.24,
+   "type": "spacing",
+   "logprob": -2.658331868587993e-05
+  },
+  {
+   "text": "perdeu",
+   "start": 5.24,
+   "end": 5.86,
+   "type": "word",
+   "logprob": -2.2152765571566608e-05
+  },
+  {
+   "text": " ",
+   "start": 5.86,
+   "end": 6.02,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "por",
+   "start": 6.02,
+   "end": 6.28,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 6.28,
+   "end": 6.36,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "conta",
+   "start": 6.36,
+   "end": 6.76,
+   "type": "word",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": " ",
+   "start": 6.76,
+   "end": 6.8,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "da",
+   "start": 6.8,
+   "end": 6.94,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 6.94,
+   "end": 6.98,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "doença?",
+   "start": 6.98,
+   "end": 7.62,
+   "type": "word",
+   "logprob": -1.9073466676543051e-06
+  },
+  {
+   "text": " ",
+   "start": 7.62,
+   "end": 7.62,
+   "type": "spacing",
+   "logprob": -8.177422569133341e-05
+  },
+  {
+   "text": "Bem,",
+   "start": 8.5,
+   "end": 8.8,
+   "type": "word",
+   "logprob": -6.144987852962913e-05
+  },
+  {
+   "text": " ",
+   "start": 8.8,
+   "end": 9.36,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 9.42,
+   "end": 9.48,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.48,
+   "end": 9.54,
+   "type": "spacing",
+   "logprob": -3.218599158572033e-05
+  },
+  {
+   "text": "epidermólise",
+   "start": 9.54,
+   "end": 10.3,
+   "type": "word",
+   "logprob": -6.855132445101238e-05
+  },
+  {
+   "text": " ",
+   "start": 10.3,
+   "end": 10.36,
+   "type": "spacing",
+   "logprob": -8.702239938429557e-06
+  },
+  {
+   "text": "bolhosa",
+   "start": 10.36,
+   "end": 10.96,
+   "type": "word",
+   "logprob": -7.0673803358139205e-06
+  },
+  {
+   "text": " ",
+   "start": 10.96,
+   "end": 11.7,
+   "type": "spacing",
+   "logprob": -0.00014280252798926085
+  },
+  {
+   "text": "simplesmente",
+   "start": 11.7,
+   "end": 12.58,
+   "type": "word",
+   "logprob": -0.00014280252798926085
+  },
+  {
+   "text": " ",
+   "start": 12.58,
+   "end": 12.82,
+   "type": "spacing",
+   "logprob": -1.0967194612021558e-05
+  },
+  {
+   "text": "roubaram",
+   "start": 12.82,
+   "end": 13.56,
+   "type": "word",
+   "logprob": -0.00014765791570248155
+  },
+  {
+   "text": " ",
+   "start": 13.56,
+   "end": 13.9,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "os",
+   "start": 13.9,
+   "end": 14.04,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 14.04,
+   "end": 14.08,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "meus",
+   "start": 14.08,
+   "end": 14.3,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 14.3,
+   "end": 14.4,
+   "type": "spacing",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": "sonhos,",
+   "start": 14.4,
+   "end": 15.08,
+   "type": "word",
+   "logprob": -7.373914869950633e-06
+  },
+  {
+   "text": " ",
+   "start": 15.08,
+   "end": 15.88,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "os",
+   "start": 15.88,
+   "end": 16.0,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 16.0,
+   "end": 16.059,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "meus",
+   "start": 16.059,
+   "end": 16.28,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 16.28,
+   "end": 16.3,
+   "type": "spacing",
+   "logprob": -1.7762025890988298e-05
+  },
+  {
+   "text": "projetos",
+   "start": 16.3,
+   "end": 17.42,
+   "type": "word",
+   "logprob": -1.7762025890988298e-05
+  },
+  {
+   "text": " ",
+   "start": 17.42,
+   "end": 18.28,
+   "type": "spacing",
+   "logprob": -0.00038044367101974785
+  },
+  {
+   "text": "e",
+   "start": 18.28,
+   "end": 18.58,
+   "type": "word",
+   "logprob": -0.00038044367101974785
+  },
+  {
+   "text": " ",
+   "start": 18.58,
+   "end": 19.18,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "eu",
+   "start": 19.24,
+   "end": 19.38,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 19.38,
+   "end": 19.46,
+   "type": "spacing",
+   "logprob": -3.4689302992774174e-05
+  },
+  {
+   "text": "simplesmente",
+   "start": 19.46,
+   "end": 20.22,
+   "type": "word",
+   "logprob": -3.4689302992774174e-05
+  },
+  {
+   "text": " ",
+   "start": 20.22,
+   "end": 20.3,
+   "type": "spacing",
+   "logprob": -3.242440288886428e-05
+  },
+  {
+   "text": "perdi",
+   "start": 20.3,
+   "end": 20.82,
+   "type": "word",
+   "logprob": -1.9597692858042138e-05
+  },
+  {
+   "text": " ",
+   "start": 20.82,
+   "end": 21.5,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "o",
+   "start": 21.5,
+   "end": 21.58,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 21.58,
+   "end": 21.64,
+   "type": "spacing",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": "meu",
+   "start": 21.64,
+   "end": 21.8,
+   "type": "word",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": " ",
+   "start": 21.8,
+   "end": 21.84,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "lugar",
+   "start": 21.84,
+   "end": 22.26,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 22.26,
+   "end": 22.64,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "na",
+   "start": 22.64,
+   "end": 22.9,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 22.9,
+   "end": 22.98,
+   "type": "spacing",
+   "logprob": -3.111314072157256e-05
+  },
+  {
+   "text": "sociedade,",
+   "start": 22.98,
+   "end": 23.82,
+   "type": "word",
+   "logprob": -7.855762487452012e-05
+  },
+  {
+   "text": " ",
+   "start": 23.82,
+   "end": 24.76,
+   "type": "spacing",
+   "logprob": -3.0278701160568744e-05
+  },
+  {
+   "text": "onde",
+   "start": 24.76,
+   "end": 25.24,
+   "type": "word",
+   "logprob": -3.0278701160568744e-05
+  },
+  {
+   "text": " ",
+   "start": 25.24,
+   "end": 26.0,
+   "type": "spacing",
+   "logprob": -4.8636207793606445e-05
+  },
+  {
+   "text": "há",
+   "start": 26.0,
+   "end": 26.16,
+   "type": "word",
+   "logprob": -4.8636207793606445e-05
+  },
+  {
+   "text": " ",
+   "start": 26.16,
+   "end": 26.2,
+   "type": "spacing",
+   "logprob": -4.0531076592742465e-06
+  },
+  {
+   "text": "preconceito,",
+   "start": 26.2,
+   "end": 27.18,
+   "type": "word",
+   "logprob": -9.735277321472799e-06
+  },
+  {
+   "text": " ",
+   "start": 27.18,
+   "end": 28.12,
+   "type": "spacing",
+   "logprob": -4.60137271147687e-05
+  },
+  {
+   "text": "não",
+   "start": 28.12,
+   "end": 28.34,
+   "type": "word",
+   "logprob": -4.60137271147687e-05
+  },
+  {
+   "text": " ",
+   "start": 28.34,
+   "end": 28.38,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "há",
+   "start": 28.38,
+   "end": 28.9,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 28.9,
+   "end": 28.98,
+   "type": "spacing",
+   "logprob": -3.981510963058099e-05
+  },
+  {
+   "text": "empatia",
+   "start": 28.98,
+   "end": 29.64,
+   "type": "word",
+   "logprob": -2.8439364021843566e-05
+  },
+  {
+   "text": " ",
+   "start": 29.64,
+   "end": 29.72,
+   "type": "spacing",
+   "logprob": -2.861018856492592e-06
+  },
+  {
+   "text": "comigo,",
+   "start": 29.72,
+   "end": 30.34,
+   "type": "word",
+   "logprob": -2.4523018769936504e-06
+  },
+  {
+   "text": " ",
+   "start": 30.34,
+   "end": 31.02,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "com",
+   "start": 31.02,
+   "end": 31.16,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 31.16,
+   "end": 31.22,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "o",
+   "start": 31.22,
+   "end": 31.36,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 31.36,
+   "end": 31.42,
+   "type": "spacing",
+   "logprob": -1.728519782773219e-05
+  },
+  {
+   "text": "próximo,",
+   "start": 31.42,
+   "end": 32.02,
+   "type": "word",
+   "logprob": -1.5258658478956022e-05
+  },
+  {
+   "text": " ",
+   "start": 32.02,
+   "end": 32.84,
+   "type": "spacing",
+   "logprob": -6.9141146923357155e-06
+  },
+  {
+   "text": "achando",
+   "start": 32.84,
+   "end": 33.26,
+   "type": "word",
+   "logprob": -4.2574628683464e-06
+  },
+  {
+   "text": " ",
+   "start": 33.26,
+   "end": 33.34,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 33.34,
+   "end": 33.94,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 33.94,
+   "end": 34.04,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "a",
+   "start": 34.04,
+   "end": 34.16,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 34.16,
+   "end": 34.22,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "minha",
+   "start": 34.22,
+   "end": 34.46,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 34.46,
+   "end": 34.52,
+   "type": "spacing",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "doença",
+   "start": 34.52,
+   "end": 35.1,
+   "type": "word",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": " ",
+   "start": 35.1,
+   "end": 35.76,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "é",
+   "start": 35.76,
+   "end": 35.86,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 35.86,
+   "end": 35.92,
+   "type": "spacing",
+   "logprob": -0.000200609109015204
+  },
+  {
+   "text": "contagiosa",
+   "start": 35.92,
+   "end": 36.92,
+   "type": "word",
+   "logprob": -0.00012713649557554162
+  },
+  {
+   "text": " ",
+   "start": 36.92,
+   "end": 37.6,
+   "type": "spacing",
+   "logprob": -5.149708886165172e-05
+  },
+  {
+   "text": "e",
+   "start": 37.6,
+   "end": 37.64,
+   "type": "word",
+   "logprob": -5.149708886165172e-05
+  },
+  {
+   "text": " ",
+   "start": 37.64,
+   "end": 37.76,
+   "type": "spacing",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": "isso",
+   "start": 37.76,
+   "end": 38.46,
+   "type": "word",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": " ",
+   "start": 38.46,
+   "end": 38.6,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "acaba",
+   "start": 38.6,
+   "end": 39.02,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 39.02,
+   "end": 39.06,
+   "type": "spacing",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "doendo",
+   "start": 39.06,
+   "end": 39.46,
+   "type": "word",
+   "logprob": -1.7881366147776134e-06
+  },
+  {
+   "text": " ",
+   "start": 39.46,
+   "end": 39.56,
+   "type": "spacing",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": "muito",
+   "start": 39.56,
+   "end": 39.8,
+   "type": "word",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": " ",
+   "start": 39.8,
+   "end": 39.84,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "em",
+   "start": 39.84,
+   "end": 39.92,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 39.92,
+   "end": 39.98,
+   "type": "spacing",
+   "logprob": -1.585470999998506e-05
+  },
+  {
+   "text": "mim",
+   "start": 39.98,
+   "end": 40.18,
+   "type": "word",
+   "logprob": -1.585470999998506e-05
+  }
+ ],
+ "transcription_id": "obwXB36H9kueEtI8EArW",
+ "audio_duration_secs": 40.8
+}

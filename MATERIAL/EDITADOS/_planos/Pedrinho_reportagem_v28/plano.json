@@ -1,0 +1,242 @@
+{
+ "nome": "Pedrinho_reportagem_v28",
+ "crianca": "Pedrinho",
+ "angulo": "a mãe como cuidadora em tempo integral",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reporter brasileiro)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "musica_volume": 0.026,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "24 HORAS, TODOS OS MESES: A",
+  "ROTINA DA MÃE DE MENINO COM EB"
+ ],
+ "etiqueta": "R$ 10 ajuda essa mãe ❤️",
+ "etiqueta_final": "👇 Clique em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Ela não tem plantão nem troca de turno. O turno dela é o filho.",
+  "OFF2": "Quem conta como é esse turno é o próprio paciente. E ele não deixa ninguém de fora da história.",
+  "OFF3": "Nas semanas piores, ela chega ainda mais perto.",
+  "OFF4": "Dá para medir essa dedicação no relógio.",
+  "OFF5": "Ela não pede folga. Pede atadura, gaze e pomada. Dez reais, pela SOS Human Help, ajudam essa mãe a não parar.",
+  "OFF6": "Clique em Saiba mais e cuide de quem cuida."
+ },
+ "fatos": {
+  "todo dia, 24 horas, todos os meses": "mae em Roteiro 2 (75,3 s)",
+  "esta em todos os curativos": "Pedrinho em Roteiro 4 (13,4 s)",
+  "cinco horas no ultimo curativo": "Pedrinho em 20260916_234157.mp4 (10,6 s)",
+  "cuida e leva quatro horas": "mae em Roteiro 3 (9,8 a 15,8 s)",
+  "meu filho, meu heroi": "mae em Roteiro 4 (9,8 s)",
+  "atadura, gaze, pomada": "mae em Roteiro_ esse calor (14 s); Pedrinho em 20260917_000819.mp4 (35,4 s)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     58.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     199.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos todos os dias"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cortes": [
+    [
+     75.62,
+     78.14
+    ]
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     98.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     26.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro4.json",
+   "cortes": [
+    [
+     13.44,
+     17.66
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     36.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+     73.0
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     11.16,
+     11.7
+    ],
+    [
+     13.48,
+     15.9
+    ],
+    [
+     19.68,
+     21.16
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     142.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     9.78,
+     11.16
+    ],
+    [
+     13.66,
+     15.36
+    ]
+   ]
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "fala": "OFF5",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     102.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     73.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro4.json",
+   "cortes": [
+    [
+     9.84,
+     10.94
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "fala": "OFF6",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     62.0
+    ]
+   ],
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro 4.mp4",
+   "inicio": 13.44,
+   "caixa": [
+    0,
+    240,
+    1080,
+    1075
+   ],
+   "quem": "rosto de quem fala / crianca"
+  },
+  {
+   "arquivo": "Roteiro 3.mp4",
+   "inicio": 9.78,
+   "caixa": [
+    0,
+    100,
+    1080,
+    1075
+   ],
+   "quem": "rosto de quem fala / crianca"
+  },
+  {
+   "arquivo": "Roteiro 4.mp4",
+   "inicio": 9.84,
+   "caixa": [
+    0,
+    240,
+    1080,
+    1075
+   ],
+   "quem": "rosto de quem fala / crianca"
+  }
+ ],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 198 - REPORTAGEM.mp4"
+}

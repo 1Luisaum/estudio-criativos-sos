@@ -1,0 +1,30 @@
+{
+ "total": 32.55,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.27,
+   "texto": "Por favor, fica só mais 30 segundos."
+  },
+  {
+   "nome": "c1",
+   "d": 9.93,
+   "texto": "Em julho de 2026, o governo novamente negou os meus curativos, que é por direito meu."
+  },
+  {
+   "nome": "c2",
+   "d": 3.8299999999999996,
+   "texto": "Será que eles acham que eu não preciso?"
+  },
+  {
+   "nome": "c3",
+   "d": 4.589999999999999,
+   "texto": "Eu ainda estou viva e quero viver mais ainda."
+  },
+  {
+   "nome": "c6",
+   "d": 10.930000000000001,
+   "texto": "Se você se sentir de me ajudar, doe cinco ou dez reais para eu continuar o meu tratamento. Muito obrigada de coração"
+  }
+ ]
+}

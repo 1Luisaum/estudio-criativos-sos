@@ -1,0 +1,19 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Nas redes, ela percebeu: a ajuda chegava mais quando o pior aparecia.",
+  "N2": "Mas a dor continua lá, debaixo de cada faixa. Mesmo quando a câmera não mostra.",
+  "N3": "Para acreditar na dor dele, ninguém precisa ver ferida nenhuma.",
+  "N4": "Toque em Saiba mais. Com dez reais, você ajuda sem que ele precise mostrar nada."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

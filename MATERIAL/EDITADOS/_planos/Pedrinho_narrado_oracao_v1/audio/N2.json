@@ -1,0 +1,75 @@
+{
+ "text": "Duas vezes por dia, a mãe dele desfaz e refaz cada faixa do corpo.",
+ "words": [
+  {
+   "text": "Duas",
+   "start": 0.0,
+   "end": 0.255
+  },
+  {
+   "text": "vezes",
+   "start": 0.302,
+   "end": 0.488
+  },
+  {
+   "text": "por",
+   "start": 0.546,
+   "end": 0.697
+  },
+  {
+   "text": "dia,",
+   "start": 0.743,
+   "end": 1.091
+  },
+  {
+   "text": "a",
+   "start": 1.126,
+   "end": 1.176
+  },
+  {
+   "text": "mãe",
+   "start": 1.219,
+   "end": 1.37
+  },
+  {
+   "text": "dele",
+   "start": 1.393,
+   "end": 1.567
+  },
+  {
+   "text": "desfaz",
+   "start": 1.614,
+   "end": 2.276
+  },
+  {
+   "text": "e",
+   "start": 2.531,
+   "end": 2.821
+  },
+  {
+   "text": "refaz",
+   "start": 2.984,
+   "end": 3.715
+  },
+  {
+   "text": "cada",
+   "start": 3.878,
+   "end": 4.098
+  },
+  {
+   "text": "faixa",
+   "start": 4.168,
+   "end": 4.412
+  },
+  {
+   "text": "do",
+   "start": 4.447,
+   "end": 4.505
+  },
+  {
+   "text": "corpo.",
+   "start": 4.563,
+   "end": 5.201
+  }
+ ]
+}

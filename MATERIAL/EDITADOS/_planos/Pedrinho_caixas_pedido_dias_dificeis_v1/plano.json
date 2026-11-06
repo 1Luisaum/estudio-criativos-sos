@@ -1,0 +1,210 @@
+{
+ "nome": "Pedrinho_caixas_pedido_dias_dificeis_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "crianca": "Pedrinho",
+ "gancho": "nos dia difícil, eu continuo sempre lutando,",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.07,
+ "final_extra": 2.2,
+ "fatos": {
+  "continuo sempre lutando; se você puder, luta com a gente": "Pedrinho, banco Roteiro 3 (37-56 s; 'doe agora' fora do corte)",
+  "não tá nem um pouco fácil": "Pedrinho, 20260916_235338 (51-54 s)",
+  "vamo comigo nessa batalha": "Pedrinho, 20260916_234157 (48-53 s)",
+  "não escolhi essa batalha": "Pedrinho, banco Roteiro 7 (15-20 s)",
+  "cada um ajuda como pode": "Pedrinho, Um Vídeo Novo pra campanha (281-310 s)",
+  "quatro, cinco, dez reais": "Pedrinho, Roteiro_ peço perdão... (63-74 s)"
+ },
+ "modelo": "estrutura do AEB 35 (um gancho só, sem_caixas) da skill criativo-caixas-pedido-ong",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     37.22,
+     40.02
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+     37.16
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "NÃO TÁ NEM UM POUCO FÁCIL,",
+    "NEM UM POUCO MESMO"
+   ],
+   "texto_verde_y": 1310
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     48.3,
+     49.94
+    ],
+    [
+     50.64,
+     52.5
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     5.25
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     36.03
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro7.json",
+   "cortes": [
+    [
+     14.7,
+     19.4
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+     14.64
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_video_novo.json",
+   "cortes": [
+    [
+     281.26,
+     282.24
+    ],
+    [
+     285.76,
+     287.64
+    ],
+    [
+     290.26,
+     290.86
+    ],
+    [
+     306.56,
+     310.16
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     21.25
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     140.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     55.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     129.0
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     63.0,
+     65.54
+    ],
+    [
+     66.36,
+     66.92
+    ],
+    [
+     67.72,
+     69.72
+    ],
+    [
+     71.56,
+     74.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1774481214_3860949812967821509_1642859680.mp4",
+     140.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     143.49
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     64.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     138.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1774481214_3860949812967821509_1642859680.mp4",
+     146.0
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     52.3,
+     52.84
+    ],
+    [
+     55.1,
+     55.84
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/IMG-20241205-WA0070.jpg",
+   "final": true,
+   "texto_verde": [
+    "CLIQUE EM SAIBA MAIS",
+    "AJUDE O PEDRINHO"
+   ],
+   "texto_verde_y": 1660,
+   "zoom": 0.12
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "AJUDA PARA CONTINUAR NESSA BATALHA"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "DEIXAM PEDRINHO MAIS PERTO DE COMPRAR",
+   "OS CURATIVOS PARA SEGUIR LUTANDO"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 166 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

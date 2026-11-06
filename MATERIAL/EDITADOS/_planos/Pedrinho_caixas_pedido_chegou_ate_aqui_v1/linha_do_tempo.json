@@ -1,0 +1,30 @@
+{
+ "total": 27.229999999999997,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 7.249999999999999,
+   "texto": "Se você chegou até aqui nesse vídeo, eu te peço, fica pelo menos quinze segundos"
+  },
+  {
+   "nome": "c1",
+   "d": 4.429999999999999,
+   "texto": "Eu tenho uma doença rara, que faz surgir bolhas por todo o meu corpo."
+  },
+  {
+   "nome": "c2",
+   "d": 6.2899999999999965,
+   "texto": "E o meu tratamento é caro, mas é ele que faz amenizar todas as minhas dores."
+  },
+  {
+   "nome": "c3",
+   "d": 3.529999999999997,
+   "texto": "por favor, me ajude no tratamento dessa semana,"
+  },
+  {
+   "nome": "c4",
+   "d": 5.730000000000004,
+   "texto": "seja com dois ou cinco reais, assim já vai ajudar muito mesmo."
+  }
+ ]
+}

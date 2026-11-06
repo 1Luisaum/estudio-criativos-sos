@@ -1,0 +1,249 @@
+{
+ "nome": "Pedrinho_esperanca_v2",
+ "estilo": "Da dor à esperança",
+ "pedido": "lote 30 videos 27/10/2026 - frente B",
+ "angulo": "a mae ao lado: as bolhas que ela rompe, o que ela queria nao deixar faltar e ela 'colando' com ele",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "tensa_inicio": 0,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/good_b_music-melody-of-nature-main-6672.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 5,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "gancho_dor.png",
+   "look": "pb",
+   "dur": 2.4,
+   "palavras": [
+    [
+     "A CADA DIA",
+     0.25,
+     "branco",
+     140
+    ],
+    [
+     "MAIS",
+     0.86,
+     "branco",
+     170
+    ],
+    [
+     "BOLHAS",
+     1.05,
+     "vermelho",
+     250
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.05
+    ]
+   ],
+   "palavras_y": 1350,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "look": "pb",
+   "cortes": [
+    [
+     39.92,
+     41.58
+    ],
+    [
+     41.58,
+     44.76
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    },
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    }
+   ],
+   "txt": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 200
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 60
+    }
+   ]
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "look": "pb",
+   "cortes": [
+    [
+     18.08,
+     19.2
+    ],
+    [
+     20.02,
+     22.06
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.25,
+     "center": [
+      540,
+      800
+     ]
+    }
+   ],
+   "txt": "Eu queria muito, não deixar faltar nada pro meu guerreirinho."
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "look": "pb",
+   "cortes": [
+    [
+     58.06,
+     59.6
+    ],
+    [
+     59.6,
+     62.18
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "Já não basta as dores do dia a dia e durante a noite."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 62
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_video_novo.json",
+   "look": "cor",
+   "cortes": [
+    [
+     329.06,
+     331.6
+    ],
+    [
+     342.12,
+     342.8
+    ],
+    [
+     343.0,
+     344.16
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 30
+    },
+    {
+     "src": "f_mae_e_pedro.png"
+    }
+   ],
+   "txt": "Essa semana minha mamãe tá colando assim bastante comigo, e Deus quiser, vai dar tudo certo."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "fix": {
+    "dez": "10"
+   },
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 150
+    },
+    {
+     "src": "IMG-20260624-WA0043.jpg"
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "f_mae_e_pedro.png",
+   "dur": 3.6,
+   "linhas": [
+    "ESTEJA AO LADO",
+    "*DESSA MÃE*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "a cada dia mais bolhas de sangue e de agua pra mamae romper": "Pedrinho, 20260916_234157.mp4 (40-44.7 s)",
+  "queria nao deixar faltar nada pro meu guerreirinho": "mae, Roteiro_ Nenhuma mae... (18-22 s)",
+  "dores do dia a dia e durante a noite": "Pedrinho, 20260917_001530.mp4 (58-62 s)",
+  "minha mamae ta colando bastante comigo; vai dar tudo certo": "Pedrinho, Um Video Novo pra campanha (329-344 s), so o audio",
+  "R$10": "padrao dos pedidos (brief do lote)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 29\\PEB 122 - DA DOR À ESPERANÇA.mp4",
+ "obs": "teste com o trecho 'minha mamae ta atenta... tampar esse ombro' (209-229 s) foi tirado: na transcricao do MP4 final o trecho saiu ininteligivel"
+}

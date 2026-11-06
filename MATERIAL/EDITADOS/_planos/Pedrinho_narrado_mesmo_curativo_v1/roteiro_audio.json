@@ -1,0 +1,19 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Na epidermólise bolhosa, existe uma regra: curativo usado não volta para a pele.",
+  "N2": "Do outro lado da cama, a mãe faz a mesma pergunta.",
+  "N3": "A regra ele já sabe de cor. O que falta é o material.",
+  "N4": "Com dez reais, a próxima troca do Pedrinho começa com material novo. Toque em Saiba mais."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

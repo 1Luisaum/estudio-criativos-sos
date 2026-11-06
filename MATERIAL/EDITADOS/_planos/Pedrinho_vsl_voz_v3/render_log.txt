@@ -1,0 +1,14 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v3.mp4
+  f01: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+ok f01 5.59s a noite passada eu passei ela em claro, Eu vi o dia amanhecer.
+  f02: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1020 etiqueta=None
+ok f02 5.91s Tem noites, que eu chego até a chorar por causa das feridas doloridas,
+  f03: chamada=290 legenda=1000 etiqueta=None
+ok f03 6.17s eu só tenho cinco dias, pra conseguir, pelo menos, seis pessoas pra me ajudar,
+  f04: chamada=290 legenda=920 etiqueta=1150
+ok f04 10.31s com pelo menos, R$ 12 por aí, pra me garantir os itens de curativo pra minha mamãe conseguir fazer uma troca de curativo bem confortável,
+  f05: chamada=290 legenda=1000 etiqueta=None
+ok f05 3.01s Me ajude, a passar essa noite sem dor,
+  f06: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=920 etiqueta=1150
+ok f06 5.45s Que não tá nem um pouco fácil, vamo juntos nessa batalha.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v3.mp4 duracao=36.4s

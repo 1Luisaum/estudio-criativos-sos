@@ -1,0 +1,85 @@
+{
+ "text": "Não sabem quem vai ver este vídeo. Não sabem se vai chegar alguma coisa. Agradecem igual.",
+ "words": [
+  {
+   "text": "Não",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "sabem",
+   "start": 0.255,
+   "end": 0.604
+  },
+  {
+   "text": "quem",
+   "start": 0.65,
+   "end": 0.766
+  },
+  {
+   "text": "vai",
+   "start": 0.813,
+   "end": 0.906
+  },
+  {
+   "text": "ver",
+   "start": 0.94,
+   "end": 1.068
+  },
+  {
+   "text": "este",
+   "start": 1.126,
+   "end": 1.254
+  },
+  {
+   "text": "vídeo.",
+   "start": 1.3,
+   "end": 1.624
+  },
+  {
+   "text": "Não",
+   "start": 1.624,
+   "end": 1.785
+  },
+  {
+   "text": "sabem",
+   "start": 1.819,
+   "end": 2.121
+  },
+  {
+   "text": "se",
+   "start": 2.156,
+   "end": 2.206
+  },
+  {
+   "text": "vai",
+   "start": 2.237,
+   "end": 2.319
+  },
+  {
+   "text": "chegar",
+   "start": 2.342,
+   "end": 2.609
+  },
+  {
+   "text": "alguma",
+   "start": 2.644,
+   "end": 2.934
+  },
+  {
+   "text": "coisa.",
+   "start": 2.992,
+   "end": 3.445
+  },
+  {
+   "text": "Agradecem",
+   "start": 3.468,
+   "end": 4.037
+  },
+  {
+   "text": "igual.",
+   "start": 4.06,
+   "end": 4.465
+  }
+ ]
+}

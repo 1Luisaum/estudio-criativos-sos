@@ -1,0 +1,157 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\florisbela_2388547078640410.mp4",
+ "estilo": "BIB DEUS TE TROUXE PECO",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 5.09,
+   "linhas": [
+    "Deus te trouxe aqui, o",
+    "Pedrinho precisa de você.",
+    "Ajude com R$2 ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 46,
+   "y": 1075,
+   "pad": [
+    26,
+    10
+   ],
+   "lh": 1.08,
+   "fonte": "medium"
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1330
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.4,
+  "de": 32.14
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 1126 - cansados de pedir ajuda.mp3",
+ "musica_volume": 0.33,
+ "modelo": {
+  "id": "peb224_l3_deus_te_trouxe",
+  "exemplo": "PEB 224",
+  "descricao": "Florisbela 2388547078640410: mesmo molde do PEB 204, com a musica do anuncio (separada da voz)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2388547078640410",
+  "titulo": "Deus te trouxe aqui (música do anúncio)",
+  "variacao": "pedrinho_deus_te_trouxe_peco"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152631.mp4",
+   "ini": 1.12,
+   "fim": 6.21,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 1.6,
+   "fim": 6.25,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 7.5,
+   "fim": 14.6,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 15.2,
+   "fim": 23.4,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 23.6,
+   "fim": 30.7,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 34.7,
+   "fim": 37.4,
+   "som": true
+  }
+ ],
+ "broll": [
+  [
+   5.09,
+   7.89,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pescoco.mp4",
+   0
+  ],
+  [
+   7.89,
+   10.69,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_faixas.mp4",
+   0
+  ],
+  [
+   10.69,
+   13.49,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   2.0
+  ],
+  [
+   13.49,
+   16.29,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_curativo.mp4",
+   0
+  ],
+  [
+   16.29,
+   19.09,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_close.mp4",
+   0
+  ],
+  [
+   19.09,
+   21.89,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   12.0
+  ],
+  [
+   21.89,
+   24.69,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_feridas.mp4",
+   0
+  ],
+  [
+   24.69,
+   27.49,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas_inteiras.mp4",
+   0
+  ],
+  [
+   27.49,
+   30.29,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   6.0
+  ],
+  [
+   30.29,
+   32.14,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_faixa.mp4",
+   0
+  ]
+ ],
+ "fatos": {
+  "falas": "20261102_152631 (gancho) e lv_0_20261102155438",
+  "R$2": "placa 20261102_152631"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 68\\PEB 253 - BIB DEUS TE TROUXE PECO.mp4",
+ "saida_fixa": true
+}

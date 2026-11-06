@@ -1,0 +1,40 @@
+{
+ "text": "O soro entra na hora do banho.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "soro",
+   "start": 0.186,
+   "end": 0.534
+  },
+  {
+   "text": "entra",
+   "start": 0.592,
+   "end": 0.906
+  },
+  {
+   "text": "na",
+   "start": 0.964,
+   "end": 1.057
+  },
+  {
+   "text": "hora",
+   "start": 1.115,
+   "end": 1.347
+  },
+  {
+   "text": "do",
+   "start": 1.393,
+   "end": 1.463
+  },
+  {
+   "text": "banho.",
+   "start": 1.509,
+   "end": 2.229
+  }
+ ]
+}

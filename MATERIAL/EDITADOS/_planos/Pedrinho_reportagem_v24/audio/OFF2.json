@@ -1,0 +1,60 @@
+{
+ "text": "Não é descuido. Se dependesse de vontade, o menino teria tudo.",
+ "words": [
+  {
+   "text": "Não",
+   "start": 0.0,
+   "end": 0.197
+  },
+  {
+   "text": "é",
+   "start": 0.244,
+   "end": 0.294
+  },
+  {
+   "text": "descuido.",
+   "start": 0.302,
+   "end": 0.878
+  },
+  {
+   "text": "Se",
+   "start": 0.878,
+   "end": 1.016
+  },
+  {
+   "text": "dependesse",
+   "start": 1.063,
+   "end": 1.55
+  },
+  {
+   "text": "de",
+   "start": 1.597,
+   "end": 1.655
+  },
+  {
+   "text": "vontade,",
+   "start": 1.724,
+   "end": 2.351
+  },
+  {
+   "text": "o",
+   "start": 2.421,
+   "end": 2.471
+  },
+  {
+   "text": "menino",
+   "start": 2.525,
+   "end": 2.827
+  },
+  {
+   "text": "teria",
+   "start": 2.874,
+   "end": 3.129
+  },
+  {
+   "text": "tudo.",
+   "start": 3.187,
+   "end": 3.507
+  }
+ ]
+}

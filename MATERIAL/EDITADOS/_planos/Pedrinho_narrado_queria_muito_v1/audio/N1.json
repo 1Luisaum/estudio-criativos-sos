@@ -1,0 +1,80 @@
+{
+ "text": "Ele não pediu brinquedo. Não pediu viagem. A lista do Pedrinho é bem mais curta.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "não",
+   "start": 0.197,
+   "end": 0.29
+  },
+  {
+   "text": "pediu",
+   "start": 0.325,
+   "end": 0.534
+  },
+  {
+   "text": "brinquedo.",
+   "start": 0.569,
+   "end": 1.091
+  },
+  {
+   "text": "Não",
+   "start": 1.115,
+   "end": 1.243
+  },
+  {
+   "text": "pediu",
+   "start": 1.289,
+   "end": 1.521
+  },
+  {
+   "text": "viagem.",
+   "start": 1.568,
+   "end": 2.113
+  },
+  {
+   "text": "A",
+   "start": 2.369,
+   "end": 2.438
+  },
+  {
+   "text": "lista",
+   "start": 2.52,
+   "end": 2.717
+  },
+  {
+   "text": "do",
+   "start": 2.764,
+   "end": 2.822
+  },
+  {
+   "text": "Pedrinho",
+   "start": 2.868,
+   "end": 3.332
+  },
+  {
+   "text": "é",
+   "start": 3.39,
+   "end": 3.44
+  },
+  {
+   "text": "bem",
+   "start": 3.495,
+   "end": 3.658
+  },
+  {
+   "text": "mais",
+   "start": 3.82,
+   "end": 4.017
+  },
+  {
+   "text": "curta.",
+   "start": 4.075,
+   "end": 4.437
+  }
+ ]
+}

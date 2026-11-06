@@ -1,0 +1,366 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu preciso da sua ajuda pra continuar lutando. Qualquer valor ajuda. A chave do Pix tá aqui na tela ou também no site. Que Deus abençoe",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.5,
+   "end": 0.66,
+   "type": "word",
+   "logprob": -0.00022218143567442894
+  },
+  {
+   "text": " ",
+   "start": 0.66,
+   "end": 0.7,
+   "type": "spacing",
+   "logprob": -0.0001720042055239901
+  },
+  {
+   "text": "preciso",
+   "start": 0.7,
+   "end": 1.4,
+   "type": "word",
+   "logprob": -0.0001720042055239901
+  },
+  {
+   "text": " ",
+   "start": 1.4,
+   "end": 1.44,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "da",
+   "start": 1.44,
+   "end": 1.56,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 1.56,
+   "end": 1.68,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "sua",
+   "start": 1.68,
+   "end": 1.88,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 1.88,
+   "end": 1.96,
+   "type": "spacing",
+   "logprob": -1.8596476365928538e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 1.96,
+   "end": 2.42,
+   "type": "word",
+   "logprob": -1.8596476365928538e-05
+  },
+  {
+   "text": " ",
+   "start": 2.42,
+   "end": 2.72,
+   "type": "spacing",
+   "logprob": -1.7046782886609435e-05
+  },
+  {
+   "text": "pra",
+   "start": 2.72,
+   "end": 2.98,
+   "type": "word",
+   "logprob": -1.7046782886609435e-05
+  },
+  {
+   "text": " ",
+   "start": 2.98,
+   "end": 3.02,
+   "type": "spacing",
+   "logprob": -1.1205610462639015e-05
+  },
+  {
+   "text": "continuar",
+   "start": 3.02,
+   "end": 3.52,
+   "type": "word",
+   "logprob": -1.1205610462639015e-05
+  },
+  {
+   "text": " ",
+   "start": 3.52,
+   "end": 3.58,
+   "type": "spacing",
+   "logprob": -6.437280717364047e-06
+  },
+  {
+   "text": "lutando.",
+   "start": 3.58,
+   "end": 4.18,
+   "type": "word",
+   "logprob": -9.327976272288652e-06
+  },
+  {
+   "text": " ",
+   "start": 4.18,
+   "end": 4.68,
+   "type": "spacing",
+   "logprob": -4.792098479811102e-05
+  },
+  {
+   "text": "Qualquer",
+   "start": 4.68,
+   "end": 5.1,
+   "type": "word",
+   "logprob": -4.792098479811102e-05
+  },
+  {
+   "text": " ",
+   "start": 5.1,
+   "end": 5.16,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "valor",
+   "start": 5.16,
+   "end": 5.6,
+   "type": "word",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": " ",
+   "start": 5.6,
+   "end": 6.12,
+   "type": "spacing",
+   "logprob": -0.0032063524704426527
+  },
+  {
+   "text": "ajuda.",
+   "start": 6.12,
+   "end": 6.62,
+   "type": "word",
+   "logprob": -0.002672119337679154
+  },
+  {
+   "text": " ",
+   "start": 6.62,
+   "end": 6.62,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "A",
+   "start": 7.52,
+   "end": 7.64,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 7.64,
+   "end": 7.68,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "chave",
+   "start": 7.68,
+   "end": 8.0,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 8.0,
+   "end": 8.02,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "do",
+   "start": 8.02,
+   "end": 8.14,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 8.14,
+   "end": 8.2,
+   "type": "spacing",
+   "logprob": -0.23207883536815643
+  },
+  {
+   "text": "Pix",
+   "start": 8.2,
+   "end": 8.6,
+   "type": "word",
+   "logprob": -0.23207883536815643
+  },
+  {
+   "text": " ",
+   "start": 8.6,
+   "end": 8.76,
+   "type": "spacing",
+   "logprob": -1.3232143828645349e-05
+  },
+  {
+   "text": "tá",
+   "start": 8.76,
+   "end": 8.86,
+   "type": "word",
+   "logprob": -1.3232143828645349e-05
+  },
+  {
+   "text": " ",
+   "start": 8.86,
+   "end": 8.94,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "aqui",
+   "start": 8.94,
+   "end": 9.16,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 9.16,
+   "end": 9.22,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "na",
+   "start": 9.22,
+   "end": 9.4,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 9.4,
+   "end": 9.48,
+   "type": "spacing",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": "tela",
+   "start": 9.48,
+   "end": 9.82,
+   "type": "word",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": " ",
+   "start": 9.82,
+   "end": 10.6,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "ou",
+   "start": 10.6,
+   "end": 10.72,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 10.72,
+   "end": 10.78,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "também",
+   "start": 10.78,
+   "end": 11.36,
+   "type": "word",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": " ",
+   "start": 11.36,
+   "end": 11.42,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "no",
+   "start": 11.42,
+   "end": 11.54,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 11.54,
+   "end": 11.62,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "site.",
+   "start": 11.62,
+   "end": 12.06,
+   "type": "word",
+   "logprob": -5.006786011563235e-07
+  },
+  {
+   "text": " ",
+   "start": 12.06,
+   "end": 12.38,
+   "type": "spacing",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": "Que",
+   "start": 12.38,
+   "end": 12.48,
+   "type": "word",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": " ",
+   "start": 12.48,
+   "end": 12.54,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "Deus",
+   "start": 12.54,
+   "end": 12.74,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 12.74,
+   "end": 12.8,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "abençoe",
+   "start": 12.8,
+   "end": 13.4,
+   "type": "word",
+   "logprob": -5.6671366597324126e-05
+  }
+ ],
+ "transcription_id": "GnLPjI57BsaabpiCEpLN",
+ "audio_duration_secs": 14.1666875
+}

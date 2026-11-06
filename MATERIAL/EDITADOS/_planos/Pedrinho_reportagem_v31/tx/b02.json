@@ -1,0 +1,206 @@
+{
+"text": "quando minha mamãe passou a pomadinha no gaze e colocou nesse ferimento e aqui do lado, pensa galera, o alívio que eu não senti, sabe?",
+"words": [
+{
+"text": "quando",
+"start": 0.3,
+"end": 0.52,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0001289761275984347
+},
+{
+"text": "minha",
+"start": 0.58,
+"end": 0.72,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.3841830625315197e-06
+},
+{
+"text": "mamãe",
+"start": 0.78,
+"end": 1.12,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00024339735931562246
+},
+{
+"text": "passou",
+"start": 1.18,
+"end": 1.66,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.8596476365928538e-05
+},
+{
+"text": "a",
+"start": 2.1,
+"end": 2.2,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": 0.0
+},
+{
+"text": "pomadinha",
+"start": 2.26,
+"end": 2.76,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00018842807892522414
+},
+{
+"text": "no",
+"start": 2.82,
+"end": 2.92,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0017025275155901909
+},
+{
+"text": "gaze",
+"start": 3.0,
+"end": 3.4,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.31445279717445374
+},
+{
+"text": "e",
+"start": 3.62,
+"end": 3.62,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0012137673329561949
+},
+{
+"text": "colocou",
+"start": 3.68,
+"end": 4.04,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00015967155292985678
+},
+{
+"text": "nesse",
+"start": 4.08,
+"end": 4.38,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00017975145601667464
+},
+{
+"text": "ferimento",
+"start": 4.44,
+"end": 5.02,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -9.381223996266878e-05
+},
+{
+"text": "e",
+"start": 5.08,
+"end": 5.1,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.610649426060263e-05
+},
+{
+"text": "aqui",
+"start": 5.16,
+"end": 5.34,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.4305104514278355e-06
+},
+{
+"text": "do",
+"start": 5.4,
+"end": 5.46,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": 0.0
+},
+{
+"text": "lado,",
+"start": 5.5,
+"end": 5.82,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -5.555133610357643e-06
+},
+{
+"text": "pensa",
+"start": 6.34,
+"end": 6.66,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00027569307712838054
+},
+{
+"text": "galera,",
+"start": 6.72,
+"end": 7.26,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.000614117524102247
+},
+{
+"text": "o",
+"start": 7.32,
+"end": 7.36,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": 0.0
+},
+{
+"text": "alívio",
+"start": 7.48,
+"end": 7.88,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00010390262468717992
+},
+{
+"text": "que",
+"start": 7.92,
+"end": 7.96,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.576278118089249e-07
+},
+{
+"text": "eu",
+"start": 7.98,
+"end": 8.1,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.764281842042692e-05
+},
+{
+"text": "não",
+"start": 8.16,
+"end": 8.28,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.540453326422721e-05
+},
+{
+"text": "senti,",
+"start": 8.36,
+"end": 8.74,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -5.394045729190111e-05
+},
+{
+"text": "sabe?",
+"start": 9.28,
+"end": 9.66,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.384185648907078e-08
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (180.92 a 190.88 s); imagem trocada por b-roll sem boca em movimento"
+}

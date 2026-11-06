@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Para pedir ajuda ao filho, ela aprendeu uma regra cruel. Quanto pior a imagem, maior a resposta.",
+  "OFF2": "Ela acompanha as redes do filho. E sabe em qual tipo de vídeo a ajuda aparece.",
+  "OFF3": "Só que a ferida não existe apenas no dia em que vai para a internet.",
+  "OFF4": "Por isso, desta vez, a mãe fez diferente.",
+  "OFF5": "Pela SOS Human Help, cinco reais já ajudam nos curativos do Pedrinho, sem ele precisar mostrar a dor.",
+  "OFF6": "Clique em Saiba mais e ajude sem precisar ver a ferida."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "text": "A fantasia de Homem-Aranha ele tira. As faixas, não.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "fantasia",
+   "start": 0.151,
+   "end": 0.662
+  },
+  {
+   "text": "de",
+   "start": 0.708,
+   "end": 0.766
+  },
+  {
+   "text": "Homem-Aranha",
+   "start": 0.789,
+   "end": 1.312
+  },
+  {
+   "text": "ele",
+   "start": 1.382,
+   "end": 1.556
+  },
+  {
+   "text": "tira.",
+   "start": 1.591,
+   "end": 2.076
+  },
+  {
+   "text": "As",
+   "start": 2.148,
+   "end": 2.287
+  },
+  {
+   "text": "faixas,",
+   "start": 2.345,
+   "end": 2.716
+  },
+  {
+   "text": "não.",
+   "start": 2.74,
+   "end": 2.983
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "nome": "Pedrinho_esperanca_v3",
+ "estilo": "Da dor à esperança",
+ "pedido": "lote 30 videos 27/10/2026 - frente B",
+ "angulo": "o heroi: a dor nao deixa dormir, mas 'Pedrinho Guerreiro' nao e so apelido; ele luta como um verdadeiro heroi",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "tensa_inicio": 20,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 5,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "gancho_dor.png",
+   "look": "pb",
+   "dur": 2.4,
+   "palavras": [
+    [
+     "DORMIR",
+     0.25,
+     "branco",
+     160
+    ],
+    [
+     "TAMBÉM",
+     0.67,
+     "branco",
+     160
+    ],
+    [
+     "DÓI",
+     1.06,
+     "vermelho",
+     280
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.06
+    ]
+   ],
+   "palavras_y": 1350,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v2_dormir.json",
+   "look": "pb",
+   "cortes": [
+    [
+     3.18,
+     5.14
+    ],
+    [
+     5.56,
+     11.06
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      845
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Eu não aguento mais não conseguir dormir pelo motivo dos ferimentos estarem bem abertos e estarem muito doloridos mesmo."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 75
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 260
+    }
+   ]
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro8.json",
+   "look": "pb",
+   "cortes": [
+    [
+     89.68,
+     90.82
+    ],
+    [
+     92.42,
+     93.26
+    ],
+    [
+     93.44,
+     94.84
+    ],
+    [
+     95.28,
+     96.48
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      550,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    }
+   ],
+   "txt": "Os ferimentos, as bolhas estão ficando cada vez piores mesmo."
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "look": "pb",
+   "cortes": [
+    [
+     1.64,
+     4.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Todo mundo conhece ele como Pedrinho Guerreiro."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 12
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "look": "cor",
+   "cortes": [
+    [
+     37.18,
+     38.34
+    ],
+    [
+     38.72,
+     43.8
+    ]
+   ],
+   "broll": [
+    {
+     "src": "f_herois.png"
+    },
+    {
+     "src": "20260729_180353.jpg"
+    },
+    {
+     "src": "IMG-20241205-WA0070.jpg"
+    }
+   ],
+   "txt": "Nos dia difícil, eu continuo sempre lutando, lutando bravamente e como um verdadeiro herói."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "fix": {
+    "dez": "10"
+   },
+   "broll": [
+    {
+     "src": "f_aranha.png"
+    },
+    {
+     "src": "IMG-20260620-WA0011.jpg"
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "20260729_164523.jpg",
+   "dur": 3.6,
+   "linhas": [
+    "SEJA O REFORÇO",
+    "*DESSE HERÓI*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "nao consegue dormir pelos ferimentos abertos e doloridos": "Pedrinho, Roteiro_ Eu nao aguento mais nao conseguir dormir (3-11 s)",
+  "corpo quase todo enfaixado; curativo novo a cada troca": "CONHECIMENTO secao 1; Pedrinho, roteiro 9 ('nao pode usar o mesmo curativo')",
+  "ferimentos e bolhas cada vez piores": "Pedrinho, roteiro 8.mp4 (86-96 s)",
+  "todo mundo conhece ele como Pedrinho Guerreiro": "mae (speaker_0), banco Roteiro 3.mp4 (1.7-4.1 s)",
+  "nos dias dificeis continuo lutando bravamente como um verdadeiro heroi": "Pedrinho (boca mexendo na folha de 37-43 s), banco Roteiro 3.mp4, so o audio",
+  "reforco": "Pedrinho, Um Video Novo ('sempre mais um reforco, sempre e bom')",
+  "R$10": "padrao dos pedidos (brief do lote)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 33\\PEB 138 - DA DOR À ESPERANÇA.mp4",
+ "obs": "1a montagem: zoom 1.3 no Roteiro 3 pos a legenda na boca do Pedrinho e no queixo da mae; trocado para z 1.0; tela final trocada (o texto caia em cima da mascara/cabeca dele na foto do evento)"
+}

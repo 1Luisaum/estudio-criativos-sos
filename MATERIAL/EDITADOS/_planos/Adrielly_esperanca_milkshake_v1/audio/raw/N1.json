@@ -1,0 +1,75 @@
+{
+ "text": "Com o esôfago estreito, a comida da Adrielly precisa ser líquida, triturada e coada.",
+ "words": [
+  {
+   "text": "Com",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "o",
+   "start": 0.232,
+   "end": 0.255
+  },
+  {
+   "text": "esôfago",
+   "start": 0.302,
+   "end": 0.697
+  },
+  {
+   "text": "estreito,",
+   "start": 0.731,
+   "end": 1.428
+  },
+  {
+   "text": "a",
+   "start": 1.614,
+   "end": 1.672
+  },
+  {
+   "text": "comida",
+   "start": 1.741,
+   "end": 2.043
+  },
+  {
+   "text": "da",
+   "start": 2.078,
+   "end": 2.148
+  },
+  {
+   "text": "Adrielly",
+   "start": 2.171,
+   "end": 2.577
+  },
+  {
+   "text": "precisa",
+   "start": 2.624,
+   "end": 2.949
+  },
+  {
+   "text": "ser",
+   "start": 3.007,
+   "end": 3.17
+  },
+  {
+   "text": "líquida,",
+   "start": 3.193,
+   "end": 3.715
+  },
+  {
+   "text": "triturada",
+   "start": 3.936,
+   "end": 4.632
+  },
+  {
+   "text": "e",
+   "start": 4.714,
+   "end": 4.841
+  },
+  {
+   "text": "coada.",
+   "start": 4.911,
+   "end": 5.666
+  }
+ ]
+}

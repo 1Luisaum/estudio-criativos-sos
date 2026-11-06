@@ -1,0 +1,35 @@
+{
+ "text": "De manhã, não teve outro jeito.",
+ "words": [
+  {
+   "text": "De",
+   "start": 0.0,
+   "end": 0.139
+  },
+  {
+   "text": "manhã,",
+   "start": 0.197,
+   "end": 0.476
+  },
+  {
+   "text": "não",
+   "start": 0.499,
+   "end": 0.627
+  },
+  {
+   "text": "teve",
+   "start": 0.673,
+   "end": 0.859
+  },
+  {
+   "text": "outro",
+   "start": 0.882,
+   "end": 1.068
+  },
+  {
+   "text": "jeito.",
+   "start": 1.126,
+   "end": 1.465
+  }
+ ]
+}

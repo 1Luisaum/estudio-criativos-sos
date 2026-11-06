@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Você vê as faixas. Mas ninguém, de fora, sabe o que é dormir e acordar sentindo a própria pele.",
+  "N2": "Para quase todo mundo, água é alívio. Para ele, até o banho precisa de coragem.",
+  "N3": "A ferida gruda no forro da cama. Levantar dói. Virar dói. Deitar dói.",
+  "N4": "Isso é o que ele vive de dia. De noite, a dor continua, e ninguém vê.",
+  "N5": "Ninguém pode sentir essa dor por ele. Mas dá para aliviar.",
+  "N6": "Clique em Saiba mais. Você nunca vai saber como dói. Mas pode ser o alívio dele."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

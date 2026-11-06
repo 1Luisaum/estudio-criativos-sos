@@ -1,0 +1,80 @@
+{
+ "text": "Toque em Saiba mais. Com dez reais, você ajuda sem que ele precise mostrar nada.",
+ "words": [
+  {
+   "text": "Toque",
+   "start": 0.0,
+   "end": 0.29
+  },
+  {
+   "text": "em",
+   "start": 0.313,
+   "end": 0.363
+  },
+  {
+   "text": "Saiba",
+   "start": 0.43,
+   "end": 0.72
+  },
+  {
+   "text": "mais.",
+   "start": 0.778,
+   "end": 1.189
+  },
+  {
+   "text": "Com",
+   "start": 1.189,
+   "end": 1.335
+  },
+  {
+   "text": "dez",
+   "start": 1.381,
+   "end": 1.509
+  },
+  {
+   "text": "reais,",
+   "start": 1.555,
+   "end": 1.857
+  },
+  {
+   "text": "você",
+   "start": 1.904,
+   "end": 2.089
+  },
+  {
+   "text": "ajuda",
+   "start": 2.147,
+   "end": 2.461
+  },
+  {
+   "text": "sem",
+   "start": 2.507,
+   "end": 2.623
+  },
+  {
+   "text": "que",
+   "start": 2.67,
+   "end": 2.74
+  },
+  {
+   "text": "ele",
+   "start": 2.763,
+   "end": 2.856
+  },
+  {
+   "text": "precise",
+   "start": 2.891,
+   "end": 3.192
+  },
+  {
+   "text": "mostrar",
+   "start": 3.227,
+   "end": 3.564
+  },
+  {
+   "text": "nada.",
+   "start": 3.61,
+   "end": 4.187
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "nome": "Pedrinho_reportagem_v32",
+ "crianca": "Pedrinho",
+ "angulo": "a ferida no ombro aumenta o curativo",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reporter brasileiro)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647.mp3",
+ "musica_volume": 0.03,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "QUANDO A FERIDA CHEGA AO OMBRO,",
+  "O CURATIVO DEMORA AINDA MAIS"
+ ],
+ "etiqueta": "R$ 10 ajuda na troca ❤️",
+ "etiqueta_final": "👇 Clique em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Um ferimento no ombro mudou o curativo do Pedrinho. O corpo já vive enfaixado, e agora a faixa precisou subir.",
+  "OFF2": "Parece um detalhe. Mas a família evita esse ponto por um motivo: o tempo.",
+  "OFF3": "O curativo já era de todo dia. Com os ferimentos bem abertos, passou a ser duas vezes ao dia.",
+  "OFF4": "E a mãe já vigia outro ponto.",
+  "OFF5": "Curativo maior pede mais faixa e mais gaze. Com dez reais, a SOS Human Help ajuda nessa troca.",
+  "OFF6": "Clique em Saiba mais e ajude nesse curativo."
+ },
+ "fatos": {
+  "mae teve que enfaixar o ombro; nao teve outro jeito": "voz do Pedrinho em Um Video Novo (151,8 s), so o audio, sobre as maos da mae enfaixando",
+  "nao gostam de enfaixar o ombro, demora mais": "voz do Pedrinho em Um Video Novo (165,4 s), so o audio",
+  "mae atenta ao outro ponto": "voz do Pedrinho em Um Video Novo (223,7 s), so o audio",
+  "de curativo diario a duas vezes ao dia": "Pedrinho em 20260917_001530.mp4 (3,9 a 16,9 s)",
+  "ferimentos cada vez mais abertos": "Pedrinho em 20260916_234157.mp4 (30,4 s)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     142.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     147.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v32/fonte/b02.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v32/tx/b02.json",
+   "cortes": [
+    [
+     0.3,
+     2.12
+    ],
+    [
+     4.64,
+     5.32
+    ]
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     199.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     22.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v32/fonte/b04.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v32/tx/b04.json",
+   "cortes": [
+    [
+     0.3,
+     2.32
+    ],
+    [
+     2.68,
+     4.7
+    ],
+    [
+     5.44,
+     8.28
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792688406_4013682651782705630_1642859680.mp4",
+     8.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     214.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     35.02,
+     39.2
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     70.0
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v32/fonte/b08.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v32/tx/b08.json",
+   "cortes": [
+    [
+     0.3,
+     1.26
+    ],
+    [
+     1.7,
+     2.64
+    ],
+    [
+     3.4,
+     4.84
+    ]
+   ]
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "fala": "OFF5",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     92.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     96.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF6",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     74.0
+    ]
+   ],
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 200 - REPORTAGEM.mp4"
+}

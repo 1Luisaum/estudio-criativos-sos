@@ -1,0 +1,25 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v1.mp4
+  f01: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+ok f01 3.41s Por favor, fica só 30 segundos.
+  f02: chamada=290 legenda=1000 etiqueta=None
+ok f02 4.49s Eu sou o Pedrinho Guerreiro e eu tenho epidermólise bolhosa.
+  f03: chamada=290 legenda=1020 etiqueta=None
+  f03: chamada=290 legenda=1020 etiqueta=None
+ok f03 6.19s E todos os dias eu enfrento feridas e horas e horas de curativo.
+  f04: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+  f04: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+ok f04 6.89s E da última vez, minha mãe precisou de cinco horas, pra fazer todo o meu curativo,
+  f05: chamada=290 legenda=1000 etiqueta=None
+ok f05 5.15s A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper.
+  f06: chamada=290 legenda=1000 etiqueta=None
+ok f06 2.27s Eu não aguento mais não conseguir dormir
+  f07: chamada=290 legenda=1000 etiqueta=None
+  f07: chamada=290 legenda=540 etiqueta=None
+ok f07 7.67s Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando, sempre com a cabeça erguida.
+  f08: chamada=290 legenda=920 etiqueta=1150
+ok f08 3.75s Os meus curativos estão acabando e eu tô com medo,
+  f09: chamada=290 legenda=1000 etiqueta=None
+ok f09 2.71s Então, seja um anjo na minha vida
+  f10: chamada=290 legenda=480 etiqueta=None
+ok f10 6.99s E se você puder lutar comigo, minha gratidão de coração mesmo.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v1.mp4 duracao=49.5s

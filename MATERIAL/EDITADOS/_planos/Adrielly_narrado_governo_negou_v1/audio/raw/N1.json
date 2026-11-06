@@ -1,0 +1,65 @@
+{
+ "text": "Em julho, o governo negou mais uma vez os curativos da Adrielly.",
+ "words": [
+  {
+   "text": "Em",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "julho,",
+   "start": 0.209,
+   "end": 0.697
+  },
+  {
+   "text": "o",
+   "start": 0.987,
+   "end": 1.045
+  },
+  {
+   "text": "governo",
+   "start": 1.091,
+   "end": 1.533
+  },
+  {
+   "text": "negou",
+   "start": 1.66,
+   "end": 2.125
+  },
+  {
+   "text": "mais",
+   "start": 2.345,
+   "end": 2.577
+  },
+  {
+   "text": "uma",
+   "start": 2.624,
+   "end": 2.775
+  },
+  {
+   "text": "vez",
+   "start": 2.833,
+   "end": 3.053
+  },
+  {
+   "text": "os",
+   "start": 3.111,
+   "end": 3.181
+  },
+  {
+   "text": "curativos",
+   "start": 3.251,
+   "end": 3.889
+  },
+  {
+   "text": "da",
+   "start": 3.947,
+   "end": 4.052
+  },
+  {
+   "text": "Adrielly.",
+   "start": 4.098,
+   "end": 5.016
+  }
+ ]
+}

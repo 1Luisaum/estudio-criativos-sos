@@ -1,0 +1,77 @@
+{
+ "total": 62.349024,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.51449,
+   "texto": "Epidermólise bolhosa. O nome é difícil. Por isso, quem explica aqui é quem vive com ela."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 4.959999999999999,
+   "texto": "Eu sou o Pedrinho Guerreiro e eu tenho epidermólise bolhosa."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.776689,
+   "texto": "Na fala dele, a doença é feita de bolhas, feridas e uma palavra que quase ninguém usa para uma criança: esfolamento."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.54,
+   "texto": "Os curativos, que é usado, pro meu tratamento e pra aliviar as dores do meu esfolamento"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.505805,
+   "texto": "Para a mãe, que cuida dele todos os dias, a definição é mais curta."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 6.12,
+   "texto": "Eu faço tudo, o que tá no meu alcance, mas a EB, essa enfermidade, ela é terrível."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 3.819501,
+   "texto": "O que a doença cobra por dia, ele resume em uma frase."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 6.579999999999999,
+   "texto": "todos os dias eu enfrento feridas e horas e horas de curativo."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 2.4490019999999997,
+   "texto": "E nenhuma dessas horas foi escolha dele."
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "d": 5.220000000000005,
+   "texto": "Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando,"
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 5.2739,
+   "texto": "Com dez reais, a SOS Human Help reforça os curativos do Pedrinho."
+  },
+  {
+   "nome": "b12",
+   "tipo": "off",
+   "d": 4.589637,
+   "texto": "Clique em Saiba mais e conheça essa batalha de perto."
+  }
+ ]
+}

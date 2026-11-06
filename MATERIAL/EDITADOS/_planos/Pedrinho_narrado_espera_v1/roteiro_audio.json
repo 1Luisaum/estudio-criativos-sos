@@ -1,0 +1,19 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "A família do Pedrinho entrou na Justiça. Mas o processo demora.",
+  "N2": "Sem soro fisiológico, o banho dele tem que ser com água.",
+  "N3": "A Justiça pode demorar. A ferida não espera.",
+  "N4": "Toque em Saiba mais. A SOS Human Help leva a sua ajuda até o Pedrinho."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

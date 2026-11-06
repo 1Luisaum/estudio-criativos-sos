@@ -1,0 +1,35 @@
+{
+ "text": "Isso pode parecer um simples suplemento.",
+ "words": [
+  {
+   "text": "Isso",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "pode",
+   "start": 0.267,
+   "end": 0.441
+  },
+  {
+   "text": "parecer",
+   "start": 0.464,
+   "end": 0.766
+  },
+  {
+   "text": "um",
+   "start": 0.801,
+   "end": 0.882
+  },
+  {
+   "text": "simples",
+   "start": 0.964,
+   "end": 1.289
+  },
+  {
+   "text": "suplemento.",
+   "start": 1.312,
+   "end": 2.322
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "text": "Cada camada de gaze com pomada vira uma armadura pra pele dele.",
+ "words": [
+  {
+   "text": "Cada",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "camada",
+   "start": 0.313,
+   "end": 0.627
+  },
+  {
+   "text": "de",
+   "start": 0.662,
+   "end": 0.72
+  },
+  {
+   "text": "gáze",
+   "start": 0.766,
+   "end": 0.975
+  },
+  {
+   "text": "com",
+   "start": 0.998,
+   "end": 1.091
+  },
+  {
+   "text": "pomada",
+   "start": 1.138,
+   "end": 1.474
+  },
+  {
+   "text": "vira",
+   "start": 1.544,
+   "end": 1.858
+  },
+  {
+   "text": "uma",
+   "start": 1.881,
+   "end": 2.032
+  },
+  {
+   "text": "armadura",
+   "start": 2.055,
+   "end": 2.67
+  },
+  {
+   "text": "pra",
+   "start": 2.705,
+   "end": 2.821
+  },
+  {
+   "text": "pele",
+   "start": 2.856,
+   "end": 3.042
+  },
+  {
+   "text": "dele.",
+   "start": 3.088,
+   "end": 3.669
+  }
+ ]
+}

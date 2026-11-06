@@ -1,0 +1,80 @@
+{
+ "text": "Em casa, a mãe faz o curativo. E a fé faz o resto do caminho.",
+ "words": [
+  {
+   "text": "Em",
+   "start": 0.0,
+   "end": 0.139
+  },
+  {
+   "text": "casa,",
+   "start": 0.209,
+   "end": 0.755
+  },
+  {
+   "text": "a",
+   "start": 0.975,
+   "end": 1.045
+  },
+  {
+   "text": "mãe",
+   "start": 1.126,
+   "end": 1.347
+  },
+  {
+   "text": "faz",
+   "start": 1.382,
+   "end": 1.544
+  },
+  {
+   "text": "o",
+   "start": 1.602,
+   "end": 1.652
+  },
+  {
+   "text": "curativo.",
+   "start": 1.66,
+   "end": 2.345
+  },
+  {
+   "text": "E",
+   "start": 2.37,
+   "end": 2.457
+  },
+  {
+   "text": "a",
+   "start": 2.585,
+   "end": 2.635
+  },
+  {
+   "text": "fé",
+   "start": 2.736,
+   "end": 2.957
+  },
+  {
+   "text": "faz",
+   "start": 3.084,
+   "end": 3.259
+  },
+  {
+   "text": "o",
+   "start": 3.328,
+   "end": 3.378
+  },
+  {
+   "text": "resto",
+   "start": 3.409,
+   "end": 3.688
+  },
+  {
+   "text": "do",
+   "start": 3.735,
+   "end": 3.793
+  },
+  {
+   "text": "caminho.",
+   "start": 3.839,
+   "end": 4.259
+  }
+ ]
+}

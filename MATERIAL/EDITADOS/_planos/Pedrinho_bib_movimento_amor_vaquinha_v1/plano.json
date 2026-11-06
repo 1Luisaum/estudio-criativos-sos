@@ -1,0 +1,111 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\movamor_1080789844796360.mp4",
+ "estilo": "BIB CAMPANHA",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 1.5,
+   "fim": 7.05,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 10.35,
+   "fim": 16.95,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 19.0,
+   "fim": 28.65,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 31.7,
+   "fim": 40.6,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 41.0,
+   "fim": 43.0,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 3,
+   "fim": 6.5,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 1.5,
+   "ate": 32.7,
+   "linhas": [
+    "Ajude pelo",
+    "“saiba mais”"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 52,
+   "y": 1215,
+   "contorno": 2,
+   "fonte": "italico",
+   "lh": 1.0
+  },
+  {
+   "de": 8.0,
+   "ate": 32.7,
+   "linhas": [
+    "Pedrinho tem epidermólise bolhosa, a pele de",
+    "borboleta. Uma caixa de curativos custa R$1.500.",
+    "A SOS Human Help pede ajuda para o tratamento dele."
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 31,
+   "y": 1350,
+   "fonte": "serif",
+   "pad": [
+    14,
+    6
+   ],
+   "lh": 1.12
+  }
+ ],
+ "fim": {
+  "de": 32.7,
+  "linhas": [
+   "FAÇA PARTE DESSA",
+   "CORRENTE DO BEM!"
+  ],
+  "cor": [
+   22,
+   170,
+   50
+  ],
+  "size": 56,
+  "y": 865,
+  "escuro": 0.62,
+  "sub": [
+   "CLIQUE EM",
+   "“SAIBA MAIS”"
+  ],
+  "size_sub": 52,
+  "cor_sub": [
+   190,
+   255,
+   190
+  ],
+  "gap_sub": 120,
+  "setas": true,
+  "y_setas": 1440
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\magnific_tristes\\The_Weight_of_Time.mp3",
+ "musica_volume": 0.174,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 57\\PEB 211 - BIB CAMPANHA.mp4"
+}

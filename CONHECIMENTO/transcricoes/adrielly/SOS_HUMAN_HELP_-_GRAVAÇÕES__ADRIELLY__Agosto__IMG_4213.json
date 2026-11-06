@@ -1,0 +1,282 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Por favor, me ajuda com R$ 5 ou R$ 10 pra eu conseguir meus curativos. Deus abençoe você de coração",
+ "words": [
+  {
+   "text": "Por",
+   "start": 0.3,
+   "end": 0.42,
+   "type": "word",
+   "logprob": -0.00016592556494288146
+  },
+  {
+   "text": " ",
+   "start": 0.42,
+   "end": 0.54,
+   "type": "spacing",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": "favor,",
+   "start": 0.54,
+   "end": 1.12,
+   "type": "word",
+   "logprob": -2.7119073668776156e-05
+  },
+  {
+   "text": " ",
+   "start": 1.12,
+   "end": 1.48,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 1.48,
+   "end": 1.58,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 1.58,
+   "end": 1.64,
+   "type": "spacing",
+   "logprob": -3.075552376685664e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 1.64,
+   "end": 2.3,
+   "type": "word",
+   "logprob": -3.075552376685664e-05
+  },
+  {
+   "text": " ",
+   "start": 2.3,
+   "end": 2.32,
+   "type": "spacing",
+   "logprob": -1.0132738680113107e-05
+  },
+  {
+   "text": "com",
+   "start": 2.82,
+   "end": 2.98,
+   "type": "word",
+   "logprob": -1.0132738680113107e-05
+  },
+  {
+   "text": " ",
+   "start": 2.98,
+   "end": 2.98,
+   "type": "spacing",
+   "logprob": -0.281728059053421
+  },
+  {
+   "text": "R$",
+   "start": 3.0,
+   "end": 3.08,
+   "type": "word",
+   "logprob": -0.14094645595469046
+  },
+  {
+   "text": " ",
+   "start": 3.08,
+   "end": 3.16,
+   "type": "spacing",
+   "logprob": -0.0018424693262204528
+  },
+  {
+   "text": "5",
+   "start": 3.62,
+   "end": 3.64,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 3.64,
+   "end": 3.92,
+   "type": "spacing",
+   "logprob": -0.0021906918846070766
+  },
+  {
+   "text": "ou",
+   "start": 3.92,
+   "end": 4.0,
+   "type": "word",
+   "logprob": -0.0021906918846070766
+  },
+  {
+   "text": " ",
+   "start": 4.0,
+   "end": 4.0,
+   "type": "spacing",
+   "logprob": -0.0032027876004576683
+  },
+  {
+   "text": "R$",
+   "start": 4.019,
+   "end": 4.059,
+   "type": "word",
+   "logprob": -0.001624519867618801
+  },
+  {
+   "text": " ",
+   "start": 4.059,
+   "end": 4.1,
+   "type": "spacing",
+   "logprob": -0.0010346779599785805
+  },
+  {
+   "text": "10",
+   "start": 4.1,
+   "end": 4.9,
+   "type": "word",
+   "logprob": -1.0132779380001011e-06
+  },
+  {
+   "text": " ",
+   "start": 4.9,
+   "end": 4.9,
+   "type": "spacing",
+   "logprob": -0.0008629412623122334
+  },
+  {
+   "text": "pra",
+   "start": 5.44,
+   "end": 5.66,
+   "type": "word",
+   "logprob": -0.0008629412623122334
+  },
+  {
+   "text": " ",
+   "start": 5.66,
+   "end": 5.72,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "eu",
+   "start": 5.72,
+   "end": 5.86,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 5.86,
+   "end": 5.9,
+   "type": "spacing",
+   "logprob": -4.076874756719917e-05
+  },
+  {
+   "text": "conseguir",
+   "start": 5.92,
+   "end": 6.46,
+   "type": "word",
+   "logprob": -4.076874756719917e-05
+  },
+  {
+   "text": " ",
+   "start": 6.46,
+   "end": 6.5,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "meus",
+   "start": 6.5,
+   "end": 6.74,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.74,
+   "end": 6.78,
+   "type": "spacing",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": "curativos.",
+   "start": 6.78,
+   "end": 7.76,
+   "type": "word",
+   "logprob": -0.002987415858933673
+  },
+  {
+   "text": " ",
+   "start": 7.76,
+   "end": 7.76,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "Deus",
+   "start": 8.56,
+   "end": 8.76,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 8.76,
+   "end": 8.82,
+   "type": "spacing",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": "abençoe",
+   "start": 8.82,
+   "end": 9.34,
+   "type": "word",
+   "logprob": -7.286500600197801e-05
+  },
+  {
+   "text": " ",
+   "start": 9.34,
+   "end": 9.38,
+   "type": "spacing",
+   "logprob": -8.940656698541716e-06
+  },
+  {
+   "text": "você",
+   "start": 9.38,
+   "end": 9.82,
+   "type": "word",
+   "logprob": -8.940656698541716e-06
+  },
+  {
+   "text": " ",
+   "start": 9.82,
+   "end": 9.88,
+   "type": "spacing",
+   "logprob": -3.123234637314454e-05
+  },
+  {
+   "text": "de",
+   "start": 9.88,
+   "end": 10.02,
+   "type": "word",
+   "logprob": -3.123234637314454e-05
+  },
+  {
+   "text": " ",
+   "start": 10.02,
+   "end": 10.06,
+   "type": "spacing",
+   "logprob": -8.821448318485636e-06
+  },
+  {
+   "text": "coração",
+   "start": 10.06,
+   "end": 10.78,
+   "type": "word",
+   "logprob": -8.821448318485636e-06
+  }
+ ],
+ "transcription_id": "16P7lhu9N0JS57QbmpOw",
+ "audio_duration_secs": 12.2983125
+}

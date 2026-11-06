@@ -1,0 +1,59 @@
+{
+ "total": 61.01918300000001,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.127188,
+   "texto": "Arroz, feijão e carne. Para a Adrielly, esse prato simples ainda é um sonho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 8.62000000000001,
+   "texto": "Pra você que não sabe, eu tenho estreitamento no esôfago, fazendo que a minha alimentação se torna especial."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.068503,
+   "texto": "Ela tem epidermólise bolhosa, a doença da pele de borboleta. As bolhas aparecem também na boca e no esôfago."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.279999999999984,
+   "texto": "a minha alimentação ela é especial, líquida, triturada, coada."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.9941949999999995,
+   "texto": "Ela já fez dilatação do esôfago por endoscopia, sem o resultado esperado."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 8.420000000000025,
+   "texto": "Confesso que tenho muita vontade de comer sanduíche, pizza, arroz, feijão e a carne."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 9.071202000000001,
+   "texto": "A pele dela também precisa de curativos caros todos os dias. A SOS Human Help está arrecadando. Com dez reais, você já ajuda."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 6.859999999999999,
+   "texto": "E eu não consigo lutar sozinha. Por favor, me ajuda a ter meus curativos?"
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.578094999999999,
+   "texto": "Toque em Saiba mais e veja como ajudar a Adrielly."
+  }
+ ]
+}

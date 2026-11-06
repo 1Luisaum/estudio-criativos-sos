@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e divida essa conta com ele.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "em",
+   "start": 0.36,
+   "end": 0.418
+  },
+  {
+   "text": "Saiba",
+   "start": 0.534,
+   "end": 0.906
+  },
+  {
+   "text": "mais",
+   "start": 0.975,
+   "end": 1.289
+  },
+  {
+   "text": "e",
+   "start": 1.358,
+   "end": 1.382
+  },
+  {
+   "text": "divida",
+   "start": 1.428,
+   "end": 1.834
+  },
+  {
+   "text": "essa",
+   "start": 1.858,
+   "end": 2.043
+  },
+  {
+   "text": "conta",
+   "start": 2.09,
+   "end": 2.357
+  },
+  {
+   "text": "com",
+   "start": 2.403,
+   "end": 2.531
+  },
+  {
+   "text": "ele.",
+   "start": 2.612,
+   "end": 3.204
+  }
+ ]
+}

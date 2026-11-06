@@ -1,0 +1,193 @@
+{
+ "nome": "Pedrinho_caixas_aspas_protecao_v1",
+ "gancho": "aspas: mae 'Meu filho, meu heroi.' + Pedrinho 'E e ela quem esta comigo todos os dias, em todos os curativos.'",
+ "angulo": "o curativo e o que protege a pele dele",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "meu filho, meu heroi / e ela quem esta comigo todos os dias, em todos os curativos": "mae e Pedrinho, banco Roteiro 4 (9-18 s)",
+  "curativos pro tratamento, aliviar as dores, proteger de mosquito e poeira, me sentir mais protegido": "Pedrinho, 20260917_000819 (16-28 s)",
+  "pior noticia da semana / nao tem como comprar dois, tres pacotes de atadura ou um gaze / peco a sua ajuda / obrigado": "Pedrinho, 20260917_000819"
+ },
+ "modelo": "lote 30 videos 27/10/2026, Frente C",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro4.json",
+   "cortes": [
+    [
+     9.84,
+     10.94
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+     9.78
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "A PELE PROTEGE O CORPO.",
+    "PARA PEDRINHO, QUEM PROTEGE",
+    "É O CURATIVO."
+   ]
+  },
+  {
+   "nome": "h2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro4.json",
+   "cortes": [
+    [
+     13.44,
+     17.66
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+     13.38
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "A PELE PROTEGE O CORPO.",
+    "PARA PEDRINHO, QUEM PROTEGE",
+    "É O CURATIVO."
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     11.6,
+     15.52
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+     11.54
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     16.56,
+     16.72
+    ],
+    [
+     19.76,
+     20.14
+    ],
+    [
+     20.86,
+     22.18
+    ],
+    [
+     22.86,
+     24.4
+    ],
+    [
+     25.06,
+     25.42
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     190.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     215.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     250.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     310.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     40.38,
+     41.84
+    ],
+    [
+     43.86,
+     45.82
+    ],
+    [
+     47.86,
+     49.72
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     80.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     110.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+     160.0
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     51.8,
+     52.94
+    ],
+    [
+     70.2,
+     71.26
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260729_164523.jpg",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS PARA PROTEGER AS FERIDAS"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "AJUDAM A COMPRAR ATADURA E GAZE",
+   "PARA A POMADA DO PEDRINHO"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 31\\PEB 130 - CAIXAS ASPAS.mp4"
+}

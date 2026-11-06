@@ -1,0 +1,40 @@
+{
+ "text": "O valor é pequeno. O motivo, não.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "valor",
+   "start": 0.163,
+   "end": 0.453
+  },
+  {
+   "text": "é",
+   "start": 0.499,
+   "end": 0.522
+  },
+  {
+   "text": "pequeno.",
+   "start": 0.569,
+   "end": 1.173
+  },
+  {
+   "text": "O",
+   "start": 1.382,
+   "end": 1.44
+  },
+  {
+   "text": "motivo,",
+   "start": 1.509,
+   "end": 1.974
+  },
+  {
+   "text": "não.",
+   "start": 1.997,
+   "end": 2.554
+  }
+ ]
+}

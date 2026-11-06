@@ -1,0 +1,35 @@
+{
+ "total": 36.440000000000026,
+ "blocos": [
+  {
+   "nome": "f01",
+   "d": 5.590000000000013,
+   "texto": "a noite passada eu passei ela em claro, Eu vi o dia amanhecer."
+  },
+  {
+   "nome": "f02",
+   "d": 5.909999999999999,
+   "texto": "Tem noites, que eu chego até a chorar por causa das feridas doloridas,"
+  },
+  {
+   "nome": "f03",
+   "d": 6.169999999999997,
+   "texto": "eu só tenho cinco dias, pra conseguir, pelo menos, seis pessoas pra me ajudar,"
+  },
+  {
+   "nome": "f04",
+   "d": 10.310000000000002,
+   "texto": "com pelo menos, R$ 12 por aí, pra me garantir os itens de curativo pra minha mamãe conseguir fazer uma troca de curativo bem confortável,"
+  },
+  {
+   "nome": "f05",
+   "d": 3.0100000000000047,
+   "texto": "Me ajude, a passar essa noite sem dor,"
+  },
+  {
+   "nome": "f06",
+   "d": 5.4500000000000135,
+   "texto": "Que não tá nem um pouco fácil, vamo juntos nessa batalha."
+  }
+ ]
+}

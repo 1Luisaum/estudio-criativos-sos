@@ -1,0 +1,90 @@
+{
+ "text": "A mãe dele também enxerga assim. Cada ajuda que chega é um dia a menos de desespero.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "mãe",
+   "start": 0.163,
+   "end": 0.313
+  },
+  {
+   "text": "dele",
+   "start": 0.348,
+   "end": 0.511
+  },
+  {
+   "text": "também",
+   "start": 0.546,
+   "end": 0.755
+  },
+  {
+   "text": "enxerga",
+   "start": 0.778,
+   "end": 1.207
+  },
+  {
+   "text": "assim.",
+   "start": 1.231,
+   "end": 1.556
+  },
+  {
+   "text": "Cada",
+   "start": 1.628,
+   "end": 1.842
+  },
+  {
+   "text": "ajuda",
+   "start": 1.865,
+   "end": 2.109
+  },
+  {
+   "text": "que",
+   "start": 2.156,
+   "end": 2.237
+  },
+  {
+   "text": "chega",
+   "start": 2.272,
+   "end": 2.516
+  },
+  {
+   "text": "é",
+   "start": 2.539,
+   "end": 2.589
+  },
+  {
+   "text": "um",
+   "start": 2.632,
+   "end": 2.682
+  },
+  {
+   "text": "dia",
+   "start": 2.736,
+   "end": 2.899
+  },
+  {
+   "text": "a",
+   "start": 2.922,
+   "end": 2.972
+  },
+  {
+   "text": "menos",
+   "start": 3.003,
+   "end": 3.247
+  },
+  {
+   "text": "de",
+   "start": 3.27,
+   "end": 3.328
+  },
+  {
+   "text": "desespero.",
+   "start": 3.386,
+   "end": 4.26
+  }
+ ]
+}

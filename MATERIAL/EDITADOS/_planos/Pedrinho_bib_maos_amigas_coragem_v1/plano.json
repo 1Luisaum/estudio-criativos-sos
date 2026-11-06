@@ -1,0 +1,162 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_1850852882715660.mp4",
+ "estilo": "BIB MAOS AMIGAS",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 1.5,
+   "fim": 2.95,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 3.45,
+   "fim": 7.05,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 10.35,
+   "fim": 12.85,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 13.25,
+   "fim": 16.95,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 19.0,
+   "fim": 22.4,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 22.7,
+   "fim": 23.7,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 26.9,
+   "fim": 28.65,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 31.7,
+   "fim": 34.55,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 34.9,
+   "fim": 38.25,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 38.7,
+   "fim": 40.6,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 41.0,
+   "fim": 43.0,
+   "som": true
+  }
+ ],
+ "broll": [
+  [
+   0,
+   2.9,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   0.5
+  ],
+  [
+   7.55,
+   11.25,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   9
+  ],
+  [
+   15.65,
+   17.4,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   2
+  ],
+  [
+   20.25,
+   23.6,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   6
+  ]
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 2.9,
+   "linhas": [
+    "QUEM TEM CORAGEM DE",
+    "PASSAR DIRETO POR",
+    "ELE? 💔"
+   ],
+   "estilo": "caixa",
+   "por_linha": true,
+   "bg": "preto",
+   "fg": "branco",
+   "size": 52,
+   "fonte": "arial",
+   "y": 250,
+   "alinha": "esq",
+   "x": 50,
+   "pad": [
+    10,
+    0
+   ],
+   "lh": 1.0
+  },
+  {
+   "de": 2.9,
+   "ate": 25.3,
+   "linhas": [
+    "Curativos no fim…",
+    "quem vai ajudar",
+    "o Pedrinho agora? 💔"
+   ],
+   "estilo": "seco",
+   "size": 50,
+   "y": 1460,
+   "contorno": 0,
+   "lh": 1.12
+  }
+ ],
+ "legenda": {
+  "estilo": "amarelo",
+  "y": 1113,
+  "size": 54,
+  "fonte": "bold",
+  "contorno": 3
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 25.3,
+  "sub": [
+   "Sua ajuda vira curativo",
+   "na pele do Pedrinho"
+  ]
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\magnific_tristes\\A_Violins_Lament.mp3",
+ "musica_volume": 0.162,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 55\\PEB 202 - BIB MAOS AMIGAS.mp4"
+}

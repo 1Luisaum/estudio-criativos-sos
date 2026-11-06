@@ -1,0 +1,100 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu uso, acaba e preciso de outro",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.3,
+   "end": 0.48,
+   "type": "word",
+   "logprob": -0.000621959799900651
+  },
+  {
+   "text": " ",
+   "start": 0.48,
+   "end": 0.58,
+   "type": "spacing",
+   "logprob": -1.0967194612021558e-05
+  },
+  {
+   "text": "uso,",
+   "start": 0.58,
+   "end": 0.88,
+   "type": "word",
+   "logprob": -0.0023443582017534936
+  },
+  {
+   "text": " ",
+   "start": 0.88,
+   "end": 1.16,
+   "type": "spacing",
+   "logprob": -0.0007489498239010572
+  },
+  {
+   "text": "acaba",
+   "start": 1.2,
+   "end": 1.74,
+   "type": "word",
+   "logprob": -0.0007489498239010572
+  },
+  {
+   "text": " ",
+   "start": 1.74,
+   "end": 1.92,
+   "type": "spacing",
+   "logprob": -7.497983460780233e-05
+  },
+  {
+   "text": "e",
+   "start": 1.92,
+   "end": 2.0,
+   "type": "word",
+   "logprob": -7.497983460780233e-05
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.04,
+   "type": "spacing",
+   "logprob": -0.0001740304142003879
+  },
+  {
+   "text": "preciso",
+   "start": 2.04,
+   "end": 2.6,
+   "type": "word",
+   "logprob": -0.0001740304142003879
+  },
+  {
+   "text": " ",
+   "start": 2.6,
+   "end": 2.66,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 2.66,
+   "end": 2.8,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 2.8,
+   "end": 2.88,
+   "type": "spacing",
+   "logprob": -3.111314072157256e-05
+  },
+  {
+   "text": "outro",
+   "start": 2.88,
+   "end": 3.24,
+   "type": "word",
+   "logprob": -3.111314072157256e-05
+  }
+ ],
+ "transcription_id": "DJvWBihscb1VBe3IJZ7a",
+ "audio_duration_secs": 4.1016875
+}

@@ -1,0 +1,65 @@
+{
+ "total": 53.75943299999999,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.594603,
+   "texto": "Existe uma prova do que o curativo faz pela vida do Pedrinho. Ela tem quase quatro anos."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 10.22,
+   "texto": "há quase quatro anos atrás eu fiz uma Vakinha que eu consegui comprar quase um ano de curativos e eu tava ficando bem."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 3.7080949999999997,
+   "texto": "Com o material garantido, sobrou espaço para outra coisa."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 3.4800000000000013,
+   "texto": "Eu até comecei um canal no YouTube,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 3.923016,
+   "texto": "Hoje, os gibis continuam por perto. O estoque de faixas, não."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 6.439999999999988,
+   "texto": "E as minhas ataduras, que são as faixas, que é essa aqui que eu uso, elas estão acabando"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 3.7165079999999997,
+   "texto": "Ele sabe explicar a diferença que o curativo faz no corpo."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 4.979999999999994,
+   "texto": "porque com os meus curativos, aí, alivia bastante as minhas dores."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 6.991701,
+   "texto": "Aquela ajuda funcionou porque muita gente entrou junto. Agora, dez reais pela SOS Human Help já contam."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.70551,
+   "texto": "Clique em Saiba mais e ajude o Pedrinho a ficar bem de novo."
+  }
+ ]
+}

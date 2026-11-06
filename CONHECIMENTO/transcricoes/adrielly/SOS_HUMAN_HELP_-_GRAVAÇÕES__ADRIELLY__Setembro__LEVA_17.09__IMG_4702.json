@@ -1,0 +1,170 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Porque gruda e arranca a pele e eu perco ainda mais sangue",
+ "words": [
+  {
+   "text": "Porque",
+   "start": 0.92,
+   "end": 1.32,
+   "type": "word",
+   "logprob": -0.0011033882619813085
+  },
+  {
+   "text": " ",
+   "start": 1.32,
+   "end": 1.48,
+   "type": "spacing",
+   "logprob": -1.9788545614574105e-05
+  },
+  {
+   "text": "gruda",
+   "start": 1.48,
+   "end": 2.02,
+   "type": "word",
+   "logprob": -1.4996408026490826e-05
+  },
+  {
+   "text": " ",
+   "start": 2.02,
+   "end": 2.38,
+   "type": "spacing",
+   "logprob": -1.8954096958623268e-05
+  },
+  {
+   "text": "e",
+   "start": 2.38,
+   "end": 2.46,
+   "type": "word",
+   "logprob": -1.8954096958623268e-05
+  },
+  {
+   "text": " ",
+   "start": 2.46,
+   "end": 2.54,
+   "type": "spacing",
+   "logprob": -7.784063927829266e-05
+  },
+  {
+   "text": "arranca",
+   "start": 2.54,
+   "end": 3.08,
+   "type": "word",
+   "logprob": -0.00022038606195045368
+  },
+  {
+   "text": " ",
+   "start": 3.08,
+   "end": 3.16,
+   "type": "spacing",
+   "logprob": -0.00012337400403339416
+  },
+  {
+   "text": "a",
+   "start": 3.16,
+   "end": 3.16,
+   "type": "word",
+   "logprob": -0.00012337400403339416
+  },
+  {
+   "text": " ",
+   "start": 3.16,
+   "end": 3.18,
+   "type": "spacing",
+   "logprob": -0.00029905137489549816
+  },
+  {
+   "text": "pele",
+   "start": 3.18,
+   "end": 3.64,
+   "type": "word",
+   "logprob": -0.00029905137489549816
+  },
+  {
+   "text": " ",
+   "start": 3.64,
+   "end": 3.64,
+   "type": "spacing",
+   "logprob": -0.0031784274615347385
+  },
+  {
+   "text": "e",
+   "start": 4.08,
+   "end": 4.16,
+   "type": "word",
+   "logprob": -0.0031784274615347385
+  },
+  {
+   "text": " ",
+   "start": 4.16,
+   "end": 4.22,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "eu",
+   "start": 4.22,
+   "end": 4.32,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 4.32,
+   "end": 4.44,
+   "type": "spacing",
+   "logprob": -5.113947918289341e-05
+  },
+  {
+   "text": "perco",
+   "start": 4.44,
+   "end": 4.96,
+   "type": "word",
+   "logprob": -3.197114574504667e-05
+  },
+  {
+   "text": " ",
+   "start": 4.96,
+   "end": 5.18,
+   "type": "spacing",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": "ainda",
+   "start": 5.24,
+   "end": 5.68,
+   "type": "word",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": " ",
+   "start": 5.68,
+   "end": 5.74,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "mais",
+   "start": 5.74,
+   "end": 5.98,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 5.98,
+   "end": 6.06,
+   "type": "spacing",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": "sangue",
+   "start": 6.06,
+   "end": 6.6,
+   "type": "word",
+   "logprob": -5.006777428206988e-06
+  }
+ ],
+ "transcription_id": "RT8B9ty6Eu0541L7F6x0",
+ "audio_duration_secs": 7.1316875
+}

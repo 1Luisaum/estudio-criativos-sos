@@ -1,0 +1,93 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_1961085214849293.mp4",
+ "estilo": "BIB L1 COMPARTILHE",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 3,
+   "fim": 6,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 4,
+   "fim": 7,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn2_1760826007_92s.mp4",
+   "ini": 10,
+   "fim": 13,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152739.mp4",
+   "ini": 4,
+   "fim": 7,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151715.mp4",
+   "ini": 3,
+   "fim": 6.5,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21.5,
+   "linhas": [
+    "Se 2 mil pessoas compartilharem",
+    "este vídeo, mais gente vai ajudar",
+    "nos curativos do Pedrinho"
+   ],
+   "estilo": "seco",
+   "size": 31,
+   "y": 925,
+   "contorno": 0,
+   "lh": 1.08
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 21.5,
+  "sub": [
+   "e compartilhe este vídeo"
+  ]
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 1961 - compartilhe.mp3",
+ "musica_volume": 1.0,
+ "modelo": {
+  "id": "peb216_l1_compartilhe",
+  "exemplo": "PEB 216",
+  "descricao": "1961085214849293: mesmo molde do PEB 208, com a musica do anuncio",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1961085214849293",
+  "titulo": "Compartilhe (música do anúncio)"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "total": 19.71,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 4.929999999999999,
+   "texto": "eu te peço, fica só trinta segundos nesse vídeo aqui"
+  },
+  {
+   "nome": "c1",
+   "d": 5.89,
+   "texto": "E eu tenho uma doença rara e minha pele é toda cheia de feridas."
+  },
+  {
+   "nome": "c2",
+   "d": 3.529999999999997,
+   "texto": "por favor, me ajude no tratamento dessa semana,"
+  },
+  {
+   "nome": "c3",
+   "d": 2.150000000000009,
+   "texto": "e mais um dia de vida."
+  },
+  {
+   "nome": "c4",
+   "d": 3.209999999999998,
+   "texto": "dois ou cinco reais."
+  }
+ ]
+}

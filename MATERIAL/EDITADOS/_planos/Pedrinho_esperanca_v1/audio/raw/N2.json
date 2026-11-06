@@ -1,0 +1,55 @@
+{
+ "text": "Mas tem uma coisa que a dor nunca tirou dele.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.441
+  },
+  {
+   "text": "tem",
+   "start": 0.662,
+   "end": 0.848
+  },
+  {
+   "text": "uma",
+   "start": 0.882,
+   "end": 0.998
+  },
+  {
+   "text": "coisa",
+   "start": 1.045,
+   "end": 1.265
+  },
+  {
+   "text": "que",
+   "start": 1.312,
+   "end": 1.382
+  },
+  {
+   "text": "a",
+   "start": 1.416,
+   "end": 1.44
+  },
+  {
+   "text": "dor",
+   "start": 1.498,
+   "end": 1.637
+  },
+  {
+   "text": "nunca",
+   "start": 1.695,
+   "end": 1.927
+  },
+  {
+   "text": "tirou",
+   "start": 1.962,
+   "end": 2.183
+  },
+  {
+   "text": "dele.",
+   "start": 2.241,
+   "end": 2.879
+  }
+ ]
+}

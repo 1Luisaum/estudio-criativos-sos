@@ -1,0 +1,77 @@
+{
+ "total": 52.19160900000002,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.828821,
+   "texto": "Uma troca de curativo não é um item só. É uma cama inteira coberta de material."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 3.7,
+   "texto": "cada item de curativo é importante em uma troca"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 4.850884,
+   "texto": "A atadura, que ele chama de faixa, cobre os braços, as pernas e o tronco."
+  },
+  {
+   "nome": "b04",
+   "tipo": "off",
+   "d": 2.083991,
+   "texto": "O gaze é onde vai a pomada."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 1.857007,
+   "texto": "A pomada é para aliviar."
+  },
+  {
+   "nome": "b06",
+   "tipo": "off",
+   "d": 2.270204,
+   "texto": "O soro entra na hora do banho."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 2.590408,
+   "texto": "E ainda tem o esparadrapo impermeável."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 8.800000000000017,
+   "texto": "a gente não tem como comprar nem, pelo menos uns dois, três pacotes de atadura ou um gaze, que é pra passar minha pomadinha."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 2.9956009999999997,
+   "texto": "A mãe diz, item por item, o que está faltando."
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "d": 4.940000000000002,
+   "texto": "Pedrinho tá precisando de atadura, precisando de pomada."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 8.319342,
+   "texto": "Se falta um item, a troca fica incompleta. A SOS Human Help reúne ajuda para essa lista, e dez reais já contribuem."
+  },
+  {
+   "nome": "b12",
+   "tipo": "off",
+   "d": 4.955351,
+   "texto": "Clique em Saiba mais e ajude a completar a próxima troca."
+  }
+ ]
+}

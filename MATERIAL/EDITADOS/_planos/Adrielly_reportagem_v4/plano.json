@@ -1,0 +1,158 @@
+{
+ "nome": "Adrielly_reportagem_v4",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reportagem, conta paga)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "O CURATIVO QUE ELA PRECISA",
+  "ACABA EM 30 DIAS"
+ ],
+ "etiqueta": "R$ 10 garantem o próximo mês ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Uma compra de curativos dura, em média, trinta dias na casa da Adrielly. Depois, acaba.",
+  "OFF2": "Ela tem epidermólise bolhosa. A troca dos curativos leva cerca de três horas, e a mãe ajuda em cada etapa.",
+  "OFF3": "Com as doações, chegaram os primeiros curativos. Mas ela avisou: eles só duram um mês.",
+  "OFF4": "Para o curativo do mês que vem não faltar, a SOS Human Help está arrecadando. Com dez reais, você já ajuda.",
+  "OFF5": "Toque em Saiba mais e garanta o curativo do próximo mês."
+ },
+ "fatos": {
+  "curativos duram em media 30 dias": "Adrielly, IMG_5696",
+  "no calor, curativo 2x por dia": "Adrielly, IMG_5696 (15-29)",
+  "troca leva ~3 horas, mae ajuda": "Adrielly, IMG_5487 e IMG_4170/IMG_5475",
+  "material de hoje e amanha de novo": "Adrielly, IMG_5200",
+  "primeiros curativos com doacoes, so duram um mes": "Adrielly, IMG_3542 / IMG_3887",
+  "medo de nao ter na troca": "Adrielly, IMG_5157",
+  "continue me ajudando para o mes que vem": "Adrielly, IMG_5697",
+  "R$ 10": "Adrielly, IMG_3676"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/a5ff6d58-872f-4ff3-8e76-26fb1aaa700d_pb.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5696.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5696.json",
+   "cortes": [
+    [
+     4.28,
+     6.04
+    ],
+    [
+     24.62,
+     29.08
+    ]
+   ],
+   "gc": [
+    "ADRIELLY, 28 ANOS",
+    "usa curativos especiais"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (2).mp4",
+     2.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     22.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_5200.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_5200.json",
+   "cortes": [
+    [
+     0.2,
+     5.92
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo Urgutul silver 15x15.jpeg"
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3887.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3887.json",
+   "cortes": [
+    [
+     8.2,
+     12.2
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_5157.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_5157.json",
+   "cortes": [
+    [
+     4.42,
+     6.16
+    ],
+    [
+     7.0,
+     7.34
+    ],
+    [
+     9.02,
+     11.94
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF4",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos urgo verde.jpeg",
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5697.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5697.json",
+   "cortes": [
+    [
+     0.34,
+     3.84
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/9f6780ad-a7a6-4d5b-89c1-a97ff2d3dac1.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 46\\AEB 62 - REPORTAGEM.mp4"
+}

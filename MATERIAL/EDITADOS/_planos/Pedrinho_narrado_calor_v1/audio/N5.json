@@ -1,0 +1,50 @@
+{
+ "text": "Toque em Saiba mais. Cinco reais já ajudam demais.",
+ "words": [
+  {
+   "text": "Toque",
+   "start": 0.0,
+   "end": 0.29
+  },
+  {
+   "text": "em",
+   "start": 0.313,
+   "end": 0.363
+  },
+  {
+   "text": "Saiba",
+   "start": 0.43,
+   "end": 0.708
+  },
+  {
+   "text": "mais.",
+   "start": 0.755,
+   "end": 1.045
+  },
+  {
+   "text": "Cinco",
+   "start": 1.068,
+   "end": 1.347
+  },
+  {
+   "text": "reais",
+   "start": 1.382,
+   "end": 1.66
+  },
+  {
+   "text": "já",
+   "start": 1.683,
+   "end": 1.8
+  },
+  {
+   "text": "ajudam",
+   "start": 1.834,
+   "end": 2.148
+  },
+  {
+   "text": "demais.",
+   "start": 2.194,
+   "end": 2.764
+  }
+ ]
+}

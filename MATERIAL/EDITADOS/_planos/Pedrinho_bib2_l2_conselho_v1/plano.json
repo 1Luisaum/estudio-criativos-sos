@@ -1,0 +1,115 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB L2 CONSELHO",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\imagens\\biblia.png",
+   "ini": 0,
+   "fim": 4,
+   "som": false,
+   "kb": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151715.mp4",
+   "ini": 0.5,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 6,
+   "fim": 9,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 3,
+   "fim": 6,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 1,
+   "fim": 4,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_1658_conselho_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_1658_conselho_sr.json",
+  "de": 0.2
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4,
+   "linhas": [
+    "Dai, e vos será dado – Lucas 6:38"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3
+  },
+  {
+   "de": 4,
+   "ate": 19.8,
+   "linhas": [
+    "DOE 5 reais",
+    "e AJUDE O PEDRINHO 💗"
+   ],
+   "estilo": "caixa",
+   "bg": [
+    255,
+    214,
+    226
+   ],
+   "fg": [
+    60,
+    20,
+    40
+   ],
+   "size": 46,
+   "y": 310,
+   "fonte": "serif_bold",
+   "pad": [
+    18,
+    6
+   ],
+   "lh": 1.08
+  }
+ ],
+ "legenda": {
+  "estilo": "pequena",
+  "y": 1380,
+  "size": 38,
+  "contorno": 2
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 19.8
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz).mp3",
+ "musica_volume": 1.995,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 59\\PEB 223 - BIB L2 CONSELHO.mp4"
+}

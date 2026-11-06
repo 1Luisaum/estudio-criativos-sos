@@ -1,0 +1,386 @@
+{
+ "nome": "Pedrinho_narrado_so_o_filho_v1",
+ "crianca": "Pedrinho",
+ "angulo": "so_o_filho",
+ "gancho": "atrás do guerreiro existe um filho",
+ "fatos": [
+  "pra ela, eu sou só o filho dela: Pedrinho, Roteiro 4",
+  "queria não deixar faltar nada pro meu guerreirinho: mãe, Roteiro_ Nenhuma mãe 18 s",
+  "não consigo nem o básico: mãe, Roteiro_ Nenhuma mãe 34 s"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "music_start": 20.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "FILHO",
+  "BÁSICO",
+  "FALTAR",
+  "DOR",
+  "FERIDA"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*SÓ O FILHO DELA*",
+    "fs": 100
+   },
+   {
+    "text": "ATRÁS DO PEDRINHO GUERREIRO",
+    "fs": 55
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 1.47
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 10.0
+    }
+   ],
+   "txt": "Nas redes, ele é um guerreiro. Dentro de casa, tem outro nome: filho."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_verdade_v1/tx/roteiro3.json",
+   "cuts": [
+    [
+     1.68,
+     3.66
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Todo mundo conhece ele como Pedrinho Guerreiro"
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_verdade_v1/tx/roteiro4.json",
+   "cuts": [
+    [
+     4.7,
+     6.72
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      380,
+      1100
+     ]
+    },
+    {
+     "z": 1.25,
+     "center": [
+      540,
+      1100
+     ]
+    }
+   ],
+   "txt": "E pra ela, eu sou só o filho dela."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_verdade_v1/tx/roteiro3.json",
+   "cuts": [
+    [
+     5.7,
+     6.76
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      400,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Mas eu não luto sozinho"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "foto em close.png",
+     "until": 1.16
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 110.0
+    }
+   ],
+   "txt": "O guerreiro aguenta. O filho precisa de colo. E o colo dele tem nome: mãe."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     18.12,
+     18.66
+    ],
+    [
+     20.06,
+     21.42
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "Eu queria muito, não deixar faltar nada pro meu guerreirinho."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 176.0,
+     "until": 1.76
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 136.0
+    }
+   ],
+   "txt": "Esse é o sonho da mãe dele. Nada de grande. Só ter o que o filho precisa na hora da troca."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v3_mae_calor.json",
+   "cuts": [
+    [
+     3.9,
+     6.22
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      330,
+      800
+     ]
+    }
+   ],
+   "txt": "Eu acabei de fazer o segundo curativo do dia"
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     33.92,
+     34.86
+    ],
+    [
+     36.24,
+     37.82
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "E pela minha condição, eu não consigo nem o básico pra ele."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "NEM O",
+    "BÁSICO"
+   ],
+   "dur": 1.5,
+   "fs": 200
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260127_110703.jpg",
+     "until": 2.56
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 140.0
+    }
+   ],
+   "txt": "Imagine ver o seu filho sentir dor, abrir a caixa de curativos e não ter o que colocar sobre a ferida."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     25.48,
+     25.9
+    ],
+    [
+     28.18,
+     28.6
+    ],
+    [
+     29.68,
+     30.16
+    ],
+    [
+     30.86,
+     31.08
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "tudo que ele precisa, eu queria muito, não deixar faltar pra ele."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260729_164523.jpg",
+     "until": 2.1
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 50.0
+    }
+   ],
+   "txt": "Lá fora, ele pode ter o nome que for. Para ela, sempre vai ser o menino dela."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/roteiro2_mae.json",
+   "cuts": [
+    [
+     105.92,
+     107.26
+    ],
+    [
+     108.46,
+     109.18
+    ],
+    [
+     111.9,
+     112.5
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Se você puder ajudar, ajude o meu filho, porque ele precisa."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 6.0
+    }
+   ],
+   "txt": "Clique em Saiba mais e cuide do filho dela."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20250401_204159.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "O FILHO DELA",
+    "*PRECISA DE VOCÊ*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 174 - NARRADO DE IMPACTO.mp4"
+}

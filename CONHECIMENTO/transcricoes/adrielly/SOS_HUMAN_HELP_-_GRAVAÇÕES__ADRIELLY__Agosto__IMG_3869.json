@@ -1,0 +1,142 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu preciso de curativos todos os dias pra continuar vivendo",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.34,
+   "end": 0.46,
+   "type": "word",
+   "logprob": -0.00017581824795342982
+  },
+  {
+   "text": " ",
+   "start": 0.46,
+   "end": 0.54,
+   "type": "spacing",
+   "logprob": -7.83174327807501e-05
+  },
+  {
+   "text": "preciso",
+   "start": 0.54,
+   "end": 1.28,
+   "type": "word",
+   "logprob": -7.83174327807501e-05
+  },
+  {
+   "text": " ",
+   "start": 1.28,
+   "end": 1.34,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "de",
+   "start": 1.34,
+   "end": 1.42,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 1.42,
+   "end": 1.54,
+   "type": "spacing",
+   "logprob": -1.8954096958623268e-05
+  },
+  {
+   "text": "curativos",
+   "start": 1.54,
+   "end": 2.5,
+   "type": "word",
+   "logprob": -2.4358127726979244e-05
+  },
+  {
+   "text": " ",
+   "start": 2.5,
+   "end": 2.5,
+   "type": "spacing",
+   "logprob": -4.5298504119273275e-05
+  },
+  {
+   "text": "todos",
+   "start": 3.04,
+   "end": 3.48,
+   "type": "word",
+   "logprob": -4.5298504119273275e-05
+  },
+  {
+   "text": " ",
+   "start": 3.48,
+   "end": 3.52,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "os",
+   "start": 3.52,
+   "end": 3.64,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 3.64,
+   "end": 3.7,
+   "type": "spacing",
+   "logprob": -0.00010585224663373083
+  },
+  {
+   "text": "dias",
+   "start": 3.7,
+   "end": 4.18,
+   "type": "word",
+   "logprob": -0.00010585224663373083
+  },
+  {
+   "text": " ",
+   "start": 4.18,
+   "end": 4.68,
+   "type": "spacing",
+   "logprob": -8.535020606359467e-05
+  },
+  {
+   "text": "pra",
+   "start": 4.68,
+   "end": 4.84,
+   "type": "word",
+   "logprob": -8.535020606359467e-05
+  },
+  {
+   "text": " ",
+   "start": 4.84,
+   "end": 4.96,
+   "type": "spacing",
+   "logprob": -3.4689302992774174e-05
+  },
+  {
+   "text": "continuar",
+   "start": 4.96,
+   "end": 5.56,
+   "type": "word",
+   "logprob": -3.4689302992774174e-05
+  },
+  {
+   "text": " ",
+   "start": 5.56,
+   "end": 5.64,
+   "type": "spacing",
+   "logprob": -2.062299427052494e-05
+  },
+  {
+   "text": "vivendo",
+   "start": 5.64,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -8.906545705908034e-06
+  }
+ ],
+ "transcription_id": "UVvTGgvNlaquJPboZuLp",
+ "audio_duration_secs": 6.9316875
+}

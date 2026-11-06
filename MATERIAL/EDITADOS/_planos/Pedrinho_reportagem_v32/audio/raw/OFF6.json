@@ -1,0 +1,45 @@
+{
+ "text": "Clique em Saiba mais e ajude nesse curativo.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "em",
+   "start": 0.372,
+   "end": 0.43
+  },
+  {
+   "text": "Saiba",
+   "start": 0.499,
+   "end": 0.882
+  },
+  {
+   "text": "mais",
+   "start": 0.952,
+   "end": 1.3
+  },
+  {
+   "text": "e",
+   "start": 1.358,
+   "end": 1.393
+  },
+  {
+   "text": "ajude",
+   "start": 1.451,
+   "end": 1.8
+  },
+  {
+   "text": "nesse",
+   "start": 1.858,
+   "end": 2.067
+  },
+  {
+   "text": "curativo.",
+   "start": 2.113,
+   "end": 3.019
+  }
+ ]
+}

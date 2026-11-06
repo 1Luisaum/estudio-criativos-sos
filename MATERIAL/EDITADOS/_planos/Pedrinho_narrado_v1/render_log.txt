@@ -1,0 +1,24 @@
+N1: 4.70s  É a doença da pele de borboleta. Um simples atrito pode abrir uma ferida.
+N2: 5.55s  Todo dia, a mãe dele tira cada curativo, lava cada ferida... e enfaixa tudo de novo.
+N3: 7.04s  Atadura. Gaze. Pomada. Esparadrapo especial. Os cuidados dele passam de quarenta mil reais por mês.
+N4: 1.68s  A pele dele é frágil. Ele não.
+N5: 3.73s  Toque em Saiba mais. E seja a resposta para esse pedido.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_v1.mp4
+real  ok  t=  2.80
+real  ok  t=  7.07
+narr  ok  t= 11.93
+real  ok  t= 17.93
+narr  ok  t= 23.63
+real  ok  t= 29.30
+card  ok  t= 30.60
+narr  ok  t= 37.80
+card  ok  t= 39.20
+real  ok  t= 42.73
+real  ok  t= 50.00
+real  ok  t= 57.17
+narr  ok  t= 59.00
+real  ok  t= 60.83
+narr  ok  t= 64.70
+end   ok  t= 68.30
+audio: 68.17s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_v1.mp4  duracao=68.30s

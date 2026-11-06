@@ -1,0 +1,19 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Epidermólise bolhosa. O nome é difícil. Por isso, quem explica aqui é quem vive com ela.",
+  "OFF2": "Na fala dele, a doença é feita de bolhas, feridas e uma palavra que quase ninguém usa para uma criança: esfolamento.",
+  "OFF3": "Para a mãe, que cuida dele todos os dias, a definição é mais curta.",
+  "OFF4": "O que a doença cobra por dia, ele resume em uma frase.",
+  "OFF5": "E nenhuma dessas horas foi escolha dele.",
+  "OFF6": "Com dez reais, a SOS Human Help reforça os curativos do Pedrinho.",
+  "OFF7": "Clique em Saiba mais e conheça essa batalha de perto."
+ }
+}

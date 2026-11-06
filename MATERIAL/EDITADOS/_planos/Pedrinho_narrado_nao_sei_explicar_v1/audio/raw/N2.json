@@ -1,0 +1,80 @@
+{
+ "text": "Essa é a parte que ninguém avisa. A doença não marca dia. Não manda recado.",
+ "words": [
+  {
+   "text": "Essa",
+   "start": 0.0,
+   "end": 0.511
+  },
+  {
+   "text": "é",
+   "start": 0.731,
+   "end": 0.813
+  },
+  {
+   "text": "a",
+   "start": 0.871,
+   "end": 0.894
+  },
+  {
+   "text": "parte",
+   "start": 0.987,
+   "end": 1.3
+  },
+  {
+   "text": "que",
+   "start": 1.347,
+   "end": 1.428
+  },
+  {
+   "text": "ninguém",
+   "start": 1.474,
+   "end": 1.858
+  },
+  {
+   "text": "avisa.",
+   "start": 1.916,
+   "end": 2.485
+  },
+  {
+   "text": "A",
+   "start": 2.949,
+   "end": 3.019
+  },
+  {
+   "text": "doença",
+   "start": 3.1,
+   "end": 3.529
+  },
+  {
+   "text": "não",
+   "start": 3.576,
+   "end": 3.68
+  },
+  {
+   "text": "marca",
+   "start": 3.727,
+   "end": 4.005
+  },
+  {
+   "text": "dia.",
+   "start": 4.087,
+   "end": 4.551
+  },
+  {
+   "text": "Não",
+   "start": 4.679,
+   "end": 4.818
+  },
+  {
+   "text": "manda",
+   "start": 4.853,
+   "end": 5.074
+  },
+  {
+   "text": "recado.",
+   "start": 5.108,
+   "end": 6.13
+  }
+ ]
+}

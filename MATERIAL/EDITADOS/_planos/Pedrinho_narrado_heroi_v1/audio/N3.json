@@ -1,0 +1,85 @@
+{
+ "text": "Herói de filme apanha e levanta em duas horas. O Pedrinho recomeça duas vezes por dia.",
+ "words": [
+  {
+   "text": "Herói",
+   "start": 0.0,
+   "end": 0.43
+  },
+  {
+   "text": "de",
+   "start": 0.476,
+   "end": 0.557
+  },
+  {
+   "text": "filme",
+   "start": 0.65,
+   "end": 1.103
+  },
+  {
+   "text": "apanha",
+   "start": 1.289,
+   "end": 1.811
+  },
+  {
+   "text": "e",
+   "start": 1.858,
+   "end": 1.908
+  },
+  {
+   "text": "levanta",
+   "start": 1.916,
+   "end": 2.322
+  },
+  {
+   "text": "em",
+   "start": 2.345,
+   "end": 2.403
+  },
+  {
+   "text": "duas",
+   "start": 2.45,
+   "end": 2.728
+  },
+  {
+   "text": "horas.",
+   "start": 2.798,
+   "end": 3.228
+  },
+  {
+   "text": "O",
+   "start": 3.33,
+   "end": 3.38
+  },
+  {
+   "text": "Pedrinho",
+   "start": 3.451,
+   "end": 3.811
+  },
+  {
+   "text": "recomeça",
+   "start": 3.834,
+   "end": 4.368
+  },
+  {
+   "text": "duas",
+   "start": 4.415,
+   "end": 4.647
+  },
+  {
+   "text": "vezes",
+   "start": 4.705,
+   "end": 4.937
+  },
+  {
+   "text": "por",
+   "start": 4.995,
+   "end": 5.134
+  },
+  {
+   "text": "dia.",
+   "start": 5.193,
+   "end": 5.536
+  }
+ ]
+}

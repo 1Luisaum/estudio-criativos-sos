@@ -1,0 +1,175 @@
+{
+ "nome": "Pedrinho_lettering_pode_parecer_pouco_v1",
+ "pedido": "5 variacoes cortes com lettering com os brutos novos (03/11/2026)",
+ "angulo": "abre com 'cinco reais pode parecer pouco pra voce, mas pra mim e mais um dia sem dor'",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+ "transcript": "C:\\Users\\EDITING_SECTOR\\.claude\\estudio-ong\\CONHECIMENTO\\transcricoes\\pedrinho_0211\\20261102_144645.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  540,
+  600
+ ],
+ "segments": [
+  {
+   "in": 31.77,
+   "out": 34.54,
+   "txt": "Cinco reais pode parecer pouco pra você,",
+   "zoom": "Z1"
+  },
+  {
+   "in": 34.93,
+   "out": 35.72,
+   "txt": "mas pra mim",
+   "zoom": "Z2"
+  },
+  {
+   "in": 36.27,
+   "out": 38.2,
+   "txt": "é sempre mais um dia sem dor",
+   "zoom": "Z3"
+  },
+  {
+   "in": 38.73,
+   "out": 40.58,
+   "txt": "e mais um dia de vida.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 1.57,
+   "out": 2.92,
+   "txt": "Eu deito pra dormir",
+   "zoom": "Z1"
+  },
+  {
+   "in": 3.49,
+   "out": 5.12,
+   "txt": "e meu corpo todo dói.",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+     "start": 15
+    }
+   ]
+  },
+  {
+   "in": 5.73,
+   "out": 7.04,
+   "txt": "E dói muito mesmo.",
+   "zoom": "Z2"
+  },
+  {
+   "in": 10.39,
+   "out": 12.84,
+   "txt": "E eu tenho uma doença rara",
+   "zoom": "Z3"
+  },
+  {
+   "in": 13.29,
+   "out": 14.16,
+   "txt": "e minha pele",
+   "zoom": "ZF"
+  },
+  {
+   "in": 14.45,
+   "out": 15.56,
+   "txt": "é toda cheia",
+   "zoom": "Z1"
+  },
+  {
+   "in": 15.97,
+   "out": 16.92,
+   "txt": "de feridas.",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+     "start": 4
+    }
+   ]
+  },
+  {
+   "in": 19.03,
+   "out": 20.24,
+   "txt": "Então, por favor,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 20.75,
+   "out": 22.36,
+   "txt": "me ajude no tratamento",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+     "start": 1
+    }
+   ]
+  },
+  {
+   "in": 22.73,
+   "out": 23.7,
+   "txt": "dessa semana,",
+   "zoom": "Z3"
+  },
+  {
+   "in": 26.95,
+   "out": 28.64,
+   "txt": "dois ou cinco reais.",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+     "start": 2
+    }
+   ]
+  },
+  {
+   "in": 41.01,
+   "out": 41.58,
+   "txt": "Então,",
+   "zoom": "ZF"
+  },
+  {
+   "in": 42.07,
+   "out": 42.98,
+   "txt": "muito obrigado.",
+   "zoom": "Z1"
+  }
+ ],
+ "fix": {
+  "DOIS": "2",
+  "CINCO": "5"
+ },
+ "red": [
+  "DOR",
+  "DÓI",
+  "DORES",
+  "FERIDAS",
+  "BOLHAS",
+  "TRATAMENTO",
+  "CARO",
+  "2",
+  "5",
+  "REAIS",
+  "VIDA",
+  "RARA"
+ ],
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_46_14.png",
+  "texto_do_lettering": "R$ 5,00 PODEM LEVAR CONFORTO PRO PEDRINHO"
+ },
+ "endcard": {
+  "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+  "start": 2.5,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "CLIQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "fatos": {
+  "falas": "Pedrinho, 20261102_144645.mp4 (gravado em 02/11/2026)",
+  "valor": "R$5: ele fala 'dois ou cinco reais'"
+ },
+ "hook": [],
+ "caption_y": 950,
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 61\\PEB 232 - CORTES COM LETTERING.mp4"
+}

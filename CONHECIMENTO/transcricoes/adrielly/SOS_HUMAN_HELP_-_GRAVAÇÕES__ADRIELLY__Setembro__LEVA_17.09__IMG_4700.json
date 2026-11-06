@@ -1,0 +1,142 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu não quero ficar sem e precisar reutilizar os curativos",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 1.08,
+   "end": 1.18,
+   "type": "word",
+   "logprob": -0.0002867764269467443
+  },
+  {
+   "text": " ",
+   "start": 1.18,
+   "end": 1.22,
+   "type": "spacing",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": "não",
+   "start": 1.22,
+   "end": 1.44,
+   "type": "word",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": " ",
+   "start": 1.44,
+   "end": 1.48,
+   "type": "spacing",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": "quero",
+   "start": 1.48,
+   "end": 1.82,
+   "type": "word",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": " ",
+   "start": 1.82,
+   "end": 1.92,
+   "type": "spacing",
+   "logprob": -1.6927575416048057e-05
+  },
+  {
+   "text": "ficar",
+   "start": 1.92,
+   "end": 2.26,
+   "type": "word",
+   "logprob": -1.6927575416048057e-05
+  },
+  {
+   "text": " ",
+   "start": 2.26,
+   "end": 2.38,
+   "type": "spacing",
+   "logprob": -7.73638384998776e-05
+  },
+  {
+   "text": "sem",
+   "start": 2.38,
+   "end": 2.72,
+   "type": "word",
+   "logprob": -7.73638384998776e-05
+  },
+  {
+   "text": " ",
+   "start": 2.72,
+   "end": 3.06,
+   "type": "spacing",
+   "logprob": -0.00018094333063345402
+  },
+  {
+   "text": "e",
+   "start": 3.06,
+   "end": 3.12,
+   "type": "word",
+   "logprob": -0.00018094333063345402
+  },
+  {
+   "text": " ",
+   "start": 3.12,
+   "end": 3.24,
+   "type": "spacing",
+   "logprob": -5.8530047681415454e-05
+  },
+  {
+   "text": "precisar",
+   "start": 3.24,
+   "end": 3.94,
+   "type": "word",
+   "logprob": -5.8530047681415454e-05
+  },
+  {
+   "text": " ",
+   "start": 3.94,
+   "end": 4.42,
+   "type": "spacing",
+   "logprob": -0.00012516192509792745
+  },
+  {
+   "text": "reutilizar",
+   "start": 4.42,
+   "end": 5.26,
+   "type": "word",
+   "logprob": -7.600314465889823e-05
+  },
+  {
+   "text": " ",
+   "start": 5.26,
+   "end": 5.32,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "os",
+   "start": 5.32,
+   "end": 5.48,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 5.48,
+   "end": 5.52,
+   "type": "spacing",
+   "logprob": -1.2755313036905136e-05
+  },
+  {
+   "text": "curativos",
+   "start": 5.52,
+   "end": 6.46,
+   "type": "word",
+   "logprob": -1.0053264304588083e-05
+  }
+ ],
+ "transcription_id": "5v3eJkhKyuikuRgdkazH",
+ "audio_duration_secs": 7.0316875
+}

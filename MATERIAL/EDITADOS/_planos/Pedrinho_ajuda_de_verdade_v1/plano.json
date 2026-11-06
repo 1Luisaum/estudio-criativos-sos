@@ -1,0 +1,294 @@
+{
+ "nome": "Pedrinho_ajuda_de_verdade_v1",
+ "pedido": "chat 26/10/2026: cortes com 1 lettering da pasta lettings parado o video todo (vira o estilo Cortes com lettering)",
+ "angulo": "acham que ele esta bem de ajuda por causa das vaquinhas antigas, mas nao e bem assim",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  570,
+  630
+ ],
+ "segments": [
+  {
+   "in": 1.3,
+   "out": 3.98,
+   "zoom": "Z1",
+   "txt": "As pessoas entram na minha rede social"
+  },
+  {
+   "in": 4.45,
+   "out": 7.02,
+   "zoom": "Z2",
+   "txt": "e elas veem que eu tenho muitos seguidores"
+  },
+  {
+   "in": 8.09,
+   "out": 8.92,
+   "zoom": "Z3",
+   "txt": "elas veem"
+  },
+  {
+   "in": 9.29,
+   "out": 10.46,
+   "zoom": "ZF",
+   "txt": "vaquinhas online"
+  },
+  {
+   "in": 12.03,
+   "out": 14.14,
+   "zoom": "Z2",
+   "txt": "há quase três anos atrás"
+  },
+  {
+   "in": 14.66,
+   "out": 16.88,
+   "zoom": "Z1",
+   "txt": "e acham já que eu tô bem de ajuda."
+  },
+  {
+   "in": 17.25,
+   "out": 18.49,
+   "zoom": "Z3",
+   "txt": "Só que não é bem assim"
+  },
+  {
+   "in": 21.71,
+   "out": 23.15,
+   "zoom": "ZF",
+   "txt": "as pessoas também não sabem"
+  },
+  {
+   "in": 23.73,
+   "out": 24.84,
+   "txt": "o custo total",
+   "broll": [
+    {
+     "src": "GAZE.png"
+    },
+    {
+     "src": "Pomada.png"
+    }
+   ]
+  },
+  {
+   "in": 25.35,
+   "out": 27.42,
+   "txt": "da epidermólise bolhosa.",
+   "broll": [
+    {
+     "src": "crepe bandagem.png"
+    },
+    {
+     "src": "soro fisiológico.png"
+    },
+    {
+     "src": "esparadrapo impermeável.png"
+    }
+   ]
+  },
+  {
+   "in": 38.19,
+   "out": 39.98,
+   "zoom": "Z2",
+   "txt": "muita gente nos meus vídeo,",
+   "fix": {
+    "VÍDEO": "VÍDEOS"
+   }
+  },
+  {
+   "in": 43.02,
+   "out": 43.76,
+   "zoom": "Z1",
+   "txt": "comentam,"
+  },
+  {
+   "in": 44.89,
+   "out": 46.1,
+   "zoom": "ZF",
+   "txt": "Deus te abençoe"
+  },
+  {
+   "in": 46.55,
+   "out": 47.7,
+   "zoom": "Z3",
+   "txt": "vai dar tudo certo"
+  },
+  {
+   "in": 48.25,
+   "out": 48.98,
+   "zoom": "Z2",
+   "txt": "Mas"
+  },
+  {
+   "in": 52.01,
+   "out": 53.22,
+   "zoom": "Z1",
+   "txt": "o que Jesus ensinou,"
+  },
+  {
+   "in": 54.64,
+   "out": 56.44,
+   "txt": "é ajudar ao próximo,",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 5.0
+    }
+   ]
+  },
+  {
+   "in": 56.85,
+   "out": 57.8,
+   "txt": "Ajudar mesmo",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 16.0
+    }
+   ]
+  },
+  {
+   "in": 119.45,
+   "out": 121.2,
+   "zoom": "ZF",
+   "txt": "por favor, me ajuda, eu não quero"
+  },
+  {
+   "in": 121.87,
+   "out": 122.95,
+   "zoom": "Z2",
+   "txt": "ter que ficar sem"
+  },
+  {
+   "in": 125.37,
+   "out": 126.52,
+   "zoom": "Z3",
+   "txt": "os meus curativos"
+  },
+  {
+   "in": 129.67,
+   "out": 131.31,
+   "txt": "e acabar sentindo mais dor,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 205.0
+    }
+   ]
+  },
+  {
+   "in": 131.43,
+   "out": 132.95,
+   "txt": "porque com os meus curativos,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 262.0
+    }
+   ]
+  },
+  {
+   "in": 134.53,
+   "out": 136.33,
+   "zoom": "Z1",
+   "txt": "alivia bastante as minhas dores."
+  },
+  {
+   "in": 137.15,
+   "out": 137.8,
+   "zoom": "Z2",
+   "txt": "por favor,"
+  },
+  {
+   "in": 138.71,
+   "out": 139.54,
+   "zoom": "ZF",
+   "txt": "minha eterna"
+  },
+  {
+   "in": 140.39,
+   "out": 141.17,
+   "zoom": "Z1",
+   "txt": "gratidão mesmo."
+  }
+ ],
+ "fix": {
+  "TRÊS": "3"
+ },
+ "red": [
+  "3",
+  "ANOS",
+  "CURATIVOS",
+  "DOR",
+  "DORES",
+  "AJUDA",
+  "CUSTO"
+ ],
+ "chamada": {
+  "fixa": true,
+  "ate_o_fim": true,
+  "y": 1290,
+  "largura": 760,
+  "linhas": [
+   "R$10,00",
+   "AJUDAM NOS",
+   "CURATIVOS DO",
+   "PEDRINHO"
+  ],
+  "fonte": "C:\\Users\\EDITING_SECTOR\\AppData\\Local\\Microsoft\\Windows\\Fonts\\futuraxk.ttf",
+  "fonte_nome": "Futura XBlk BT",
+  "vao": 0.42,
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_46_04.png",
+  "linhas_texto_antigo": [
+   "R$10,00",
+   "AJUDAM NOS",
+   "CURATIVOS DO",
+   "PEDRINHO"
+  ],
+  "texto_do_lettering": "R$ 10,00 PODEM AJUDAR NO CUIDADO DO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260824_182501.mp4",
+  "start": 20.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "fatos": {
+  "vaquinhas de quase 3 anos atrás / acham que ele está bem de ajuda": "Pedrinho, roteiro 7.mp4, 8-17 s",
+  "custo total da EB que as pessoas não sabem": "Pedrinho, roteiro 7.mp4, 21-27 s",
+  "comentam Deus te abençoe; Jesus ensinou ajudar ao próximo": "Pedrinho, roteiro 7.mp4, 38-58 s",
+  "curativos aliviam as dores": "Pedrinho, roteiro 7.mp4, 119-136 s",
+  "R$10": "pedido do usuário no chat (não foi dito no bruto)"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\CORTES COM LETTERING\\LEVA 01\\Pedrinho_ajuda_de_verdade_v1.mp4",
+ "hook_antigo": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ACHAM QUE",
+    "ELE ESTÁ BEM"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "AS VAQUINHAS DELE",
+    "SÃO DE QUASE",
+    "3 ANOS ATRÁS"
+   ],
+   "fs": 92
+  }
+ ],
+ "hook": [],
+ "caption_y": 950,
+ "caption_font": "C:\\Users\\EDITING_SECTOR\\AppData\\Local\\Microsoft\\Windows\\Fonts\\Poppins-Black.ttf",
+ "caption_font_nome": "Poppins Black"
+}

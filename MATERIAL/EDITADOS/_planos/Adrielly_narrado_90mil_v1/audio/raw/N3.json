@@ -1,0 +1,45 @@
+{
+ "text": "Quando faltou, ela teve que reaproveitar curativo usado.",
+ "words": [
+  {
+   "text": "Quando",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "faltou,",
+   "start": 0.325,
+   "end": 1.01
+  },
+  {
+   "text": "ela",
+   "start": 1.138,
+   "end": 1.324
+  },
+  {
+   "text": "teve",
+   "start": 1.405,
+   "end": 1.649
+  },
+  {
+   "text": "que",
+   "start": 1.695,
+   "end": 1.811
+  },
+  {
+   "text": "reaproveitar",
+   "start": 1.881,
+   "end": 2.485
+  },
+  {
+   "text": "curativo",
+   "start": 2.519,
+   "end": 2.949
+  },
+  {
+   "text": "usado.",
+   "start": 2.972,
+   "end": 3.715
+  }
+ ]
+}

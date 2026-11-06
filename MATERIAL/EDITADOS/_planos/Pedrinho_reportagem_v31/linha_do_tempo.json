@@ -1,0 +1,71 @@
+{
+ "total": 51.877189,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.3353969999999995,
+   "texto": "Para o Pedrinho, alívio não vem em embalagem bonita. Cabe em um pedaço de gaze."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 8.74,
+   "texto": "quando minha mamãe passou a pomadinha no gaze e colocou nesse ferimento pensa galera, o alívio que eu não senti, sabe?"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 3.236395,
+   "texto": "A receita da casa é simples. A pomada vai no gaze."
+  },
+  {
+   "nome": "b04",
+   "tipo": "off",
+   "d": 1.990091,
+   "texto": "E o gaze vai para a ferida."
+  },
+  {
+   "nome": "b05",
+   "tipo": "sonora",
+   "d": 4.78,
+   "texto": "Por isso que é muito importante a pomadinha, o gaze tudo, pra aliviar."
+  },
+  {
+   "nome": "b06",
+   "tipo": "off",
+   "d": 4.389705,
+   "texto": "Sem isso, a dor não dá trégua. E é justamente aí que ele pede ajuda."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 5.0399999999999965,
+   "texto": "O que importa é ajudar nas minhas dores a dar uma aliviada."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 3.18619,
+   "texto": "A mãe também pede exatamente isso, sem rodeios."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 4.579999999999999,
+   "texto": "Quem quiser tá doando pomada ou atadura,"
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 6.239615,
+   "texto": "Cinco reais, pela SOS Human Help, ajudam a manter pomada e gaze na próxima troca."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 4.359795999999999,
+   "texto": "Clique em Saiba mais e leve esse alívio até ele."
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "nome": "Pedrinho_narrado_nao_sei_explicar_v1",
+ "crianca": "Pedrinho",
+ "angulo": "nao_sei_explicar",
+ "gancho": "feridas que ele não sabe explicar",
+ "fatos": [
+  "ferimentos aumentaram e não sei explicar: Pedrinho, Um Vídeo Novo 231 s",
+  "ferimentos mais abertos que nunca: Pedrinho, 20260916_234157",
+  "o alívio da pomada no gaze: Pedrinho, Um Vídeo Novo 181 s"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "music_start": 15.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "FERIMENTOS",
+  "FERIMENTO",
+  "BOLHAS",
+  "PIORES",
+  "ANSIOSO",
+  "ALÍVIO",
+  "ABERTOS"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“*NÃO SEI EXPLICAR*”",
+    "fs": 83
+   },
+   {
+    "text": "O QUE ACONTECEU COM A PELE DELE",
+    "fs": 48
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "pb",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     231.44,
+     231.9
+    ],
+    [
+     232.7,
+     233.12
+    ],
+    [
+     235.86,
+     236.0
+    ],
+    [
+     237.78,
+     238.9
+    ],
+    [
+     240.92,
+     241.34
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260113_023031.jpg"
+    },
+    {
+     "src": "foto em close.png"
+    }
+   ],
+   "txt": "não sei o que que aconteceu, que essa semana, os ferimento aumentou de uma forma, que eu não sei explicar,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260819_222914.jpg",
+     "until": 1.26
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 149.0
+    }
+   ],
+   "txt": "Nem ele sabe explicar. Naquela semana, as feridas só aumentavam. E a mãe tentando dar conta de tudo."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     30.4,
+     30.84
+    ],
+    [
+     31.54,
+     33.24
+    ],
+    [
+     34.0,
+     34.0
+    ],
+    [
+     35.02,
+     36.22
+    ],
+    [
+     37.18,
+     39.2
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "E eu não sei, se é por causa do tempo ou não, mas os meus ferimentos estão cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260127_110703.jpg",
+     "until": 2.47
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 180.0
+    }
+   ],
+   "txt": "Essa é a parte que ninguém avisa. A doença não marca dia. Não manda recado."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cuts": [
+    [
+     92.46,
+     94.54
+    ],
+    [
+     95.32,
+     95.88
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.25,
+     "center": [
+      550,
+      860
+     ]
+    }
+   ],
+   "txt": "as bolhas estão ficando cada vez, piores mesmo."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V2.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     243.2,
+     243.54
+    ],
+    [
+     244.3,
+     244.66
+    ]
+   ],
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 50.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 40.0
+    }
+   ],
+   "txt": "eu tô até um pouco ansioso"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "ANSIOSO",
+    "E SEM RESPOSTA"
+   ],
+   "dur": 1.5,
+   "fs": 210
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "IMG-20260624-WA0043.jpg",
+     "until": 2.14
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 54.0
+    }
+   ],
+   "txt": "Imagine sentir a própria pele piorar e não saber até onde isso vai."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cuts": [
+    [
+     21.92,
+     22.86
+    ],
+    [
+     23.78,
+     24.44
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      580,
+      560
+     ]
+    }
+   ],
+   "txt": "mas pela nossa condição, aí como é que faz,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 58.0,
+     "until": 1.78
+    },
+    {
+     "src": "20250401_204159.jpg"
+    }
+   ],
+   "txt": "Tem muita coisa que ele não sabe explicar. Mas uma, ele sabe."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V3.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     181.22,
+     182.1
+    ],
+    [
+     183.02,
+     183.92
+    ],
+    [
+     184.54,
+     185.36
+    ],
+    [
+     187.26,
+     187.26
+    ],
+    [
+     188.24,
+     189.28
+    ]
+   ],
+   "broll": [
+    {
+     "src": "GAZE.png",
+     "until": 2.95
+    },
+    {
+     "src": "Pomada.png"
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 48.0
+    }
+   ],
+   "txt": "quando minha mamãe passou a pomadinha no gaze e colocou nesse ferimento pensa o alívio que eu não senti,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 20.0
+    }
+   ],
+   "txt": "Clique em Saiba mais e ajude esse alívio a não faltar. Ele não precisa entender a doença. Só precisa sentir menos dor."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "ELE NÃO SABE EXPLICAR",
+    "*VOCÊ* PODE AJUDAR"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 178 - NARRADO DE IMPACTO.mp4"
+}

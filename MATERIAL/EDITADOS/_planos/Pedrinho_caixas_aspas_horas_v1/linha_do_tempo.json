@@ -1,0 +1,40 @@
+{
+ "total": 32.98900000000002,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 2.8299999999999996,
+   "texto": "Todo mundo conhece ele como Pedrinho Guerreiro"
+  },
+  {
+   "nome": "h2",
+   "d": 1.8699999999999988,
+   "texto": "Mas eu não luto sozinho"
+  },
+  {
+   "nome": "c1",
+   "d": 10.169000000000004,
+   "texto": "E da última vez, minha mãe precisou de cinco horas, pra fazer todo o meu curativo, por conta de lesões e ferimentos bem abertos"
+  },
+  {
+   "nome": "c2",
+   "d": 4.670000000000004,
+   "texto": "os meus ferimentos estão cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "nome": "c3",
+   "d": 3.690000000000008,
+   "texto": "nos dia difícil, eu continuo sempre lutando,"
+  },
+  {
+   "nome": "c4",
+   "d": 5.150000000000001,
+   "texto": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "nome": "c5",
+   "d": 4.610000000000003,
+   "texto": "E desde já, meu muito obrigado a todos vocês."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "text": "Com o material garantido, sobrou espaço para outra coisa.",
+ "words": [
+  {
+   "text": "Com",
+   "start": 0.0,
+   "end": 0.186
+  },
+  {
+   "text": "o",
+   "start": 0.221,
+   "end": 0.271
+  },
+  {
+   "text": "material",
+   "start": 0.279,
+   "end": 0.697
+  },
+  {
+   "text": "garantido,",
+   "start": 0.755,
+   "end": 1.358
+  },
+  {
+   "text": "sobrou",
+   "start": 1.382,
+   "end": 1.707
+  },
+  {
+   "text": "espaço",
+   "start": 1.765,
+   "end": 2.276
+  },
+  {
+   "text": "para",
+   "start": 2.334,
+   "end": 2.531
+  },
+  {
+   "text": "outra",
+   "start": 2.577,
+   "end": 2.868
+  },
+  {
+   "text": "coisa.",
+   "start": 2.914,
+   "end": 3.328
+  }
+ ]
+}

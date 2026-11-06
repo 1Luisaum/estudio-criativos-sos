@@ -1,0 +1,45 @@
+{
+ "text": "Mas ele já sabe como é ficar bem.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.197
+  },
+  {
+   "text": "ele",
+   "start": 0.255,
+   "end": 0.372
+  },
+  {
+   "text": "já",
+   "start": 0.406,
+   "end": 0.511
+  },
+  {
+   "text": "sabe",
+   "start": 0.604,
+   "end": 0.917
+  },
+  {
+   "text": "como",
+   "start": 0.952,
+   "end": 1.138
+  },
+  {
+   "text": "é",
+   "start": 1.173,
+   "end": 1.223
+  },
+  {
+   "text": "ficar",
+   "start": 1.231,
+   "end": 1.474
+  },
+  {
+   "text": "bem.",
+   "start": 1.521,
+   "end": 1.784
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB CONSELHO SALMO",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4.5,
+   "linhas": [
+    "Bem-aventurado é aquele que",
+    "atende ao pobre – Salmos 41:1"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3,
+   "lh": 1.08
+  },
+  {
+   "de": 4.6,
+   "ate": 21.97,
+   "linhas": [
+    "DOE 2 reais",
+    "e AJUDE O PEDRINHO 💗"
+   ],
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 50,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 21.97
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "peb223_l2_conselho",
+  "exemplo": "PEB 223",
+  "descricao": "1658330079039610: gancho com a Biblia (IA, no lugar do homem falando no carro) e o versiculo em amarelo; depois caixa rosa \"DOE ... e AJUDE\" no alto e legenda pequena; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "titulo": "Presta atenção neste conselho",
+  "variacao": "pedrinho_conselho_salmo"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\p_biblia_terco.mp4",
+   "ini": 0,
+   "fim": 4.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_faixas.mp4",
+   "ini": 0,
+   "fim": 2.896,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_feridas.mp4",
+   "ini": 0,
+   "fim": 2.896,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 12.0,
+   "fim": 14.896,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_153323.mp4",
+   "ini": 3.0,
+   "fim": 5.896,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas_inteiras.mp4",
+   "ini": 0,
+   "fim": 2.896,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pescoco.mp4",
+   "ini": 0,
+   "fim": 2.896,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 20.0,
+   "fim": 22.894,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_conselho_salmo_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_conselho_salmo_sr.json",
+  "de": 0.2
+ },
+ "fatos": {
+  "feridas aumentaram, carne viva, muita dor": "lv_0_20261102155438 15,3-23,3",
+  "caixa de curativos R$1.500": "placa 20261102_152739",
+  "curativos acabando": "placa 20261102_151715/152542",
+  "R$2": "placa 20261102_151635/152631"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 66\\PEB 241 - BIB CONSELHO SALMO.mp4",
+ "saida_fixa": true
+}

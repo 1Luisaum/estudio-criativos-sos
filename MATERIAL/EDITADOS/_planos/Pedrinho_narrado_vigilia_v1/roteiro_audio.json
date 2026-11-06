@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Ela olha cada pedaço da pele dele antes de a ferida abrir. É assim que vive a mãe de uma criança com pele de borboleta.",
+  "N2": "Ela cuida de cada bolha. De cada faixa. E quando termina, já está na hora de olhar tudo de novo.",
+  "N3": "Ele fica nervoso de tanta dor. Ela também sente. Mas é ela quem não pode cair.",
+  "N4": "Ela olha por ele o dia inteiro. Agora, alguém precisa olhar por ela.",
+  "N5": "Clique em Saiba mais e fique ao lado dessa mãe."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

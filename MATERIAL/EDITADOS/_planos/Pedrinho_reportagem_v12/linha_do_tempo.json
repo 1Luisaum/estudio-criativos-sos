@@ -1,0 +1,59 @@
+{
+ "total": 61.73100099999993,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.941406,
+   "texto": "Para o Pedrinho, a faixa é o que fica entre a ferida, o mosquito e a poeira."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 12.280000000000003,
+   "texto": "Os curativos, que é usado, pro meu tratamento e pra aliviar as dores do meu esfolamento e proteger pra não pousar mosquito, evitar poeira, Até pra mim me sentir mais protegido, estão acabando."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.739116,
+   "texto": "A doença dele é a epidermólise bolhosa. Na pele, surgem bolhas de sangue e de água todos os dias."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 10.860999999999967,
+   "texto": "por favor, me ajuda, eu não quero, ter que ficar sem os meus cuidados que eu preciso, sem os meus curativos, gazes, atadura, e acabar sentindo mais dor,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.446712,
+   "texto": "Sem a faixa, a ferida fica exposta. Com ela, ele conta que se sente bem mais seguro."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 2.8199999999999834,
+   "texto": "é uma vida, O Pedro luta pela vida,"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 9.463878000000001,
+   "texto": "A SOS Human Help reúne doações para as faixas, gazes e pomadas do Pedrinho. Dez reais ajudam a manter essa proteção."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 4.3799999999999715,
+   "texto": "por favor, seja comigo nessa caminhada. meu muito obrigado."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 4.798889,
+   "texto": "Toque em Saiba mais e ajude a manter o Pedrinho protegido."
+  }
+ ]
+}

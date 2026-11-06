@@ -1,0 +1,70 @@
+{
+ "text": "Todo herói precisa de um aliado. Até o Homem-Aranha. Esse lugar está vago.",
+ "words": [
+  {
+   "text": "Todo",
+   "start": 0.0,
+   "end": 0.325
+  },
+  {
+   "text": "herói",
+   "start": 0.36,
+   "end": 0.546
+  },
+  {
+   "text": "precisa",
+   "start": 0.58,
+   "end": 0.894
+  },
+  {
+   "text": "de",
+   "start": 0.929,
+   "end": 0.979
+  },
+  {
+   "text": "um",
+   "start": 0.998,
+   "end": 1.048
+  },
+  {
+   "text": "aliado.",
+   "start": 1.08,
+   "end": 1.531
+  },
+  {
+   "text": "Até",
+   "start": 1.558,
+   "end": 1.872
+  },
+  {
+   "text": "o",
+   "start": 1.953,
+   "end": 2.003
+  },
+  {
+   "text": "Homem-Aranha.",
+   "start": 2.022,
+   "end": 2.64
+  },
+  {
+   "text": "Esse",
+   "start": 2.81,
+   "end": 3.015
+  },
+  {
+   "text": "lugar",
+   "start": 3.05,
+   "end": 3.293
+  },
+  {
+   "text": "está",
+   "start": 3.317,
+   "end": 3.479
+  },
+  {
+   "text": "vago.",
+   "start": 3.549,
+   "end": 3.999
+  }
+ ]
+}

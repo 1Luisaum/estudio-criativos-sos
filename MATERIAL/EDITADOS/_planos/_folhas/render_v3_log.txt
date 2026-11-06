@@ -1,0 +1,31 @@
+Pedrinho_5horas_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_5horas_v1.mp4  duracao=39.33s  tela_final=35.93s
+Pedrinho_curativos_acabando_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_curativos_acabando_v1.mp4  duracao=20.07s  tela_final=16.67s
+Pedrinho_espera_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_espera_v1.mp4  duracao=35.27s  tela_final=31.87s
+Pedrinho_esquecido_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_esquecido_v1.mp4  duracao=36.97s  tela_final=33.57s
+Pedrinho_lista_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v1.mp4 duracao=22.1s
+Pedrinho_lista_v2: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v2.mp4 duracao=38.3s
+Pedrinho_lista_v4: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v4.mp4 duracao=25.5s
+Pedrinho_lista_v5: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v5.mp4 duracao=24.6s
+Pedrinho_narrado_acabou_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_acabou_v1.mp4  duracao=50.30s
+Pedrinho_narrado_calor_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_calor_v1.mp4  duracao=63.77s
+Pedrinho_narrado_culpa_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_culpa_v1.mp4  duracao=46.00s
+Pedrinho_narrado_espera_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_espera_v1.mp4  duracao=45.03s
+Pedrinho_narrado_esquecido_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_esquecido_v1.mp4  duracao=42.50s
+Pedrinho_narrado_noite_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_noite_v1.mp4  duracao=50.37s
+Pedrinho_narrado_oracao_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_oracao_v1.mp4  duracao=43.63s
+Pedrinho_narrado_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_v1.mp4  duracao=68.30s
+Pedrinho_narrado_verdade_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_verdade_v1.mp4  duracao=70.60s
+Pedrinho_reportagem_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v1.mp4 duracao=54.2s
+Pedrinho_reportagem_v10: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v10.mp4 duracao=57.3s
+Pedrinho_reportagem_v2: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v2.mp4 duracao=48.8s
+Pedrinho_reportagem_v3: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v3.mp4 duracao=48.1s
+Pedrinho_reportagem_v4: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v4.mp4 duracao=48.3s
+Pedrinho_reportagem_v5: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v5.mp4 duracao=49.2s
+Pedrinho_reportagem_v6: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v6.mp4 duracao=45.4s
+Pedrinho_reportagem_v7: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v7.mp4 duracao=53.3s
+Pedrinho_reportagem_v8: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v8.mp4 duracao=53.6s
+Pedrinho_reportagem_v9: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v9.mp4 duracao=47.0s
+Pedrinho_vsl_voz_v1: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v1.mp4 duracao=49.5s
+Pedrinho_vsl_voz_v2: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v2.mp4 duracao=39.1s
+Pedrinho_vsl_voz_v4: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v4.mp4 duracao=40.0s
+Pedrinho_vsl_voz_v5: OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v5.mp4 duracao=43.4s

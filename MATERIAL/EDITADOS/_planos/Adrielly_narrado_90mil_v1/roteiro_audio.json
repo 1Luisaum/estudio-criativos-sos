@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Noventa mil reais. É quanto custam os curativos que a pele da Adrielly precisa.",
+  "N2": "Urgotul. Mepilex. Allevyn. Material que não cola na ferida e não arranca a pele na troca.",
+  "N3": "Quando faltou, ela teve que reaproveitar curativo usado.",
+  "N4": "Ninguém junta noventa mil reais sozinho. Mas muita gente junta, consegue.",
+  "N5": "Cada dez reais vira um pedaço desse curativo. Toque em Saiba mais e ajude a SOS Human Help a chegar lá."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

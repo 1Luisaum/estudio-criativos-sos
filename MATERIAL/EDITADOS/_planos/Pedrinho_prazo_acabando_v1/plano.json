@@ -1,0 +1,116 @@
+{
+ "nome": "Pedrinho_prazo_acabando_v1",
+ "crianca": "Pedrinho",
+ "estilo": "PRAZO ACABANDO",
+ "referencia": "Drive 1vlTjZsPdSYywk1HxnwLOacyMG3AvEmjr (cachorro, 'nosso prazo está acabando'), copiada em EDITADOS/_referencias/drive_1vlTjZ/ref.mp4",
+ "cor_vermelha": [
+  231,
+  0,
+  5
+ ],
+ "topo": {
+  "linhas": [
+   "nossos curativos",
+   "estão acabando."
+  ],
+  "ref_frase": "está acabando.",
+  "ref_largura": 445,
+  "cx": 544,
+  "y": 246,
+  "passo": 58,
+  "padx": 11,
+  "pady": 1
+ },
+ "meio": {
+  "linhas": [
+   "Procurando pessoas",
+   "de bom coração para",
+   "doar 2 reais para os",
+   "curativos do Pedrinho."
+  ],
+  "ref_frase": "doar 2 reais para salvar",
+  "ref_largura": 707,
+  "cx": 556,
+  "y": 1333,
+  "passo": 60,
+  "padx": 9,
+  "pady": 0
+ },
+ "baixo": {
+  "linhas": [
+   "ME AJUDE, FAÇA O BEM..."
+  ],
+  "ref_frase": "ME AJUDE, FAÇA O BEM...",
+  "ref_largura": 674,
+  "cx": 552,
+  "y": 1612,
+  "passo": 65,
+  "padx": 9,
+  "pady": 0
+ },
+ "tomadas": [
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "inicio": 232.0,
+   "dur": 2.2
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+   "inicio": 150.0,
+   "dur": 2.8
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "inicio": 234.4,
+   "dur": 1.0
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "inicio": 6.0,
+   "dur": 3.0
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "inicio": 235.6,
+   "dur": 1.2
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "inicio": 27.0,
+   "dur": 3.2
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "inicio": 237.0,
+   "dur": 1.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+   "inicio": 153.0,
+   "dur": 2.8
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "inicio": 238.6,
+   "dur": 1.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "inicio": 9.5,
+   "dur": 3.0
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "inicio": 240.2,
+   "dur": 1.56
+  }
+ ],
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_referencias/drive_1vlTjZ/ref.mp4",
+ "musica_inicio": 0,
+ "fatos": {
+  "curativos estao acabando": "Pedrinho em 'Roteiro_ os meus curativos estão acabando e eu tô com medo...'",
+  "2 reais ajudam": "mãe em 'Roteiro_ esse calor...' (quiser doar dois reais ou cinco reais, vai tá ajudando)",
+  "tirado da referencia (nao e fato)": "'Dia 19' e '2 mil pessoas' ficaram de fora: não são fatos do Pedrinho"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\TUDO BALBINO\\LEVA 35\\PEB 156 - PRAZO ACABANDO.mp4"
+}

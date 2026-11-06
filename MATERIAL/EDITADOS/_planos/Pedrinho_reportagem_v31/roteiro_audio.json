@@ -1,0 +1,19 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Para o Pedrinho, alívio não vem em embalagem bonita. Cabe em um pedaço de gaze.",
+  "OFF2": "A receita da casa é simples. A pomada vai no gaze.",
+  "OFF3": "E o gaze vai para a ferida.",
+  "OFF4": "Sem isso, a dor não dá trégua. E é justamente aí que ele pede ajuda.",
+  "OFF5": "A mãe também pede exatamente isso, sem rodeios.",
+  "OFF6": "Cinco reais, pela SOS Human Help, ajudam a manter pomada e gaze na próxima troca.",
+  "OFF7": "Clique em Saiba mais e leve esse alívio até ele."
+ }
+}

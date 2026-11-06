@@ -1,0 +1,55 @@
+{
+ "text": "Ele sabe o tamanho do pedido. E faz mesmo assim.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "sabe",
+   "start": 0.267,
+   "end": 0.522
+  },
+  {
+   "text": "o",
+   "start": 0.546,
+   "end": 0.569
+  },
+  {
+   "text": "tamanho",
+   "start": 0.604,
+   "end": 0.987
+  },
+  {
+   "text": "do",
+   "start": 1.01,
+   "end": 1.068
+  },
+  {
+   "text": "pedido.",
+   "start": 1.115,
+   "end": 1.672
+  },
+  {
+   "text": "E",
+   "start": 1.997,
+   "end": 2.078
+  },
+  {
+   "text": "faz",
+   "start": 2.148,
+   "end": 2.345
+  },
+  {
+   "text": "mesmo",
+   "start": 2.415,
+   "end": 2.74
+  },
+  {
+   "text": "assim.",
+   "start": 2.763,
+   "end": 3.483
+  }
+ ]
+}

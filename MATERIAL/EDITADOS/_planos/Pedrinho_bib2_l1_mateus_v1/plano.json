@@ -1,0 +1,97 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_2241390946718073.mp4",
+ "estilo": "BIB L1 MATEUS",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 10,
+   "fim": 13,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 4,
+   "fim": 7,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 8,
+   "fim": 11,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 6,
+   "fim": 9,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151540.mp4",
+   "ini": 3,
+   "fim": 6,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 0,
+   "fim": 2,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21,
+   "linhas": [
+    "Mateus 25:35-40",
+    "ensina que servir aos necessitados",
+    "é servir a Cristo."
+   ],
+   "estilo": "seco",
+   "size": 34,
+   "y": 240,
+   "contorno": 3,
+   "lh": 1.1
+  },
+  {
+   "de": 0,
+   "ate": 21,
+   "linhas": [
+    "5 reais ajudam nos curativos",
+    "do Pedrinho ❤️"
+   ],
+   "estilo": "seco",
+   "size": 34,
+   "y": 1395,
+   "contorno": 3,
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 21
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 2241 - Mateus 25.mp3",
+ "musica_volume": 1.0,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 57\\PEB 213 - BIB L1 MATEUS.mp4"
+}

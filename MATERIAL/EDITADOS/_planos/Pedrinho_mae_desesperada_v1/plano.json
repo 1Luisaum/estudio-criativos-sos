@@ -1,0 +1,137 @@
+{
+ "nome": "Pedrinho_mae_desesperada_v1",
+ "referencia": "Causas do Bem, anuncio 1428626718623984 (Kauê, 31,8 s)",
+ "gancho": {
+  "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+  "cortes": [
+   [
+    0.74,
+    3.12
+   ],
+   [
+    8.06,
+    9.72
+   ],
+   [
+    10.44,
+    11.5
+   ],
+   [
+    11.82,
+    12.84
+   ]
+  ],
+  "zooms": [
+   1.0,
+   1.15,
+   1.0,
+   1.15
+  ]
+ },
+ "voz_off": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    56.04,
+    58.3
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    58.36,
+    59.46
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    60.68,
+    62.26
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "corte": [
+    70.14,
+    71.8
+   ],
+   "respiro": 0.25
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "corte": [
+    34.6,
+    35.64
+   ]
+  }
+ ],
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_sob_voz": 0.1,
+ "musica_depois": 0.4,
+ "caixa": [
+  "ESSA MÃE ESTÁ DESESPERADA...",
+  "O PEDRINHO PRECISA DESSES CURATIVOS",
+  "R$5,00 SE TORNA VIDA🙏"
+ ],
+ "cta": "👇 TOQUE EM SAIBA MAIS",
+ "caixa_y": 1344,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 150.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 178.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "start": 40.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 205.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "start": 62.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 232.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "start": 25.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 262.0,
+   "dur": 2.6
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "start": 90.0,
+   "dur": 2.4
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Ana e Pedro sorrindo.png",
+   "dur": 3.0
+  }
+ ],
+ "fatos": {
+  "calor, desesperada, as coisas dele estão acabando, dois ou cinco reais, que Deus abençoe": "mãe, Roteiro_ esse calor... (0-35 s)",
+  "seja com dois ou cinco reais... meu muito obrigado": "Pedrinho, 20260917_000819 (56-72 s)",
+  "R$5": "a mãe fala em dois ou cinco reais",
+  "Pix da referência": "trocado por 'Toque em Saiba mais' (botão do anúncio)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\MÃE DESESPERADA\\LEVA 01\\Pedrinho_mae_desesperada_v1.mp4"
+}

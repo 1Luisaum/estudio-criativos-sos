@@ -1,0 +1,14 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N0": "Dormir também dói.",
+  "N1": "As faixas cobrem quase o corpo todo. E cada troca começa do zero.",
+  "N2": "Mas guerreiro não é só apelido.",
+  "N3": "Com dez reais, os curativos desse herói não param. Toque em Saiba mais."
+ },
+ "efeitos": {
+  "coracao": {"text": "slow deep heavy heartbeat, two beats, cinematic, tense, dark", "dur": 3.0},
+  "boom": {"text": "deep cinematic boom impact hit, dark trailer, short tail", "dur": 2.0},
+  "whoosh": {"text": "bright soft cinematic whoosh rising transition into light", "dur": 1.2}
+ }
+}

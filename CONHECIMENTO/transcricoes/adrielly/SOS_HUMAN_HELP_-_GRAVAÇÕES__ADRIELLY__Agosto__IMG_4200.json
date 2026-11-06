@@ -1,0 +1,282 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Todos os dias eu preciso trocar os meus lençóis da cama porque fica sujo de sangue. Já são meses assim",
+ "words": [
+  {
+   "text": "Todos",
+   "start": 0.38,
+   "end": 0.76,
+   "type": "word",
+   "logprob": -0.0046017225831747055
+  },
+  {
+   "text": " ",
+   "start": 0.76,
+   "end": 0.8,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "os",
+   "start": 0.8,
+   "end": 0.94,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 0.94,
+   "end": 0.98,
+   "type": "spacing",
+   "logprob": -9.345571743324399e-05
+  },
+  {
+   "text": "dias",
+   "start": 0.98,
+   "end": 1.48,
+   "type": "word",
+   "logprob": -9.345571743324399e-05
+  },
+  {
+   "text": " ",
+   "start": 1.48,
+   "end": 1.74,
+   "type": "spacing",
+   "logprob": -0.0003355178632773459
+  },
+  {
+   "text": "eu",
+   "start": 1.74,
+   "end": 1.88,
+   "type": "word",
+   "logprob": -0.0003355178632773459
+  },
+  {
+   "text": " ",
+   "start": 1.88,
+   "end": 1.92,
+   "type": "spacing",
+   "logprob": -7.30726242181845e-05
+  },
+  {
+   "text": "preciso",
+   "start": 1.92,
+   "end": 2.64,
+   "type": "word",
+   "logprob": -7.30726242181845e-05
+  },
+  {
+   "text": " ",
+   "start": 2.64,
+   "end": 2.64,
+   "type": "spacing",
+   "logprob": -9.142934868577868e-05
+  },
+  {
+   "text": "trocar",
+   "start": 3.12,
+   "end": 3.62,
+   "type": "word",
+   "logprob": -9.142934868577868e-05
+  },
+  {
+   "text": " ",
+   "start": 3.62,
+   "end": 3.7,
+   "type": "spacing",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": "os",
+   "start": 3.7,
+   "end": 3.84,
+   "type": "word",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": " ",
+   "start": 3.84,
+   "end": 3.88,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "meus",
+   "start": 3.88,
+   "end": 4.1,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 4.1,
+   "end": 4.12,
+   "type": "spacing",
+   "logprob": -4.458328112377785e-05
+  },
+  {
+   "text": "lençóis",
+   "start": 4.12,
+   "end": 4.92,
+   "type": "word",
+   "logprob": -9.932517994976868e-05
+  },
+  {
+   "text": " ",
+   "start": 4.92,
+   "end": 5.16,
+   "type": "spacing",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": "da",
+   "start": 5.16,
+   "end": 5.28,
+   "type": "word",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": " ",
+   "start": 5.28,
+   "end": 5.42,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "cama",
+   "start": 5.42,
+   "end": 5.86,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 5.86,
+   "end": 5.86,
+   "type": "spacing",
+   "logprob": -0.038042791187763214
+  },
+  {
+   "text": "porque",
+   "start": 6.42,
+   "end": 6.98,
+   "type": "word",
+   "logprob": -0.038042791187763214
+  },
+  {
+   "text": " ",
+   "start": 6.98,
+   "end": 7.04,
+   "type": "spacing",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": "fica",
+   "start": 7.04,
+   "end": 7.28,
+   "type": "word",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": " ",
+   "start": 7.28,
+   "end": 7.44,
+   "type": "spacing",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": "sujo",
+   "start": 7.44,
+   "end": 7.82,
+   "type": "word",
+   "logprob": -1.1265180887676252e-05
+  },
+  {
+   "text": " ",
+   "start": 7.82,
+   "end": 7.86,
+   "type": "spacing",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": "de",
+   "start": 7.86,
+   "end": 7.98,
+   "type": "word",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": " ",
+   "start": 7.98,
+   "end": 8.06,
+   "type": "spacing",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": "sangue.",
+   "start": 8.06,
+   "end": 8.52,
+   "type": "word",
+   "logprob": -1.3078703367292682e-05
+  },
+  {
+   "text": " ",
+   "start": 8.52,
+   "end": 8.52,
+   "type": "spacing",
+   "logprob": -3.6477376852417365e-05
+  },
+  {
+   "text": "Já",
+   "start": 9.16,
+   "end": 9.32,
+   "type": "word",
+   "logprob": -3.6477376852417365e-05
+  },
+  {
+   "text": " ",
+   "start": 9.32,
+   "end": 9.38,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "são",
+   "start": 9.38,
+   "end": 9.56,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 9.56,
+   "end": 9.62,
+   "type": "spacing",
+   "logprob": -1.0251946150674485e-05
+  },
+  {
+   "text": "meses",
+   "start": 9.62,
+   "end": 10.1,
+   "type": "word",
+   "logprob": -1.0251946150674485e-05
+  },
+  {
+   "text": " ",
+   "start": 10.1,
+   "end": 10.18,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "assim",
+   "start": 10.18,
+   "end": 10.64,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  }
+ ],
+ "transcription_id": "Se4w8fT5lF3iDjASbJ5N",
+ "audio_duration_secs": 11.2
+}

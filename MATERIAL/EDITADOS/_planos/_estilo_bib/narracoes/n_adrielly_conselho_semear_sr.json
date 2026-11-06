@@ -1,0 +1,968 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Guarde esse conselho: quem semeia com fartura, com fartura também colherá. Está em segunda Coríntios, capítulo nove. Hoje você pode semear na vida da Adrielly. Ela tem a pele de borboleta e tem dias que a dor nem deixa ela levantar da cama. O tratamento dela é caro, mas ficar sem ele custa a vida dela. Doe cinco reais e ajude a Adrielly. Que Deus multiplique na sua vida.",
+ "words": [
+  {
+   "text": "Guarde",
+   "start": 0.1,
+   "end": 0.56,
+   "type": "word",
+   "logprob": -0.028887378666998604
+  },
+  {
+   "text": " ",
+   "start": 0.56,
+   "end": 0.62,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "esse",
+   "start": 0.62,
+   "end": 0.82,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 0.82,
+   "end": 0.86,
+   "type": "spacing",
+   "logprob": -0.00033849707688204944
+  },
+  {
+   "text": "conselho:",
+   "start": 0.86,
+   "end": 1.3,
+   "type": "word",
+   "logprob": -0.0002687957204317273
+  },
+  {
+   "text": " ",
+   "start": 1.3,
+   "end": 1.4,
+   "type": "spacing",
+   "logprob": -0.004716343246400356
+  },
+  {
+   "text": "quem",
+   "start": 1.4,
+   "end": 1.56,
+   "type": "word",
+   "logprob": -0.004716343246400356
+  },
+  {
+   "text": " ",
+   "start": 1.56,
+   "end": 1.6,
+   "type": "spacing",
+   "logprob": -3.909988299710676e-05
+  },
+  {
+   "text": "semeia",
+   "start": 1.6,
+   "end": 2.02,
+   "type": "word",
+   "logprob": -2.606658866473784e-05
+  },
+  {
+   "text": " ",
+   "start": 2.02,
+   "end": 2.04,
+   "type": "spacing",
+   "logprob": -0.0066407471895217896
+  },
+  {
+   "text": "com",
+   "start": 2.04,
+   "end": 2.16,
+   "type": "word",
+   "logprob": -0.0066407471895217896
+  },
+  {
+   "text": " ",
+   "start": 2.16,
+   "end": 2.2,
+   "type": "spacing",
+   "logprob": -0.0018842339050024748
+  },
+  {
+   "text": "fartura,",
+   "start": 2.2,
+   "end": 2.66,
+   "type": "word",
+   "logprob": -0.0009424894813596651
+  },
+  {
+   "text": " ",
+   "start": 2.66,
+   "end": 2.76,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "com",
+   "start": 2.76,
+   "end": 2.9,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 2.9,
+   "end": 2.94,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "fartura",
+   "start": 2.94,
+   "end": 3.4,
+   "type": "word",
+   "logprob": -1.9822405582609853e-05
+  },
+  {
+   "text": " ",
+   "start": 3.4,
+   "end": 3.54,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "também",
+   "start": 3.54,
+   "end": 3.96,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 3.96,
+   "end": 3.98,
+   "type": "spacing",
+   "logprob": -0.00014125302550382912
+  },
+  {
+   "text": "colherá.",
+   "start": 3.98,
+   "end": 4.48,
+   "type": "word",
+   "logprob": -6.453301097053554e-05
+  },
+  {
+   "text": " ",
+   "start": 4.48,
+   "end": 4.52,
+   "type": "spacing",
+   "logprob": -0.0001429217227268964
+  },
+  {
+   "text": "Está",
+   "start": 4.52,
+   "end": 4.74,
+   "type": "word",
+   "logprob": -0.0001429217227268964
+  },
+  {
+   "text": " ",
+   "start": 4.74,
+   "end": 4.76,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "em",
+   "start": 4.76,
+   "end": 4.84,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.84,
+   "end": 4.88,
+   "type": "spacing",
+   "logprob": -0.03883546590805054
+  },
+  {
+   "text": "segunda",
+   "start": 4.88,
+   "end": 5.2,
+   "type": "word",
+   "logprob": -0.03883546590805054
+  },
+  {
+   "text": " ",
+   "start": 5.2,
+   "end": 5.24,
+   "type": "spacing",
+   "logprob": -0.0004111875023227185
+  },
+  {
+   "text": "Coríntios,",
+   "start": 5.24,
+   "end": 5.66,
+   "type": "word",
+   "logprob": -0.0001675441224278984
+  },
+  {
+   "text": " ",
+   "start": 5.66,
+   "end": 5.72,
+   "type": "spacing",
+   "logprob": -3.8742269680369645e-05
+  },
+  {
+   "text": "capítulo",
+   "start": 5.74,
+   "end": 6.2,
+   "type": "word",
+   "logprob": -3.8742269680369645e-05
+  },
+  {
+   "text": " ",
+   "start": 6.2,
+   "end": 6.3,
+   "type": "spacing",
+   "logprob": -0.00014661667228210717
+  },
+  {
+   "text": "nove.",
+   "start": 6.3,
+   "end": 6.66,
+   "type": "word",
+   "logprob": -0.00011743638892767195
+  },
+  {
+   "text": " ",
+   "start": 6.66,
+   "end": 6.78,
+   "type": "spacing",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": "Hoje",
+   "start": 6.78,
+   "end": 7.0,
+   "type": "word",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": " ",
+   "start": 7.0,
+   "end": 7.04,
+   "type": "spacing",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": "você",
+   "start": 7.04,
+   "end": 7.28,
+   "type": "word",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": " ",
+   "start": 7.28,
+   "end": 7.3,
+   "type": "spacing",
+   "logprob": -3.099393507000059e-05
+  },
+  {
+   "text": "pode",
+   "start": 7.3,
+   "end": 7.54,
+   "type": "word",
+   "logprob": -3.099393507000059e-05
+  },
+  {
+   "text": " ",
+   "start": 7.54,
+   "end": 7.58,
+   "type": "spacing",
+   "logprob": -0.00018416139937471598
+  },
+  {
+   "text": "semear",
+   "start": 7.58,
+   "end": 7.92,
+   "type": "word",
+   "logprob": -9.95908285403857e-05
+  },
+  {
+   "text": " ",
+   "start": 7.92,
+   "end": 7.96,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "na",
+   "start": 7.96,
+   "end": 8.02,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 8.02,
+   "end": 8.119,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "vida",
+   "start": 8.119,
+   "end": 8.34,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 8.34,
+   "end": 8.4,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "da",
+   "start": 8.4,
+   "end": 8.48,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 8.48,
+   "end": 8.54,
+   "type": "spacing",
+   "logprob": -0.0011239885352551937
+  },
+  {
+   "text": "Adrielly.",
+   "start": 8.54,
+   "end": 8.98,
+   "type": "word",
+   "logprob": -0.0024683355457252925
+  },
+  {
+   "text": " ",
+   "start": 8.98,
+   "end": 9.12,
+   "type": "spacing",
+   "logprob": -3.2305197237292305e-05
+  },
+  {
+   "text": "Ela",
+   "start": 9.12,
+   "end": 9.22,
+   "type": "word",
+   "logprob": -3.2305197237292305e-05
+  },
+  {
+   "text": " ",
+   "start": 9.22,
+   "end": 9.32,
+   "type": "spacing",
+   "logprob": -1.6927575416048057e-05
+  },
+  {
+   "text": "tem",
+   "start": 9.32,
+   "end": 9.42,
+   "type": "word",
+   "logprob": -1.6927575416048057e-05
+  },
+  {
+   "text": " ",
+   "start": 9.42,
+   "end": 9.46,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "a",
+   "start": 9.46,
+   "end": 9.48,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 9.48,
+   "end": 9.54,
+   "type": "spacing",
+   "logprob": -0.00014649749209638685
+  },
+  {
+   "text": "pele",
+   "start": 9.54,
+   "end": 9.84,
+   "type": "word",
+   "logprob": -0.00014649749209638685
+  },
+  {
+   "text": " ",
+   "start": 9.84,
+   "end": 9.92,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 9.92,
+   "end": 10.0,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 10.0,
+   "end": 10.1,
+   "type": "spacing",
+   "logprob": -1.5616295058862306e-05
+  },
+  {
+   "text": "borboleta",
+   "start": 10.1,
+   "end": 10.82,
+   "type": "word",
+   "logprob": -3.434478983561146e-05
+  },
+  {
+   "text": " ",
+   "start": 10.82,
+   "end": 10.86,
+   "type": "spacing",
+   "logprob": -2.4437606043647975e-05
+  },
+  {
+   "text": "e",
+   "start": 10.86,
+   "end": 10.9,
+   "type": "word",
+   "logprob": -2.4437606043647975e-05
+  },
+  {
+   "text": " ",
+   "start": 10.9,
+   "end": 10.98,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "tem",
+   "start": 10.98,
+   "end": 11.16,
+   "type": "word",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": " ",
+   "start": 11.16,
+   "end": 11.2,
+   "type": "spacing",
+   "logprob": -2.3245540432981215e-05
+  },
+  {
+   "text": "dias",
+   "start": 11.2,
+   "end": 11.56,
+   "type": "word",
+   "logprob": -2.3245540432981215e-05
+  },
+  {
+   "text": " ",
+   "start": 11.56,
+   "end": 11.6,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 11.6,
+   "end": 11.66,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 11.66,
+   "end": 11.7,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 11.7,
+   "end": 11.74,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 11.74,
+   "end": 11.84,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "dor",
+   "start": 11.84,
+   "end": 12.08,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 12.08,
+   "end": 12.12,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "nem",
+   "start": 12.12,
+   "end": 12.28,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 12.28,
+   "end": 12.36,
+   "type": "spacing",
+   "logprob": -1.0847986231965479e-05
+  },
+  {
+   "text": "deixa",
+   "start": 12.36,
+   "end": 12.72,
+   "type": "word",
+   "logprob": -1.0847986231965479e-05
+  },
+  {
+   "text": " ",
+   "start": 12.72,
+   "end": 12.8,
+   "type": "spacing",
+   "logprob": -1.1324817933200393e-05
+  },
+  {
+   "text": "ela",
+   "start": 12.8,
+   "end": 12.92,
+   "type": "word",
+   "logprob": -1.1324817933200393e-05
+  },
+  {
+   "text": " ",
+   "start": 12.92,
+   "end": 12.96,
+   "type": "spacing",
+   "logprob": -5.328513361746445e-05
+  },
+  {
+   "text": "levantar",
+   "start": 12.96,
+   "end": 13.48,
+   "type": "word",
+   "logprob": -5.328513361746445e-05
+  },
+  {
+   "text": " ",
+   "start": 13.48,
+   "end": 13.52,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "da",
+   "start": 13.52,
+   "end": 13.6,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 13.6,
+   "end": 13.7,
+   "type": "spacing",
+   "logprob": -2.658331868587993e-05
+  },
+  {
+   "text": "cama.",
+   "start": 13.7,
+   "end": 14.02,
+   "type": "word",
+   "logprob": -2.1266654948703943e-05
+  },
+  {
+   "text": " ",
+   "start": 14.02,
+   "end": 14.12,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "O",
+   "start": 14.12,
+   "end": 14.14,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 14.14,
+   "end": 14.2,
+   "type": "spacing",
+   "logprob": -3.755022044060752e-05
+  },
+  {
+   "text": "tratamento",
+   "start": 14.2,
+   "end": 14.8,
+   "type": "word",
+   "logprob": -3.755022044060752e-05
+  },
+  {
+   "text": " ",
+   "start": 14.8,
+   "end": 14.84,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "dela",
+   "start": 14.84,
+   "end": 15.12,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 15.12,
+   "end": 15.18,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "é",
+   "start": 15.18,
+   "end": 15.3,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 15.3,
+   "end": 15.36,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "caro,",
+   "start": 15.36,
+   "end": 15.68,
+   "type": "word",
+   "logprob": -2.9563849238911644e-06
+  },
+  {
+   "text": " ",
+   "start": 15.68,
+   "end": 15.78,
+   "type": "spacing",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": "mas",
+   "start": 15.78,
+   "end": 15.96,
+   "type": "word",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": " ",
+   "start": 15.96,
+   "end": 16.0,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "ficar",
+   "start": 16.0,
+   "end": 16.26,
+   "type": "word",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": " ",
+   "start": 16.26,
+   "end": 16.36,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "sem",
+   "start": 16.36,
+   "end": 16.5,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 16.5,
+   "end": 16.54,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "ele",
+   "start": 16.54,
+   "end": 16.74,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 16.74,
+   "end": 16.78,
+   "type": "spacing",
+   "logprob": -5.578839045483619e-05
+  },
+  {
+   "text": "custa",
+   "start": 16.78,
+   "end": 17.08,
+   "type": "word",
+   "logprob": -4.4630712363868955e-05
+  },
+  {
+   "text": " ",
+   "start": 17.08,
+   "end": 17.1,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 17.1,
+   "end": 17.14,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 17.14,
+   "end": 17.24,
+   "type": "spacing",
+   "logprob": -3.2305197237292305e-05
+  },
+  {
+   "text": "vida",
+   "start": 17.24,
+   "end": 17.5,
+   "type": "word",
+   "logprob": -3.2305197237292305e-05
+  },
+  {
+   "text": " ",
+   "start": 17.5,
+   "end": 17.54,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "dela.",
+   "start": 17.54,
+   "end": 17.82,
+   "type": "word",
+   "logprob": -5.722044079448097e-07
+  },
+  {
+   "text": " ",
+   "start": 17.82,
+   "end": 17.96,
+   "type": "spacing",
+   "logprob": -0.008314636535942554
+  },
+  {
+   "text": "Doe",
+   "start": 17.96,
+   "end": 18.14,
+   "type": "word",
+   "logprob": -0.008314636535942554
+  },
+  {
+   "text": " ",
+   "start": 18.14,
+   "end": 18.28,
+   "type": "spacing",
+   "logprob": -0.000409161759307608
+  },
+  {
+   "text": "cinco",
+   "start": 18.28,
+   "end": 18.48,
+   "type": "word",
+   "logprob": -0.000409161759307608
+  },
+  {
+   "text": " ",
+   "start": 18.48,
+   "end": 18.56,
+   "type": "spacing",
+   "logprob": -7.390948667307384e-06
+  },
+  {
+   "text": "reais",
+   "start": 18.56,
+   "end": 19.02,
+   "type": "word",
+   "logprob": -7.390948667307384e-06
+  },
+  {
+   "text": " ",
+   "start": 19.02,
+   "end": 19.06,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "e",
+   "start": 19.06,
+   "end": 19.12,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 19.12,
+   "end": 19.2,
+   "type": "spacing",
+   "logprob": -2.539125671319198e-05
+  },
+  {
+   "text": "ajude",
+   "start": 19.2,
+   "end": 19.58,
+   "type": "word",
+   "logprob": -1.0228028254744004e-05
+  },
+  {
+   "text": " ",
+   "start": 19.58,
+   "end": 19.64,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 19.64,
+   "end": 19.66,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 19.66,
+   "end": 19.74,
+   "type": "spacing",
+   "logprob": -0.00011801023356383666
+  },
+  {
+   "text": "Adrielly.",
+   "start": 19.74,
+   "end": 20.18,
+   "type": "word",
+   "logprob": -0.0003068882078372957
+  },
+  {
+   "text": " ",
+   "start": 20.18,
+   "end": 20.26,
+   "type": "spacing",
+   "logprob": -4.6491513785440475e-06
+  },
+  {
+   "text": "Que",
+   "start": 20.26,
+   "end": 20.32,
+   "type": "word",
+   "logprob": -4.6491513785440475e-06
+  },
+  {
+   "text": " ",
+   "start": 20.32,
+   "end": 20.38,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "Deus",
+   "start": 20.38,
+   "end": 20.6,
+   "type": "word",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": " ",
+   "start": 20.6,
+   "end": 20.64,
+   "type": "spacing",
+   "logprob": -0.0009706076816655695
+  },
+  {
+   "text": "multiplique",
+   "start": 20.64,
+   "end": 21.2,
+   "type": "word",
+   "logprob": -0.0006194367316228719
+  },
+  {
+   "text": " ",
+   "start": 21.2,
+   "end": 21.24,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "na",
+   "start": 21.24,
+   "end": 21.34,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 21.34,
+   "end": 21.38,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "sua",
+   "start": 21.38,
+   "end": 21.5,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 21.5,
+   "end": 21.58,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "vida.",
+   "start": 21.58,
+   "end": 21.84,
+   "type": "word",
+   "logprob": -0.032833516597293055
+  }
+ ],
+ "transcription_id": "dTwqjgGh1ItnBAKd2TNH",
+ "audio_duration_secs": 21.8785
+}

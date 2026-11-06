@@ -1,0 +1,40 @@
+{
+ "total": 35.72999999999999,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.2299999999999995,
+   "texto": "Fica só 10 segundos, por favor."
+  },
+  {
+   "nome": "c1",
+   "d": 6.489999999999999,
+   "texto": "O meu próprio corpo quer me destruir e quem deveria me proteger não consegue"
+  },
+  {
+   "nome": "c2a",
+   "d": 5.649999999999999,
+   "texto": "Minha mãe não sabe o que fazer. Não temos quase nada"
+  },
+  {
+   "nome": "c2b",
+   "d": 3.8499999999999983,
+   "texto": "de curativo para os cuidados dessa semana"
+  },
+  {
+   "nome": "c3",
+   "d": 6.2299999999999995,
+   "texto": "Ajude no meu tratamento dessa semana com dois ou cinco reais"
+  },
+  {
+   "nome": "c4",
+   "d": 6.669999999999998,
+   "texto": "Cinco reais pode parecer pouco pra você, mas para mim é mais um dia de vida,"
+  },
+  {
+   "nome": "c5",
+   "d": 3.6099999999999994,
+   "texto": "um dia sem dor."
+  }
+ ]
+}

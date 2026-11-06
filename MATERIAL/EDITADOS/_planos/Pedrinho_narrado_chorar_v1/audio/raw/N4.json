@@ -1,0 +1,70 @@
+{
+ "text": "Ele tem nome de guerreiro. Mas tem o corpo de uma criança cansada.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "tem",
+   "start": 0.197,
+   "end": 0.313
+  },
+  {
+   "text": "nome",
+   "start": 0.348,
+   "end": 0.522
+  },
+  {
+   "text": "de",
+   "start": 0.546,
+   "end": 0.604
+  },
+  {
+   "text": "guerreiro.",
+   "start": 0.65,
+   "end": 1.08
+  },
+  {
+   "text": "Mas",
+   "start": 1.544,
+   "end": 1.718
+  },
+  {
+   "text": "tem",
+   "start": 1.765,
+   "end": 1.881
+  },
+  {
+   "text": "o",
+   "start": 1.927,
+   "end": 1.962
+  },
+  {
+   "text": "corpo",
+   "start": 2.02,
+   "end": 2.299
+  },
+  {
+   "text": "de",
+   "start": 2.334,
+   "end": 2.38
+  },
+  {
+   "text": "uma",
+   "start": 2.403,
+   "end": 2.508
+  },
+  {
+   "text": "criança",
+   "start": 2.543,
+   "end": 2.891
+  },
+  {
+   "text": "cansada.",
+   "start": 2.949,
+   "end": 3.994
+  }
+ ]
+}

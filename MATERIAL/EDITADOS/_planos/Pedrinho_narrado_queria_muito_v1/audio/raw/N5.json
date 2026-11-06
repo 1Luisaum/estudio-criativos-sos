@@ -1,0 +1,65 @@
+{
+ "text": "Ele preferia não pedir. Mas a pele não espera a vergonha passar.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "preferia",
+   "start": 0.186,
+   "end": 0.546
+  },
+  {
+   "text": "não",
+   "start": 0.58,
+   "end": 0.673
+  },
+  {
+   "text": "pedir.",
+   "start": 0.72,
+   "end": 1.103
+  },
+  {
+   "text": "Mas",
+   "start": 1.637,
+   "end": 1.8
+  },
+  {
+   "text": "a",
+   "start": 1.869,
+   "end": 1.892
+  },
+  {
+   "text": "pele",
+   "start": 1.974,
+   "end": 2.252
+  },
+  {
+   "text": "não",
+   "start": 2.287,
+   "end": 2.403
+  },
+  {
+   "text": "espera",
+   "start": 2.45,
+   "end": 2.868
+  },
+  {
+   "text": "a",
+   "start": 2.891,
+   "end": 2.914
+  },
+  {
+   "text": "vergonha",
+   "start": 2.972,
+   "end": 3.483
+  },
+  {
+   "text": "passar.",
+   "start": 3.541,
+   "end": 4.319
+  }
+ ]
+}

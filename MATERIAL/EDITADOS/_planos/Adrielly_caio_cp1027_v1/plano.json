@@ -1,0 +1,53 @@
+{
+ "nome": "Adrielly_caio_cp1027_v1",
+ "crianca": "Adrielly",
+ "estilo": "cp1027",
+ "pasta_estilo": "ESTILO CAIO 1027",
+ "base": {
+  "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/IMG_9180.MOV",
+  "fim": 31.95,
+  "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_referencias/caio/tx_AEB_12.json"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.07,
+ "gancho": {
+  "ate": 3.4,
+  "y": 1215,
+  "linhas": [
+   "TODOS OS DIAS O LENÇOL",
+   "DELA FICA SUJO DE SANGUE"
+  ]
+ },
+ "legenda_y": 1415,
+ "fatos": {
+  "fala e choro": "IMG_9180 (o mesmo trecho do AEB 12, que validou)",
+  "pede a Deus que tire a dor": "IMG_9180 ('Tira essa dor, Senhor')",
+  "estilo": "anúncios do Caio protetor CP 54 e CP 1027 (formato e posições; sem marca dele)",
+  "lençol sujo de sangue todos os dias": "IMG_4200 ('Todos os dias eu preciso trocar os meus lençóis da cama porque fica sujo de sangue')"
+ },
+ "referencia": "EDITADOS/_referencias/caio/CP 1027.mp4",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 49\\AEB 78 - ESTILO CAIO 1027.mp4",
+ "tomadas": [
+  [
+   0,
+   3.4,
+   "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_lencol_sangue_pb.mp4",
+   0
+  ],
+  [
+   3.4,
+   31.95,
+   "BASE",
+   0
+  ]
+ ],
+ "legenda_seca": true,
+ "cta": {
+  "de": 21.2,
+  "y": 1540,
+  "linhas": [
+   "CLIQUE EM SAIBA MAIS"
+  ]
+ },
+ "obs": "29/10/2026: sem b-roll depois do gancho e sem as faixas do alto (pedido do usuário)"
+}

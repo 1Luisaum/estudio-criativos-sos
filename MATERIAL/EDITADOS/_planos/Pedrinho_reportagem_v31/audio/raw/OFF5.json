@@ -1,0 +1,45 @@
+{
+ "text": "A mãe também pede exatamente isso, sem rodeios.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "mãe",
+   "start": 0.174,
+   "end": 0.325
+  },
+  {
+   "text": "também",
+   "start": 0.36,
+   "end": 0.615
+  },
+  {
+   "text": "pede",
+   "start": 0.685,
+   "end": 0.964
+  },
+  {
+   "text": "exatamente",
+   "start": 0.987,
+   "end": 1.66
+  },
+  {
+   "text": "isso,",
+   "start": 1.718,
+   "end": 1.962
+  },
+  {
+   "text": "sem",
+   "start": 1.985,
+   "end": 2.148
+  },
+  {
+   "text": "rodeios.",
+   "start": 2.183,
+   "end": 3.158
+  }
+ ]
+}

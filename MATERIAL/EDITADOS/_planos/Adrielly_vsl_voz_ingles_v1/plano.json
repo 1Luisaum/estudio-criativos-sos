@@ -1,0 +1,123 @@
+{
+ "nome": "Adrielly_vsl_voz_ingles_v1",
+ "crianca": "Adrielly",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "musica_volume": 0.09,
+ "chamada": [
+  "THIS IS ADRIELLY'S VOICE 💔",
+  "HELP HER WITH $10 FOR BANDAGES 🙏"
+ ],
+ "etiqueta": "$10 already helps ❤️",
+ "etiqueta_final": "👇 Tap LEARN MORE",
+ "palavras_chave": [
+  "HEART",
+  "HELP",
+  "FIVE",
+  "TEN",
+  "DOLLARS",
+  "HUGE",
+  "DIFFERENCE",
+  "LIFE.",
+  "LIFE",
+  "GOD"
+ ],
+ "frases": [
+  {
+   "nome": "f01",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_vsl_voz_ingles_v1/tx/lipsync_en.json",
+   "cortes": [
+    [
+     1.24,
+     4.02
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+     1.18,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "f02",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_vsl_voz_ingles_v1/tx/lipsync_en.json",
+   "cortes": [
+    [
+     5.2,
+     5.98
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     7.0
+    ]
+   ]
+  },
+  {
+   "nome": "f03",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_vsl_voz_ingles_v1/tx/lipsync_en.json",
+   "cortes": [
+    [
+     7.32,
+     7.32
+    ],
+    [
+     8.7,
+     9.26
+    ]
+   ],
+   "etiqueta": true,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png"
+  },
+  {
+   "nome": "f04",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_vsl_voz_ingles_v1/tx/lipsync_en.json",
+   "cortes": [
+    [
+     10.66,
+     13.5
+    ]
+   ],
+   "etiqueta": true,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     4.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     12.0
+    ]
+   ]
+  },
+  {
+   "nome": "f05",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_vsl_voz_ingles_v1/tx/lipsync_en.json",
+   "cortes": [
+    [
+     14.88,
+     15.6
+    ]
+   ],
+   "final": true,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_4740_EN/Adrielly_4740_EN_lipsync_dollars.mp4",
+     14.82
+    ]
+   ]
+  }
+ ],
+ "fatos": {
+  "fala dublada em inglês (ElevenLabs) com lipsync (DreamFace); 'reais' trocado por 'dollars' a pedido do usuário": "IMG_4740"
+ },
+ "modelo": "criativo-vsl-voz-ong, versão em inglês (textos traduzidos no plano)",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 47\\AEB 65 - VSL COM VOZ DA CRIANÇA.mp4"
+}

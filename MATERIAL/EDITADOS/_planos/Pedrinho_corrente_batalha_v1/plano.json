@@ -1,0 +1,125 @@
+{
+ "nome": "Pedrinho_corrente_batalha_v1",
+ "referencia": "Causas do Bem, anuncio 1444789200923601 (Kauê): texto fixo no alto com destaque amarelo, voz da crianca 0-9 s, depois so musica",
+ "angulo": "o convite dele para entrar junto na batalha contra as bolhas que aparecem todo dia",
+ "texto": [
+  [
+   "Corrente do bem: ",
+   ""
+  ],
+  [
+   "Entre junto",
+   "y"
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "com R$10",
+   "y"
+  ],
+  [
+   " nessa batalha",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "do Pedrinho contra as bolhas",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "que aparecem a cada dia",
+   ""
+  ]
+ ],
+ "texto_y": 255,
+ "falas": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "corte": [
+    48.24,
+    49.16
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "corte": [
+    49.58,
+    52.86
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "corte": [
+    53.3,
+    54.08
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "corte": [
+    54.92,
+    57.7
+   ]
+  }
+ ],
+ "voz_inicio": 0.4,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/good_b_music-melody-of-nature-main-6672.mp3",
+ "musica_sob_voz": 0.12,
+ "musica_depois": 0.45,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 4.0,
+   "start": 30.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 4.2,
+   "start": 15.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 3.8,
+   "start": 180.0,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "dur": 4.6,
+   "start": 12.0,
+   "fade_in": true,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 4.0,
+   "start": 300.0,
+   "fade_in": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+   "dur": 4.0,
+   "start": 12.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20250401_204159.jpg",
+   "dur": 4.2
+  }
+ ],
+ "fatos": {
+  "corrente do bem, vamo comigo nessa batalha, me ajude com os curativo": "Pedrinho, 20260916_234157 (48-58 s)",
+  "bolhas que aparecem a cada dia": "Pedrinho, 20260916_234157 (40-45 s: 'a cada dia aparece mais bolhas de sangue e bolhas de água')",
+  "R$10": "valor padrao do pedido"
+ },
+ "modelo": "lote de 30 (27/10/2026), frente D",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 26\\PEB 111 - CORRENTE DO BEM.mp4"
+}

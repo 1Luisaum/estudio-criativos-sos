@@ -1,0 +1,126 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB L2 CONSELHO",
+ "base": [
+  {
+   "arq": "{SKILL}\\assets\\imagens\\biblia.png",
+   "ini": 0,
+   "fim": 4,
+   "som": false,
+   "kb": true
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_braco_6448.mp4",
+   "ini": 0,
+   "fim": 1.7,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_bracos.mp4",
+   "ini": 0,
+   "fim": 1.3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_costas_faixas.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\Rot 2 (4).mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_sulfadiazina.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_maos_juntas.mp4",
+   "ini": 0,
+   "fim": 3.3,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_conselho_v1\\n_conselho_adrielly_sr.mp3",
+  "tx": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_conselho_v1\\n_conselho_adrielly_sr.json",
+  "de": 0.2
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4,
+   "linhas": [
+    "Dai, e vos será dado – Lucas 6:38"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3
+  },
+  {
+   "de": 4,
+   "ate": 20.1,
+   "linhas": [
+    "DOE 5 reais",
+    "e AJUDE A ADRIELLY 💗"
+   ],
+   "estilo": "caixa",
+   "bg": [
+    255,
+    214,
+    226
+   ],
+   "fg": [
+    60,
+    20,
+    40
+   ],
+   "size": 46,
+   "y": 310,
+   "fonte": "serif_bold",
+   "pad": [
+    18,
+    6
+   ],
+   "lh": 1.08
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 20.1
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "adr93_conselho_feridas",
+  "exemplo": "AEB 93",
+  "titulo": "Conselho com feridas e legenda UNICEF",
+  "descricao": "imagem de IA da Bíblia no gancho com o versículo amarelo, caixa \"DOE ... e AJUDE\", takes das feridas com borrão leve, legenda UNICEF. Sem P&B.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "criado": "05/11/2026 (pedido do usuário)"
+ }
+}

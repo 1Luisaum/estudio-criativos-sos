@@ -1,0 +1,337 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Olha pra lá Adrielly também, olha pra dele, desce a cabeça. Olha pra ele ali Adrielly. Olha pra ele. Isso. Boa",
+ "words": [
+  {
+   "text": "Olha",
+   "start": 1.92,
+   "end": 2.1,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0013818718721267942
+  },
+  {
+   "text": " ",
+   "start": 2.1,
+   "end": 2.12,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0016051754355430603
+  },
+  {
+   "text": "pra",
+   "start": 2.12,
+   "end": 2.22,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0016051754355430603
+  },
+  {
+   "text": " ",
+   "start": 2.22,
+   "end": 2.24,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.9593642354011536
+  },
+  {
+   "text": "lá",
+   "start": 2.24,
+   "end": 2.3,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.9593642354011536
+  },
+  {
+   "text": " ",
+   "start": 2.3,
+   "end": 2.32,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.3014076352119446
+  },
+  {
+   "text": "Adrielly",
+   "start": 2.32,
+   "end": 2.52,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.15233604633249342
+  },
+  {
+   "text": " ",
+   "start": 2.52,
+   "end": 2.56,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.008127591572701931
+  },
+  {
+   "text": "também,",
+   "start": 2.56,
+   "end": 2.78,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.007489286862047655
+  },
+  {
+   "text": " ",
+   "start": 2.78,
+   "end": 2.82,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -4.5536911784438416e-05
+  },
+  {
+   "text": "olha",
+   "start": 2.82,
+   "end": 2.92,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -4.5536911784438416e-05
+  },
+  {
+   "text": " ",
+   "start": 2.92,
+   "end": 2.96,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00011443436960689723
+  },
+  {
+   "text": "pra",
+   "start": 2.96,
+   "end": 3.04,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00011443436960689723
+  },
+  {
+   "text": " ",
+   "start": 3.04,
+   "end": 3.06,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.5517820119857788
+  },
+  {
+   "text": "dele,",
+   "start": 3.06,
+   "end": 3.28,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.46966231763362887
+  },
+  {
+   "text": " ",
+   "start": 3.28,
+   "end": 3.54,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.012222157791256905
+  },
+  {
+   "text": "desce",
+   "start": 3.54,
+   "end": 3.7,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.007350365081219934
+  },
+  {
+   "text": " ",
+   "start": 3.7,
+   "end": 3.7,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -5.3165931603871286e-05
+  },
+  {
+   "text": "a",
+   "start": 3.7,
+   "end": 3.7,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -5.3165931603871286e-05
+  },
+  {
+   "text": " ",
+   "start": 3.7,
+   "end": 3.74,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -9.560128091834486e-05
+  },
+  {
+   "text": "cabeça.",
+   "start": 3.74,
+   "end": 4.12,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -9.330244626783366e-05
+  },
+  {
+   "text": " ",
+   "start": 4.12,
+   "end": 4.12,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00011777184408856556
+  },
+  {
+   "text": "Olha",
+   "start": 4.88,
+   "end": 5.04,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00011777184408856556
+  },
+  {
+   "text": " ",
+   "start": 5.04,
+   "end": 5.08,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0002337421028641984
+  },
+  {
+   "text": "pra",
+   "start": 5.08,
+   "end": 5.16,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0002337421028641984
+  },
+  {
+   "text": " ",
+   "start": 5.16,
+   "end": 5.2,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -8.260862523457035e-05
+  },
+  {
+   "text": "ele",
+   "start": 5.2,
+   "end": 5.36,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -8.260862523457035e-05
+  },
+  {
+   "text": " ",
+   "start": 5.36,
+   "end": 5.38,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.03746882826089859
+  },
+  {
+   "text": "ali",
+   "start": 5.38,
+   "end": 5.44,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.03746882826089859
+  },
+  {
+   "text": " ",
+   "start": 5.44,
+   "end": 5.44,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.4748547673225403
+  },
+  {
+   "text": "Adrielly.",
+   "start": 5.44,
+   "end": 5.72,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.2814490124453894
+  },
+  {
+   "text": " ",
+   "start": 5.72,
+   "end": 5.72,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0012006701435893774
+  },
+  {
+   "text": "Olha",
+   "start": 6.84,
+   "end": 6.94,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0012006701435893774
+  },
+  {
+   "text": " ",
+   "start": 6.94,
+   "end": 6.98,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -2.3841574147809297e-05
+  },
+  {
+   "text": "pra",
+   "start": 6.98,
+   "end": 7.06,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -2.3841574147809297e-05
+  },
+  {
+   "text": " ",
+   "start": 7.06,
+   "end": 7.1,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -7.271740287251305e-06
+  },
+  {
+   "text": "ele.",
+   "start": 7.12,
+   "end": 7.3,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -1.83578779342497e-05
+  },
+  {
+   "text": " ",
+   "start": 7.3,
+   "end": 7.74,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -5.9126061387360096e-05
+  },
+  {
+   "text": "Isso.",
+   "start": 7.74,
+   "end": 8.0,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0005489476025104523
+  },
+  {
+   "text": " ",
+   "start": 8.0,
+   "end": 8.42,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.653598964214325
+  },
+  {
+   "text": "Boa",
+   "start": 8.42,
+   "end": 8.56,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.653598964214325
+  }
+ ],
+ "transcription_id": "eZqXAInWi4SbkFOxJ2mo",
+ "audio_duration_secs": 8.8316875
+}

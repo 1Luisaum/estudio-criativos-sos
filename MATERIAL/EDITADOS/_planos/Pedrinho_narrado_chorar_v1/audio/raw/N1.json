@@ -1,0 +1,95 @@
+{
+ "text": "Todo mundo chama ele de guerreiro. Pouca gente vê o que acontece quando a casa fica em silêncio.",
+ "words": [
+  {
+   "text": "Todo",
+   "start": 0.0,
+   "end": 0.267
+  },
+  {
+   "text": "mundo",
+   "start": 0.302,
+   "end": 0.476
+  },
+  {
+   "text": "chama",
+   "start": 0.522,
+   "end": 0.731
+  },
+  {
+   "text": "ele",
+   "start": 0.755,
+   "end": 0.848
+  },
+  {
+   "text": "de",
+   "start": 0.894,
+   "end": 0.952
+  },
+  {
+   "text": "guerreiro.",
+   "start": 0.998,
+   "end": 1.463
+  },
+  {
+   "text": "Pouca",
+   "start": 1.718,
+   "end": 1.985
+  },
+  {
+   "text": "gente",
+   "start": 2.02,
+   "end": 2.229
+  },
+  {
+   "text": "vê",
+   "start": 2.276,
+   "end": 2.368
+  },
+  {
+   "text": "o",
+   "start": 2.392,
+   "end": 2.415
+  },
+  {
+   "text": "que",
+   "start": 2.45,
+   "end": 2.519
+  },
+  {
+   "text": "acontece",
+   "start": 2.543,
+   "end": 3.065
+  },
+  {
+   "text": "quando",
+   "start": 3.1,
+   "end": 3.274
+  },
+  {
+   "text": "a",
+   "start": 3.297,
+   "end": 3.32
+  },
+  {
+   "text": "casa",
+   "start": 3.367,
+   "end": 3.634
+  },
+  {
+   "text": "fica",
+   "start": 3.68,
+   "end": 3.889
+  },
+  {
+   "text": "em",
+   "start": 3.913,
+   "end": 3.971
+  },
+  {
+   "text": "silêncio.",
+   "start": 4.029,
+   "end": 4.876
+  }
+ ]
+}

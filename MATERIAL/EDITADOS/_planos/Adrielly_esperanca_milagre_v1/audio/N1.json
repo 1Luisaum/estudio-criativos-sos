@@ -1,0 +1,95 @@
+{
+ "text": "As lesões cobrem quase o corpo inteiro dela. E, todo dia, são cerca de três horas de curativo.",
+ "words": [
+  {
+   "text": "As",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "lesões",
+   "start": 0.221,
+   "end": 0.546
+  },
+  {
+   "text": "cobrem",
+   "start": 0.604,
+   "end": 0.929
+  },
+  {
+   "text": "quase",
+   "start": 0.998,
+   "end": 1.231
+  },
+  {
+   "text": "o",
+   "start": 1.254,
+   "end": 1.304
+  },
+  {
+   "text": "corpo",
+   "start": 1.335,
+   "end": 1.544
+  },
+  {
+   "text": "inteiro",
+   "start": 1.567,
+   "end": 1.962
+  },
+  {
+   "text": "dela.",
+   "start": 2.009,
+   "end": 2.38
+  },
+  {
+   "text": "E,",
+   "start": 2.473,
+   "end": 2.601
+  },
+  {
+   "text": "todo",
+   "start": 2.659,
+   "end": 2.937
+  },
+  {
+   "text": "dia,",
+   "start": 2.995,
+   "end": 3.46
+  },
+  {
+   "text": "são",
+   "start": 3.569,
+   "end": 3.766
+  },
+  {
+   "text": "cerca",
+   "start": 3.801,
+   "end": 4.045
+  },
+  {
+   "text": "de",
+   "start": 4.079,
+   "end": 4.137
+  },
+  {
+   "text": "três",
+   "start": 4.195,
+   "end": 4.439
+  },
+  {
+   "text": "horas",
+   "start": 4.521,
+   "end": 4.73
+  },
+  {
+   "text": "de",
+   "start": 4.753,
+   "end": 4.803
+  },
+  {
+   "text": "curativo.",
+   "start": 4.857,
+   "end": 5.436
+  }
+ ]
+}

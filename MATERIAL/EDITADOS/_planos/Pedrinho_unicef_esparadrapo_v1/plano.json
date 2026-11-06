@@ -1,0 +1,257 @@
+{
+ "nome": "Pedrinho_unicef_esparadrapo_v1",
+ "pedido": "Completar as LEVAs 27/10/2026 - Frente 1",
+ "estilo": "UNICEF (criativo-unicef-ong)",
+ "angulo": "parece um simples esparadrapo, mas e parte de cada troca de curativo e cada item da troca e importante; ele so tem esses curativos na mao, e a cada dia aparecem mais bolhas para a mae romper",
+ "gancho": {
+  "referencia": "1669162520799709",
+  "musica_vol": 0.12,
+  "legenda_y": 1190,
+  "legenda_fs": 56,
+  "destaque": "#D90429",
+  "narracao": [
+   {
+    "id": "N0",
+    "t": 0.15
+   },
+   {
+    "id": "N1",
+    "t": 2.42
+   },
+   {
+    "id": "N2",
+    "t": 7.51
+   }
+  ],
+  "fim": 9.68,
+  "cenas": [
+   {
+    "src": "esparadrapo impermeável.png",
+    "t0": 0.0,
+    "t1": 2.42,
+    "zoom": [
+     1.0,
+     1.06
+    ]
+   },
+   {
+    "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\roteiro 9.mp4",
+    "start": 2.0,
+    "t0": 2.42,
+    "t1": 5.31,
+    "papel": "cena forte do Pedrinho",
+    "zoom": [
+     1.0,
+     1.0
+    ]
+   },
+   {
+    "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+    "start": 206.0,
+    "t0": 5.31,
+    "t1": 7.51,
+    "zoom": [
+     1.0,
+     1.0
+    ]
+   },
+   {
+    "src": "VID-20260702-WA0016.mp4",
+    "t0": 7.51,
+    "t1": 9.68,
+    "zoom": [
+     1.0,
+     1.0
+    ],
+    "start": 104.0
+   }
+  ],
+  "blocos": [
+   [
+    "ISSO PODE PARECER",
+    "UM SIMPLES ESPARADRAPO."
+   ],
+   [
+    "MAS PARA O PEDRINHO,"
+   ],
+   [
+    "QUE TEM",
+    "EPIDERMÓLISE BOLHOSA,"
+   ],
+   [
+    "É PARTE DE CADA",
+    "TROCA DE CURATIVO."
+   ],
+   [
+    "E CADA ITEM DESSA",
+    "TROCA É IMPORTANTE."
+   ]
+  ]
+ },
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\20260916_234157.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  500,
+  400
+ ],
+ "segments": [
+  {
+   "in": 3.79,
+   "out": 4.38,
+   "zoom": "Z1",
+   "txt": "Pessoal,"
+  },
+  {
+   "in": 4.79,
+   "out": 7.12,
+   "zoom": "Z2",
+   "txt": "eu só tenho esses curativos aqui,"
+  },
+  {
+   "in": 7.95,
+   "out": 8.58,
+   "zoom": "Z3",
+   "txt": "que estão"
+  },
+  {
+   "in": 8.99,
+   "out": 9.78,
+   "zoom": "ZF",
+   "txt": "na minha mão."
+  },
+  {
+   "in": 34.99,
+   "out": 36.78,
+   "zoom": "Z1",
+   "txt": "os meus ferimentos estão"
+  },
+  {
+   "in": 37.15,
+   "out": 39.66,
+   "zoom": "Z2",
+   "txt": "cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "in": 39.93,
+   "out": 43.49,
+   "zoom": "Z3",
+   "txt": "A cada dia aparece mais bolhas de sangue e bolhas de água"
+  },
+  {
+   "in": 43.49,
+   "out": 44.78,
+   "txt": "pra minha mamãe romper.",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 213.0
+    }
+   ]
+  },
+  {
+   "in": 48.27,
+   "out": 49.18,
+   "zoom": "Z1",
+   "txt": "vamo comigo,"
+  },
+  {
+   "in": 49.61,
+   "out": 52.86,
+   "txt": "nessa batalha, entre junto nessa corrente do bem.",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 24.0,
+     "until": 50.6
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 15.0
+    }
+   ]
+  },
+  {
+   "in": 53.33,
+   "out": 54.08,
+   "zoom": "ZF",
+   "txt": "Me ajude,"
+  },
+  {
+   "in": 54.95,
+   "out": 57.7,
+   "txt": "nas minhas necessidade e com os curativo.",
+   "broll": [
+    {
+     "src": "esparadrapo impermeável.png"
+    },
+    {
+     "src": "GAZE.png"
+    },
+    {
+     "src": "crepe bandagem.png"
+    },
+    {
+     "src": "soro fisiológico.png"
+    },
+    {
+     "src": "Pomada.png"
+    },
+    {
+     "src": "Cubitan -Suplementos e Dieta Terapêutica.png"
+    }
+   ],
+   "fix": {
+    "NECESSIDADE": "NECESSIDADES",
+    "CURATIVO": "CURATIVOS"
+   }
+  },
+  {
+   "in": 0.91,
+   "out": 3.14,
+   "zoom": "Z2",
+   "txt": "Um pouco com Deus é muito."
+  },
+  {
+   "in": 60.73,
+   "out": 63.8,
+   "zoom": "Z3",
+   "txt": "E desde já, meu muito obrigado a todos vocês."
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "FERIMENTOS",
+  "ABERTOS",
+  "SANGUE",
+  "BOLHAS",
+  "AJUDE",
+  "DEUS"
+ ],
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_46_14.png",
+  "texto_do_lettering": "R$ 5,00 PODEM LEVAR CONFORTO PRO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260824_182501.mp4",
+  "start": 75.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "hook": [],
+ "caption_y": 950,
+ "fatos": {
+  "esparadrapo e parte de cada troca de curativo (N1)": "foto do esparadrapo impermeavel no banco (itens de curativo do Pedrinho)",
+  "cada item de curativo e importante em uma troca (N2)": "Pedrinho, Roteiro_ peco perdao.mp4, 20.4-26.2 s",
+  "so tem esses curativos na mao; ferimentos cada vez mais abertos; a cada dia mais bolhas de sangue e de agua para a mae romper": "Pedrinho, 20260916_234157.mp4, 3.8-44.7 s",
+  "vamo comigo nessa batalha, corrente do bem; me ajude nas necessidades e com os curativos; um pouco com Deus e muito": "mesmo bruto, 0.9-3.1 s e 46.5-57.6 s",
+  "R$5 'conforto' (lettering)": "sem valor dito no bruto: R$5 (regra da skill). Arquivo 17_46_14",
+  "cortado": "a parte das 5 horas (ja usada no 5horas_v1), 'o', 'galera', 'eee', 'se e por causa do tempo ou nao'"
+ },
+ "music_start": 9.68,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 33\\PEB 150 - UNICEF.mp4"
+}

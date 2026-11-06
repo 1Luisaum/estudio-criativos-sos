@@ -1,0 +1,129 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Foi. Tá gravando aí. Um, dois, três, olha",
+ "words": [
+  {
+   "text": "Foi.",
+   "start": 0.56,
+   "end": 0.78,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.04256835381966084
+  },
+  {
+   "text": " ",
+   "start": 0.78,
+   "end": 0.84,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.5771563649177551
+  },
+  {
+   "text": "Tá",
+   "start": 1.52,
+   "end": 1.64,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -6.615896563744172e-05
+  },
+  {
+   "text": " ",
+   "start": 1.64,
+   "end": 1.68,
+   "type": "spacing",
+   "speaker_id": "speaker_1",
+   "logprob": -4.088794958079234e-05
+  },
+  {
+   "text": "gravando",
+   "start": 1.68,
+   "end": 2.0,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -0.00338048678895575
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.06,
+   "type": "spacing",
+   "speaker_id": "speaker_1",
+   "logprob": -0.007374683395028114
+  },
+  {
+   "text": "aí.",
+   "start": 2.06,
+   "end": 2.18,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -0.0049939723588371026
+  },
+  {
+   "text": " ",
+   "start": 2.18,
+   "end": 2.18,
+   "type": "spacing",
+   "speaker_id": "speaker_1",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": "Um,",
+   "start": 3.4,
+   "end": 3.64,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -4.529942695323068e-06
+  },
+  {
+   "text": " ",
+   "start": 3.64,
+   "end": 3.7,
+   "type": "spacing",
+   "speaker_id": "speaker_1",
+   "logprob": -7.819823804311454e-05
+  },
+  {
+   "text": "dois,",
+   "start": 3.7,
+   "end": 3.96,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -0.00010453969589434564
+  },
+  {
+   "text": " ",
+   "start": 3.96,
+   "end": 4.04,
+   "type": "spacing",
+   "speaker_id": "speaker_1",
+   "logprob": -0.00069165148306638
+  },
+  {
+   "text": "três,",
+   "start": 4.04,
+   "end": 4.32,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -0.000854003126733005
+  },
+  {
+   "text": " ",
+   "start": 4.32,
+   "end": 4.4,
+   "type": "spacing",
+   "speaker_id": "speaker_1",
+   "logprob": -0.006871639750897884
+  },
+  {
+   "text": "olha",
+   "start": 4.4,
+   "end": 4.6,
+   "type": "word",
+   "speaker_id": "speaker_1",
+   "logprob": -0.006871639750897884
+  }
+ ],
+ "transcription_id": "zIrZyhhSWe6WzoG0VQu3",
+ "audio_duration_secs": 7.2666875
+}

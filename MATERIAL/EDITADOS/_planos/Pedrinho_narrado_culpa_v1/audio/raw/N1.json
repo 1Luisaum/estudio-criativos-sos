@@ -1,0 +1,65 @@
+{
+ "text": "A epidermólise bolhosa é uma doença genética. Não é culpa de ninguém.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "epidermólise",
+   "start": 0.174,
+   "end": 1.219
+  },
+  {
+   "text": "bolhosa",
+   "start": 1.474,
+   "end": 2.38
+  },
+  {
+   "text": "é",
+   "start": 2.601,
+   "end": 2.682
+  },
+  {
+   "text": "uma",
+   "start": 2.728,
+   "end": 2.856
+  },
+  {
+   "text": "doença",
+   "start": 2.891,
+   "end": 3.193
+  },
+  {
+   "text": "genética.",
+   "start": 3.228,
+   "end": 3.831
+  },
+  {
+   "text": "Não",
+   "start": 3.971,
+   "end": 4.075
+  },
+  {
+   "text": "é",
+   "start": 4.11,
+   "end": 4.133
+  },
+  {
+   "text": "culpa",
+   "start": 4.168,
+   "end": 4.389
+  },
+  {
+   "text": "de",
+   "start": 4.423,
+   "end": 4.481
+  },
+  {
+   "text": "ninguém.",
+   "start": 4.516,
+   "end": 5.248
+  }
+ ]
+}

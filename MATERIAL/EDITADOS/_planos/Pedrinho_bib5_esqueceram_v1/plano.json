@@ -1,0 +1,114 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_1342577441148988.mp4",
+ "estilo": "BIB ESQUECERAM",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 25.5,
+   "linhas": [
+    "esqueceram do Pedrinho? 💔",
+    "os curativos dele estão acabando",
+    "e uma caixa custa R$1.500 😭"
+   ],
+   "estilo": "caixa",
+   "por_linha": true,
+   "bg": "branco",
+   "fg": "preto",
+   "size": 44,
+   "y": 1370,
+   "pad": [
+    14,
+    0
+   ],
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 25.5
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 1342 - esqueceram da gente.mp3",
+ "musica_volume": 1.0,
+ "modelo": {
+  "id": "peb212_l1_esqueceram",
+  "exemplo": "PEB 212",
+  "descricao": "1342577441148988: faixas brancas por linha com letra preta, embaixo (y 72%)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1342577441148988",
+  "titulo": "Esqueceram da Adrielly?",
+  "variacao": "pedrinho_esqueceram"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_feridas.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_curativo.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+   "ini": 2.0,
+   "fim": 4.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152739.mp4",
+   "ini": 3.0,
+   "fim": 5.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pe_tornozelo.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_faixas.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 8.0,
+   "fim": 10.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pescoco.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas_inteiras.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 20.0,
+   "fim": 22.75,
+   "som": false
+  }
+ ],
+ "fatos": {
+  "acabando / R$1.500": "placas 20261102_151715 e 152739"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 67\\PEB 248 - BIB ESQUECERAM.mp4",
+ "saida_fixa": true
+}

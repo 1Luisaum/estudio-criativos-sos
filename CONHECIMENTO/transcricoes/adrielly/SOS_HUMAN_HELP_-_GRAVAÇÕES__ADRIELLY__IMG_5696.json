@@ -1,0 +1,576 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Quanto tempo dura esses curativos? Em média, 30 dias, isto é, podendo variar por questões emocionais, tempo climático. Lembrando que no calor tudo intensifica ainda mais em lesões, bolhas, feridas e às vezes tendo que fazer curativos duas vezes ao dia",
+ "words": [
+  {
+   "text": "Quanto",
+   "start": 0.46,
+   "end": 0.86,
+   "type": "word",
+   "logprob": -0.00534770917147398
+  },
+  {
+   "text": " ",
+   "start": 0.86,
+   "end": 1.02,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "tempo",
+   "start": 1.02,
+   "end": 1.52,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 1.52,
+   "end": 1.66,
+   "type": "spacing",
+   "logprob": -0.00016640232934150845
+  },
+  {
+   "text": "dura",
+   "start": 1.66,
+   "end": 2.04,
+   "type": "word",
+   "logprob": -0.00016640232934150845
+  },
+  {
+   "text": " ",
+   "start": 2.04,
+   "end": 2.14,
+   "type": "spacing",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": "esses",
+   "start": 2.22,
+   "end": 2.6,
+   "type": "word",
+   "logprob": -9.65590606938349e-06
+  },
+  {
+   "text": " ",
+   "start": 2.6,
+   "end": 2.72,
+   "type": "spacing",
+   "logprob": -1.597391747054644e-05
+  },
+  {
+   "text": "curativos?",
+   "start": 2.74,
+   "end": 3.72,
+   "type": "word",
+   "logprob": -1.11579206532042e-05
+  },
+  {
+   "text": " ",
+   "start": 3.72,
+   "end": 4.28,
+   "type": "spacing",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": "Em",
+   "start": 4.28,
+   "end": 4.54,
+   "type": "word",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": " ",
+   "start": 4.54,
+   "end": 4.6,
+   "type": "spacing",
+   "logprob": -2.3483953555114567e-05
+  },
+  {
+   "text": "média,",
+   "start": 4.6,
+   "end": 5.18,
+   "type": "word",
+   "logprob": -0.06084056672261795
+  },
+  {
+   "text": " ",
+   "start": 5.18,
+   "end": 5.48,
+   "type": "spacing",
+   "logprob": -0.0015036477707326412
+  },
+  {
+   "text": "30",
+   "start": 5.64,
+   "end": 5.96,
+   "type": "word",
+   "logprob": -1.1920927533992653e-07
+  },
+  {
+   "text": " ",
+   "start": 5.96,
+   "end": 6.04,
+   "type": "spacing",
+   "logprob": -2.038458114839159e-05
+  },
+  {
+   "text": "dias,",
+   "start": 6.04,
+   "end": 6.58,
+   "type": "word",
+   "logprob": -0.07739083750348072
+  },
+  {
+   "text": " ",
+   "start": 6.58,
+   "end": 7.3,
+   "type": "spacing",
+   "logprob": -0.009332957677543163
+  },
+  {
+   "text": "isto",
+   "start": 7.3,
+   "end": 7.66,
+   "type": "word",
+   "logprob": -0.009332957677543163
+  },
+  {
+   "text": " ",
+   "start": 7.66,
+   "end": 7.78,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "é,",
+   "start": 7.78,
+   "end": 7.9,
+   "type": "word",
+   "logprob": -1.8000287980157736e-05
+  },
+  {
+   "text": " ",
+   "start": 7.9,
+   "end": 8.34,
+   "type": "spacing",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": "podendo",
+   "start": 8.34,
+   "end": 9.02,
+   "type": "word",
+   "logprob": -1.2397689715726301e-05
+  },
+  {
+   "text": " ",
+   "start": 9.02,
+   "end": 9.2,
+   "type": "spacing",
+   "logprob": -0.0001928620331455022
+  },
+  {
+   "text": "variar",
+   "start": 9.2,
+   "end": 9.72,
+   "type": "word",
+   "logprob": -0.0001928620331455022
+  },
+  {
+   "text": " ",
+   "start": 9.72,
+   "end": 10.4,
+   "type": "spacing",
+   "logprob": -8.535020606359467e-05
+  },
+  {
+   "text": "por",
+   "start": 10.4,
+   "end": 10.56,
+   "type": "word",
+   "logprob": -8.535020606359467e-05
+  },
+  {
+   "text": " ",
+   "start": 10.56,
+   "end": 10.66,
+   "type": "spacing",
+   "logprob": -1.680836794548668e-05
+  },
+  {
+   "text": "questões",
+   "start": 10.66,
+   "end": 11.42,
+   "type": "word",
+   "logprob": -1.680836794548668e-05
+  },
+  {
+   "text": " ",
+   "start": 11.42,
+   "end": 11.66,
+   "type": "spacing",
+   "logprob": -7.354942499659956e-05
+  },
+  {
+   "text": "emocionais,",
+   "start": 11.68,
+   "end": 12.76,
+   "type": "word",
+   "logprob": -2.8565893444465473e-05
+  },
+  {
+   "text": " ",
+   "start": 12.76,
+   "end": 13.4,
+   "type": "spacing",
+   "logprob": -1.8358061424805783e-05
+  },
+  {
+   "text": "tempo",
+   "start": 13.4,
+   "end": 13.86,
+   "type": "word",
+   "logprob": -1.8358061424805783e-05
+  },
+  {
+   "text": " ",
+   "start": 13.86,
+   "end": 14.0,
+   "type": "spacing",
+   "logprob": -0.023044632747769356
+  },
+  {
+   "text": "climático.",
+   "start": 14.0,
+   "end": 14.84,
+   "type": "word",
+   "logprob": -0.02504034321755171
+  },
+  {
+   "text": " ",
+   "start": 14.84,
+   "end": 15.22,
+   "type": "spacing",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": "Lembrando",
+   "start": 15.22,
+   "end": 15.98,
+   "type": "word",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": " ",
+   "start": 15.98,
+   "end": 16.239,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "que",
+   "start": 16.239,
+   "end": 16.36,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 16.36,
+   "end": 16.379,
+   "type": "spacing",
+   "logprob": -0.00010895135346800089
+  },
+  {
+   "text": "no",
+   "start": 16.379,
+   "end": 16.52,
+   "type": "word",
+   "logprob": -0.00010895135346800089
+  },
+  {
+   "text": " ",
+   "start": 16.52,
+   "end": 16.56,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "calor",
+   "start": 16.56,
+   "end": 17.1,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 17.1,
+   "end": 17.62,
+   "type": "spacing",
+   "logprob": -0.04858744144439697
+  },
+  {
+   "text": "tudo",
+   "start": 17.62,
+   "end": 18.08,
+   "type": "word",
+   "logprob": -0.04858744144439697
+  },
+  {
+   "text": " ",
+   "start": 18.08,
+   "end": 18.16,
+   "type": "spacing",
+   "logprob": -2.3364747903542593e-05
+  },
+  {
+   "text": "intensifica",
+   "start": 18.16,
+   "end": 19.16,
+   "type": "word",
+   "logprob": -1.9788538669341836e-05
+  },
+  {
+   "text": " ",
+   "start": 19.16,
+   "end": 19.34,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "ainda",
+   "start": 19.34,
+   "end": 19.74,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 19.74,
+   "end": 19.86,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "mais",
+   "start": 19.86,
+   "end": 20.32,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 20.32,
+   "end": 20.56,
+   "type": "spacing",
+   "logprob": -1.168244216387393e-05
+  },
+  {
+   "text": "em",
+   "start": 20.56,
+   "end": 20.72,
+   "type": "word",
+   "logprob": -1.168244216387393e-05
+  },
+  {
+   "text": " ",
+   "start": 20.72,
+   "end": 20.76,
+   "type": "spacing",
+   "logprob": -0.00011574551899684593
+  },
+  {
+   "text": "lesões,",
+   "start": 20.76,
+   "end": 21.56,
+   "type": "word",
+   "logprob": -4.975849149348376e-05
+  },
+  {
+   "text": " ",
+   "start": 21.56,
+   "end": 22.22,
+   "type": "spacing",
+   "logprob": -0.00011359999916749075
+  },
+  {
+   "text": "bolhas,",
+   "start": 22.22,
+   "end": 22.94,
+   "type": "word",
+   "logprob": -4.9962954554822705e-05
+  },
+  {
+   "text": " ",
+   "start": 22.94,
+   "end": 23.3,
+   "type": "spacing",
+   "logprob": -0.00014649749209638685
+  },
+  {
+   "text": "feridas",
+   "start": 23.3,
+   "end": 24.02,
+   "type": "word",
+   "logprob": -6.455574618615043e-05
+  },
+  {
+   "text": " ",
+   "start": 24.02,
+   "end": 24.62,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "e",
+   "start": 24.62,
+   "end": 24.68,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 24.68,
+   "end": 24.74,
+   "type": "spacing",
+   "logprob": -0.0010343207977712154
+  },
+  {
+   "text": "às",
+   "start": 24.74,
+   "end": 24.92,
+   "type": "word",
+   "logprob": -0.0010343207977712154
+  },
+  {
+   "text": " ",
+   "start": 24.92,
+   "end": 24.96,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "vezes",
+   "start": 24.96,
+   "end": 25.44,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 25.44,
+   "end": 25.5,
+   "type": "spacing",
+   "logprob": -5.98412734689191e-05
+  },
+  {
+   "text": "tendo",
+   "start": 25.5,
+   "end": 25.74,
+   "type": "word",
+   "logprob": -5.98412734689191e-05
+  },
+  {
+   "text": " ",
+   "start": 25.74,
+   "end": 25.82,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 25.82,
+   "end": 25.92,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 25.92,
+   "end": 25.98,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "fazer",
+   "start": 25.98,
+   "end": 26.38,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 26.38,
+   "end": 26.48,
+   "type": "spacing",
+   "logprob": -1.1920858014491387e-05
+  },
+  {
+   "text": "curativos",
+   "start": 26.48,
+   "end": 27.38,
+   "type": "word",
+   "logprob": -0.00018085672794162141
+  },
+  {
+   "text": " ",
+   "start": 27.38,
+   "end": 27.9,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "duas",
+   "start": 27.9,
+   "end": 28.26,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 28.26,
+   "end": 28.34,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "vezes",
+   "start": 28.34,
+   "end": 28.8,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 28.8,
+   "end": 28.84,
+   "type": "spacing",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": "ao",
+   "start": 28.84,
+   "end": 28.98,
+   "type": "word",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": " ",
+   "start": 28.98,
+   "end": 29.08,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "dia",
+   "start": 29.08,
+   "end": 29.4,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  }
+ ],
+ "transcription_id": "gKoHXmYbnbFun1VL7t7w",
+ "audio_duration_secs": 30.8583125
+}

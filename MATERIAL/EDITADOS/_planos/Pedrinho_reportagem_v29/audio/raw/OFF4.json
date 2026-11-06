@@ -1,0 +1,65 @@
+{
+ "text": "Somando tudo, o cuidado virou uma despesa que a família não alcança.",
+ "words": [
+  {
+   "text": "Somando",
+   "start": 0.0,
+   "end": 0.43
+  },
+  {
+   "text": "tudo,",
+   "start": 0.499,
+   "end": 0.952
+  },
+  {
+   "text": "o",
+   "start": 1.068,
+   "end": 1.149
+  },
+  {
+   "text": "cuidado",
+   "start": 1.184,
+   "end": 1.602
+  },
+  {
+   "text": "virou",
+   "start": 1.637,
+   "end": 1.881
+  },
+  {
+   "text": "uma",
+   "start": 1.974,
+   "end": 2.125
+  },
+  {
+   "text": "despesa",
+   "start": 2.159,
+   "end": 2.728
+  },
+  {
+   "text": "que",
+   "start": 2.775,
+   "end": 2.844
+  },
+  {
+   "text": "a",
+   "start": 2.868,
+   "end": 2.891
+  },
+  {
+   "text": "família",
+   "start": 2.926,
+   "end": 3.274
+  },
+  {
+   "text": "não",
+   "start": 3.32,
+   "end": 3.46
+  },
+  {
+   "text": "alcança.",
+   "start": 3.483,
+   "end": 4.412
+  }
+ ]
+}

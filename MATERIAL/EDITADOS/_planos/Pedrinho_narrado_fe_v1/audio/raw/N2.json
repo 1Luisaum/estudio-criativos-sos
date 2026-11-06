@@ -1,0 +1,100 @@
+{
+ "text": "A dor não dá folga. A fé dele também não. Nos dias piores, é nela que ele se segura.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.104
+  },
+  {
+   "text": "dor",
+   "start": 0.186,
+   "end": 0.313
+  },
+  {
+   "text": "não",
+   "start": 0.36,
+   "end": 0.464
+  },
+  {
+   "text": "dá",
+   "start": 0.499,
+   "end": 0.58
+  },
+  {
+   "text": "folga.",
+   "start": 0.662,
+   "end": 1.115
+  },
+  {
+   "text": "A",
+   "start": 1.521,
+   "end": 1.591
+  },
+  {
+   "text": "fé",
+   "start": 1.672,
+   "end": 1.8
+  },
+  {
+   "text": "dele",
+   "start": 1.869,
+   "end": 2.043
+  },
+  {
+   "text": "também",
+   "start": 2.078,
+   "end": 2.403
+  },
+  {
+   "text": "não.",
+   "start": 2.438,
+   "end": 2.775
+  },
+  {
+   "text": "Nos",
+   "start": 3.239,
+   "end": 3.471
+  },
+  {
+   "text": "dias",
+   "start": 3.506,
+   "end": 3.738
+  },
+  {
+   "text": "piores,",
+   "start": 3.808,
+   "end": 4.284
+  },
+  {
+   "text": "é",
+   "start": 4.319,
+   "end": 4.354
+  },
+  {
+   "text": "nela",
+   "start": 4.447,
+   "end": 4.737
+  },
+  {
+   "text": "que",
+   "start": 4.783,
+   "end": 4.853
+  },
+  {
+   "text": "ele",
+   "start": 4.876,
+   "end": 4.957
+  },
+  {
+   "text": "se",
+   "start": 4.992,
+   "end": 5.05
+  },
+  {
+   "text": "segura.",
+   "start": 5.097,
+   "end": 5.898
+  }
+ ]
+}

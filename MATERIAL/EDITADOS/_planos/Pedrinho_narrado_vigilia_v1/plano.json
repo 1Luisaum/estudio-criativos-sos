@@ -1,0 +1,345 @@
+{
+ "nome": "Pedrinho_narrado_vigilia_v1",
+ "crianca": "Pedrinho",
+ "angulo": "vigilia",
+ "gancho": "a mãe atenta que não sai do lado",
+ "fatos": [
+  "minha mamãe tá atenta: Pedrinho, Um Vídeo Novo 223,9 s",
+  "mamãe colando comigo, nervoso de tanto ferimento: Um Vídeo Novo 329 s",
+  "é ela quem está comigo em todos os curativos: Pedrinho, Roteiro 4"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 90.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "ATENTA",
+  "FERIR",
+  "BOLHAS",
+  "SANGUE",
+  "FERIMENTO",
+  "DOENDO",
+  "TERRÍVEL"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“TÁ *ATENTA*”",
+    "fs": 136
+   },
+   {
+    "text": "A MÃE QUE NÃO SAI DO LADO DELE",
+    "fs": 50
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     223.88,
+     223.88
+    ],
+    [
+     224.5,
+     228.6
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 5.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 30.0
+    }
+   ],
+   "txt": "minha mamãe tá atenta, se ela ver que vai ferir mesmo, ela vai ter que tampar esse ombro,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 142.0,
+     "until": 3.28
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 150.0
+    }
+   ],
+   "txt": "Ela olha cada pedaço da pele dele antes de a ferida abrir. É assim que vive a mãe de uma criança com pele de borboleta."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     39.96,
+     44.2
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 174.0,
+     "until": 1.21
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 201.0,
+     "until": 2.07
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 208.0
+    }
+   ],
+   "txt": "Ela cuida de cada bolha. De cada faixa. E quando termina, já está na hora de olhar tudo de novo."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_verdade_v1/tx/roteiro3.json",
+   "cuts": [
+    [
+     9.78,
+     11.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Todos os dias eu cuido dele"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V2.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     329.1,
+     330.32
+    ],
+    [
+     330.72,
+     331.18
+    ],
+    [
+     331.78,
+     331.78
+    ],
+    [
+     332.48,
+     332.6
+    ],
+    [
+     334.9,
+     335.28
+    ],
+    [
+     335.86,
+     336.3
+    ],
+    [
+     337.5,
+     337.9
+    ]
+   ],
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 15.0
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 30.0
+    }
+   ],
+   "txt": "Essa semana minha mamãe tá colando bastante comigo, porque tô andando um pouco nervoso, de tanto ferimento de ficar doendo,"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "ELA FICA.",
+    "TODO DIA."
+   ],
+   "dur": 1.5,
+   "fs": 190
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260819_222914.jpg",
+     "until": 1.81
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 62.0
+    }
+   ],
+   "txt": "Ele fica nervoso de tanta dor. Ela também sente. Mas é ela quem não pode cair."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     9.84,
+     10.28
+    ],
+    [
+     10.96,
+     11.52
+    ],
+    [
+     12.72,
+     15.46
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "Eu faço tudo, o que tá no meu alcance, mas a EB, essa enfermidade, ela é terrível."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_verdade_v1/tx/roteiro4.json",
+   "cuts": [
+    [
+     13.44,
+     17.66
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      380,
+      1100
+     ]
+    },
+    {
+     "z": 1.25,
+     "center": [
+      540,
+      1100
+     ]
+    }
+   ],
+   "txt": "E é ela quem está comigo todos os dias, em todos os curativos."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 46.0,
+     "until": 1.69
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 96.0
+    }
+   ],
+   "txt": "Ela olha por ele o dia inteiro. Agora, alguém precisa olhar por ela."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 64.0
+    }
+   ],
+   "txt": "Clique em Saiba mais e fique ao lado dessa mãe."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20250401_204159.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "ELA OLHA POR ELE",
+    "*OLHE POR ELA*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 173 - NARRADO DE IMPACTO.mp4"
+}

@@ -1,0 +1,128 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Se você puder, continue apoiando minha causa. Deus abençoe",
+ "words": [
+  {
+   "text": "Se",
+   "start": 0.42,
+   "end": 0.54,
+   "type": "word",
+   "logprob": -0.00013159839727450162
+  },
+  {
+   "text": " ",
+   "start": 0.54,
+   "end": 0.66,
+   "type": "spacing",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": "você",
+   "start": 0.66,
+   "end": 1.16,
+   "type": "word",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": " ",
+   "start": 1.16,
+   "end": 1.26,
+   "type": "spacing",
+   "logprob": -3.0874729418428615e-05
+  },
+  {
+   "text": "puder,",
+   "start": 1.26,
+   "end": 1.74,
+   "type": "word",
+   "logprob": -0.000483550358675681
+  },
+  {
+   "text": " ",
+   "start": 1.74,
+   "end": 2.18,
+   "type": "spacing",
+   "logprob": -7.545663538621739e-05
+  },
+  {
+   "text": "continue",
+   "start": 2.18,
+   "end": 2.84,
+   "type": "word",
+   "logprob": -7.545663538621739e-05
+  },
+  {
+   "text": " ",
+   "start": 2.84,
+   "end": 2.9,
+   "type": "spacing",
+   "logprob": -4.6967357775429264e-05
+  },
+  {
+   "text": "apoiando",
+   "start": 2.9,
+   "end": 3.44,
+   "type": "word",
+   "logprob": -2.354328352893731e-05
+  },
+  {
+   "text": " ",
+   "start": 3.44,
+   "end": 3.48,
+   "type": "spacing",
+   "logprob": -0.00014006110723130405
+  },
+  {
+   "text": "minha",
+   "start": 3.48,
+   "end": 3.72,
+   "type": "word",
+   "logprob": -0.00014006110723130405
+  },
+  {
+   "text": " ",
+   "start": 3.72,
+   "end": 3.76,
+   "type": "spacing",
+   "logprob": -1.4543427823809907e-05
+  },
+  {
+   "text": "causa.",
+   "start": 3.76,
+   "end": 4.22,
+   "type": "word",
+   "logprob": -0.0003771357290437057
+  },
+  {
+   "text": " ",
+   "start": 4.22,
+   "end": 4.46,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "Deus",
+   "start": 4.46,
+   "end": 4.64,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 4.64,
+   "end": 4.7,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "abençoe",
+   "start": 4.7,
+   "end": 5.34,
+   "type": "word",
+   "logprob": -0.00014553040708571125
+  }
+ ],
+ "transcription_id": "36NRilpYSu3f9DTIueI6",
+ "audio_duration_secs": 6.3366875
+}

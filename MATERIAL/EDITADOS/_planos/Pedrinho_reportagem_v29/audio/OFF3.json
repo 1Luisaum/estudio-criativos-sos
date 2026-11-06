@@ -1,0 +1,50 @@
+{
+ "text": "Este óleo também entra nos cuidados com a pele.",
+ "words": [
+  {
+   "text": "Este",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "óleo",
+   "start": 0.395,
+   "end": 0.604
+  },
+  {
+   "text": "também",
+   "start": 0.65,
+   "end": 1.01
+  },
+  {
+   "text": "entra",
+   "start": 1.057,
+   "end": 1.358
+  },
+  {
+   "text": "nos",
+   "start": 1.405,
+   "end": 1.544
+  },
+  {
+   "text": "cuidados",
+   "start": 1.591,
+   "end": 2.148
+  },
+  {
+   "text": "com",
+   "start": 2.218,
+   "end": 2.322
+  },
+  {
+   "text": "a",
+   "start": 2.368,
+   "end": 2.418
+  },
+  {
+   "text": "pele.",
+   "start": 2.45,
+   "end": 2.779
+  }
+ ]
+}

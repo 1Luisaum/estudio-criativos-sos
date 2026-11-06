@@ -1,0 +1,80 @@
+{
+ "text": "A atadura, que ele chama de faixa, cobre os braços, as pernas e o tronco.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.07
+  },
+  {
+   "text": "atadura,",
+   "start": 0.093,
+   "end": 0.697
+  },
+  {
+   "text": "que",
+   "start": 0.731,
+   "end": 0.882
+  },
+  {
+   "text": "ele",
+   "start": 0.917,
+   "end": 1.057
+  },
+  {
+   "text": "chama",
+   "start": 1.103,
+   "end": 1.393
+  },
+  {
+   "text": "de",
+   "start": 1.428,
+   "end": 1.509
+  },
+  {
+   "text": "faixa,",
+   "start": 1.625,
+   "end": 2.212
+  },
+  {
+   "text": "cobre",
+   "start": 2.212,
+   "end": 2.517
+  },
+  {
+   "text": "os",
+   "start": 2.54,
+   "end": 2.598
+  },
+  {
+   "text": "braços,",
+   "start": 2.668,
+   "end": 3.213
+  },
+  {
+   "text": "as",
+   "start": 3.237,
+   "end": 3.329
+  },
+  {
+   "text": "pernas",
+   "start": 3.422,
+   "end": 3.84
+  },
+  {
+   "text": "e",
+   "start": 3.898,
+   "end": 3.948
+  },
+  {
+   "text": "o",
+   "start": 3.98,
+   "end": 4.03
+  },
+  {
+   "text": "tronco.",
+   "start": 4.061,
+   "end": 4.471
+  }
+ ]
+}

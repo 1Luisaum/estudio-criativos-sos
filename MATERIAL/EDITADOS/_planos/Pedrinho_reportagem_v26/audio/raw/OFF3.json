@@ -1,0 +1,65 @@
+{
+ "text": "A mãe sente o mesmo. Na primeira vaquinha, ela não imaginava voltar.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.104
+  },
+  {
+   "text": "mãe",
+   "start": 0.186,
+   "end": 0.43
+  },
+  {
+   "text": "sente",
+   "start": 0.476,
+   "end": 0.801
+  },
+  {
+   "text": "o",
+   "start": 0.824,
+   "end": 0.848
+  },
+  {
+   "text": "mesmo.",
+   "start": 0.906,
+   "end": 1.347
+  },
+  {
+   "text": "Na",
+   "start": 1.521,
+   "end": 1.637
+  },
+  {
+   "text": "primeira",
+   "start": 1.683,
+   "end": 2.009
+  },
+  {
+   "text": "vaquinha,",
+   "start": 2.043,
+   "end": 2.496
+  },
+  {
+   "text": "ela",
+   "start": 2.531,
+   "end": 2.717
+  },
+  {
+   "text": "não",
+   "start": 2.763,
+   "end": 2.868
+  },
+  {
+   "text": "imaginava",
+   "start": 2.914,
+   "end": 3.541
+  },
+  {
+   "text": "voltar.",
+   "start": 3.587,
+   "end": 4.365
+  }
+ ]
+}

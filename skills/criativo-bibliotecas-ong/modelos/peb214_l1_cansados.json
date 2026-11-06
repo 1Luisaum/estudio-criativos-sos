@@ -1,0 +1,97 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_1126949516397141.mp4",
+ "estilo": "BIB L1 PEDIR AJUDA",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 14,
+   "fim": 17,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 10.4,
+   "fim": 13.4,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 10,
+   "fim": 13,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_153323.mp4",
+   "ini": 3,
+   "fim": 6,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   "ini": 7,
+   "fim": 10,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151540.mp4",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 1,
+   "fim": 4.5,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 25.5,
+   "linhas": [
+    "Os curativos do Pedrinho",
+    "estão acabando,",
+    "a gente precisa muito",
+    "da sua ajuda 😭💔"
+   ],
+   "estilo": "seco",
+   "size": 52,
+   "y": 1210,
+   "contorno": 4,
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 25.5
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 1126 - cansados de pedir ajuda.mp3",
+ "musica_volume": 1.0,
+ "modelo": {
+  "id": "peb214_l1_cansados",
+  "exemplo": "PEB 214",
+  "descricao": "1126949516397141: letra branca grossa com contorno no meio (y 63%)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1126949516397141",
+  "titulo": "A gente precisa da sua ajuda"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "text": "Ele sabe explicar a diferença que o curativo faz no corpo.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.232
+  },
+  {
+   "text": "sabe",
+   "start": 0.279,
+   "end": 0.511
+  },
+  {
+   "text": "explicar",
+   "start": 0.534,
+   "end": 0.975
+  },
+  {
+   "text": "a",
+   "start": 1.022,
+   "end": 1.045
+  },
+  {
+   "text": "diferença",
+   "start": 1.091,
+   "end": 1.66
+  },
+  {
+   "text": "que",
+   "start": 1.707,
+   "end": 1.788
+  },
+  {
+   "text": "o",
+   "start": 1.811,
+   "end": 1.858
+  },
+  {
+   "text": "curativo",
+   "start": 1.892,
+   "end": 2.473
+  },
+  {
+   "text": "faz",
+   "start": 2.543,
+   "end": 2.786
+  },
+  {
+   "text": "no",
+   "start": 2.844,
+   "end": 2.902
+  },
+  {
+   "text": "corpo.",
+   "start": 2.949,
+   "end": 3.715
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Todo dia, a mesma cena se repete na casa do Pedrinho. A mãe começa tirando os curativos do filho.",
+  "OFF2": "No meio do caminho, aparece o que a epidermólise bolhosa deixou na pele naquele dia.",
+  "OFF3": "Depois, vem a pomada. E a faixa, que volta a cobrir quase o corpo todo.",
+  "OFF4": "Quando termina, ela já sabe o que sobrou.",
+  "OFF5": "A campanha da SOS Human Help olha para a próxima troca. Dez reais ajudam essa mãe a continuar.",
+  "OFF6": "Clique em Saiba mais e entre nessa rotina com eles."
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "total_s": 71403,
+ "videos": [
+  {
+   "plano": "Pedrinho_reportagem_v28",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 256,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v28.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 198 - REPORTAGEM.mp4",
+   "duracao": 49.2,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 30 momento(s): [4.5, 6.5, 10.0, 13.0, 13.5, 14.0, 16.5, 17.5, 18.0, 19.0, 20.0, 22.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 198 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v29",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 209,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v29.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 197 - REPORTAGEM.mp4",
+   "duracao": 48.55,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 12 momento(s): [28.5, 32.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 39.0, 41.5, 42.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 197 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v31",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 251,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v31.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 199 - REPORTAGEM.mp4",
+   "duracao": 51.85,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 36 momento(s): [1.0, 2.5, 3.5, 4.0, 11.0, 11.5, 12.0, 12.5, 13.0, 14.0, 15.5, 16.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 199 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v32",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 226,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v32.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 200 - REPORTAGEM.mp4",
+   "duracao": 53.56,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 15 momento(s): [0.0, 8.0, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 200 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v33",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 70826,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v33.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 201 - REPORTAGEM.mp4",
+   "duracao": 50.11,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 39 momento(s): [6.5, 7.0, 11.0, 11.5, 12.0, 12.5, 13.0, 13.5, 14.0, 14.5, 15.0, 16.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 201 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  }
+ ]
+}

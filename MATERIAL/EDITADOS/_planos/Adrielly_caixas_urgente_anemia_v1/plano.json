@@ -1,0 +1,145 @@
+{
+ "nome": "Adrielly_caixas_urgente_v3",
+ "gancho": "ref 3: narrador Kaique em off sobre close real P&B + faixa URGENTE",
+ "angulo": "anemia com bolsa de sangue",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "anemia grave, perde sangue pelas lesões": "IMG_4193, IMG_5440 (42-63 s)",
+  "bolsa de sangue": "IMG_4194, IMG_3707 (92-103 s)",
+  "lençóis sujos de sangue todo dia": "IMG_4200",
+  "curativos protegem as feridas": "IMG_5185 (13-20 s)",
+  "cinco ou dez reais": "IMG_4493"
+ },
+ "modelo": "skill caixas (exemplo Pedrinho_vsl_voz_v7/v8), material da Adrielly",
+ "frases": [
+  {
+   "nome": "h1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_urgente_anemia_v1/gancho_dor.png",
+   "sem_caixas": true,
+   "zoom": 0.14,
+   "sem_legenda": true,
+   "pb": true,
+   "urgente_ref": [
+    "CASO DA ADRIELLY, COM ANEMIA E PELE DE BORBOLETA,",
+    "MOBILIZA PEDIDO DE AJUDA NAS REDES"
+   ],
+   "narracao": "N1"
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4193.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4193.json",
+   "cortes": [
+    [
+     1.3,
+     6.72
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_infusao_cama.mp4",
+     0.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_ferropurum.mp4",
+     0.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (4).mp4",
+     2.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4194.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4194.json",
+   "cortes": [
+    [
+     0.3,
+     3.36
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4194.MOV",
+     0.24
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4200.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4200.json",
+   "cortes": [
+    [
+     0.38,
+     8.06
+    ],
+    [
+     9.16,
+     10.18
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_lencol_sangue_pb.mp4",
+     0.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     15.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_pernas_faixas.mp4",
+     0.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (9).mp4",
+     10.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (5).mp4",
+     4.0
+    ]
+   ]
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_4493.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_4493.json",
+   "cortes": [
+    [
+     0.26,
+     7.36
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "ADRIELLY TEM EPIDERMÓLISE BOLHOSA E ANEMIA",
+   "GRAVE POR PERDER SANGUE PELAS LESÕES"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "AJUDAM ADRIELLY A TER OS CURATIVOS",
+   "QUE PROTEGEM AS FERIDAS"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "narracao": {
+  "N1": "A anemia da Adrielly é tão grave que ela precisa de bolsa de sangue."
+ },
+ "voz": {
+  "voice_id": "Hmn4B9B77pf6ttydteJ8"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 46\\AEB 61 - CAIXAS URGENTE.mp4"
+}

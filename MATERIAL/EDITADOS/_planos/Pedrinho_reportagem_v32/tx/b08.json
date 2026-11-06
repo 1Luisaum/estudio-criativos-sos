@@ -1,0 +1,166 @@
+{
+"text": "minha minha mamãe tá atenta, se ela ver que vai ferir mesmo, ela vai ter que tampar esse ombro, né?",
+"words": [
+{
+"text": "minha",
+"start": 0.12,
+"end": 0.24,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.030551884323358536
+},
+{
+"text": "minha",
+"start": 0.3,
+"end": 0.68,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.06533765498896571
+},
+{
+"text": "mamãe",
+"start": 0.74,
+"end": 1.0,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00018836148410628084
+},
+{
+"text": "tá",
+"start": 1.06,
+"end": 1.22,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -8.022463589441031e-05
+},
+{
+"text": "atenta,",
+"start": 1.26,
+"end": 1.64,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.09170001000113968
+},
+{
+"text": "se",
+"start": 1.7,
+"end": 1.76,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0005639393348246813
+},
+{
+"text": "ela",
+"start": 1.78,
+"end": 1.88,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0010963627137243748
+},
+{
+"text": "ver",
+"start": 1.92,
+"end": 2.02,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.005652278196066618
+},
+{
+"text": "que",
+"start": 2.06,
+"end": 2.14,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.861018856492592e-06
+},
+{
+"text": "vai",
+"start": 2.16,
+"end": 2.28,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.5242298245429993
+},
+{
+"text": "ferir",
+"start": 2.34,
+"end": 2.58,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.003315290214959532
+},
+{
+"text": "mesmo,",
+"start": 2.64,
+"end": 2.9,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0638432463335145
+},
+{
+"text": "ela",
+"start": 3.4,
+"end": 3.48,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.016228599473834038
+},
+{
+"text": "vai",
+"start": 3.52,
+"end": 3.68,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -6.437280717364047e-06
+},
+{
+"text": "ter",
+"start": 3.76,
+"end": 3.86,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.5497195136049413e-06
+},
+{
+"text": "que",
+"start": 3.9,
+"end": 4.02,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00019560330838430673
+},
+{
+"text": "tampar",
+"start": 4.08,
+"end": 4.42,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0010514703280932736
+},
+{
+"text": "esse",
+"start": 4.48,
+"end": 4.76,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0009735850035212934
+},
+{
+"text": "ombro,",
+"start": 4.84,
+"end": 5.02,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.34566994221556e-05
+},
+{
+"text": "né?",
+"start": 5.1,
+"end": 5.28,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.004729947694310492
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (223.76 a 229.08 s); imagem trocada por b-roll sem boca em movimento"
+}

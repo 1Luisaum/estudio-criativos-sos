@@ -1,0 +1,226 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Mãe, mãe, me ajuda aqui, tá doendo muito. Gente, me ajuda com meus curativos, por favor",
+ "words": [
+  {
+   "text": "Mãe,",
+   "start": 0.32,
+   "end": 0.84,
+   "type": "word",
+   "logprob": -0.02054162289186756
+  },
+  {
+   "text": " ",
+   "start": 0.84,
+   "end": 1.42,
+   "type": "spacing",
+   "logprob": -9.822363062994555e-05
+  },
+  {
+   "text": "mãe,",
+   "start": 1.42,
+   "end": 2.0,
+   "type": "word",
+   "logprob": -0.00039630798528378364
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.36,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "me",
+   "start": 2.36,
+   "end": 2.42,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.42,
+   "end": 2.5,
+   "type": "spacing",
+   "logprob": -1.4543427823809907e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 2.5,
+   "end": 3.0,
+   "type": "word",
+   "logprob": -1.4543427823809907e-05
+  },
+  {
+   "text": " ",
+   "start": 3.0,
+   "end": 3.06,
+   "type": "spacing",
+   "logprob": -1.4066597032069694e-05
+  },
+  {
+   "text": "aqui,",
+   "start": 3.06,
+   "end": 3.38,
+   "type": "word",
+   "logprob": -7.714131716056727e-05
+  },
+  {
+   "text": " ",
+   "start": 3.38,
+   "end": 3.68,
+   "type": "spacing",
+   "logprob": -1.1444026313256472e-05
+  },
+  {
+   "text": "tá",
+   "start": 3.68,
+   "end": 3.84,
+   "type": "word",
+   "logprob": -1.1444026313256472e-05
+  },
+  {
+   "text": " ",
+   "start": 3.84,
+   "end": 3.9,
+   "type": "spacing",
+   "logprob": -1.4305012882687151e-05
+  },
+  {
+   "text": "doendo",
+   "start": 3.9,
+   "end": 4.4,
+   "type": "word",
+   "logprob": -2.431837492622435e-05
+  },
+  {
+   "text": " ",
+   "start": 4.4,
+   "end": 4.54,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "muito.",
+   "start": 4.54,
+   "end": 5.2,
+   "type": "word",
+   "logprob": -0.002676761393028452
+  },
+  {
+   "text": " ",
+   "start": 5.2,
+   "end": 5.2,
+   "type": "spacing",
+   "logprob": -5.364403477869928e-06
+  },
+  {
+   "text": "Gente,",
+   "start": 5.94,
+   "end": 6.28,
+   "type": "word",
+   "logprob": -0.00041711860831128433
+  },
+  {
+   "text": " ",
+   "start": 6.28,
+   "end": 6.4,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "me",
+   "start": 6.4,
+   "end": 6.52,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.52,
+   "end": 6.6,
+   "type": "spacing",
+   "logprob": -9.179073458653875e-06
+  },
+  {
+   "text": "ajuda",
+   "start": 6.6,
+   "end": 7.26,
+   "type": "word",
+   "logprob": -9.179073458653875e-06
+  },
+  {
+   "text": " ",
+   "start": 7.26,
+   "end": 7.36,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "com",
+   "start": 7.36,
+   "end": 7.54,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 7.54,
+   "end": 7.62,
+   "type": "spacing",
+   "logprob": -0.0336463488638401
+  },
+  {
+   "text": "meus",
+   "start": 7.62,
+   "end": 7.88,
+   "type": "word",
+   "logprob": -0.0336463488638401
+  },
+  {
+   "text": " ",
+   "start": 7.88,
+   "end": 7.96,
+   "type": "spacing",
+   "logprob": -1.5139465176616795e-05
+  },
+  {
+   "text": "curativos,",
+   "start": 7.96,
+   "end": 9.12,
+   "type": "word",
+   "logprob": -2.0611065338016488e-05
+  },
+  {
+   "text": " ",
+   "start": 9.12,
+   "end": 9.34,
+   "type": "spacing",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": "por",
+   "start": 9.34,
+   "end": 9.52,
+   "type": "word",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": " ",
+   "start": 9.52,
+   "end": 9.64,
+   "type": "spacing",
+   "logprob": -0.00035982808913104236
+  },
+  {
+   "text": "favor",
+   "start": 9.64,
+   "end": 10.48,
+   "type": "word",
+   "logprob": -0.00035982808913104236
+  }
+ ],
+ "transcription_id": "ThTZ5Bjc2sILDf41JQU5",
+ "audio_duration_secs": 10.9316875
+}

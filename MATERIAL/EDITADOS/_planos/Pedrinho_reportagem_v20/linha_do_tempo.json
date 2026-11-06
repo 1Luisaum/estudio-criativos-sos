@@ -1,0 +1,71 @@
+{
+ "total": 63.16448899999996,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 6.275578,
+   "texto": "Para pedir ajuda ao filho, ela aprendeu uma regra cruel. Quanto pior a imagem, maior a resposta."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 7.359999999999999,
+   "texto": "a gente não deveria, mostrar os ferimentos todas as vez que a gente, precisa de ajuda,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.295102,
+   "texto": "Ela acompanha as redes do filho. E sabe em qual tipo de vídeo a ajuda aparece."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.960000000000002,
+   "texto": "Muita gente que segue meu filho aqui nas rede social, ajudou mais quando vê os momentos mais difícil."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.632585,
+   "texto": "Só que a ferida não existe apenas no dia em que vai para a internet."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 3.5200000000000005,
+   "texto": "E por trás da internet, existe meu filho,"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 2.762902,
+   "texto": "Por isso, desta vez, a mãe fez diferente."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 6.8599999999999755,
+   "texto": "Eu tô aqui sem precisar, mostrar, expor meu filho, Sem ter que mostrar o pior momento,"
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 7.5999999999999845,
+   "texto": "Se você puder ajudar, ajude o meu filho, porque ele precisa. Não porque você precisou vê-lo sofrendo."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 7.126916,
+   "texto": "Pela SOS Human Help, cinco reais já ajudam nos curativos do Pedrinho, sem ele precisar mostrar a dor."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 4.771406,
+   "texto": "Clique em Saiba mais e ajude sem precisar ver a ferida."
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "[choro]",
+ "words": [
+  {
+   "text": "[choro]",
+   "start": 0.88,
+   "end": 39.44,
+   "type": "audio_event",
+   "logprob": -0.028035465466867512
+  }
+ ],
+ "transcription_id": "84W5PibzOvL6jT7sCTxT",
+ "audio_duration_secs": 42.24
+}

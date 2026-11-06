@@ -1,0 +1,21 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Uma troca de curativo não é um item só. É uma cama inteira coberta de material.",
+  "OFF2": "A atadura, que ele chama de faixa, cobre os braços, as pernas e o tronco.",
+  "OFF3": "O gaze é onde vai a pomada.",
+  "OFF4": "A pomada é para aliviar.",
+  "OFF5": "O soro entra na hora do banho.",
+  "OFF6": "E ainda tem o esparadrapo impermeável.",
+  "OFF7": "A mãe diz, item por item, o que está faltando.",
+  "OFF8": "Se falta um item, a troca fica incompleta. A SOS Human Help reúne ajuda para essa lista, e dez reais já contribuem.",
+  "OFF9": "Clique em Saiba mais e ajude a completar a próxima troca."
+ }
+}

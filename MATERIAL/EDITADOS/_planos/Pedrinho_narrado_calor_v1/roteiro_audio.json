@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "O Pedrinho tem epidermólise bolhosa, a doença da pele de borboleta. No calor, as feridas pioram.",
+  "N2": "A mãe dele rompe cada bolha, limpa cada ferida... e cobre tudo de novo.",
+  "N3": "Atadura. Gaze. Pomada. Esparadrapo especial. Os cuidados dele passam de quarenta mil reais por mês.",
+  "N4": "A pele dele é frágil. Ele não.",
+  "N5": "Toque em Saiba mais. Cinco reais já ajudam demais."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

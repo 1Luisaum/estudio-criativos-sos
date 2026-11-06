@@ -1,0 +1,65 @@
+{
+ "total": 60.15324199999999,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.4151929999999995,
+   "texto": "Uma compra de curativos dura, em média, trinta dias na casa da Adrielly. Depois, acaba."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 7.779999999999997,
+   "texto": "Em média, 30 dias, e às vezes tendo que fazer curativos duas vezes ao dia"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.094535,
+   "texto": "Ela tem epidermólise bolhosa. A troca dos curativos leva cerca de três horas, e a mãe ajuda em cada etapa."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.66,
+   "texto": "Tudo isso aqui pro meus cuidados de hoje e amanhã eu vou precisar fazer de novo"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.483401,
+   "texto": "Com as doações, chegaram os primeiros curativos. Mas ela avisou: eles só duram um mês."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 4.980000000000001,
+   "texto": "Porém, esses curativos só vão durar um mês"
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 6.62,
+   "texto": "O que mais me assusta é em pensar quando eu vou fazer a troca e não ter"
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 6.794807,
+   "texto": "Para o curativo do mês que vem não faltar, a SOS Human Help está arrecadando. Com dez reais, você já ajuda."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 4.339999999999999,
+   "texto": "Continue me ajudando para eu ter no mês que vem"
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.985306,
+   "texto": "Toque em Saiba mais e garanta o curativo do próximo mês."
+  }
+ ]
+}

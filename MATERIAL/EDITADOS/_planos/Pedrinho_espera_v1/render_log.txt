@@ -1,0 +1,17 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_espera_v1.mp4
+seg 00 ok  t=  1.87
+seg 01 ok  t=  3.83
+seg 02 ok  t=  7.03
+seg 03 ok  t= 10.93
+seg 04 ok  t= 12.50
+seg 05 ok  t= 14.57
+seg 06 ok  t= 16.50
+seg 07 ok  t= 17.80
+seg 08 ok  t= 20.13
+seg 09 ok  t= 21.13
+seg 10 ok  t= 25.83
+seg 11 ok  t= 28.10
+seg 12 ok  t= 30.43
+seg 13 ok  t= 31.87
+audio: 35.27s  buracos=nenhum  ganho voz=+11.2dB
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_espera_v1.mp4  duracao=35.27s  tela_final=31.87s

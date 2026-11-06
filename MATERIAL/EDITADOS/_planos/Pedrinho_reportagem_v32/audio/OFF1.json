@@ -1,0 +1,105 @@
+{
+ "text": "Um ferimento no ombro mudou o curativo do Pedrinho. O corpo já vive enfaixado, e agora a faixa precisou subir.",
+ "words": [
+  {
+   "text": "Um",
+   "start": 0.0,
+   "end": 0.128
+  },
+  {
+   "text": "ferimento",
+   "start": 0.163,
+   "end": 0.662
+  },
+  {
+   "text": "no",
+   "start": 0.708,
+   "end": 0.789
+  },
+  {
+   "text": "ombro",
+   "start": 0.871,
+   "end": 1.149
+  },
+  {
+   "text": "mudou",
+   "start": 1.184,
+   "end": 1.533
+  },
+  {
+   "text": "o",
+   "start": 1.556,
+   "end": 1.606
+  },
+  {
+   "text": "curativo",
+   "start": 1.625,
+   "end": 2.171
+  },
+  {
+   "text": "do",
+   "start": 2.206,
+   "end": 2.264
+  },
+  {
+   "text": "Pedrinho.",
+   "start": 2.31,
+   "end": 2.827
+  },
+  {
+   "text": "O",
+   "start": 2.827,
+   "end": 2.889
+  },
+  {
+   "text": "corpo",
+   "start": 2.97,
+   "end": 3.284
+  },
+  {
+   "text": "já",
+   "start": 3.33,
+   "end": 3.458
+  },
+  {
+   "text": "vive",
+   "start": 3.527,
+   "end": 3.725
+  },
+  {
+   "text": "enfaixado,",
+   "start": 3.748,
+   "end": 4.497
+  },
+  {
+   "text": "e",
+   "start": 4.497,
+   "end": 4.581
+  },
+  {
+   "text": "agora",
+   "start": 4.628,
+   "end": 4.918
+  },
+  {
+   "text": "a",
+   "start": 4.941,
+   "end": 4.991
+  },
+  {
+   "text": "faixa",
+   "start": 5.046,
+   "end": 5.429
+  },
+  {
+   "text": "precisou",
+   "start": 5.475,
+   "end": 5.928
+  },
+  {
+   "text": "subir.",
+   "start": 5.986,
+   "end": 6.351
+  }
+ ]
+}

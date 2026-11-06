@@ -1,0 +1,30 @@
+{
+ "text": "A cada dia, mais bolhas.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "cada",
+   "start": 0.151,
+   "end": 0.36
+  },
+  {
+   "text": "dia,",
+   "start": 0.406,
+   "end": 0.592
+  },
+  {
+   "text": "mais",
+   "start": 0.615,
+   "end": 0.743
+  },
+  {
+   "text": "bolhas.",
+   "start": 0.801,
+   "end": 1.486
+  }
+ ]
+}

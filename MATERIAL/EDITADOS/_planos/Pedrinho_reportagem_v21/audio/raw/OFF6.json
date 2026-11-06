@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e entre nessa rotina com eles.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.313
+  },
+  {
+   "text": "em",
+   "start": 0.337,
+   "end": 0.383
+  },
+  {
+   "text": "Saiba",
+   "start": 0.464,
+   "end": 0.848
+  },
+  {
+   "text": "mais",
+   "start": 0.906,
+   "end": 1.265
+  },
+  {
+   "text": "e",
+   "start": 1.347,
+   "end": 1.382
+  },
+  {
+   "text": "entre",
+   "start": 1.44,
+   "end": 1.718
+  },
+  {
+   "text": "nessa",
+   "start": 1.776,
+   "end": 2.078
+  },
+  {
+   "text": "rotina",
+   "start": 2.113,
+   "end": 2.566
+  },
+  {
+   "text": "com",
+   "start": 2.612,
+   "end": 2.74
+  },
+  {
+   "text": "eles.",
+   "start": 2.81,
+   "end": 3.529
+  }
+ ]
+}

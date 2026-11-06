@@ -1,0 +1,105 @@
+{
+ "text": "Para muita gente, ele é o menino que vive pedindo ajuda. Pouca gente sabe o que ele queria de verdade.",
+ "words": [
+  {
+   "text": "Para",
+   "start": 0.0,
+   "end": 0.255
+  },
+  {
+   "text": "muita",
+   "start": 0.302,
+   "end": 0.522
+  },
+  {
+   "text": "gente,",
+   "start": 0.58,
+   "end": 0.952
+  },
+  {
+   "text": "ele",
+   "start": 0.975,
+   "end": 1.173
+  },
+  {
+   "text": "é",
+   "start": 1.207,
+   "end": 1.231
+  },
+  {
+   "text": "o",
+   "start": 1.277,
+   "end": 1.3
+  },
+  {
+   "text": "menino",
+   "start": 1.358,
+   "end": 1.73
+  },
+  {
+   "text": "que",
+   "start": 1.776,
+   "end": 1.869
+  },
+  {
+   "text": "vive",
+   "start": 1.927,
+   "end": 2.171
+  },
+  {
+   "text": "pedindo",
+   "start": 2.206,
+   "end": 2.612
+  },
+  {
+   "text": "ajuda.",
+   "start": 2.647,
+   "end": 3.228
+  },
+  {
+   "text": "Pouca",
+   "start": 3.506,
+   "end": 3.808
+  },
+  {
+   "text": "gente",
+   "start": 3.866,
+   "end": 4.133
+  },
+  {
+   "text": "sabe",
+   "start": 4.191,
+   "end": 4.516
+  },
+  {
+   "text": "o",
+   "start": 4.54,
+   "end": 4.563
+  },
+  {
+   "text": "que",
+   "start": 4.598,
+   "end": 4.69
+  },
+  {
+   "text": "ele",
+   "start": 4.725,
+   "end": 4.865
+  },
+  {
+   "text": "queria",
+   "start": 4.899,
+   "end": 5.19
+  },
+  {
+   "text": "de",
+   "start": 5.236,
+   "end": 5.306
+  },
+  {
+   "text": "verdade.",
+   "start": 5.352,
+   "end": 6.316
+  }
+ ]
+}

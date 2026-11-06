@@ -1,0 +1,116 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB L2 CONSELHO",
+ "base": [
+  {
+   "arq": "{SKILL}\\assets\\imagens\\biblia.png",
+   "ini": 0,
+   "fim": 4,
+   "som": false,
+   "kb": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151715.mp4",
+   "ini": 0.5,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 6,
+   "fim": 9,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 3,
+   "fim": 6,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 1,
+   "fim": 4,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{SKILL}\\assets\\narracoes\\n_1658_conselho_sr.mp3",
+  "tx": "{SKILL}\\assets\\narracoes\\n_1658_conselho_sr.json",
+  "de": 0.2
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4,
+   "linhas": [
+    "Dai, e vos será dado – Lucas 6:38"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3
+  },
+  {
+   "de": 4.1,
+   "ate": 19.8,
+   "linhas": [
+    "DOE 5 reais",
+    "e AJUDE O PEDRINHO 💗"
+   ],
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 50,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true,
+   "obs": "padrao desde 05/11/2026 (pedido do usuario): caixa vermelha chamativa do PEB 227; entra so depois que o versiculo sai"
+  }
+ ],
+ "legenda": {
+  "estilo": "pequena",
+  "y": 1380,
+  "size": 38,
+  "contorno": 2
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 19.8
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "peb223_l2_conselho",
+  "exemplo": "PEB 223",
+  "descricao": "1658330079039610: gancho com a Biblia (IA, no lugar do homem falando no carro) e o versiculo em amarelo; depois caixa rosa \"DOE ... e AJUDE\" no alto e legenda pequena; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "titulo": "Presta atenção neste conselho"
+ }
+}

@@ -1,0 +1,464 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "É aqui onde eu deito minha cabeça pra tentar esquecer da dor. Só Deus sabe quantas noites em claro eu passei. Eu virava prum lado, sentia dor, virava pro outro, sentia dor também",
+ "words": [
+  {
+   "text": "É",
+   "start": 0.84,
+   "end": 0.94,
+   "type": "word",
+   "logprob": -0.004779343493282795
+  },
+  {
+   "text": " ",
+   "start": 0.94,
+   "end": 1.02,
+   "type": "spacing",
+   "logprob": -3.2782016205601394e-05
+  },
+  {
+   "text": "aqui",
+   "start": 1.02,
+   "end": 1.42,
+   "type": "word",
+   "logprob": -3.2782016205601394e-05
+  },
+  {
+   "text": " ",
+   "start": 1.42,
+   "end": 1.98,
+   "type": "spacing",
+   "logprob": -0.0006453100359067321
+  },
+  {
+   "text": "onde",
+   "start": 1.98,
+   "end": 2.3,
+   "type": "word",
+   "logprob": -0.0006453100359067321
+  },
+  {
+   "text": " ",
+   "start": 2.3,
+   "end": 2.34,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "eu",
+   "start": 2.34,
+   "end": 2.46,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 2.46,
+   "end": 2.52,
+   "type": "spacing",
+   "logprob": -3.9934315282152966e-05
+  },
+  {
+   "text": "deito",
+   "start": 2.52,
+   "end": 2.86,
+   "type": "word",
+   "logprob": -3.685882911668159e-05
+  },
+  {
+   "text": " ",
+   "start": 2.86,
+   "end": 2.92,
+   "type": "spacing",
+   "logprob": -0.00023183519078884274
+  },
+  {
+   "text": "minha",
+   "start": 2.92,
+   "end": 3.14,
+   "type": "word",
+   "logprob": -0.00023183519078884274
+  },
+  {
+   "text": " ",
+   "start": 3.14,
+   "end": 3.18,
+   "type": "spacing",
+   "logprob": -0.0006061147432774305
+  },
+  {
+   "text": "cabeça",
+   "start": 3.18,
+   "end": 3.84,
+   "type": "word",
+   "logprob": -0.0006061147432774305
+  },
+  {
+   "text": " ",
+   "start": 3.84,
+   "end": 4.3,
+   "type": "spacing",
+   "logprob": -6.770858453819528e-05
+  },
+  {
+   "text": "pra",
+   "start": 4.3,
+   "end": 4.5,
+   "type": "word",
+   "logprob": -6.770858453819528e-05
+  },
+  {
+   "text": " ",
+   "start": 4.5,
+   "end": 4.54,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "tentar",
+   "start": 4.54,
+   "end": 5.02,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 5.02,
+   "end": 5.48,
+   "type": "spacing",
+   "logprob": -2.884823152271565e-05
+  },
+  {
+   "text": "esquecer",
+   "start": 5.48,
+   "end": 6.08,
+   "type": "word",
+   "logprob": -1.4900952692187275e-05
+  },
+  {
+   "text": " ",
+   "start": 6.08,
+   "end": 6.12,
+   "type": "spacing",
+   "logprob": -4.565611743601039e-05
+  },
+  {
+   "text": "da",
+   "start": 6.12,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -4.565611743601039e-05
+  },
+  {
+   "text": " ",
+   "start": 6.26,
+   "end": 6.34,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "dor.",
+   "start": 6.34,
+   "end": 6.6,
+   "type": "word",
+   "logprob": -2.652400041824876e-06
+  },
+  {
+   "text": " ",
+   "start": 6.6,
+   "end": 6.6,
+   "type": "spacing",
+   "logprob": -0.00030596344731748104
+  },
+  {
+   "text": "Só",
+   "start": 7.26,
+   "end": 7.42,
+   "type": "word",
+   "logprob": -0.00030596344731748104
+  },
+  {
+   "text": " ",
+   "start": 7.42,
+   "end": 7.46,
+   "type": "spacing",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": "Deus",
+   "start": 7.48,
+   "end": 7.74,
+   "type": "word",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": " ",
+   "start": 7.74,
+   "end": 7.8,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "sabe",
+   "start": 7.8,
+   "end": 8.22,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 8.22,
+   "end": 8.72,
+   "type": "spacing",
+   "logprob": -0.00013469743134919554
+  },
+  {
+   "text": "quantas",
+   "start": 8.72,
+   "end": 9.16,
+   "type": "word",
+   "logprob": -0.00013469743134919554
+  },
+  {
+   "text": " ",
+   "start": 9.16,
+   "end": 9.2,
+   "type": "spacing",
+   "logprob": -1.4066597032069694e-05
+  },
+  {
+   "text": "noites",
+   "start": 9.2,
+   "end": 9.48,
+   "type": "word",
+   "logprob": -1.001352605574842e-05
+  },
+  {
+   "text": " ",
+   "start": 9.48,
+   "end": 9.56,
+   "type": "spacing",
+   "logprob": -0.35512658953666687
+  },
+  {
+   "text": "em",
+   "start": 9.56,
+   "end": 9.68,
+   "type": "word",
+   "logprob": -0.35512658953666687
+  },
+  {
+   "text": " ",
+   "start": 9.68,
+   "end": 9.72,
+   "type": "spacing",
+   "logprob": -0.03899151459336281
+  },
+  {
+   "text": "claro",
+   "start": 9.72,
+   "end": 10.14,
+   "type": "word",
+   "logprob": -0.03899151459336281
+  },
+  {
+   "text": " ",
+   "start": 10.14,
+   "end": 10.58,
+   "type": "spacing",
+   "logprob": -5.722029527532868e-06
+  },
+  {
+   "text": "eu",
+   "start": 10.58,
+   "end": 10.74,
+   "type": "word",
+   "logprob": -5.722029527532868e-06
+  },
+  {
+   "text": " ",
+   "start": 10.74,
+   "end": 10.76,
+   "type": "spacing",
+   "logprob": -2.2649508537142538e-05
+  },
+  {
+   "text": "passei.",
+   "start": 10.76,
+   "end": 11.26,
+   "type": "word",
+   "logprob": -1.783011092421865e-05
+  },
+  {
+   "text": " ",
+   "start": 11.26,
+   "end": 11.66,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "Eu",
+   "start": 11.66,
+   "end": 11.82,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 11.82,
+   "end": 11.86,
+   "type": "spacing",
+   "logprob": -7.390948667307384e-06
+  },
+  {
+   "text": "virava",
+   "start": 11.86,
+   "end": 12.3,
+   "type": "word",
+   "logprob": -4.172311264483142e-06
+  },
+  {
+   "text": " ",
+   "start": 12.3,
+   "end": 12.36,
+   "type": "spacing",
+   "logprob": -0.31559598445892334
+  },
+  {
+   "text": "prum",
+   "start": 12.36,
+   "end": 12.52,
+   "type": "word",
+   "logprob": -0.157802581766191
+  },
+  {
+   "text": " ",
+   "start": 12.52,
+   "end": 12.52,
+   "type": "spacing",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": "lado,",
+   "start": 12.52,
+   "end": 12.86,
+   "type": "word",
+   "logprob": -2.5509581973892637e-05
+  },
+  {
+   "text": " ",
+   "start": 12.86,
+   "end": 13.08,
+   "type": "spacing",
+   "logprob": -0.0001397035230183974
+  },
+  {
+   "text": "sentia",
+   "start": 13.08,
+   "end": 13.5,
+   "type": "word",
+   "logprob": -9.341383690752991e-05
+  },
+  {
+   "text": " ",
+   "start": 13.5,
+   "end": 13.6,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "dor,",
+   "start": 13.6,
+   "end": 13.8,
+   "type": "word",
+   "logprob": -0.0019020655889221416
+  },
+  {
+   "text": " ",
+   "start": 13.8,
+   "end": 14.24,
+   "type": "spacing",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": "virava",
+   "start": 14.24,
+   "end": 14.7,
+   "type": "word",
+   "logprob": -2.2649734319202253e-06
+  },
+  {
+   "text": " ",
+   "start": 14.7,
+   "end": 14.76,
+   "type": "spacing",
+   "logprob": -9.035655966727063e-05
+  },
+  {
+   "text": "pro",
+   "start": 14.76,
+   "end": 14.9,
+   "type": "word",
+   "logprob": -9.035655966727063e-05
+  },
+  {
+   "text": " ",
+   "start": 14.9,
+   "end": 14.94,
+   "type": "spacing",
+   "logprob": -7.986990567587782e-06
+  },
+  {
+   "text": "outro,",
+   "start": 14.94,
+   "end": 15.18,
+   "type": "word",
+   "logprob": -5.608061489207709e-05
+  },
+  {
+   "text": " ",
+   "start": 15.18,
+   "end": 15.38,
+   "type": "spacing",
+   "logprob": -1.3947389561508317e-05
+  },
+  {
+   "text": "sentia",
+   "start": 15.38,
+   "end": 15.9,
+   "type": "word",
+   "logprob": -9.536678210982549e-06
+  },
+  {
+   "text": " ",
+   "start": 15.9,
+   "end": 15.96,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "dor",
+   "start": 15.96,
+   "end": 16.14,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 16.14,
+   "end": 16.219,
+   "type": "spacing",
+   "logprob": -1.1801649634435307e-05
+  },
+  {
+   "text": "também",
+   "start": 16.219,
+   "end": 16.68,
+   "type": "word",
+   "logprob": -1.1801649634435307e-05
+  }
+ ],
+ "transcription_id": "gFR4Dbf5vx9mtKOd8pKv",
+ "audio_duration_secs": 18.548375
+}

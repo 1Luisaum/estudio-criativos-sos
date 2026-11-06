@@ -1,0 +1,23 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_esquecido_v1.mp4
+seg 00 ok  t=  1.20
+seg 01 ok  t=  2.87
+seg 02 ok  t=  5.40
+seg 03 ok  t=  6.80
+seg 04 ok  t=  8.93
+seg 05 ok  t= 10.40
+seg 06 ok  t= 14.33
+seg 07 ok  t= 15.97
+seg 08 ok  t= 18.40
+seg 09 ok  t= 20.00
+seg 10 ok  t= 20.63
+seg 11 ok  t= 21.87
+seg 12 ok  t= 24.33
+seg 13 ok  t= 25.63
+seg 14 ok  t= 26.67
+seg 15 ok  t= 27.87
+seg 16 ok  t= 29.47
+seg 17 ok  t= 30.10
+seg 18 ok  t= 31.00
+seg 19 ok  t= 33.57
+audio: 36.97s  buracos=nenhum  ganho voz=+11.8dB
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_esquecido_v1.mp4  duracao=36.97s  tela_final=33.57s

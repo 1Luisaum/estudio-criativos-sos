@@ -1,0 +1,80 @@
+{
+ "text": "Aquele estoque acabou faz tempo. E a pele do Pedrinho precisa de cuidado todo dia.",
+ "words": [
+  {
+   "text": "Aquele",
+   "start": 0.0,
+   "end": 0.383
+  },
+  {
+   "text": "estoque",
+   "start": 0.406,
+   "end": 0.894
+  },
+  {
+   "text": "acabou",
+   "start": 0.929,
+   "end": 1.242
+  },
+  {
+   "text": "faz",
+   "start": 1.289,
+   "end": 1.428
+  },
+  {
+   "text": "tempo.",
+   "start": 1.498,
+   "end": 1.916
+  },
+  {
+   "text": "E",
+   "start": 2.322,
+   "end": 2.415
+  },
+  {
+   "text": "a",
+   "start": 2.496,
+   "end": 2.519
+  },
+  {
+   "text": "pele",
+   "start": 2.647,
+   "end": 2.961
+  },
+  {
+   "text": "do",
+   "start": 2.995,
+   "end": 3.053
+  },
+  {
+   "text": "Pedrinho",
+   "start": 3.088,
+   "end": 3.471
+  },
+  {
+   "text": "precisa",
+   "start": 3.518,
+   "end": 3.866
+  },
+  {
+   "text": "de",
+   "start": 3.901,
+   "end": 3.959
+  },
+  {
+   "text": "cuidado",
+   "start": 3.994,
+   "end": 4.412
+  },
+  {
+   "text": "todo",
+   "start": 4.447,
+   "end": 4.632
+  },
+  {
+   "text": "dia.",
+   "start": 4.679,
+   "end": 5.341
+  }
+ ]
+}

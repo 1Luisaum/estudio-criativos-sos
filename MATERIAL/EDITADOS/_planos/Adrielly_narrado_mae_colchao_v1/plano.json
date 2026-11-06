@@ -1,0 +1,242 @@
+{
+ "nome": "Adrielly_narrado_mae_colchao_v1",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647.mp3",
+ "music_start": 1.2,
+ "red": [
+  "MÃE",
+  "DOR",
+  "CURATIVOS",
+  "DINHEIRO",
+  "10",
+  "NELA"
+ ],
+ "caption_fix": {
+  "DEZ": "10"
+ },
+ "hook": {
+  "t1": 4.6,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*TODA NOITE*",
+    "fs": 150
+   },
+   {
+    "text": "NO COLCHÃO AO LADO DA FILHA",
+    "fs": 66
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_1721_borrado.jpg",
+     "until": 2.4
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/quarto carpete.jpeg"
+    }
+   ],
+   "txt": "Toda noite, a mãe da Adrielly dorme num colchão ao lado da cama da filha."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3726.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3726.json",
+   "cuts": [
+    [
+     1.04,
+     4.28
+    ],
+    [
+     5.1,
+     9.22
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.8,
+     "center": [
+      360,
+      1350
+     ]
+    },
+    {
+     "z": 1.6,
+     "center": [
+      360,
+      1340
+     ]
+    }
+   ],
+   "txt": "Minha mãe dorme aqui no colchão ao lado para me socorrer nas madrugadas onde tenho crises de dor."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 3.0,
+     "until": 1.4
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_1450_borrado.jpg",
+     "until": 2.6
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Suplemento Milk shake morango Apti.jpeg"
+    }
+   ],
+   "txt": "É ela quem dá o banho, troca cada curativo e prepara cada refeição."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5475.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5475.json",
+   "cuts": [
+    [
+     12.5,
+     16.42
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.12,
+     "center": [
+      540,
+      800
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "A minha mãe ela é a minha principal cuidadora."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/casa mofo.mp4",
+     "start": 3.0,
+     "until": 1.6
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 21.5
+    }
+   ],
+   "txt": "Mas essa mãe também adoeceu. E o dinheiro acabou."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4725.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__LEVA_17.09__IMG_4725.json",
+   "cuts": [
+    [
+     1.36,
+     4.84
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.12,
+     "center": [
+      540,
+      800
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Minha mãe já não tem mais dinheiro para meu tratamento."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4165.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4165.json",
+   "cuts": [
+    [
+     0.4,
+     6.08
+    ],
+    [
+     6.9,
+     7.86
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      820
+     ]
+    }
+   ],
+   "txt": "Por favor, eu e minha mãe precisamos muito de você. Me ajuda de coração?"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (7).mp4",
+     "start": 3.0,
+     "until": 2.6
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/9f6780ad-a7a6-4d5b-89c1-a97ff2d3dac1(1).jpg"
+    }
+   ],
+   "txt": "Com 10 reais, você ajuda a comprar os curativos da Adrielly e alivia o peso dessa mãe.",
+   "fix": {
+    "dez": "10"
+   }
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/vlcsnap-2026-07-07-17h28m49s694.png",
+    "look": "cor"
+   },
+   "lines": [
+    "CUIDE DE QUEM",
+    "*CUIDA DELA*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "mae dorme no colchao ao lado": "Adrielly, IMG_3726",
+  "mae cuidadora ha 28 anos (banho, curativos, comida)": "Adrielly, IMG_5475",
+  "mae nao trabalha para cuidar": "pergunta e resposta em IMG_5475 ('E verdade que a sua mae nao trabalha...' 'Sim, e verdade')",
+  "mae adoeceu (estomago, ansiedade, depressao)": "Adrielly, IMG_5475 (41.6-59.5)",
+  "queria que fosse nela": "Adrielly, IMG_5481",
+  "sem dinheiro": "Adrielly, IMG_4725",
+  "segurou a mao": "Adrielly, IMG_4162 (33.6-36.8) e IMG_5805",
+  "R$ 10": "Adrielly, IMG_3676 / IMG_3682"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 46\\AEB 60 - NARRADO DE IMPACTO.mp4",
+ "ajuste_05_11": "pedido do usuário 05/11/2026: marca @juntospelaadrielly; sem idade, sem citar a SOS, mais curto (sem IMG_5481, cartela e N4)"
+}

@@ -1,0 +1,206 @@
+{
+ "nome": "Pedrinho_lista_v4",
+ "pedido": "completar LEVA 01 (26/10/2026)",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (brasileiro), conta paga"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.12,
+ "chamada": [
+  "NOITE EM CLARO DE DOR 💔",
+  "DOE R$ 12 PRO PEDRINHO DORMIR 👼"
+ ],
+ "etiqueta": "R$ 12 já ajuda ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "palavras_chave": [
+  "ATADURA",
+  "GAZE",
+  "POMADA",
+  "SORO",
+  "FISIOLÓGICO",
+  "ESPARADRAPO",
+  "ÓLEO",
+  "GIRASSOL",
+  "DUAS",
+  "VEZES",
+  "DOR",
+  "ÁGUA",
+  "ARDE",
+  "SAIBA",
+  "MAIS",
+  "DOZE",
+  "REAIS",
+  "MIL",
+  "QUINHENTOS",
+  "BOLHAS",
+  "FERIDAS",
+  "NOITE"
+ ],
+ "narracao": {
+  "N01": "A noite passada, o Pedrinho não dormiu. Ele viu o dia amanhecer.",
+  "N02": "O que tira o sono dele:",
+  "I1": "Feridas abertas.",
+  "I2": "Bolhas novas.",
+  "I3": "Dor nos músculos.",
+  "I4": "E o calor.",
+  "N03": "O que alivia:",
+  "I5": "Pomada.",
+  "I6": "Gaze.",
+  "I7": "Atadura.",
+  "N04": "Mas o material está no fim.",
+  "N05": "Ele pediu ajuda de seis pessoas, em cinco dias. Doze reais de cada uma.",
+  "N06": "Toque em Saiba mais e ajude o Pedrinho a dormir sem dor."
+ },
+ "fatos": {
+  "noite em claro, viu o dia amanhecer; 6 pessoas em 5 dias, R$ 12": "Pedrinho, 20260916_235338",
+  "dor muscular, choro a noite": "Pedrinho, roteiro 9",
+  "calor ruim pra pele; bolhas piores": "Pedrinho, roteiro 8",
+  "material acabou": "Pedrinho, 20260917_000819"
+ },
+ "blocos": [
+  {
+   "nome": "s01",
+   "fala": "N01",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+     33.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+     37.5,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "s02",
+   "fala": "N02",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     150.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i1",
+   "fala": "I1",
+   "pausa": 0.45,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+     52.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i2",
+   "fala": "I2",
+   "pausa": 0.45,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     175.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i3",
+   "fala": "I3",
+   "pausa": 0.45,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+     64.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i4",
+   "fala": "I4",
+   "pausa": 0.45,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+     58.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "s03",
+   "fala": "N03",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     290.0
+    ]
+   ]
+  },
+  {
+   "nome": "i5",
+   "fala": "I5",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Pomada.png"
+  },
+  {
+   "nome": "i6",
+   "fala": "I6",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/GAZE.png"
+  },
+  {
+   "nome": "i7",
+   "fala": "I7",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/crepe bandagem.png"
+  },
+  {
+   "nome": "s04",
+   "fala": "N04",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+     30.0
+    ]
+   ]
+  },
+  {
+   "nome": "s05",
+   "fala": "N05",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     40.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+     10.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "s06",
+   "fala": "N06",
+   "pausa": 1.6,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_lista_v4/final_em_pe.png",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\LISTA NARRADA\\LEVA 01\\Pedrinho_lista_v4.mp4"
+}

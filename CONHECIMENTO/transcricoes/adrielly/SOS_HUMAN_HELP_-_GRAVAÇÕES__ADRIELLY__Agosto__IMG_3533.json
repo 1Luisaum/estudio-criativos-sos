@@ -1,0 +1,282 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Oiêêê, tudo bem? Eu vim te agradecer por você ter me ajudado. O tratamento é contínuo, a luta é diária",
+ "words": [
+  {
+   "text": "Oiêêê,",
+   "start": 0.36,
+   "end": 0.88,
+   "type": "word",
+   "logprob": -0.16430429286750345
+  },
+  {
+   "text": " ",
+   "start": 0.88,
+   "end": 1.34,
+   "type": "spacing",
+   "logprob": -1.966933996300213e-05
+  },
+  {
+   "text": "tudo",
+   "start": 1.34,
+   "end": 1.56,
+   "type": "word",
+   "logprob": -1.966933996300213e-05
+  },
+  {
+   "text": " ",
+   "start": 1.56,
+   "end": 1.6,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "bem?",
+   "start": 1.6,
+   "end": 1.88,
+   "type": "word",
+   "logprob": -1.2516967160536296e-06
+  },
+  {
+   "text": " ",
+   "start": 1.88,
+   "end": 2.4,
+   "type": "spacing",
+   "logprob": -8.106198947643861e-06
+  },
+  {
+   "text": "Eu",
+   "start": 2.4,
+   "end": 2.56,
+   "type": "word",
+   "logprob": -8.106198947643861e-06
+  },
+  {
+   "text": " ",
+   "start": 2.56,
+   "end": 2.6,
+   "type": "spacing",
+   "logprob": -2.9205850296420977e-05
+  },
+  {
+   "text": "vim",
+   "start": 2.6,
+   "end": 2.74,
+   "type": "word",
+   "logprob": -2.9205850296420977e-05
+  },
+  {
+   "text": " ",
+   "start": 2.74,
+   "end": 2.76,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "te",
+   "start": 2.78,
+   "end": 2.82,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 2.82,
+   "end": 2.86,
+   "type": "spacing",
+   "logprob": -1.9907753085135482e-05
+  },
+  {
+   "text": "agradecer",
+   "start": 2.86,
+   "end": 3.54,
+   "type": "word",
+   "logprob": -1.9907753085135482e-05
+  },
+  {
+   "text": " ",
+   "start": 3.54,
+   "end": 4.059,
+   "type": "spacing",
+   "logprob": -5.8530047681415454e-05
+  },
+  {
+   "text": "por",
+   "start": 4.059,
+   "end": 4.24,
+   "type": "word",
+   "logprob": -5.8530047681415454e-05
+  },
+  {
+   "text": " ",
+   "start": 4.24,
+   "end": 4.3,
+   "type": "spacing",
+   "logprob": -2.8490614567999728e-05
+  },
+  {
+   "text": "você",
+   "start": 4.3,
+   "end": 4.84,
+   "type": "word",
+   "logprob": -2.8490614567999728e-05
+  },
+  {
+   "text": " ",
+   "start": 4.84,
+   "end": 5.14,
+   "type": "spacing",
+   "logprob": -0.02668854407966137
+  },
+  {
+   "text": "ter",
+   "start": 5.14,
+   "end": 5.26,
+   "type": "word",
+   "logprob": -0.02668854407966137
+  },
+  {
+   "text": " ",
+   "start": 5.26,
+   "end": 5.3,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 5.3,
+   "end": 5.36,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 5.36,
+   "end": 5.42,
+   "type": "spacing",
+   "logprob": -8.034383063204587e-05
+  },
+  {
+   "text": "ajudado.",
+   "start": 5.42,
+   "end": 6.0,
+   "type": "word",
+   "logprob": -4.027622343283355e-05
+  },
+  {
+   "text": " ",
+   "start": 6.0,
+   "end": 6.0,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "O",
+   "start": 6.58,
+   "end": 6.66,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 6.66,
+   "end": 6.7,
+   "type": "spacing",
+   "logprob": -6.496695277746767e-05
+  },
+  {
+   "text": "tratamento",
+   "start": 6.7,
+   "end": 7.52,
+   "type": "word",
+   "logprob": -6.496695277746767e-05
+  },
+  {
+   "text": " ",
+   "start": 7.52,
+   "end": 8.02,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "é",
+   "start": 8.02,
+   "end": 8.119,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 8.119,
+   "end": 8.18,
+   "type": "spacing",
+   "logprob": -0.0006176709430292249
+  },
+  {
+   "text": "contínuo,",
+   "start": 8.18,
+   "end": 8.78,
+   "type": "word",
+   "logprob": -0.0003056064128435941
+  },
+  {
+   "text": " ",
+   "start": 8.78,
+   "end": 9.3,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 9.3,
+   "end": 9.36,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.36,
+   "end": 9.48,
+   "type": "spacing",
+   "logprob": -4.6491513785440475e-06
+  },
+  {
+   "text": "luta",
+   "start": 9.48,
+   "end": 9.94,
+   "type": "word",
+   "logprob": -4.6491513785440475e-06
+  },
+  {
+   "text": " ",
+   "start": 9.94,
+   "end": 10.26,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "é",
+   "start": 10.26,
+   "end": 10.36,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 10.36,
+   "end": 10.42,
+   "type": "spacing",
+   "logprob": -1.7762025890988298e-05
+  },
+  {
+   "text": "diária",
+   "start": 10.42,
+   "end": 10.96,
+   "type": "word",
+   "logprob": -6.397512303616774e-06
+  }
+ ],
+ "transcription_id": "oaLEX8ukUKLSaX9qFSmN",
+ "audio_duration_secs": 11.3316875
+}

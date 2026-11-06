@@ -1,0 +1,60 @@
+{
+ "text": "Todos os dias, os lençóis da Adrielly ficam sujos de sangue.",
+ "words": [
+  {
+   "text": "Todos",
+   "start": 0.0,
+   "end": 0.383
+  },
+  {
+   "text": "os",
+   "start": 0.453,
+   "end": 0.522
+  },
+  {
+   "text": "dias,",
+   "start": 0.557,
+   "end": 1.103
+  },
+  {
+   "text": "os",
+   "start": 1.289,
+   "end": 1.428
+  },
+  {
+   "text": "lençóis",
+   "start": 1.509,
+   "end": 1.974
+  },
+  {
+   "text": "da",
+   "start": 2.02,
+   "end": 2.09
+  },
+  {
+   "text": "Adrielly",
+   "start": 2.136,
+   "end": 2.74
+  },
+  {
+   "text": "ficam",
+   "start": 2.825,
+   "end": 3.151
+  },
+  {
+   "text": "sujos",
+   "start": 3.278,
+   "end": 3.685
+  },
+  {
+   "text": "de",
+   "start": 3.731,
+   "end": 3.789
+  },
+  {
+   "text": "sangue.",
+   "start": 3.859,
+   "end": 4.228
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "arquivo": "Moonlight_Sonata.mp3",
+  "magnific_id": 6243,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -22.7,
+  "usada_em": "PEB 208 (só música)",
+  "volume_sob_fala": 0.385,
+  "volume_so_musica": 2.163
+ },
+ {
+  "arquivo": "Ill_Die_on_This_Hill.mp3",
+  "magnific_id": 3202,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -13.1,
+  "usada_em": "PEB 207",
+  "volume_sob_fala": 0.127,
+  "volume_so_musica": 0.716
+ },
+ {
+  "arquivo": "A_Violins_Lament.mp3",
+  "magnific_id": 3070,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -15.2,
+  "usada_em": "PEB 202",
+  "volume_sob_fala": 0.162,
+  "volume_so_musica": 0.912
+ },
+ {
+  "arquivo": "You_Cant_Come_Back.mp3",
+  "magnific_id": 2514,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -14.9,
+  "usada_em": "PEB 209",
+  "volume_sob_fala": 0.157,
+  "volume_so_musica": 0.881
+ },
+ {
+  "arquivo": "No_Return.mp3",
+  "magnific_id": 5577,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -15.8,
+  "usada_em": "PEB 206 (só música)",
+  "volume_sob_fala": 0.174,
+  "volume_so_musica": 0.977
+ },
+ {
+  "arquivo": "Faded_Ink.mp3",
+  "magnific_id": 6512,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -14.1,
+  "usada_em": "PEB 205",
+  "volume_sob_fala": 0.143,
+  "volume_so_musica": 0.804
+ },
+ {
+  "arquivo": "The_Weight_of_Time.mp3",
+  "magnific_id": 3038,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -15.8,
+  "usada_em": "PEB 211",
+  "volume_sob_fala": 0.174,
+  "volume_so_musica": 0.977
+ },
+ {
+  "arquivo": "One_Last_Goodbye.mp3",
+  "magnific_id": 4385,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -16.3,
+  "usada_em": "PEB 204",
+  "volume_sob_fala": 0.184,
+  "volume_so_musica": 1.035
+ },
+ {
+  "arquivo": "Fading_Ember.mp3",
+  "magnific_id": 6868,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -16.3,
+  "usada_em": "PEB 210",
+  "volume_sob_fala": 0.184,
+  "volume_so_musica": 1.035
+ },
+ {
+  "arquivo": "Goodbyes.mp3",
+  "magnific_id": 6291,
+  "clima": "triste (Magnific, mood sad)",
+  "lufs": -16.0,
+  "usada_em": "PEB 203",
+  "volume_sob_fala": 0.178,
+  "volume_so_musica": 1.0
+ }
+]

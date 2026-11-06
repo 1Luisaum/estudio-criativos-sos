@@ -1,0 +1,169 @@
+{
+ "nome": "Adrielly_cortes_ingles_8aa_magnific_v1",
+ "crianca": "Adrielly",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_dublagens/Adrielly_8AA_EN/Adrielly_8AA_EN_lipsync_magnific.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  540,
+  600
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.0,
+   "center": [
+    540,
+    960
+   ]
+  },
+  "Z2": {
+   "z": 1.15,
+   "center": [
+    540,
+    880
+   ]
+  },
+  "Z3": {
+   "z": 1.3,
+   "center": [
+    540,
+    860
+   ]
+  },
+  "ZF": {
+   "z": 1.45,
+   "center": [
+    540,
+    840
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 0.38,
+   "out": 0.88,
+   "txt": "You know",
+   "zoom": "Z2"
+  },
+  {
+   "in": 1.22,
+   "out": 2.76,
+   "txt": "what hurts me the most?",
+   "zoom": "Z1"
+  },
+  {
+   "in": 3.14,
+   "out": 4.86,
+   "txt": "What hurts me the worst",
+   "zoom": "Z3"
+  },
+  {
+   "in": 5.22,
+   "out": 7.02,
+   "txt": "is that this dressing right here",
+   "zoom": "Z2"
+  },
+  {
+   "in": 7.38,
+   "out": 9.6,
+   "txt": "is the last one I have left.",
+   "broll": [
+    {
+     "src": "_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 7.0
+    }
+   ]
+  },
+  {
+   "in": 10.16,
+   "out": 10.56,
+   "txt": "But",
+   "zoom": "ZF"
+  },
+  {
+   "in": 10.84,
+   "out": 13.38,
+   "txt": "I carry a greater God with me.",
+   "broll": [
+    {
+     "src": "1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 4.0
+    }
+   ]
+  },
+  {
+   "in": 13.92,
+   "out": 16.94,
+   "txt": "I know everything's gonna be all right",
+   "broll": [
+    {
+     "src": "WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     "start": 12.0
+    }
+   ]
+  }
+ ],
+ "red": [
+  "HURTS",
+  "LAST",
+  "GOD"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 2.2,
+   "lines": [
+    "HER LAST DRESSING"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 2.2,
+   "t1": 5.4,
+   "lines": [
+    "ADRIELLY IS 28",
+    "AND WAS BORN WITH",
+    "BUTTERFLY SKIN"
+   ],
+   "fs": 92
+  }
+ ],
+ "chamada": {
+  "linhas": [
+   [
+    "JUST $10",
+    124
+   ],
+   [
+    "CAN CHANGE THE LIFE OF",
+    64
+   ],
+   [
+    "BRAVE ADRIELLY!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "endcard": {
+  "src": "WhatsApp Video 2026-07-07 at 19.32.36 (8).mp4",
+  "start": 3.0,
+  "dur": 3.4,
+  "lines": [
+   "HELP ADRIELLY",
+   "GET NEW DRESSINGS"
+  ],
+  "cta": "TAP LEARN MORE"
+ },
+ "badge": null,
+ "fatos": {
+  "fala real (bruto 8AA60297, usado no AEB 09, TOP 1 da LEVA 1), dublada EN no ElevenLabs": "lipsync magnific",
+  "'telinha' = curativo (dressing), corrigido na dublagem com a voz dela": "envio_audio_EN_fix",
+  "28 anos, epidermólise bolhosa": "IMG_5805, ADRIELLY.md",
+  "$10": "IMG_4740 (cinco ou dez), em dólares a pedido do usuário"
+ },
+ "modelo": "edicao-criativo-ong, versão em inglês",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 48\\AEB 69 - CORTES COM GANCHO.mp4"
+}

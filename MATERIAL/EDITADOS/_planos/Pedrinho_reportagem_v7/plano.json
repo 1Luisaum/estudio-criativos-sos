@@ -1,0 +1,189 @@
+{
+ "nome": "Pedrinho_reportagem_v7",
+ "pedido": "completar LEVA 02 (26/10/2026)",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (brasileiro), conta paga"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "manchete": [
+  "“AS PESSOAS SE ESQUECERAM",
+  "DE MIM”, DIZ MENINO COM EB"
+ ],
+ "etiqueta": "R$ 10 lembra o Pedrinho ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Há quase quatro anos, uma vaquinha garantiu quase um ano de curativos para o Pedrinho.",
+  "OFF2": "Ele tem epidermólise bolhosa, a doença da pele de borboleta. O curativo é trocado duas vezes por dia.",
+  "OFF3": "Cada atadura e cada gaze pesam no orçamento da família.",
+  "OFF4": "A SOS Human Help está arrecadando doações para o Pedrinho. Dez reais já ajudam.",
+  "OFF5": "Toque em Saiba mais e mostre ao Pedrinho que ele não foi esquecido."
+ },
+ "fatos": {
+  "vaquinha ha quase 4 anos, quase 1 ano de curativos; pessoas sumiram": "Pedrinho, roteiro 8",
+  "acham que ele esta bem de ajuda": "Pedrinho, roteiro 7",
+  "custos altos de atadura e gaze": "Pedrinho, 20260917_001530",
+  "curativo 2x por dia": "Pedrinho, 20260917_001530",
+  "absurdo de caro": "mae, Roteiro_ os curativos... absurdo de caro"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240411_123226.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cortes": [
+    [
+     22.88,
+     23.14
+    ],
+    [
+     24.64,
+     26.0
+    ],
+    [
+     27.58,
+     29.3
+    ],
+    [
+     32.32,
+     33.16
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     160.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     232.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cortes": [
+    [
+     14.9,
+     16.36
+    ],
+    [
+     17.28,
+     18.2
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/crepe bandagem.png"
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cortes": [
+    [
+     65.28,
+     69.86
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_absurdo_caro.json",
+   "cortes": [
+    [
+     17.72,
+     21.08
+    ]
+   ],
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "cuida dos curativos todos os dias"
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+     6.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cortes": [
+    [
+     119.48,
+     120.88
+    ],
+    [
+     121.9,
+     122.7
+    ],
+    [
+     123.2,
+     124.48
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "inicio": 17.72,
+   "caixa": [
+    120,
+    300,
+    960,
+    1330
+   ],
+   "quem": "rosto da mae (quem fala)"
+  }
+ ],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\reportagem\\LEVA 02\\Pedrinho_reportagem_v7.mp4"
+}

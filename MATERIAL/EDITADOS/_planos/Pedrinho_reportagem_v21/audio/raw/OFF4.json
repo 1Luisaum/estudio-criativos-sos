@@ -1,0 +1,45 @@
+{
+ "text": "Quando termina, ela já sabe o que sobrou.",
+ "words": [
+  {
+   "text": "Quando",
+   "start": 0.0,
+   "end": 0.302
+  },
+  {
+   "text": "termina,",
+   "start": 0.36,
+   "end": 0.824
+  },
+  {
+   "text": "ela",
+   "start": 0.859,
+   "end": 1.045
+  },
+  {
+   "text": "já",
+   "start": 1.091,
+   "end": 1.196
+  },
+  {
+   "text": "sabe",
+   "start": 1.254,
+   "end": 1.509
+  },
+  {
+   "text": "o",
+   "start": 1.533,
+   "end": 1.556
+  },
+  {
+   "text": "que",
+   "start": 1.602,
+   "end": 1.683
+  },
+  {
+   "text": "sobrou.",
+   "start": 1.73,
+   "end": 2.554
+  }
+ ]
+}

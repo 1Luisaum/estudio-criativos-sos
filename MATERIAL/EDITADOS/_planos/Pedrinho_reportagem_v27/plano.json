@@ -1,0 +1,193 @@
+{
+ "nome": "Pedrinho_reportagem_v27",
+ "crianca": "Pedrinho",
+ "angulo": "o ano em que teve curativo e ficou bem",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reporter brasileiro)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/11145955-mesa-10550.mp3",
+ "musica_volume": 0.028,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "COM CURATIVO EM CASA, MENINO COM",
+  "EB FICOU BEM E ATÉ ABRIU CANAL"
+ ],
+ "etiqueta": "R$ 10 ajuda ele a ficar bem ❤️",
+ "etiqueta_final": "👇 Clique em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Existe uma prova do que o curativo faz pela vida do Pedrinho. Ela tem quase quatro anos.",
+  "OFF2": "Com o material garantido, sobrou espaço para outra coisa.",
+  "OFF3": "Hoje, os gibis continuam por perto. O estoque de faixas, não.",
+  "OFF4": "Ele sabe explicar a diferença que o curativo faz no corpo.",
+  "OFF5": "Aquela ajuda funcionou porque muita gente entrou junto. Agora, dez reais pela SOS Human Help já contam.",
+  "OFF6": "Clique em Saiba mais e ajude o Pedrinho a ficar bem de novo."
+ },
+ "fatos": {
+  "vaquinha comprou quase um ano de curativos; estava ficando bem; canal no YouTube": "Pedrinho em roteiro 8.mp4 (1,5 a 17,2 s)",
+  "ataduras acabando": "Pedrinho em roteiro 8.mp4 (65 s)",
+  "curativos aliviam as dores": "Pedrinho em roteiro 7.mp4 (118,6 a 136,3 s)",
+  "gibi": "imagem do banco pedrinho_guerreiro_1792598774"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+     30.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     150.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro8.json",
+   "cortes": [
+    [
+     2.56,
+     5.56
+    ],
+    [
+     7.02,
+     10.58
+    ],
+    [
+     12.04,
+     13.28
+    ]
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     92.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro8.json",
+   "cortes": [
+    [
+     14.22,
+     16.68
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     139.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792688406_4013682651782705630_1642859680.mp4",
+     100.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro8.json",
+   "cortes": [
+    [
+     65.06,
+     67.42
+    ],
+    [
+     68.12,
+     69.18
+    ],
+    [
+     70.0,
+     70.54
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     112.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     153.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro7b.json",
+   "cortes": [
+    [
+     131.46,
+     133.56
+    ],
+    [
+     134.54,
+     136.04
+    ]
+   ]
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "fala": "OFF5",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     163.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     15.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF6",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/IMG-20241205-WA0070.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 54\\PEB 195 - REPORTAGEM.mp4"
+}

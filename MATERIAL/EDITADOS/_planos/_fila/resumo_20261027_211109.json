@@ -1,0 +1,20 @@
+{
+ "total_s": 107,
+ "videos": [
+  {
+   "plano": "Adrielly_cortes_noites_sem_dormir_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 67,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_cortes_noites_sem_dormir_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 34\\PEB 154 - CORTES COM GANCHO.mp4",
+   "duracao": 40.23,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 1 momento(s): [9.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 154 - CORTES COM GANCHO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  }
+ ]
+}

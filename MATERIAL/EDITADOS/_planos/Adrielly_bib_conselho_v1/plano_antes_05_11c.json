@@ -1,0 +1,129 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB L2 CONSELHO",
+ "base": [
+  {
+   "arq": "{SKILL}\\assets\\imagens\\biblia.png",
+   "ini": 0,
+   "fim": 4,
+   "som": false,
+   "kb": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.31.31.mp4",
+   "ini": 0.5,
+   "fim": 3.5,
+   "som": false,
+   "pb": true
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_costas_faixas.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\Rot 2 (4).mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_sulfadiazina.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+   "ini": 3,
+   "fim": 6.3,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_conselho_v1\\n_conselho_adrielly_sr.mp3",
+  "tx": "{RAIZ}\\EDITADOS\\_planos\\Adrielly_bib_conselho_v1\\n_conselho_adrielly_sr.json",
+  "de": 0.2
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4,
+   "linhas": [
+    "Dai, e vos será dado – Lucas 6:38"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3
+  },
+  {
+   "de": 4,
+   "ate": 20.1,
+   "linhas": [
+    "DOE 5 reais",
+    "e AJUDE A ADRIELLY 💗"
+   ],
+   "estilo": "caixa",
+   "bg": [
+    255,
+    214,
+    226
+   ],
+   "fg": [
+    60,
+    20,
+    40
+   ],
+   "size": 46,
+   "y": 310,
+   "fonte": "serif_bold",
+   "pad": [
+    18,
+    6
+   ],
+   "lh": 1.08
+  }
+ ],
+ "legenda": {
+  "estilo": "pequena",
+  "y": 1380,
+  "size": 38,
+  "contorno": 2
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 20.1
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "peb223_l2_conselho",
+  "exemplo": "PEB 223",
+  "descricao": "1658330079039610: gancho com a Biblia (IA, no lugar do homem falando no carro) e o versiculo em amarelo; depois caixa rosa \"DOE ... e AJUDE\" no alto e legenda pequena; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "titulo": "Presta atenção neste conselho"
+ },
+ "fatos": {
+  "tem dias que a dor nem deixa ela levantar da cama": "IMG_4216 0,56-6,28",
+  "os curativos dela estão acabando": "IMG_6452 (30/10) 3,62-10,18: 'Não temos quase nada de curativo para os cuidados dessa semana'",
+  "cinco reais no tratamento dessa semana": "IMG_6418 (30/10): 'Me ajude no meu tratamento dessa semana com dois ou cinco reais'"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 63\\AEB 93 - BIB L2 CONSELHO.mp4",
+ "ajuste_05_11": "Rot 3 (parede lilás, proibida desde 30/10) trocado por Rot 2 (4).mp4"
+}

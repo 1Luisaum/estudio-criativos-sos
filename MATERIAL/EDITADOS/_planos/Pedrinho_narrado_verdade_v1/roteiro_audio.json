@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Pedrinho nasceu com uma doença rara, que faz a pele formar bolhas e se abrir com quase nada.",
+  "N2": "Quatro a cinco horas por dia. Faixa por faixa, ferida por ferida, até o corpo inteiro estar coberto.",
+  "N3": "Cada troca consome faixas, gazes, soro e pomada. E isso se repete todos os dias.",
+  "N4": "Nada nesse vídeo foi encenado.",
+  "N5": "O próximo curativo do Pedrinho pode vir de você. O botão está logo abaixo."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

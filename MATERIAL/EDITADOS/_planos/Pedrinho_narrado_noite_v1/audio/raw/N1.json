@@ -1,0 +1,65 @@
+{
+ "text": "Pedrinho tem epidermólise bolhosa. As feridas não dão trégua nem de madrugada.",
+ "words": [
+  {
+   "text": "Pedrinho",
+   "start": 0.0,
+   "end": 0.604
+  },
+  {
+   "text": "tem",
+   "start": 0.685,
+   "end": 0.94
+  },
+  {
+   "text": "epidermólise",
+   "start": 1.126,
+   "end": 2.299
+  },
+  {
+   "text": "bolhosa.",
+   "start": 2.357,
+   "end": 3.03
+  },
+  {
+   "text": "As",
+   "start": 3.495,
+   "end": 3.657
+  },
+  {
+   "text": "feridas",
+   "start": 3.715,
+   "end": 4.063
+  },
+  {
+   "text": "não",
+   "start": 4.11,
+   "end": 4.226
+  },
+  {
+   "text": "dão",
+   "start": 4.261,
+   "end": 4.4
+  },
+  {
+   "text": "trégua",
+   "start": 4.47,
+   "end": 4.83
+  },
+  {
+   "text": "nem",
+   "start": 4.888,
+   "end": 5.016
+  },
+  {
+   "text": "de",
+   "start": 5.062,
+   "end": 5.108
+  },
+  {
+   "text": "madrugada.",
+   "start": 5.155,
+   "end": 6.084
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "total_s": 216,
+ "videos": [
+  {
+   "plano": "Pedrinho_reportagem_v13",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 165,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v13.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 28\\PEB 144 - REPORTAGEM.mp4",
+   "duracao": 59.77,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 66 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 144 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  }
+ ]
+}

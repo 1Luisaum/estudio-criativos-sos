@@ -1,0 +1,320 @@
+{
+ "nome": "Pedrinho_narrado_seguidores_v1",
+ "crianca": "Pedrinho",
+ "angulo": "seguidores",
+ "gancho": "muitos seguidores, poucos por perto",
+ "fatos": [
+  "muitos seguidores, acham que estou bem de ajuda: Pedrinho, roteiro 7",
+  "pessoas que ajudaram sumiram: Pedrinho, roteiro 8",
+  "existe meu filho de verdade: mãe, Roteiro 2"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/11145955-mesa-10550.mp3",
+ "music_start": 30.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "SEGUIDORES",
+  "SUMIRAM",
+  "AJUDA",
+  "SOZINHO"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*MUITOS SEGUIDORES*",
+    "fs": 88
+   },
+   {
+    "text": "POUCOS POR PERTO",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cuts": [
+    [
+     1.34,
+     3.36
+    ],
+    [
+     4.48,
+     6.16
+    ],
+    [
+     8.12,
+     9.96
+    ],
+    [
+     12.36,
+     13.46
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "As pessoas entram na minha rede social e elas veem que eu tenho muitos seguidores elas veem vaquinhas online quase três anos atrás"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 2.04
+    },
+    {
+     "src": "20241109_123330.jpg"
+    }
+   ],
+   "txt": "De fora, parece que ele nunca está sozinho. Tem gente assistindo, gente curtindo, gente passando."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cuts": [
+    [
+     14.7,
+     16.36
+    ],
+    [
+     17.28,
+     18.54
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "e acham já que eu tô bem de ajuda. Só que não é bem assim, pessoal."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 140.0,
+     "until": 1.07
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 153.0,
+     "until": 3.64
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 167.0
+    }
+   ],
+   "txt": "Quando o vídeo acaba, quem fica é a mãe dele, a caixa de curativos e a próxima troca."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cuts": [
+    [
+     22.88,
+     23.14
+    ],
+    [
+     24.64,
+     26.0
+    ],
+    [
+     27.58,
+     29.3
+    ],
+    [
+     32.32,
+     32.66
+    ],
+    [
+     37.9,
+     39.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.25,
+     "center": [
+      550,
+      860
+     ]
+    }
+   ],
+   "txt": "as pessoas se esqueceram de mim, Até mesmo pessoas que me ajudaram, elas também sumiram completamente mesmo."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "MUITOS VEEM",
+    "POUCOS FICAM"
+   ],
+   "dur": 1.5,
+   "fs": 170
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240411_115750.jpg"
+    }
+   ],
+   "txt": "Ele percebeu. Criança percebe. Percebe quando quem ajudava some. Percebe quando é esquecida."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/roteiro2_mae.json",
+   "cuts": [
+    [
+     42.48,
+     43.26
+    ],
+    [
+     46.04,
+     47.0
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Existe meu filho aqui. Existe meu filho de verdade."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 25.0,
+     "until": 2.09
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 120.0
+    }
+   ],
+   "txt": "Curtida não troca curativo. Mas você pode ser mais do que uma curtida."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cuts": [
+    [
+     50.88,
+     52.94
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      520,
+      500
+     ]
+    }
+   ],
+   "txt": "Então, pessoal, eu peço a sua ajuda."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 3.0,
+     "until": 2.5
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 12.0
+    }
+   ],
+   "txt": "Clique em Saiba mais, saia da plateia e entre na vida dele. Ele vai saber que alguém ficou."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_180353.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "NÃO SEJA SÓ",
+    "MAIS UM *SEGUIDOR*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 179 - NARRADO DE IMPACTO.mp4"
+}

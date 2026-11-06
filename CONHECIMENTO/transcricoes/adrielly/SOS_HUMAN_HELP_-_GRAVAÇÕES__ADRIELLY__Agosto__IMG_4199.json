@@ -1,0 +1,170 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Papai do céu, por favor, me ajuda a conseguir os meus curativos",
+ "words": [
+  {
+   "text": "Papai",
+   "start": 3.4,
+   "end": 3.8,
+   "type": "word",
+   "logprob": -0.00026155598025070506
+  },
+  {
+   "text": " ",
+   "start": 3.8,
+   "end": 3.84,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "do",
+   "start": 3.84,
+   "end": 3.92,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 3.92,
+   "end": 4.0,
+   "type": "spacing",
+   "logprob": -0.04301178827881813
+  },
+  {
+   "text": "céu,",
+   "start": 4.0,
+   "end": 4.42,
+   "type": "word",
+   "logprob": -0.03231977952964371
+  },
+  {
+   "text": " ",
+   "start": 4.42,
+   "end": 4.42,
+   "type": "spacing",
+   "logprob": -2.861018856492592e-06
+  },
+  {
+   "text": "por",
+   "start": 5.14,
+   "end": 5.3,
+   "type": "word",
+   "logprob": -2.861018856492592e-06
+  },
+  {
+   "text": " ",
+   "start": 5.3,
+   "end": 5.36,
+   "type": "spacing",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": "favor,",
+   "start": 5.36,
+   "end": 5.94,
+   "type": "word",
+   "logprob": -2.070168056889088e-05
+  },
+  {
+   "text": " ",
+   "start": 5.94,
+   "end": 5.94,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "me",
+   "start": 6.26,
+   "end": 6.38,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.38,
+   "end": 6.44,
+   "type": "spacing",
+   "logprob": -2.074220174108632e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 6.44,
+   "end": 7.14,
+   "type": "word",
+   "logprob": -2.074220174108632e-05
+  },
+  {
+   "text": " ",
+   "start": 7.14,
+   "end": 7.14,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "a",
+   "start": 7.86,
+   "end": 7.92,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 7.92,
+   "end": 8.02,
+   "type": "spacing",
+   "logprob": -1.7762025890988298e-05
+  },
+  {
+   "text": "conseguir",
+   "start": 8.02,
+   "end": 8.52,
+   "type": "word",
+   "logprob": -1.7762025890988298e-05
+  },
+  {
+   "text": " ",
+   "start": 8.52,
+   "end": 8.56,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "os",
+   "start": 8.56,
+   "end": 8.7,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 8.7,
+   "end": 8.74,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "meus",
+   "start": 8.74,
+   "end": 9.02,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 9.02,
+   "end": 9.06,
+   "type": "spacing",
+   "logprob": -1.4424220353248529e-05
+  },
+  {
+   "text": "curativos",
+   "start": 9.06,
+   "end": 10.12,
+   "type": "word",
+   "logprob": -1.792096675975093e-05
+  }
+ ],
+ "transcription_id": "D67BZqXDYlZWHgIoqte8",
+ "audio_duration_secs": 12.0483125
+}

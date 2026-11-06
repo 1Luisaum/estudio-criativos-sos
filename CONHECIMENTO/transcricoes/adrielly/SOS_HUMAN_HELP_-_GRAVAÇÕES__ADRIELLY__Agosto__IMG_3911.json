@@ -1,0 +1,296 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Se você puder me ajudar a comprar os meus curativos e os meus remédios, doe o que se sentir no coração",
+ "words": [
+  {
+   "text": "Se",
+   "start": 0.34,
+   "end": 0.46,
+   "type": "word",
+   "logprob": -0.0005392765742726624
+  },
+  {
+   "text": " ",
+   "start": 0.46,
+   "end": 0.56,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "você",
+   "start": 0.56,
+   "end": 1.1,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 1.1,
+   "end": 1.42,
+   "type": "spacing",
+   "logprob": -4.494089080253616e-05
+  },
+  {
+   "text": "puder",
+   "start": 1.42,
+   "end": 1.96,
+   "type": "word",
+   "logprob": -2.705990190179364e-05
+  },
+  {
+   "text": " ",
+   "start": 1.96,
+   "end": 2.2,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "me",
+   "start": 2.2,
+   "end": 2.34,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 2.34,
+   "end": 2.42,
+   "type": "spacing",
+   "logprob": -4.7444173105759546e-05
+  },
+  {
+   "text": "ajudar",
+   "start": 2.48,
+   "end": 3.02,
+   "type": "word",
+   "logprob": -4.7444173105759546e-05
+  },
+  {
+   "text": " ",
+   "start": 3.02,
+   "end": 3.02,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "a",
+   "start": 3.6,
+   "end": 3.66,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 3.66,
+   "end": 3.78,
+   "type": "spacing",
+   "logprob": -4.6132929128361866e-05
+  },
+  {
+   "text": "comprar",
+   "start": 3.78,
+   "end": 4.36,
+   "type": "word",
+   "logprob": -4.6132929128361866e-05
+  },
+  {
+   "text": " ",
+   "start": 4.36,
+   "end": 4.54,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "os",
+   "start": 4.54,
+   "end": 4.74,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 4.74,
+   "end": 4.78,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "meus",
+   "start": 4.78,
+   "end": 5.06,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 5.06,
+   "end": 5.16,
+   "type": "spacing",
+   "logprob": -8.34461570775602e-06
+  },
+  {
+   "text": "curativos",
+   "start": 5.16,
+   "end": 6.14,
+   "type": "word",
+   "logprob": -7.947254440902421e-06
+  },
+  {
+   "text": " ",
+   "start": 6.14,
+   "end": 6.14,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "e",
+   "start": 6.64,
+   "end": 6.7,
+   "type": "word",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": " ",
+   "start": 6.7,
+   "end": 6.74,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "os",
+   "start": 6.76,
+   "end": 6.92,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 6.92,
+   "end": 6.98,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "meus",
+   "start": 6.98,
+   "end": 7.24,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 7.24,
+   "end": 7.26,
+   "type": "spacing",
+   "logprob": -2.682172998902388e-05
+  },
+  {
+   "text": "remédios,",
+   "start": 7.26,
+   "end": 8.06,
+   "type": "word",
+   "logprob": -6.980488332273025e-05
+  },
+  {
+   "text": " ",
+   "start": 8.06,
+   "end": 8.06,
+   "type": "spacing",
+   "logprob": -0.044166386127471924
+  },
+  {
+   "text": "doe",
+   "start": 8.56,
+   "end": 8.94,
+   "type": "word",
+   "logprob": -0.044166386127471924
+  },
+  {
+   "text": " ",
+   "start": 8.94,
+   "end": 9.24,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "o",
+   "start": 9.24,
+   "end": 9.28,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 9.28,
+   "end": 9.36,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "que",
+   "start": 9.36,
+   "end": 9.44,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 9.44,
+   "end": 9.48,
+   "type": "spacing",
+   "logprob": -0.038120824843645096
+  },
+  {
+   "text": "se",
+   "start": 9.48,
+   "end": 9.58,
+   "type": "word",
+   "logprob": -0.038120824843645096
+  },
+  {
+   "text": " ",
+   "start": 9.58,
+   "end": 9.64,
+   "type": "spacing",
+   "logprob": -1.7523612768854946e-05
+  },
+  {
+   "text": "sentir",
+   "start": 9.64,
+   "end": 10.04,
+   "type": "word",
+   "logprob": -1.7523612768854946e-05
+  },
+  {
+   "text": " ",
+   "start": 10.04,
+   "end": 10.08,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "no",
+   "start": 10.08,
+   "end": 10.2,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 10.2,
+   "end": 10.26,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "coração",
+   "start": 10.26,
+   "end": 10.9,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  }
+ ],
+ "transcription_id": "p7pe8SfYlVZI1woZZIDV",
+ "audio_duration_secs": 12.4766875
+}

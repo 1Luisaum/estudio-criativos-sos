@@ -1,0 +1,75 @@
+{
+ "text": "Ela cresceu entre curativos de três horas, banhos que ardem e noites sem dormir.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "cresceu",
+   "start": 0.209,
+   "end": 0.697
+  },
+  {
+   "text": "entre",
+   "start": 0.755,
+   "end": 0.929
+  },
+  {
+   "text": "curativos",
+   "start": 0.964,
+   "end": 1.498
+  },
+  {
+   "text": "de",
+   "start": 1.521,
+   "end": 1.579
+  },
+  {
+   "text": "três",
+   "start": 1.625,
+   "end": 1.858
+  },
+  {
+   "text": "horas,",
+   "start": 1.95,
+   "end": 2.45
+  },
+  {
+   "text": "banhos",
+   "start": 2.74,
+   "end": 3.146
+  },
+  {
+   "text": "que",
+   "start": 3.228,
+   "end": 3.344
+  },
+  {
+   "text": "ardem",
+   "start": 3.437,
+   "end": 3.855
+  },
+  {
+   "text": "e",
+   "start": 3.936,
+   "end": 4.063
+  },
+  {
+   "text": "noites",
+   "start": 4.191,
+   "end": 4.551
+  },
+  {
+   "text": "sem",
+   "start": 4.574,
+   "end": 4.714
+  },
+  {
+   "text": "dormir.",
+   "start": 4.76,
+   "end": 5.138
+  }
+ ]
+}

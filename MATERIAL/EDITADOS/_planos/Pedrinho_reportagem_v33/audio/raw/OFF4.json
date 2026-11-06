@@ -1,0 +1,55 @@
+{
+ "text": "E quando a ajuda chega, é assim que ele agradece.",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "quando",
+   "start": 0.163,
+   "end": 0.441
+  },
+  {
+   "text": "a",
+   "start": 0.464,
+   "end": 0.488
+  },
+  {
+   "text": "ajuda",
+   "start": 0.569,
+   "end": 0.975
+  },
+  {
+   "text": "chega,",
+   "start": 1.022,
+   "end": 1.498
+  },
+  {
+   "text": "é",
+   "start": 1.672,
+   "end": 1.741
+  },
+  {
+   "text": "assim",
+   "start": 1.776,
+   "end": 2.043
+  },
+  {
+   "text": "que",
+   "start": 2.09,
+   "end": 2.159
+  },
+  {
+   "text": "ele",
+   "start": 2.183,
+   "end": 2.287
+  },
+  {
+   "text": "agradece.",
+   "start": 2.31,
+   "end": 3.204
+  }
+ ]
+}

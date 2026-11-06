@@ -1,0 +1,130 @@
+{
+ "nome": "Pedrinho_corrente_duas_trocas_v1",
+ "referencia": "Causas do Bem, anuncio 1444789200923601 (Kauê): texto fixo no alto com destaque amarelo, voz da crianca 0-9 s, depois so musica",
+ "angulo": "a mae faz duas trocas de curativo por dia; qualquer valor ajuda a aliviar as dores",
+ "texto": [
+  [
+   "Corrente do bem: ",
+   ""
+  ],
+  [
+   "Com R$5",
+   "y"
+  ],
+  [
+   ",",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "você ajuda a mamãe do Pedrinho",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "nas ",
+   ""
+  ],
+  [
+   "duas trocas de curativo",
+   "y"
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "que ela faz todo dia",
+   ""
+  ]
+ ],
+ "texto_y": 255,
+ "falas": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "corte": [
+    78.32,
+    80.32
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "corte": [
+    81.46,
+    82.38
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "corte": [
+    84.42,
+    85.86
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "corte": [
+    86.4,
+    89.54
+   ]
+  }
+ ],
+ "voz_inicio": 0.4,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "musica_sob_voz": 0.12,
+ "musica_depois": 0.45,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 4.0,
+   "start": 136.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 4.2,
+   "start": 25.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 3.8,
+   "start": 255.0,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+   "dur": 4.4,
+   "start": 16.0,
+   "fade_in": true,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 4.0,
+   "start": 320.0,
+   "fade_in": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 4.0,
+   "start": 95.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_corrente_duas_trocas_v1/fotos/20241109_123330.png",
+   "dur": 4.2,
+   "fonte_original": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241109_123330.jpg"
+  }
+ ],
+ "fatos": {
+  "seja com um, dois reais, cinco reais... o que importa é ajudar nas minhas dores a dar uma aliviada": "Pedrinho, 20260917_001530 (78-90 s)",
+  "a mae faz os curativos todos os dias, duas vezes ao dia": "Pedrinho, 20260917_001530 (4-17 s)",
+  "R$5": "ele fala em ate cinco reais no trecho usado"
+ },
+ "modelo": "lote de 30 (27/10/2026), frente D",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 30\\PEB 129 - CORRENTE DO BEM.mp4"
+}

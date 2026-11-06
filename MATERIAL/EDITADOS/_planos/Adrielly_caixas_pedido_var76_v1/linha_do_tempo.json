@@ -1,0 +1,40 @@
+{
+ "total": 36.33100000000016,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 1.9100000000000068,
+   "texto": "A gente precisa muito da sua ajuda,"
+  },
+  {
+   "nome": "c1",
+   "d": 8.570000000000032,
+   "texto": "Esse curativo pequenininho, a gente pega o, a cartela grande de curativo, recorta ele, e esse tamanhozinho dá em média de cinquenta a oitenta reais."
+  },
+  {
+   "nome": "c2",
+   "d": 5.450000000000084,
+   "texto": "É muito caro. A caixa pode custar mais de mil reais e o tratamento completo, é de noventa mil reais por mês."
+  },
+  {
+   "nome": "c3",
+   "d": 4.629999999999977,
+   "texto": "às vezes dormir se torna impossível, tomar um banho, três, quatro horas pra tomar um banho."
+  },
+  {
+   "nome": "c4",
+   "d": 7.230000000000056,
+   "texto": "Qualquer ajuda é muito bem-vinda. Dois, dois, cinco, o que seu coração puder."
+  },
+  {
+   "nome": "c5",
+   "d": 3.5100000000000002,
+   "texto": "Cinco reais pode parecer pouco pra você,"
+  },
+  {
+   "nome": "c6",
+   "d": 5.030999999999999,
+   "texto": "mas para mim é mais um dia de vida,"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+  "estilo": "A LISTA - lista de compras escrita a mao que vai sendo preenchida; so narracao do ElevenLabs + b-roll (brutos sem audio)",
+  "voice_id": "XrExE9yKIg1WjnnlVkGX",
+  "fontes_dos_fatos": [
+    "v1_cinco_horas: da ultima vez a mae precisou de cinco horas pra fazer todo o curativo; ferimentos cada vez mais abertos; todo dia aparecem bolhas de sangue e de agua pra mae romper",
+    "v2_dormir: nao aguenta mais nao conseguir dormir porque as feridas estao abertas e doloridas",
+    "v3_mae_calor: segundo curativo do dia; as coisas estao acabando; precisa de atadura e pomada; dois ou cinco reais ja ajuda demais",
+    "banco: fotos dos itens de curativo (atadura crepe, gaze, pomada, soro fisiologico, esparadrapo impermeavel, oleo de girassol) e 'Curativos 2 x ao Dia'"
+  ],
+  "narracao": {
+    "N01": "Essa é a lista de compras de uma criança com pele de borboleta.",
+    "I1": "Atadura.",
+    "I2": "Gaze.",
+    "I3": "Pomada.",
+    "I4": "Soro fisiológico.",
+    "I5": "Esparadrapo impermeável.",
+    "I6": "Óleo de girassol.",
+    "N03": "Tudo isso... duas vezes por dia.",
+    "N04": "O Pedrinho tem epidermólise bolhosa. Todo dia aparecem bolhas de sangue e de água, e a mãe dele precisa romper.",
+    "N05": "Da última vez, o curativo levou cinco horas.",
+    "N06": "As feridas estão cada vez mais abertas. E a dor não deixa ele dormir.",
+    "N07": "E agora... essa lista está acabando.",
+    "N08": "Dois reais. Cinco reais. Como a mãe dele diz: já ajuda demais.",
+    "N09": "Toque em Doar agora, e ajude a completar a lista do Pedrinho."
+  },
+  "efeitos": {
+    "caneta": {"text": "quick pen scribble writing a word on paper, close mic, short", "dur": 0.7},
+    "carimbo": {"text": "heavy rubber stamp thud slamming on paper on a wooden desk", "dur": 0.8}
+  },
+  "texto_do_anuncio": "Essa é a lista de compras do Pedrinho Guerreiro. 📝\n\nAtadura. Gaze. Pomada. Soro. Esparadrapo impermeável. Óleo de girassol. Duas vezes por dia.\n\nO Pedrinho tem epidermólise bolhosa, a pele de borboleta. Todo dia aparecem bolhas novas, e o último curativo levou 5 horas.\n\nE agora a lista está acabando.\n\nR$ 2, R$ 5... como a mãe dele diz, já ajuda demais. 💙\n\nToque em Doar agora e ajude a completar a lista do Pedrinho."
+}

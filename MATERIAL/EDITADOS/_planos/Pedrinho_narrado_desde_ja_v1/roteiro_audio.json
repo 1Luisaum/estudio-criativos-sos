@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Repare no fim de cada pedido dessa família. A ajuda ainda nem chegou, e o obrigado já veio.",
+  "N2": "Não sabem quem vai ver este vídeo. Não sabem se vai chegar alguma coisa. Agradecem igual.",
+  "N3": "Agradece quem dorme mal. Quem acorda com dor. Quem vê as faixas chegando ao fim.",
+  "N4": "Um obrigado desses diz muito sobre quem está pedindo.",
+  "N5": "Ninguém tem obrigação de ajudar. E esse obrigado já está esperando por você.",
+  "N6": "Clique em Saiba mais e venha buscar o obrigado que o Pedrinho já deixou. Ele está aí desde o começo do vídeo."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

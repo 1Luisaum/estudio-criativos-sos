@@ -1,0 +1,35 @@
+{
+ "total": 22.645895000000003,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.241111,
+   "texto": "Bolhas de sangue. Bolhas de água. Todos os dias, na pele do Pedrinho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 5.300000000000002,
+   "texto": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 4.352494,
+   "texto": "É a epidermólise bolhosa. E é a mãe quem cuida de cada ferida."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 2.8,
+   "texto": "Esse calor tá acabando com a pele do meu filho."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.95229,
+   "texto": "Compartilhe este vídeo. Quanto mais gente conhecer o Pedrinho, mais força ele ganha."
+  }
+ ]
+}

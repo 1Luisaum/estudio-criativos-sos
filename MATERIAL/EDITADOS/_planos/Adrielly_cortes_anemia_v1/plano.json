@@ -1,0 +1,287 @@
+{
+ "nome": "Adrielly_cortes_anemia_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5440.MOV",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 20.0,
+ "face": [
+  484,
+  678
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    484,
+    978
+   ]
+  },
+  "Z2": {
+   "z": 1.25,
+   "center": [
+    484,
+    978
+   ]
+  },
+  "Z3": {
+   "z": 1.38,
+   "center": [
+    484,
+    978
+   ]
+  },
+  "ZF": {
+   "z": 1.52,
+   "center": [
+    484,
+    978
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 4.36,
+   "out": 6.3,
+   "txt": "A minha semana foi"
+  },
+  {
+   "in": 6.7,
+   "out": 7.9,
+   "txt": "e está sendo"
+  },
+  {
+   "in": 8.42,
+   "out": 11.72,
+   "txt": "uma semana bastante desafiadora,"
+  },
+  {
+   "in": 12.42,
+   "out": 15.44,
+   "txt": "de muitas lutas, batalhas,"
+  },
+  {
+   "in": 15.98,
+   "out": 16.96,
+   "txt": "choros,"
+  },
+  {
+   "in": 17.48,
+   "out": 20.06,
+   "txt": "crises intensas de dor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.23_pb.mp4",
+     "start": 0.0
+    }
+   ]
+  },
+  {
+   "in": 20.7,
+   "out": 22.32,
+   "txt": "aqui na minha cidade,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/casa mofo.mp4",
+     "start": 6.58
+    }
+   ]
+  },
+  {
+   "in": 22.8,
+   "out": 26.4,
+   "txt": "devido à alta temperatura do calor,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 16.0
+    }
+   ]
+  },
+  {
+   "in": 27.12,
+   "out": 28.18,
+   "txt": "acaba que",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8378_pb.mp4",
+     "start": 48.0
+    }
+   ]
+  },
+  {
+   "in": 28.78,
+   "out": 30.38,
+   "txt": "as minhas lesões",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 39.06
+    }
+   ]
+  },
+  {
+   "in": 30.8,
+   "out": 31.68,
+   "txt": "e bolhas",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8378_pb.mp4",
+     "start": 50.66
+    }
+   ]
+  },
+  {
+   "in": 32.02,
+   "out": 33.32,
+   "txt": "se agravam",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 41.54
+    }
+   ]
+  },
+  {
+   "in": 33.68,
+   "out": 34.86,
+   "txt": "ainda mais",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8378_pb.mp4",
+     "start": 52.84
+    }
+   ]
+  },
+  {
+   "in": 41.94,
+   "out": 44.1,
+   "txt": "Eu também estou com",
+   "zoom": "ZF"
+  },
+  {
+   "in": 44.64,
+   "out": 47.98,
+   "txt": "anemia crônica gravíssima.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 48.58,
+   "out": 50.24,
+   "txt": "A minha hemoglobina",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Remédio Ferropurum 20 mg por ml injetável Blau.jpeg"
+    }
+   ]
+  },
+  {
+   "in": 50.74,
+   "out": 54.0,
+   "txt": "tá em oito vírgula dois,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/remédios juntos.png"
+    }
+   ]
+  },
+  {
+   "in": 54.7,
+   "out": 55.54,
+   "txt": "devido"
+  },
+  {
+   "in": 55.88,
+   "out": 58.12,
+   "txt": "eu ter estreitamento no esôfago"
+  },
+  {
+   "in": 58.54,
+   "out": 59.7,
+   "txt": "e também",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/1232e7c8-db60-40af-9264-50c369a56df9_pb.jpg"
+    }
+   ]
+  },
+  {
+   "in": 60.24,
+   "out": 62.82,
+   "txt": "perder sangue pelas lesões",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/2f3b8216-748b-4056-b13d-07519ca2a469.jpg"
+    }
+   ]
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "DOR",
+  "LESÕES",
+  "ANEMIA",
+  "OITO",
+  "VÍRGULA",
+  "DOIS",
+  "SANGUE"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "PARA E ESCUTA"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "A HEMOGLOBINA",
+    "DA ADRIELLY ESTÁ",
+    "EM *8,2*"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (5).mp4",
+  "start": 5.0,
+  "lines": [
+   "SEJA FORÇA NA LUTA",
+   "DA ADRIELLY"
+  ],
+  "dur": 3.4,
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "PODEM MUDAR A SEMANA DA",
+    64
+   ],
+   [
+    "ADRIELLY GUERREIRA!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "semana de lutas, crises de dor com o calor, lesões pioram": "IMG_5440 (4-35 s)",
+  "anemia crônica gravíssima, hemoglobina 8,2, esôfago, perde sangue": "IMG_5440 (42-63 s)",
+  "Ferropurum (ferro)": "banco, foto do remédio; IMG_3909",
+  "R$10": "IMG_4205, IMG_4493, IMG_4740"
+ },
+ "modelo": "edicao-criativo-ong (Pedrinho_5horas_v1), adaptado para a Adrielly",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 42\\AEB 43 - CORTES COM GANCHO.mp4"
+}

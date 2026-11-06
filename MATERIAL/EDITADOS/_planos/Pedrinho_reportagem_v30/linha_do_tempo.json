@@ -1,0 +1,71 @@
+{
+ "total": 55.72070300000003,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.97381,
+   "texto": "Seis pessoas. Doze reais. Foi a conta que o Pedrinho fez para atravessar a semana."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 6.619999999999998,
+   "texto": "eu só tenho cinco dias, pra conseguir, pelo menos, seis pessoas pra me ajudar,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 2.251701,
+   "texto": "O valor é pequeno. O motivo, não."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 10.460000000000003,
+   "texto": "com pelo menos, R$ 12 por aí, pra me garantir os itens de curativo pra minha mamãe conseguir fazer uma troca de curativo bem confortável,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.529909,
+   "texto": "O pedido não é para o ano. É para a semana. É para a próxima troca."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 3.5200000000000076,
+   "texto": "Que não tá nem um pouco fácil, pessoal, nem um pouco mesmo."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 4.861088,
+   "texto": "Agora, as trocas são duas por dia. E a mãe nunca pensou que estaria pedindo."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 4.700000000000004,
+   "texto": "Infelizmente, precisou de eu vim aqui, pedir uma ajuda pro meu filho,"
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 5.298889,
+   "texto": "Doze reais, pela SOS Human Help, podem ser a sua parte nessa conta."
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "d": 3.600000000000006,
+   "texto": "Então vamo juntos nessa batalha."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 4.9053059999999995,
+   "texto": "Clique em Saiba mais e seja uma dessas seis pessoas."
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "total_s": 57,
+ "videos": [
+  {
+   "plano": "Pedrinho_cortes_nao_luta_sozinho_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 35,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_cortes_nao_luta_sozinho_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 31\\PEB 148 - CORTES COM GANCHO.mp4",
+   "duracao": 25.77,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 2 momento(s): [18.5, 19.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 148 - CORTES COM GANCHO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  }
+ ]
+}

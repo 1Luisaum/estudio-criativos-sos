@@ -1,0 +1,30 @@
+{
+ "text": "Mas ela continua de pé.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "ela",
+   "start": 0.279,
+   "end": 0.383
+  },
+  {
+   "text": "continua",
+   "start": 0.43,
+   "end": 0.801
+  },
+  {
+   "text": "de",
+   "start": 0.836,
+   "end": 0.906
+  },
+  {
+   "text": "pé.",
+   "start": 0.952,
+   "end": 1.486
+  }
+ ]
+}

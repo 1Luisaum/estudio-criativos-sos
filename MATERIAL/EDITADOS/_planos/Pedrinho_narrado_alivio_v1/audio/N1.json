@@ -1,0 +1,80 @@
+{
+ "text": "Pedrinho nasceu com epidermólise bolhosa. Para ele, pomada e gaze não são luxo. São remédio.",
+ "words": [
+  {
+   "text": "Pedrinho",
+   "start": 0.0,
+   "end": 0.441
+  },
+  {
+   "text": "nasceu",
+   "start": 0.464,
+   "end": 0.778
+  },
+  {
+   "text": "com",
+   "start": 0.824,
+   "end": 0.917
+  },
+  {
+   "text": "epidermólise",
+   "start": 0.964,
+   "end": 1.649
+  },
+  {
+   "text": "bolhosa.",
+   "start": 1.683,
+   "end": 2.21
+  },
+  {
+   "text": "Para",
+   "start": 2.332,
+   "end": 2.523
+  },
+  {
+   "text": "ele,",
+   "start": 2.604,
+   "end": 2.848
+  },
+  {
+   "text": "pomada",
+   "start": 2.895,
+   "end": 3.382
+  },
+  {
+   "text": "e",
+   "start": 3.406,
+   "end": 3.456
+  },
+  {
+   "text": "gáze",
+   "start": 3.487,
+   "end": 3.812
+  },
+  {
+   "text": "não",
+   "start": 3.847,
+   "end": 3.951
+  },
+  {
+   "text": "são",
+   "start": 3.986,
+   "end": 4.137
+  },
+  {
+   "text": "luxo.",
+   "start": 4.172,
+   "end": 4.525
+  },
+  {
+   "text": "São",
+   "start": 4.561,
+   "end": 4.735
+  },
+  {
+   "text": "remédio.",
+   "start": 4.758,
+   "end": 5.21
+  }
+ ]
+}

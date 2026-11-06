@@ -1,0 +1,342 @@
+{
+ "nome": "Pedrinho_narrado_reforco_v1",
+ "crianca": "Pedrinho",
+ "angulo": "reforco",
+ "gancho": "cada um ajuda como pode",
+ "fatos": [
+  "cada um ajuda como pode, assim vai vencendo: Pedrinho, Um Vídeo Novo 281 e 297 s",
+  "doar pomada, atadura, dois ou cinco reais: mãe, Roteiro_ esse calor 21 a 29 s",
+  "sempre mais um reforço: Pedrinho, Um Vídeo Novo 273 s"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/rockymetal-ambient-acoustic-239252.mp3",
+ "music_start": 0.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "REFORÇO",
+  "BATALHA",
+  "ATADURA",
+  "POMADA",
+  "CAMINHADA"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*CADA UM COMO PODE*",
+    "fs": 88
+   },
+   {
+    "text": "E ASSIM ELE VENCE",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 2.33
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 175.0
+    }
+   ],
+   "txt": "Ninguém consegue carregar essa luta inteira. Nem ele. Nem a mãe dele."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     281.26,
+     282.24
+    ],
+    [
+     297.72,
+     299.04
+    ],
+    [
+     299.7,
+     301.96
+    ],
+    [
+     306.56,
+     307.24
+    ],
+    [
+     308.32,
+     310.16
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 12.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 62.0
+    }
+   ],
+   "txt": "cada um ajuda como pode, cada um ajudando de uma forma, uns ajudando daqui, outros ajudando daqui, e assim a gente vai caminhando e vai vencendo essa batalha,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20241109_123330.jpg",
+     "until": 2.34
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 214.0
+    }
+   ],
+   "txt": "É assim que o Pedrinho explica a própria vida: uma corrente de mãos."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v3_mae_calor.json",
+   "cuts": [
+    [
+     15.62,
+     16.06
+    ],
+    [
+     17.42,
+     17.66
+    ],
+    [
+     18.9,
+     18.9
+    ],
+    [
+     19.9,
+     20.06
+    ],
+    [
+     21.62,
+     22.92
+    ],
+    [
+     24.36,
+     24.82
+    ],
+    [
+     26.42,
+     28.36
+    ],
+    [
+     29.0,
+     29.72
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      330,
+      800
+     ]
+    }
+   ],
+   "txt": "Pedrinho tá precisando de atadura, precisando de pomada. Quem quiser tá doando pomada ou atadura, ou quiser doar dois reais ou cinco reais, vai tá ajudando demais."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "UM PEDAÇO",
+    "DE CADA UM"
+   ],
+   "dur": 1.5,
+   "fs": 190
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260825_134808.jpg",
+     "until": 1.52
+    },
+    {
+     "src": "20260825_134710.jpg",
+     "until": 3.3
+    },
+    {
+     "src": "20260825_134039.jpg",
+     "until": 4.52
+    },
+    {
+     "src": "20240514_210632.jpg",
+     "until": 6.56
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 178.0
+    }
+   ],
+   "txt": "Tem quem manda uma atadura. Tem quem manda dois reais. Tem quem manda cinco. Nenhum desses gestos resolve tudo. Mas juntos, garantem a troca de hoje."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V2.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     273.16,
+     274.98
+    ]
+   ],
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 45.0
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 8.0
+    }
+   ],
+   "txt": "sempre mais um reforço, sempre é bom, né?"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 85.0,
+     "until": 1.64
+    },
+    {
+     "src": "20260729_180353.jpg"
+    }
+   ],
+   "txt": "Sozinho, ninguém vence isso. Junto, ele já está vencendo."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cuts": [
+    [
+     65.12,
+     66.0
+    ],
+    [
+     67.22,
+     67.62
+    ],
+    [
+     68.98,
+     69.28
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      520,
+      500
+     ]
+    }
+   ],
+   "txt": "Então, por favor, seja comigo nessa caminhada."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cuts": [
+    [
+     54.28,
+     56.8
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      690,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.5,
+     "center": [
+      690,
+      560
+     ]
+    }
+   ],
+   "txt": "Então vamo juntos nessa batalha."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 19.0,
+     "until": 2.6
+    },
+    {
+     "src": "20241108_111235(0).jpg"
+    }
+   ],
+   "txt": "Clique em Saiba mais e entre nessa corrente. Com dois ou cinco reais, você já é reforço."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "SEJA O PRÓXIMO",
+    "*REFORÇO* DO PEDRINHO"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 183 - NARRADO DE IMPACTO.mp4"
+}

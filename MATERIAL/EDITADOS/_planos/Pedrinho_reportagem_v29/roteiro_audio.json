@@ -1,0 +1,19 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Quando se fala do Pedrinho, todo mundo pensa em faixa. Mas a lista dele não termina na faixa.",
+  "OFF2": "Este é um dos suplementos da dieta dele.",
+  "OFF3": "Este óleo também entra nos cuidados com a pele.",
+  "OFF4": "Somando tudo, o cuidado virou uma despesa que a família não alcança.",
+  "OFF5": "Ele sabe o tamanho do pedido. E faz mesmo assim.",
+  "OFF6": "A SOS Human Help reúne doações para esses cuidados. Dez reais já somam.",
+  "OFF7": "Clique em Saiba mais e veja como ajudar além da faixa."
+ }
+}

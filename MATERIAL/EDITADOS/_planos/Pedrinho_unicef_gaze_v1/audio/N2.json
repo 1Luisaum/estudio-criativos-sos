@@ -1,0 +1,50 @@
+{
+ "text": "É o que protege as feridas dele da poeira.",
+ "words": [
+  {
+   "text": "É",
+   "start": 0.0,
+   "end": 0.116
+  },
+  {
+   "text": "o",
+   "start": 0.174,
+   "end": 0.224
+  },
+  {
+   "text": "que",
+   "start": 0.232,
+   "end": 0.313
+  },
+  {
+   "text": "protege",
+   "start": 0.348,
+   "end": 0.731
+  },
+  {
+   "text": "as",
+   "start": 0.755,
+   "end": 0.813
+  },
+  {
+   "text": "feridas",
+   "start": 0.871,
+   "end": 1.231
+  },
+  {
+   "text": "dele",
+   "start": 1.289,
+   "end": 1.463
+  },
+  {
+   "text": "da",
+   "start": 1.486,
+   "end": 1.567
+  },
+  {
+   "text": "poeira.",
+   "start": 1.614,
+   "end": 2.052
+  }
+ ]
+}

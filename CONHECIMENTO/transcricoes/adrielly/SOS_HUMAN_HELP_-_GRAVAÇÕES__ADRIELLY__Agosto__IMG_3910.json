@@ -1,0 +1,296 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Melatonina eu uso à noite para dormir, Tilemats para dor, Todagesic pastilha eu uso para garganta, pois tenho estreitamento no esôfago",
+ "words": [
+  {
+   "text": "Melatonina",
+   "start": 0.52,
+   "end": 1.58,
+   "type": "word",
+   "logprob": -0.0011236520302645658
+  },
+  {
+   "text": " ",
+   "start": 1.58,
+   "end": 1.9,
+   "type": "spacing",
+   "logprob": -0.01105906069278717
+  },
+  {
+   "text": "eu",
+   "start": 1.9,
+   "end": 2.08,
+   "type": "word",
+   "logprob": -0.01105906069278717
+  },
+  {
+   "text": " ",
+   "start": 2.08,
+   "end": 2.14,
+   "type": "spacing",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": "uso",
+   "start": 2.14,
+   "end": 2.38,
+   "type": "word",
+   "logprob": -1.07287787614041e-05
+  },
+  {
+   "text": " ",
+   "start": 2.38,
+   "end": 2.44,
+   "type": "spacing",
+   "logprob": -9.417489309271332e-06
+  },
+  {
+   "text": "à",
+   "start": 2.44,
+   "end": 2.5,
+   "type": "word",
+   "logprob": -9.417489309271332e-06
+  },
+  {
+   "text": " ",
+   "start": 2.5,
+   "end": 2.58,
+   "type": "spacing",
+   "logprob": -1.0371154530730564e-05
+  },
+  {
+   "text": "noite",
+   "start": 2.58,
+   "end": 3.02,
+   "type": "word",
+   "logprob": -1.0371154530730564e-05
+  },
+  {
+   "text": " ",
+   "start": 3.02,
+   "end": 3.16,
+   "type": "spacing",
+   "logprob": -0.0007201223634183407
+  },
+  {
+   "text": "para",
+   "start": 3.16,
+   "end": 3.44,
+   "type": "word",
+   "logprob": -0.0007201223634183407
+  },
+  {
+   "text": " ",
+   "start": 3.44,
+   "end": 3.48,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "dormir,",
+   "start": 3.48,
+   "end": 3.98,
+   "type": "word",
+   "logprob": -0.014322969524463198
+  },
+  {
+   "text": " ",
+   "start": 3.98,
+   "end": 3.98,
+   "type": "spacing",
+   "logprob": -1.2497979402542114
+  },
+  {
+   "text": "Tilemats",
+   "start": 4.7,
+   "end": 5.62,
+   "type": "word",
+   "logprob": -0.667946346104145
+  },
+  {
+   "text": " ",
+   "start": 5.62,
+   "end": 5.8,
+   "type": "spacing",
+   "logprob": -0.0001854724541772157
+  },
+  {
+   "text": "para",
+   "start": 5.8,
+   "end": 6.14,
+   "type": "word",
+   "logprob": -0.0001854724541772157
+  },
+  {
+   "text": " ",
+   "start": 6.14,
+   "end": 6.18,
+   "type": "spacing",
+   "logprob": -0.0009153467253781855
+  },
+  {
+   "text": "dor,",
+   "start": 6.2,
+   "end": 6.46,
+   "type": "word",
+   "logprob": -0.01817996105819475
+  },
+  {
+   "text": " ",
+   "start": 6.46,
+   "end": 7.12,
+   "type": "spacing",
+   "logprob": -0.23661217093467712
+  },
+  {
+   "text": "Todagesic",
+   "start": 7.12,
+   "end": 8.06,
+   "type": "word",
+   "logprob": -0.09673906531553358
+  },
+  {
+   "text": " ",
+   "start": 8.06,
+   "end": 8.42,
+   "type": "spacing",
+   "logprob": -0.0045746671967208385
+  },
+  {
+   "text": "pastilha",
+   "start": 8.42,
+   "end": 9.1,
+   "type": "word",
+   "logprob": -0.0023098636465874733
+  },
+  {
+   "text": " ",
+   "start": 9.1,
+   "end": 9.46,
+   "type": "spacing",
+   "logprob": -3.1470757676288486e-05
+  },
+  {
+   "text": "eu",
+   "start": 9.46,
+   "end": 9.62,
+   "type": "word",
+   "logprob": -3.1470757676288486e-05
+  },
+  {
+   "text": " ",
+   "start": 9.62,
+   "end": 9.66,
+   "type": "spacing",
+   "logprob": -7.271740287251305e-06
+  },
+  {
+   "text": "uso",
+   "start": 9.74,
+   "end": 10.0,
+   "type": "word",
+   "logprob": -7.271740287251305e-06
+  },
+  {
+   "text": " ",
+   "start": 10.0,
+   "end": 10.04,
+   "type": "spacing",
+   "logprob": -0.0006272017490118742
+  },
+  {
+   "text": "para",
+   "start": 10.04,
+   "end": 10.3,
+   "type": "word",
+   "logprob": -0.0006272017490118742
+  },
+  {
+   "text": " ",
+   "start": 10.3,
+   "end": 10.34,
+   "type": "spacing",
+   "logprob": -0.0019320646533742547
+  },
+  {
+   "text": "garganta,",
+   "start": 10.34,
+   "end": 10.9,
+   "type": "word",
+   "logprob": -0.0009923321708305997
+  },
+  {
+   "text": " ",
+   "start": 10.9,
+   "end": 11.34,
+   "type": "spacing",
+   "logprob": -2.3007127310847864e-05
+  },
+  {
+   "text": "pois",
+   "start": 11.34,
+   "end": 11.56,
+   "type": "word",
+   "logprob": -2.3007127310847864e-05
+  },
+  {
+   "text": " ",
+   "start": 11.56,
+   "end": 11.66,
+   "type": "spacing",
+   "logprob": -0.005555902607738972
+  },
+  {
+   "text": "tenho",
+   "start": 11.66,
+   "end": 11.86,
+   "type": "word",
+   "logprob": -0.005555902607738972
+  },
+  {
+   "text": " ",
+   "start": 11.86,
+   "end": 11.9,
+   "type": "spacing",
+   "logprob": -0.05578611046075821
+  },
+  {
+   "text": "estreitamento",
+   "start": 11.9,
+   "end": 12.66,
+   "type": "word",
+   "logprob": -0.022535176016390324
+  },
+  {
+   "text": " ",
+   "start": 12.66,
+   "end": 12.7,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "no",
+   "start": 12.7,
+   "end": 12.78,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 12.78,
+   "end": 12.82,
+   "type": "spacing",
+   "logprob": -0.0001357701694360003
+  },
+  {
+   "text": "esôfago",
+   "start": 12.82,
+   "end": 13.46,
+   "type": "word",
+   "logprob": -0.004371388874590464
+  }
+ ],
+ "transcription_id": "rltiUGIDwMxA1bht1Lq5",
+ "audio_duration_secs": 14.845
+}

@@ -1,0 +1,90 @@
+{
+ "text": "Ele não escolheu a dor. Nem as faixas. Nem as horas paradas enquanto a mãe troca tudo.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "não",
+   "start": 0.197,
+   "end": 0.29
+  },
+  {
+   "text": "escolheu",
+   "start": 0.313,
+   "end": 0.627
+  },
+  {
+   "text": "a",
+   "start": 0.685,
+   "end": 0.735
+  },
+  {
+   "text": "dor.",
+   "start": 0.755,
+   "end": 1.068
+  },
+  {
+   "text": "Nem",
+   "start": 1.075,
+   "end": 1.214
+  },
+  {
+   "text": "as",
+   "start": 1.249,
+   "end": 1.318
+  },
+  {
+   "text": "faixas.",
+   "start": 1.388,
+   "end": 1.969
+  },
+  {
+   "text": "Nem",
+   "start": 2.189,
+   "end": 2.352
+  },
+  {
+   "text": "as",
+   "start": 2.398,
+   "end": 2.468
+  },
+  {
+   "text": "horas",
+   "start": 2.526,
+   "end": 2.688
+  },
+  {
+   "text": "paradas",
+   "start": 2.746,
+   "end": 3.153
+  },
+  {
+   "text": "enquanto",
+   "start": 3.199,
+   "end": 3.513
+  },
+  {
+   "text": "a",
+   "start": 3.547,
+   "end": 3.597
+  },
+  {
+   "text": "mãe",
+   "start": 3.64,
+   "end": 3.873
+  },
+  {
+   "text": "troca",
+   "start": 3.907,
+   "end": 4.198
+  },
+  {
+   "text": "tudo.",
+   "start": 4.279,
+   "end": 4.644
+  }
+ ]
+}

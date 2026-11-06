@@ -1,0 +1,75 @@
+{
+ "text": "É a doença da pele de borboleta. Um simples atrito pode abrir uma ferida.",
+ "words": [
+  {
+   "text": "É",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "a",
+   "start": 0.128,
+   "end": 0.151
+  },
+  {
+   "text": "doença",
+   "start": 0.209,
+   "end": 0.534
+  },
+  {
+   "text": "da",
+   "start": 0.569,
+   "end": 0.639
+  },
+  {
+   "text": "pele",
+   "start": 0.72,
+   "end": 0.998
+  },
+  {
+   "text": "de",
+   "start": 1.033,
+   "end": 1.08
+  },
+  {
+   "text": "borboleta.",
+   "start": 1.126,
+   "end": 1.788
+  },
+  {
+   "text": "Um",
+   "start": 2.322,
+   "end": 2.461
+  },
+  {
+   "text": "simples",
+   "start": 2.519,
+   "end": 2.972
+  },
+  {
+   "text": "atrito",
+   "start": 3.042,
+   "end": 3.518
+  },
+  {
+   "text": "pode",
+   "start": 3.599,
+   "end": 4.156
+  },
+  {
+   "text": "abrir",
+   "start": 4.377,
+   "end": 4.76
+  },
+  {
+   "text": "uma",
+   "start": 4.795,
+   "end": 4.911
+  },
+  {
+   "text": "ferida.",
+   "start": 4.969,
+   "end": 5.805
+  }
+ ]
+}

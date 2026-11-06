@@ -1,0 +1,85 @@
+{
+ "text": "Clique em Saiba mais. A sua ajuda pode ser a noite em que ele não chora.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.488
+  },
+  {
+   "text": "em",
+   "start": 0.546,
+   "end": 0.627
+  },
+  {
+   "text": "Saiba",
+   "start": 0.708,
+   "end": 1.103
+  },
+  {
+   "text": "mais.",
+   "start": 1.161,
+   "end": 1.66
+  },
+  {
+   "text": "A",
+   "start": 1.997,
+   "end": 2.067
+  },
+  {
+   "text": "sua",
+   "start": 2.159,
+   "end": 2.368
+  },
+  {
+   "text": "ajuda",
+   "start": 2.392,
+   "end": 2.81
+  },
+  {
+   "text": "pode",
+   "start": 2.856,
+   "end": 3.053
+  },
+  {
+   "text": "ser",
+   "start": 3.088,
+   "end": 3.228
+  },
+  {
+   "text": "a",
+   "start": 3.274,
+   "end": 3.297
+  },
+  {
+   "text": "noite",
+   "start": 3.379,
+   "end": 3.738
+  },
+  {
+   "text": "em",
+   "start": 3.762,
+   "end": 3.82
+  },
+  {
+   "text": "que",
+   "start": 3.889,
+   "end": 3.982
+  },
+  {
+   "text": "ele",
+   "start": 4.005,
+   "end": 4.098
+  },
+  {
+   "text": "não",
+   "start": 4.133,
+   "end": 4.272
+  },
+  {
+   "text": "chora.",
+   "start": 4.331,
+   "end": 5.062
+  }
+ ]
+}

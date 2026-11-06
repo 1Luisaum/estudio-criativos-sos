@@ -1,0 +1,117 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1403709941748846.mp4",
+ "estilo": "BIB ORACOES MAE",
+ "base": [
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\terco_linho.mp4",
+   "ini": 0,
+   "fim": 1.9,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\trigo_amanhecer.mp4",
+   "ini": 0,
+   "fim": 1.9,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "ini": 2,
+   "fim": 6.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\IMG_9180.MOV",
+   "ini": 10,
+   "fim": 13.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_costas_faixas.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_bracos_6436.mp4",
+   "ini": 0,
+   "fim": 2.9,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_maos_6454.mp4",
+   "ini": 0,
+   "fim": 2.6,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\48EF4D37-1EF3-4375-B93D-B76770D944E0.mov",
+   "ini": 20,
+   "fim": 23.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_allevyn.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_braco_pulseira.mp4",
+   "ini": 0,
+   "fim": 1.2,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_oracoes_mae_sr.mp3",
+  "tx": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_oracoes_mae_sr.json",
+  "de": 0.3
+ },
+ "textos": [
+  {
+   "de": 3.9,
+   "ate": 25.58,
+   "linhas": [
+    "a oração de uma mãe",
+    "chega até Deus ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 34,
+   "y": 140,
+   "pad": [
+    16,
+    8
+   ],
+   "fonte": "serif_bold",
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 25.58
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1403 - orações (fundo sem voz).mp3",
+ "musica_volume": 2.089,
+ "modelo": {
+  "id": "adr99_oracoes_mae_ia",
+  "exemplo": "AEB 99",
+  "titulo": "Orações da mãe com vídeo de IA e feridas",
+  "descricao": "dois vídeos de IA da Magnific curtos no gancho (terço, trigal) e a mãe entrando quando a narração fala dela, takes das feridas com borrão leve, legenda UNICEF. Sem P&B.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1403709941748846",
+  "criado": "05/11/2026 (pedido do usuário)"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "text": "Ela não tem plantão nem troca de turno. O turno dela é o filho.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.232
+  },
+  {
+   "text": "não",
+   "start": 0.279,
+   "end": 0.395
+  },
+  {
+   "text": "tem",
+   "start": 0.43,
+   "end": 0.557
+  },
+  {
+   "text": "plantão",
+   "start": 0.604,
+   "end": 1.01
+  },
+  {
+   "text": "nem",
+   "start": 1.045,
+   "end": 1.173
+  },
+  {
+   "text": "troca",
+   "start": 1.231,
+   "end": 1.521
+  },
+  {
+   "text": "de",
+   "start": 1.556,
+   "end": 1.625
+  },
+  {
+   "text": "turno.",
+   "start": 1.683,
+   "end": 2.084
+  },
+  {
+   "text": "O",
+   "start": 2.084,
+   "end": 2.154
+  },
+  {
+   "text": "turno",
+   "start": 2.247,
+   "end": 2.526
+  },
+  {
+   "text": "dela",
+   "start": 2.584,
+   "end": 2.851
+  },
+  {
+   "text": "é",
+   "start": 2.909,
+   "end": 2.959
+  },
+  {
+   "text": "o",
+   "start": 2.99,
+   "end": 3.04
+  },
+  {
+   "text": "filho.",
+   "start": 3.106,
+   "end": 3.478
+  }
+ ]
+}

@@ -1,0 +1,842 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Guarde este conselho: quem planta o bem, colhe o bem. A Bíblia diz em Gálatas: \"Tudo o que o homem semear, isso também ceifará.\" Hoje você pode semear o bem na vida do Pedrinho. Ele tem uma doença rara e os curativos dele estão acabando. Doe cinco reais e ajude no tratamento dessa semana. Que Deus multiplique na sua vida.",
+ "words": [
+  {
+   "text": "Guarde",
+   "start": 0.1,
+   "end": 0.54,
+   "type": "word",
+   "logprob": -0.02562624712087806
+  },
+  {
+   "text": " ",
+   "start": 0.54,
+   "end": 0.56,
+   "type": "spacing",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": "este",
+   "start": 0.56,
+   "end": 0.78,
+   "type": "word",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": " ",
+   "start": 0.78,
+   "end": 0.82,
+   "type": "spacing",
+   "logprob": -0.0004673104267567396
+  },
+  {
+   "text": "conselho:",
+   "start": 0.82,
+   "end": 1.34,
+   "type": "word",
+   "logprob": -0.00034311556454566825
+  },
+  {
+   "text": " ",
+   "start": 1.34,
+   "end": 1.44,
+   "type": "spacing",
+   "logprob": -0.0025074013974517584
+  },
+  {
+   "text": "quem",
+   "start": 1.44,
+   "end": 1.56,
+   "type": "word",
+   "logprob": -0.0025074013974517584
+  },
+  {
+   "text": " ",
+   "start": 1.56,
+   "end": 1.68,
+   "type": "spacing",
+   "logprob": -0.00032074074260890484
+  },
+  {
+   "text": "planta",
+   "start": 1.68,
+   "end": 2.0,
+   "type": "word",
+   "logprob": -0.00032074074260890484
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.02,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "o",
+   "start": 2.02,
+   "end": 2.04,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 2.04,
+   "end": 2.14,
+   "type": "spacing",
+   "logprob": -9.178694017464295e-05
+  },
+  {
+   "text": "bem,",
+   "start": 2.14,
+   "end": 2.36,
+   "type": "word",
+   "logprob": -8.171447734639514e-05
+  },
+  {
+   "text": " ",
+   "start": 2.36,
+   "end": 2.5,
+   "type": "spacing",
+   "logprob": -7.748573807475623e-06
+  },
+  {
+   "text": "colhe",
+   "start": 2.5,
+   "end": 2.96,
+   "type": "word",
+   "logprob": -4.696827997463515e-06
+  },
+  {
+   "text": " ",
+   "start": 2.96,
+   "end": 3.0,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "o",
+   "start": 3.0,
+   "end": 3.02,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 3.02,
+   "end": 3.14,
+   "type": "spacing",
+   "logprob": -6.794906312279636e-06
+  },
+  {
+   "text": "bem.",
+   "start": 3.14,
+   "end": 3.36,
+   "type": "word",
+   "logprob": -5.096179734209727e-06
+  },
+  {
+   "text": " ",
+   "start": 3.36,
+   "end": 3.48,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "A",
+   "start": 3.48,
+   "end": 3.52,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 3.52,
+   "end": 3.62,
+   "type": "spacing",
+   "logprob": -0.0005069877952337265
+  },
+  {
+   "text": "Bíblia",
+   "start": 3.62,
+   "end": 3.92,
+   "type": "word",
+   "logprob": -0.0001887046392994307
+  },
+  {
+   "text": " ",
+   "start": 3.92,
+   "end": 4.0,
+   "type": "spacing",
+   "logprob": -6.794906312279636e-06
+  },
+  {
+   "text": "diz",
+   "start": 4.0,
+   "end": 4.18,
+   "type": "word",
+   "logprob": -6.794906312279636e-06
+  },
+  {
+   "text": " ",
+   "start": 4.18,
+   "end": 4.22,
+   "type": "spacing",
+   "logprob": -0.00011443436960689723
+  },
+  {
+   "text": "em",
+   "start": 4.22,
+   "end": 4.34,
+   "type": "word",
+   "logprob": -0.00011443436960689723
+  },
+  {
+   "text": " ",
+   "start": 4.34,
+   "end": 4.38,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "Gálatas:",
+   "start": 4.38,
+   "end": 4.9,
+   "type": "word",
+   "logprob": -1.2159209106243907e-05
+  },
+  {
+   "text": " ",
+   "start": 4.9,
+   "end": 4.96,
+   "type": "spacing",
+   "logprob": -0.0019357530400156975
+  },
+  {
+   "text": "\"Tudo",
+   "start": 4.96,
+   "end": 5.26,
+   "type": "word",
+   "logprob": -0.0036086151355902985
+  },
+  {
+   "text": " ",
+   "start": 5.26,
+   "end": 5.28,
+   "type": "spacing",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": "o",
+   "start": 5.28,
+   "end": 5.3,
+   "type": "word",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": " ",
+   "start": 5.3,
+   "end": 5.4,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 5.4,
+   "end": 5.48,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 5.48,
+   "end": 5.52,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "o",
+   "start": 5.52,
+   "end": 5.58,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 5.58,
+   "end": 5.6,
+   "type": "spacing",
+   "logprob": -1.9311717551317997e-05
+  },
+  {
+   "text": "homem",
+   "start": 5.6,
+   "end": 5.82,
+   "type": "word",
+   "logprob": -1.9311717551317997e-05
+  },
+  {
+   "text": " ",
+   "start": 5.82,
+   "end": 5.94,
+   "type": "spacing",
+   "logprob": -0.00017271934484597296
+  },
+  {
+   "text": "semear,",
+   "start": 5.94,
+   "end": 6.36,
+   "type": "word",
+   "logprob": -8.839557059506628e-05
+  },
+  {
+   "text": " ",
+   "start": 6.36,
+   "end": 6.56,
+   "type": "spacing",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": "isso",
+   "start": 6.56,
+   "end": 6.78,
+   "type": "word",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": " ",
+   "start": 6.78,
+   "end": 6.82,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "também",
+   "start": 6.82,
+   "end": 7.16,
+   "type": "word",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": " ",
+   "start": 7.16,
+   "end": 7.2,
+   "type": "spacing",
+   "logprob": -0.002220190828666091
+  },
+  {
+   "text": "ceifará.\"",
+   "start": 7.2,
+   "end": 7.68,
+   "type": "word",
+   "logprob": -0.0010444380323962024
+  },
+  {
+   "text": " ",
+   "start": 7.68,
+   "end": 7.82,
+   "type": "spacing",
+   "logprob": -2.610649426060263e-05
+  },
+  {
+   "text": "Hoje",
+   "start": 7.82,
+   "end": 8.039,
+   "type": "word",
+   "logprob": -2.610649426060263e-05
+  },
+  {
+   "text": " ",
+   "start": 8.039,
+   "end": 8.06,
+   "type": "spacing",
+   "logprob": -1.8000440832111053e-05
+  },
+  {
+   "text": "você",
+   "start": 8.06,
+   "end": 8.34,
+   "type": "word",
+   "logprob": -1.8000440832111053e-05
+  },
+  {
+   "text": " ",
+   "start": 8.34,
+   "end": 8.38,
+   "type": "spacing",
+   "logprob": -9.417489309271332e-06
+  },
+  {
+   "text": "pode",
+   "start": 8.38,
+   "end": 8.64,
+   "type": "word",
+   "logprob": -9.417489309271332e-06
+  },
+  {
+   "text": " ",
+   "start": 8.64,
+   "end": 8.68,
+   "type": "spacing",
+   "logprob": -2.2053474822314456e-05
+  },
+  {
+   "text": "semear",
+   "start": 8.68,
+   "end": 9.06,
+   "type": "word",
+   "logprob": -3.391439713595901e-05
+  },
+  {
+   "text": " ",
+   "start": 9.06,
+   "end": 9.08,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "o",
+   "start": 9.08,
+   "end": 9.18,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 9.18,
+   "end": 9.2,
+   "type": "spacing",
+   "logprob": -3.302042750874534e-05
+  },
+  {
+   "text": "bem",
+   "start": 9.2,
+   "end": 9.34,
+   "type": "word",
+   "logprob": -3.302042750874534e-05
+  },
+  {
+   "text": " ",
+   "start": 9.34,
+   "end": 9.38,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "na",
+   "start": 9.38,
+   "end": 9.46,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.46,
+   "end": 9.54,
+   "type": "spacing",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": "vida",
+   "start": 9.54,
+   "end": 9.74,
+   "type": "word",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": " ",
+   "start": 9.74,
+   "end": 9.78,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "do",
+   "start": 9.78,
+   "end": 9.84,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.84,
+   "end": 9.92,
+   "type": "spacing",
+   "logprob": -0.00022218143567442894
+  },
+  {
+   "text": "Pedrinho.",
+   "start": 9.92,
+   "end": 10.4,
+   "type": "word",
+   "logprob": -7.51201156769336e-05
+  },
+  {
+   "text": " ",
+   "start": 10.4,
+   "end": 10.52,
+   "type": "spacing",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": "Ele",
+   "start": 10.52,
+   "end": 10.64,
+   "type": "word",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": " ",
+   "start": 10.64,
+   "end": 10.74,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "tem",
+   "start": 10.74,
+   "end": 10.84,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 10.84,
+   "end": 10.86,
+   "type": "spacing",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": "uma",
+   "start": 10.86,
+   "end": 10.96,
+   "type": "word",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": " ",
+   "start": 10.96,
+   "end": 11.02,
+   "type": "spacing",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": "doença",
+   "start": 11.02,
+   "end": 11.4,
+   "type": "word",
+   "logprob": -2.3841830625315197e-06
+  },
+  {
+   "text": " ",
+   "start": 11.4,
+   "end": 11.5,
+   "type": "spacing",
+   "logprob": -3.6477376852417365e-05
+  },
+  {
+   "text": "rara",
+   "start": 11.5,
+   "end": 11.84,
+   "type": "word",
+   "logprob": -3.6477376852417365e-05
+  },
+  {
+   "text": " ",
+   "start": 11.84,
+   "end": 11.96,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "e",
+   "start": 11.96,
+   "end": 12.0,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 12.0,
+   "end": 12.04,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "os",
+   "start": 12.04,
+   "end": 12.16,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 12.16,
+   "end": 12.18,
+   "type": "spacing",
+   "logprob": -2.3483953555114567e-05
+  },
+  {
+   "text": "curativos",
+   "start": 12.18,
+   "end": 12.72,
+   "type": "word",
+   "logprob": -5.415905131182323e-05
+  },
+  {
+   "text": " ",
+   "start": 12.72,
+   "end": 12.74,
+   "type": "spacing",
+   "logprob": -7.986990567587782e-06
+  },
+  {
+   "text": "dele",
+   "start": 12.74,
+   "end": 12.98,
+   "type": "word",
+   "logprob": -7.986990567587782e-06
+  },
+  {
+   "text": " ",
+   "start": 12.98,
+   "end": 13.0,
+   "type": "spacing",
+   "logprob": -4.887569048150908e-06
+  },
+  {
+   "text": "estão",
+   "start": 13.0,
+   "end": 13.24,
+   "type": "word",
+   "logprob": -4.887569048150908e-06
+  },
+  {
+   "text": " ",
+   "start": 13.24,
+   "end": 13.28,
+   "type": "spacing",
+   "logprob": -1.2516897186287679e-05
+  },
+  {
+   "text": "acabando.",
+   "start": 13.28,
+   "end": 13.84,
+   "type": "word",
+   "logprob": -5.841220348498963e-06
+  },
+  {
+   "text": " ",
+   "start": 13.84,
+   "end": 13.98,
+   "type": "spacing",
+   "logprob": -0.01142553985118866
+  },
+  {
+   "text": "Doe",
+   "start": 13.98,
+   "end": 14.16,
+   "type": "word",
+   "logprob": -0.01142553985118866
+  },
+  {
+   "text": " ",
+   "start": 14.16,
+   "end": 14.34,
+   "type": "spacing",
+   "logprob": -0.00482454476878047
+  },
+  {
+   "text": "cinco",
+   "start": 14.34,
+   "end": 14.58,
+   "type": "word",
+   "logprob": -0.00482454476878047
+  },
+  {
+   "text": " ",
+   "start": 14.58,
+   "end": 14.66,
+   "type": "spacing",
+   "logprob": -2.4437606043647975e-05
+  },
+  {
+   "text": "reais",
+   "start": 14.66,
+   "end": 15.08,
+   "type": "word",
+   "logprob": -2.4437606043647975e-05
+  },
+  {
+   "text": " ",
+   "start": 15.08,
+   "end": 15.12,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "e",
+   "start": 15.12,
+   "end": 15.18,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 15.18,
+   "end": 15.26,
+   "type": "spacing",
+   "logprob": -1.1086402082582936e-05
+  },
+  {
+   "text": "ajude",
+   "start": 15.26,
+   "end": 15.68,
+   "type": "word",
+   "logprob": -4.4345608330331744e-06
+  },
+  {
+   "text": " ",
+   "start": 15.68,
+   "end": 15.72,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "no",
+   "start": 15.72,
+   "end": 15.84,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 15.84,
+   "end": 15.86,
+   "type": "spacing",
+   "logprob": -7.354942499659956e-05
+  },
+  {
+   "text": "tratamento",
+   "start": 15.86,
+   "end": 16.46,
+   "type": "word",
+   "logprob": -7.354942499659956e-05
+  },
+  {
+   "text": " ",
+   "start": 16.46,
+   "end": 16.48,
+   "type": "spacing",
+   "logprob": -0.0001429217227268964
+  },
+  {
+   "text": "dessa",
+   "start": 16.48,
+   "end": 16.68,
+   "type": "word",
+   "logprob": -0.0001429217227268964
+  },
+  {
+   "text": " ",
+   "start": 16.68,
+   "end": 16.76,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "semana.",
+   "start": 16.76,
+   "end": 17.16,
+   "type": "word",
+   "logprob": -7.152554449671047e-07
+  },
+  {
+   "text": " ",
+   "start": 17.16,
+   "end": 17.26,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "Que",
+   "start": 17.26,
+   "end": 17.34,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 17.34,
+   "end": 17.4,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "Deus",
+   "start": 17.4,
+   "end": 17.64,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 17.64,
+   "end": 17.72,
+   "type": "spacing",
+   "logprob": -0.0008858094224706292
+  },
+  {
+   "text": "multiplique",
+   "start": 17.72,
+   "end": 18.3,
+   "type": "word",
+   "logprob": -0.0005659510375566738
+  },
+  {
+   "text": " ",
+   "start": 18.3,
+   "end": 18.34,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "na",
+   "start": 18.34,
+   "end": 18.4,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 18.4,
+   "end": 18.48,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "sua",
+   "start": 18.48,
+   "end": 18.62,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 18.62,
+   "end": 18.7,
+   "type": "spacing",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": "vida.",
+   "start": 18.7,
+   "end": 19.0,
+   "type": "word",
+   "logprob": -0.005276364453311544
+  }
+ ],
+ "transcription_id": "WscRdD6pGs6TUqr3Yqn6",
+ "audio_duration_secs": 19.05125
+}

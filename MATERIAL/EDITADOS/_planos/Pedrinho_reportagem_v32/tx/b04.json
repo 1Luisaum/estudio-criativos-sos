@@ -1,0 +1,230 @@
+{
+"text": "Assim, a gente não gosta muito de enfaixar o ombro, né? Porque aí que demora mesmo o curativo, né, mas quando é preciso fazer, fazer o que, né?",
+"words": [
+{
+"text": "Assim,",
+"start": 0.3,
+"end": 0.54,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.010562425944954157
+},
+{
+"text": "a",
+"start": 0.58,
+"end": 0.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -4.768370445162873e-07
+},
+{
+"text": "gente",
+"start": 0.6,
+"end": 0.8,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.7418097943154862e-06
+},
+{
+"text": "não",
+"start": 0.88,
+"end": 0.94,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.7046782886609435e-05
+},
+{
+"text": "gosta",
+"start": 0.98,
+"end": 1.3,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.3378044463461265e-05
+},
+{
+"text": "muito",
+"start": 1.34,
+"end": 1.56,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00803263671696186
+},
+{
+"text": "de",
+"start": 1.6,
+"end": 1.64,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.3841855067985307e-07
+},
+{
+"text": "enfaixar",
+"start": 1.68,
+"end": 2.12,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.000944218241784256
+},
+{
+"text": "o",
+"start": 2.16,
+"end": 2.24,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -7.152555099310121e-07
+},
+{
+"text": "ombro,",
+"start": 2.32,
+"end": 2.46,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.001059429873331889
+},
+{
+"text": "né?",
+"start": 2.52,
+"end": 2.64,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.6967070450846222e-05
+},
+{
+"text": "Porque",
+"start": 2.68,
+"end": 2.86,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00044347942457534373
+},
+{
+"text": "aí",
+"start": 2.92,
+"end": 3.06,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.002015108708292246
+},
+{
+"text": "que",
+"start": 3.1,
+"end": 3.22,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.3841855067985307e-07
+},
+{
+"text": "demora",
+"start": 3.26,
+"end": 3.7,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00025078488397412
+},
+{
+"text": "mesmo",
+"start": 3.76,
+"end": 4.08,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -8.523101132595912e-05
+},
+{
+"text": "o",
+"start": 4.54,
+"end": 4.64,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -6.556489552167477e-06
+},
+{
+"text": "curativo,",
+"start": 4.7,
+"end": 5.24,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.9165467266381406e-05
+},
+{
+"text": "né,",
+"start": 5.3,
+"end": 5.38,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.004772923811591075
+},
+{
+"text": "mas",
+"start": 5.44,
+"end": 5.7,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0005049622268415987
+},
+{
+"text": "quando",
+"start": 6.32,
+"end": 6.5,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0009332115878351033
+},
+{
+"text": "é",
+"start": 6.54,
+"end": 6.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.576278118089249e-07
+},
+{
+"text": "preciso",
+"start": 6.66,
+"end": 7.18,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -7.009260298218578e-05
+},
+{
+"text": "fazer,",
+"start": 7.26,
+"end": 7.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.017385061364620924
+},
+{
+"text": "fazer",
+"start": 7.92,
+"end": 8.16,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0002455409849062562
+},
+{
+"text": "o",
+"start": 8.2,
+"end": 8.24,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.576278118089249e-07
+},
+{
+"text": "que,",
+"start": 8.28,
+"end": 8.4,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.27356010396033525
+},
+{
+"text": "né?",
+"start": 8.46,
+"end": 8.64,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.1165768000864773e-05
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (165.06 a 173.76 s); imagem trocada por b-roll sem boca em movimento"
+}

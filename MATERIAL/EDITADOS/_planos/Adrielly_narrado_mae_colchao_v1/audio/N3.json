@@ -1,0 +1,50 @@
+{
+ "text": "Mas essa mãe também adoeceu. E o dinheiro acabou.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "essa",
+   "start": 0.255,
+   "end": 0.406
+  },
+  {
+   "text": "mãe",
+   "start": 0.453,
+   "end": 0.604
+  },
+  {
+   "text": "também",
+   "start": 0.627,
+   "end": 0.801
+  },
+  {
+   "text": "adoeceu.",
+   "start": 0.836,
+   "end": 1.474
+  },
+  {
+   "text": "E",
+   "start": 1.521,
+   "end": 1.602
+  },
+  {
+   "text": "o",
+   "start": 1.649,
+   "end": 1.699
+  },
+  {
+   "text": "dinheiro",
+   "start": 1.718,
+   "end": 2.009
+  },
+  {
+   "text": "acabou.",
+   "start": 2.032,
+   "end": 2.394
+  }
+ ]
+}

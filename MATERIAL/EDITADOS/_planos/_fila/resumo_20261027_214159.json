@@ -1,0 +1,36 @@
+{
+ "total_s": 258,
+ "videos": [
+  {
+   "plano": "Adrielly_narrado_milagre_28anos_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 100,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_narrado_milagre_28anos_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 36\\PEB 161 - NARRADO DE IMPACTO.mp4",
+   "duracao": 62.9,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(24.5, 0.67), (25.17, 0.53)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 2 momento(s): [20.0, 34.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 161 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  },
+  {
+   "plano": "Adrielly_narrado_90mil_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 74,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_narrado_90mil_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 169 - NARRADO DE IMPACTO.mp4",
+   "duracao": 59.2,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(27.97, 1.17)] (se for a tela final parada, ignore)"
+   ],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  }
+ ]
+}

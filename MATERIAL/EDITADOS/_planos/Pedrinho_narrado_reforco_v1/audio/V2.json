@@ -1,0 +1,45 @@
+{
+ "text": "sempre mais um reforço, sempre é bom, né?",
+ "words": [
+  {
+   "text": "sempre",
+   "start": 0.07,
+   "end": 0.35
+  },
+  {
+   "text": "mais",
+   "start": 0.39,
+   "end": 0.57
+  },
+  {
+   "text": "um",
+   "start": 0.61,
+   "end": 0.67
+  },
+  {
+   "text": "reforço,",
+   "start": 0.69,
+   "end": 1.19
+  },
+  {
+   "text": "sempre",
+   "start": 1.27,
+   "end": 1.53
+  },
+  {
+   "text": "é",
+   "start": 1.59,
+   "end": 1.61
+  },
+  {
+   "text": "bom,",
+   "start": 1.67,
+   "end": 1.81
+  },
+  {
+   "text": "né?",
+   "start": 1.89,
+   "end": 2.09
+  }
+ ]
+}

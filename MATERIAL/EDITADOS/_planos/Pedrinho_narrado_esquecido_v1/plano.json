@@ -1,0 +1,295 @@
+{
+ "nome": "Pedrinho_narrado_esquecido_v1",
+ "pedido": "2026-10-26_105743",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 25.0,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "FERIDA",
+  "ACABANDO",
+  "ACABOU",
+  "DOR",
+  "CHORAR",
+  "ARDE"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.4,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*ESQUECIDO*",
+    "fs": 150
+   },
+   {
+    "text": "“AS PESSOAS SUMIRAM”",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cuts": [
+    [
+     22.88,
+     23.14
+    ],
+    [
+     24.64,
+     26.0
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      550,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    }
+   ],
+   "txt": "As pessoas se esqueceram de mim."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cuts": [
+    [
+     27.58,
+     29.3
+    ],
+    [
+     32.32,
+     33.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    }
+   ],
+   "txt": "Até mesmo pessoas que me ajudaram, elas também sumiram."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240514_210632.jpg"
+    },
+    {
+     "src": "20240411_115750.jpg"
+    }
+   ],
+   "txt": "Quase quatro anos atrás, uma vaquinha comprou quase um ano de curativos."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cuts": [
+    [
+     14.9,
+     16.36
+    ],
+    [
+     17.28,
+     18.2
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      550,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    }
+   ],
+   "txt": "Acham já que eu tô bem de ajuda. Só que não é bem assim."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 60.0
+    },
+    {
+     "src": "20240426_144311.jpg"
+    }
+   ],
+   "txt": "Aquele estoque acabou faz tempo. E a pele do Pedrinho precisa de cuidado todo dia."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     65.28,
+     69.86
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "Os custos são muito alto, de cada atadura, de cada gazes."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "1 ANO",
+    "DE CURATIVOS. ACABOU."
+   ],
+   "dur": 1.4,
+   "fs": 210
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20241109_123330.jpg"
+    }
+   ],
+   "txt": "Ele não precisa de pena. Precisa de gaze."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cuts": [
+    [
+     104.46,
+     104.84
+    ],
+    [
+     106.06,
+     106.58
+    ],
+    [
+     108.9,
+     109.92
+    ],
+    [
+     110.98,
+     110.98
+    ],
+    [
+     112.56,
+     112.56
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      550,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.4,
+     "center": [
+      550,
+      880
+     ]
+    }
+   ],
+   "txt": "E se você, puder me ajudar, com dois ou três reais."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 12.0
+    }
+   ],
+   "txt": "Toque em Saiba mais e não deixe o Pedrinho ser esquecido."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20241107_202353.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "NÃO ESQUEÇA",
+    "DO *PEDRINHO*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 02\\Pedrinho_narrado_esquecido_v1.mp4"
+}

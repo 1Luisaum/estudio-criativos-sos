@@ -1,0 +1,117 @@
+{
+ "nome": "Adrielly_corrente_oracao_v1",
+ "referencia": "Causas do Bem, anuncio 1444789200923601 (Kauê): texto fixo no alto com destaque amarelo, voz 0-9 s, depois so musica",
+ "texto": [
+  [
+   "Corrente do bem: ",
+   ""
+  ],
+  [
+   "Se cada um doar",
+   "y"
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "R$10",
+   "y"
+  ],
+  [
+   ", a Adrielly vai ter os",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "curativos de cada dia",
+   "y"
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "que ela pede em oração",
+   ""
+  ]
+ ],
+ "texto_y": 255,
+ "falas": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4235.MOV",
+   "corte": [
+    2.57,
+    5.04
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4235.MOV",
+   "corte": [
+    5.65,
+    7.7
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4235.MOV",
+   "corte": [
+    8.43,
+    12.22
+   ]
+  }
+ ],
+ "voz_inicio": 0.4,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "musica_sob_voz": 0.12,
+ "musica_depois": 0.45,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+   "start": 52.0,
+   "dur": 3.2
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (2).mp4",
+   "start": 1.0,
+   "dur": 4.3
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_0850_pb.mp4",
+   "dur": 3.6,
+   "fade_out": true,
+   "start": 2.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+   "start": 2.0,
+   "dur": 4.8,
+   "fade_in": true,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (6).mp4",
+   "start": 4.0,
+   "dur": 4.0,
+   "fade_in": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (4).mp4",
+   "start": 5.0,
+   "dur": 4.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Adrielly criança 3.jpg",
+   "dur": 4.5
+  }
+ ],
+ "fatos": {
+  "me de meus curativos de cada dia (oracao)": "Adrielly, IMG_4235",
+  "R$10": "Adrielly, IMG_3676 / IMG_3682",
+  "falas": "IMG_4235 (2.6-12.2)"
+ },
+ "modelo": "criativo-corrente-ong",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 46\\AEB 59 - CORRENTE DO BEM.mp4"
+}

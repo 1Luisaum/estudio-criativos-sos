@@ -1,0 +1,216 @@
+{
+ "nome": "Adrielly_cortes_mae_cuidadora_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5475.MOV",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 40.0,
+ "face": [
+  480,
+  662
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    480,
+    962
+   ]
+  },
+  "Z2": {
+   "z": 1.25,
+   "center": [
+    480,
+    962
+   ]
+  },
+  "Z3": {
+   "z": 1.38,
+   "center": [
+    480,
+    962
+   ]
+  },
+  "ZF": {
+   "z": 1.52,
+   "center": [
+    480,
+    962
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 12.5,
+   "out": 16.46,
+   "txt": "a minha mãe ela é a minha principal cuidadora."
+  },
+  {
+   "in": 17.0,
+   "out": 20.12,
+   "txt": "É ela que me dá os banhos, é ela"
+  },
+  {
+   "in": 20.72,
+   "out": 23.0,
+   "txt": "que faz os meus curativos,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 1.0
+    }
+   ]
+  },
+  {
+   "in": 23.38,
+   "out": 25.7,
+   "txt": "é ela que faz e produz"
+  },
+  {
+   "in": 26.12,
+   "out": 28.4,
+   "txt": "os meus alimentos."
+  },
+  {
+   "in": 28.96,
+   "out": 30.08,
+   "txt": "A minha mãe",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/vlcsnap-2026-07-07-17h28m49s694.png"
+    }
+   ]
+  },
+  {
+   "in": 30.82,
+   "out": 33.18,
+   "txt": "ela me dá carinho, amor,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Adrielly criança e mãe.jpg"
+    }
+   ]
+  },
+  {
+   "in": 33.56,
+   "out": 34.48,
+   "txt": "cuidado,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/vlcsnap-2026-07-07-17h28m49s694.png"
+    }
+   ]
+  },
+  {
+   "in": 35.04,
+   "out": 35.98,
+   "txt": "afeto.",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Adrielly criança e mãe.jpg"
+    }
+   ]
+  },
+  {
+   "in": 41.52,
+   "out": 45.5,
+   "txt": "Não, a minha mãe ela não está bem.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 46.1,
+   "out": 47.16,
+   "txt": "Ela tem"
+  },
+  {
+   "in": 47.56,
+   "out": 48.98,
+   "txt": "problemas sérios"
+  },
+  {
+   "in": 49.26,
+   "out": 50.6,
+   "txt": "com o estômago."
+  },
+  {
+   "in": 51.12,
+   "out": 54.28,
+   "txt": "Além disso, também ela se encontra",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 13.0
+    }
+   ]
+  },
+  {
+   "in": 54.74,
+   "out": 56.88,
+   "txt": "com ansiedade",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 16.16
+    }
+   ]
+  },
+  {
+   "in": 57.42,
+   "out": 59.62,
+   "txt": "e depressão severa",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 18.3
+    }
+   ]
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "DOR",
+  "LESÕES",
+  "MÃE",
+  "ANSIEDADE",
+  "DEPRESSÃO"
+ ],
+ "fix": {},
+ "hook": [],
+ "endcard": {
+  "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (9).mp4",
+  "start": 4.0,
+  "lines": [
+   "CUIDE DE QUEM",
+   "CUIDA DA ADRIELLY"
+  ],
+  "dur": 3.4,
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "AJUDAM A MÃE E A",
+    64
+   ],
+   [
+    "ADRIELLY A SEGUIR!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "mãe cuidadora há 28 anos: banho, curativos, alimentos; mãe com problema no estômago, ansiedade e depressão": "IMG_5475",
+  "mãe não trabalha para cuidar dela": "IMG_5475 (pergunta)",
+  "R$10": "IMG_4205, IMG_4493, IMG_4740"
+ },
+ "modelo": "edicao-criativo-ong (Pedrinho_5horas_v1), adaptado para a Adrielly",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 45\\AEB 56 - CORTES COM GANCHO.mp4",
+ "ajuste_05_11": "pedido do usuário 05/11/2026: marca @juntospelaadrielly; sem idade e só a chamada de R$10"
+}

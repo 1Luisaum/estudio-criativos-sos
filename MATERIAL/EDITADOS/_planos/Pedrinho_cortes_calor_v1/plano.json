@@ -1,0 +1,230 @@
+{
+ "nome": "Pedrinho_cortes_calor_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "Cortes com gancho (edicao-criativo-ong)",
+ "angulo": "o calor de quase 46 graus na cidade dele faz mal a pele e piora as bolhas, enquanto as faixas acabam",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\roteiro 8.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\24631838-sleep-16009.mp3",
+ "face": [
+  551,
+  616
+ ],
+ "segments": [
+  {
+   "in": 50.99,
+   "out": 51.98,
+   "zoom": "Z1",
+   "txt": "nesse calor,"
+  },
+  {
+   "in": 53.89,
+   "out": 55.14,
+   "zoom": "Z2",
+   "txt": "muito assim ruim,"
+  },
+  {
+   "in": 55.59,
+   "out": 56.52,
+   "zoom": "Z3",
+   "txt": "pra minha pele,"
+  },
+  {
+   "in": 56.99,
+   "out": 58.44,
+   "zoom": "Z1",
+   "txt": "que tá um calor"
+  },
+  {
+   "in": 59.25,
+   "out": 60.08,
+   "zoom": "ZF",
+   "txt": "de quase"
+  },
+  {
+   "in": 61.71,
+   "out": 64.5,
+   "zoom": "Z2",
+   "txt": "quarenta e seis grau aqui na minha cidade."
+  },
+  {
+   "in": 65.51,
+   "out": 66.84,
+   "zoom": "Z3",
+   "txt": "as minhas ataduras,"
+  },
+  {
+   "in": 66.85,
+   "out": 67.9,
+   "broll": [
+    {
+     "src": "20260825_134438.jpg"
+    }
+   ],
+   "txt": "que são as faixas,"
+  },
+  {
+   "in": 69.97,
+   "out": 71.52,
+   "zoom": "ZF",
+   "txt": "elas estão acabando"
+  },
+  {
+   "in": 71.51,
+   "out": 72.14,
+   "zoom": "Z1",
+   "txt": "e eu estou com"
+  },
+  {
+   "in": 72.99,
+   "out": 74.14,
+   "zoom": "Z2",
+   "txt": "muito medo mesmo"
+  },
+  {
+   "in": 74.49,
+   "out": 75.06,
+   "zoom": "Z3",
+   "txt": "delas,"
+  },
+  {
+   "in": 76.01,
+   "out": 77.5,
+   "zoom": "ZF",
+   "txt": "acabar de tudo mesmo,"
+  },
+  {
+   "in": 89.69,
+   "out": 91.08,
+   "zoom": "Z1",
+   "txt": "os ferimentos e,"
+  },
+  {
+   "in": 92.43,
+   "out": 96.5,
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 228.0
+    }
+   ],
+   "txt": "as bolhas estão ficando cada vez, assim, piores mesmo."
+  },
+  {
+   "in": 104.67,
+   "out": 105.4,
+   "zoom": "Z2",
+   "txt": "se você,"
+  },
+  {
+   "in": 106.03,
+   "out": 107.16,
+   "zoom": "Z3",
+   "txt": "puder me ajudar"
+  },
+  {
+   "in": 115.11,
+   "out": 116.7,
+   "zoom": "ZF",
+   "txt": "seja com uma faixa"
+  },
+  {
+   "in": 117.21,
+   "out": 117.74,
+   "zoom": "Z1",
+   "txt": "ou com"
+  },
+  {
+   "in": 118.97,
+   "out": 119.92,
+   "broll": [
+    {
+     "src": "20260825_134710.jpg"
+    }
+   ],
+   "txt": "um gazes."
+  },
+  {
+   "in": 126.81,
+   "out": 130.1,
+   "zoom": "Z2",
+   "txt": "daí já eu vou te agradecer muito e muito mesmo."
+  }
+ ],
+ "fix": {
+  "GRAU": "GRAUS",
+  "GAZES": "GAZE"
+ },
+ "red": [
+  "CALOR",
+  "PELE",
+  "QUARENTA",
+  "SEIS",
+  "ATADURAS",
+  "FAIXAS",
+  "ACABANDO",
+  "MEDO",
+  "BOLHAS",
+  "PIORES",
+  "FAIXA",
+  "GAZE"
+ ],
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 24.0,
+  "dur": 3.4,
+  "lines": [
+   "NÃO DEIXE AS FAIXAS",
+   "DO PEDRINHO ACABAREM"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "*46 GRAUS*",
+    "NA CIDADE DELE"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "E AS BOLHAS DO",
+    "PEDRINHO ESTÃO",
+    "FICANDO *PIORES*"
+   ],
+   "fs": 92
+  }
+ ],
+ "fatos": {
+  "calor de quase quarenta e seis graus na cidade dele, ruim pra pele": "Pedrinho, roteiro 8.mp4, 51.0-64.4 s",
+  "ataduras (faixas) acabando, muito medo": "Pedrinho, roteiro 8.mp4, 65.5-77.4 s",
+  "por conta do calor as bolhas estao ficando piores (gancho)": "Pedrinho, roteiro 8.mp4, 88.4-96.4 s",
+  "ajudar com uma faixa ou um gaze": "Pedrinho, roteiro 8.mp4, 104.7-119.9 s",
+  "R$10": "padrao dos pedidos (brief do lote); o 'dois ou tres reais' do bruto foi cortado para nao conflitar"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 30\\PEB 128 - CORTES COM GANCHO.mp4"
+}

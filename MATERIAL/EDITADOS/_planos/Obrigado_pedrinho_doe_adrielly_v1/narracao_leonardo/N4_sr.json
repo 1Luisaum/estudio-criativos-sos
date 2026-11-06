@@ -1,0 +1,310 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Se você puder, estenda essa mesma ajuda à Adrielly. Toque no botão abaixo e doe também para ela. Que Deus abençoe você",
+ "words": [
+  {
+   "text": "Se",
+   "start": 0.1,
+   "end": 0.16,
+   "type": "word",
+   "logprob": -7.748573807475623e-06
+  },
+  {
+   "text": " ",
+   "start": 0.16,
+   "end": 0.22,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "você",
+   "start": 0.22,
+   "end": 0.46,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 0.46,
+   "end": 0.48,
+   "type": "spacing",
+   "logprob": -4.887569048150908e-06
+  },
+  {
+   "text": "puder,",
+   "start": 0.48,
+   "end": 0.78,
+   "type": "word",
+   "logprob": -0.00015504137640694657
+  },
+  {
+   "text": " ",
+   "start": 0.78,
+   "end": 1.08,
+   "type": "spacing",
+   "logprob": -0.00013433984713628888
+  },
+  {
+   "text": "estenda",
+   "start": 1.08,
+   "end": 1.42,
+   "type": "word",
+   "logprob": -6.241069110858786e-05
+  },
+  {
+   "text": " ",
+   "start": 1.42,
+   "end": 1.46,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "essa",
+   "start": 1.46,
+   "end": 1.68,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 1.68,
+   "end": 1.72,
+   "type": "spacing",
+   "logprob": -4.482168878894299e-05
+  },
+  {
+   "text": "mesma",
+   "start": 1.72,
+   "end": 2.04,
+   "type": "word",
+   "logprob": -4.482168878894299e-05
+  },
+  {
+   "text": " ",
+   "start": 2.04,
+   "end": 2.08,
+   "type": "spacing",
+   "logprob": -2.861018856492592e-06
+  },
+  {
+   "text": "ajuda",
+   "start": 2.08,
+   "end": 2.52,
+   "type": "word",
+   "logprob": -2.861018856492592e-06
+  },
+  {
+   "text": " ",
+   "start": 2.52,
+   "end": 2.54,
+   "type": "spacing",
+   "logprob": -0.08894098550081253
+  },
+  {
+   "text": "à",
+   "start": 2.54,
+   "end": 2.54,
+   "type": "word",
+   "logprob": -0.08894098550081253
+  },
+  {
+   "text": " ",
+   "start": 2.54,
+   "end": 2.66,
+   "type": "spacing",
+   "logprob": -0.002581717912107706
+  },
+  {
+   "text": "Adrielly.",
+   "start": 2.68,
+   "end": 3.16,
+   "type": "word",
+   "logprob": -0.0019974751954173874
+  },
+  {
+   "text": " ",
+   "start": 3.16,
+   "end": 3.38,
+   "type": "spacing",
+   "logprob": -5.280832192511298e-05
+  },
+  {
+   "text": "Toque",
+   "start": 3.38,
+   "end": 3.62,
+   "type": "word",
+   "logprob": -2.1552482076003797e-05
+  },
+  {
+   "text": " ",
+   "start": 3.62,
+   "end": 3.66,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "no",
+   "start": 3.66,
+   "end": 3.74,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 3.74,
+   "end": 3.76,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "botão",
+   "start": 3.76,
+   "end": 4.04,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 4.04,
+   "end": 4.1,
+   "type": "spacing",
+   "logprob": -7.128461584215984e-05
+  },
+  {
+   "text": "abaixo",
+   "start": 4.1,
+   "end": 4.66,
+   "type": "word",
+   "logprob": -7.128461584215984e-05
+  },
+  {
+   "text": " ",
+   "start": 4.66,
+   "end": 4.7,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "e",
+   "start": 4.7,
+   "end": 4.78,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 4.78,
+   "end": 4.88,
+   "type": "spacing",
+   "logprob": -0.00228537037037313
+  },
+  {
+   "text": "doe",
+   "start": 4.88,
+   "end": 5.06,
+   "type": "word",
+   "logprob": -0.00228537037037313
+  },
+  {
+   "text": " ",
+   "start": 5.06,
+   "end": 5.14,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "também",
+   "start": 5.14,
+   "end": 5.46,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 5.46,
+   "end": 5.5,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "para",
+   "start": 5.5,
+   "end": 5.7,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 5.7,
+   "end": 5.74,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "ela.",
+   "start": 5.74,
+   "end": 5.96,
+   "type": "word",
+   "logprob": -2.4436736524080516e-05
+  },
+  {
+   "text": " ",
+   "start": 5.96,
+   "end": 6.34,
+   "type": "spacing",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": "Que",
+   "start": 6.34,
+   "end": 6.4,
+   "type": "word",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": " ",
+   "start": 6.4,
+   "end": 6.46,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "Deus",
+   "start": 6.46,
+   "end": 6.62,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 6.62,
+   "end": 6.66,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "abençoe",
+   "start": 6.66,
+   "end": 7.14,
+   "type": "word",
+   "logprob": -4.054589101899962e-05
+  },
+  {
+   "text": " ",
+   "start": 7.14,
+   "end": 7.18,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "você",
+   "start": 7.18,
+   "end": 7.54,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  }
+ ],
+ "transcription_id": "6D6kokIGZbaQUH2RaPW1",
+ "audio_duration_secs": 7.6501875
+}

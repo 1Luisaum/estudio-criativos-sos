@@ -1,0 +1,241 @@
+{
+ "nome": "Adrielly_cortes_milagre_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5805.MOV",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "music_start": 5.0,
+ "face": [
+  498,
+  770
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    498,
+    1070
+   ]
+  },
+  "Z2": {
+   "z": 1.25,
+   "center": [
+    498,
+    1070
+   ]
+  },
+  "Z3": {
+   "z": 1.38,
+   "center": [
+    498,
+    1070
+   ]
+  },
+  "ZF": {
+   "z": 1.52,
+   "center": [
+    498,
+    1070
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 5.82,
+   "out": 7.5,
+   "txt": "O que me mantém de pé"
+  },
+  {
+   "in": 7.94,
+   "out": 9.08,
+   "txt": "é a minha fé,"
+  },
+  {
+   "in": 9.46,
+   "out": 11.48,
+   "txt": "a minha resiliência,"
+  },
+  {
+   "in": 12.06,
+   "out": 14.14,
+   "txt": "a minha persistência,"
+  },
+  {
+   "in": 14.72,
+   "out": 16.52,
+   "txt": "porque quando eu nasci,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Adrielly criança.jpg"
+    }
+   ]
+  },
+  {
+   "in": 18.0,
+   "out": 20.22,
+   "txt": "há vinte e oito anos atrás,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/ADERIELLY CRIANÇA.png"
+    }
+   ]
+  },
+  {
+   "in": 24.06,
+   "out": 24.98,
+   "txt": "eu fui"
+  },
+  {
+   "in": 25.28,
+   "out": 28.04,
+   "txt": "desistida por muitos médicos."
+  },
+  {
+   "in": 28.26,
+   "out": 29.52,
+   "txt": "Muitos falava",
+   "zoom": "ZF"
+  },
+  {
+   "in": 29.9,
+   "out": 32.14,
+   "txt": "que eu não iria sobreviver.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 35.52,
+   "out": 36.76,
+   "txt": "eu me considero"
+  },
+  {
+   "in": 37.54,
+   "out": 40.88,
+   "txt": "um milagre de Deus, uma dádiva."
+  },
+  {
+   "in": 41.32,
+   "out": 43.32,
+   "txt": "E o que não me faz desistir"
+  },
+  {
+   "in": 43.96,
+   "out": 45.44,
+   "txt": "é pela minha mãe,"
+  },
+  {
+   "in": 46.14,
+   "out": 48.04,
+   "txt": "a que sempre está comigo,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 11.0
+    }
+   ]
+  },
+  {
+   "in": 48.4,
+   "out": 50.36,
+   "txt": "segurando as minhas mãos,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/vlcsnap-2026-07-07-17h28m49s694.png"
+    }
+   ]
+  },
+  {
+   "in": 50.76,
+   "out": 53.16,
+   "txt": "seja nos momentos tristes,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Adrielly criança e mãe.jpg"
+    }
+   ]
+  },
+  {
+   "in": 53.48,
+   "out": 55.6,
+   "txt": "nos momentos alegres,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (2).mp4",
+     "start": 14.4
+    }
+   ]
+  },
+  {
+   "in": 56.02,
+   "out": 56.66,
+   "txt": "ela"
+  },
+  {
+   "in": 57.06,
+   "out": 59.3,
+   "txt": "sempre está me apoiando"
+  }
+ ],
+ "red": [
+  "FÉ",
+  "MILAGRE",
+  "SOBREVIVER",
+  "MÉDICOS",
+  "MÃE"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "DESISTIRAM DELA"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "OS MÉDICOS DIZIAM",
+    "QUE A ADRIELLY",
+    "*NÃO IA SOBREVIVER*"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (8).mp4",
+  "start": 3.0,
+  "lines": [
+   "NÃO DESISTA DA",
+   "ADRIELLY VOCÊ TAMBÉM"
+  ],
+  "dur": 3.4,
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "AJUDAM O MILAGRE DA",
+    64
+   ],
+   [
+    "ADRIELLY A CONTINUAR!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "fé, resiliência; desistida por muitos médicos; não iria sobreviver; milagre de Deus; a mãe segura as mãos": "IMG_5805",
+  "fotos de infância e com a mãe": "banco (Adrielly criança, criança e mãe)",
+  "R$10": "IMG_4205, IMG_4493, IMG_4740"
+ },
+ "modelo": "edicao-criativo-ong (Pedrinho_5horas_v1), adaptado para a Adrielly",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 44\\AEB 53 - CORTES COM GANCHO.mp4"
+}

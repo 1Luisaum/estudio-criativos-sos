@@ -1,0 +1,40 @@
+{
+ "text": "Dá para medir essa dedicação no relógio.",
+ "words": [
+  {
+   "text": "Dá",
+   "start": 0.0,
+   "end": 0.174
+  },
+  {
+   "text": "para",
+   "start": 0.232,
+   "end": 0.372
+  },
+  {
+   "text": "medir",
+   "start": 0.418,
+   "end": 0.708
+  },
+  {
+   "text": "essa",
+   "start": 0.755,
+   "end": 0.882
+  },
+  {
+   "text": "dedicação",
+   "start": 0.94,
+   "end": 1.521
+  },
+  {
+   "text": "no",
+   "start": 1.567,
+   "end": 1.649
+  },
+  {
+   "text": "relógio.",
+   "start": 1.683,
+   "end": 2.205
+  }
+ ]
+}

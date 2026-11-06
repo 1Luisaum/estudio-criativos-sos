@@ -1,0 +1,172 @@
+{
+ "nome": "Pedrinho_lista_v3",
+ "pedido": "completar LEVA 01 (26/10/2026)",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (brasileiro), conta paga"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "musica_volume": 0.12,
+ "chamada": [
+  "UM BANHO SEM DOR 💔",
+  "DOE R$ 10 PRO SORO DO PEDRINHO 👼"
+ ],
+ "etiqueta": "R$ 10 já ajuda ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "palavras_chave": [
+  "ATADURA",
+  "GAZE",
+  "POMADA",
+  "SORO",
+  "FISIOLÓGICO",
+  "ESPARADRAPO",
+  "ÓLEO",
+  "GIRASSOL",
+  "DUAS",
+  "VEZES",
+  "DOR",
+  "ÁGUA",
+  "ARDE",
+  "SAIBA",
+  "MAIS",
+  "DOZE",
+  "REAIS",
+  "MIL",
+  "QUINHENTOS",
+  "BOLHAS",
+  "FERIDAS",
+  "NOITE"
+ ],
+ "narracao": {
+  "N01": "Esses são os itens de um banho do Pedrinho.",
+  "I1": "Soro fisiológico.",
+  "I2": "Gaze.",
+  "I3": "Pomada.",
+  "I4": "Óleo de girassol.",
+  "I5": "Atadura.",
+  "N03": "Sem o soro, o banho é com água. E a água arde na pele dele.",
+  "N04": "Ele tem epidermólise bolhosa. A pele vive cheia de bolhas e feridas.",
+  "N05": "Por isso, a troca é feita duas vezes por dia.",
+  "N06": "Quatro, cinco, dez reais. Para ele, é a esperança de um dia sem dor.",
+  "N07": "Toque em Saiba mais e garanta o soro do Pedrinho."
+ },
+ "fatos": {
+  "sem soro o banho e com agua que arde; 4, 5, 10 reais = um dia sem dor": "Pedrinho, Roteiro_ peco perdao...",
+  "2x por dia": "Pedrinho, 20260917_001530",
+  "itens": "fotos do banco"
+ },
+ "blocos": [
+  {
+   "nome": "s01",
+   "fala": "N01",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+     3.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     185.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i1",
+   "fala": "I1",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/soro fisiológico.png"
+  },
+  {
+   "nome": "i2",
+   "fala": "I2",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/GAZE.png"
+  },
+  {
+   "nome": "i3",
+   "fala": "I3",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Pomada.png"
+  },
+  {
+   "nome": "i4",
+   "fala": "I4",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/OLeo de girassol.png"
+  },
+  {
+   "nome": "i5",
+   "fala": "I5",
+   "pausa": 0.45,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/crepe bandagem.png"
+  },
+  {
+   "nome": "s03",
+   "fala": "N03",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     245.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     260.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "s04",
+   "fala": "N04",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+     30.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     300.0
+    ]
+   ]
+  },
+  {
+   "nome": "s05",
+   "fala": "N05",
+   "pausa": 0.08,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Curativos 2 x ao Dia.png"
+  },
+  {
+   "nome": "s06",
+   "fala": "N06",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     20.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     60.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "s07",
+   "fala": "N07",
+   "pausa": 1.6,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260729_164523.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\LISTA NARRADA\\LEVA 01\\Pedrinho_lista_v3.mp4"
+}

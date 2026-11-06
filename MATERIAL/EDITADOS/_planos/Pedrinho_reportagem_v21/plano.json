@@ -1,0 +1,259 @@
+{
+ "nome": "Pedrinho_reportagem_v21",
+ "crianca": "Pedrinho",
+ "angulo": "o passo a passo diário do curativo",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reporter brasileiro)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.029,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "ELA TIRA, LAVA E ENFAIXA: O RITUAL",
+  "DA MÃE DE UM MENINO COM EB"
+ ],
+ "etiqueta": "R$ 10 ajuda nessa rotina ❤️",
+ "etiqueta_final": "👇 Clique em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Todo dia, a mesma cena se repete na casa do Pedrinho. A mãe começa tirando os curativos do filho.",
+  "OFF2": "No meio do caminho, aparece o que a epidermólise bolhosa deixou na pele naquele dia.",
+  "OFF3": "Depois, vem a pomada. E a faixa, que volta a cobrir quase o corpo todo.",
+  "OFF4": "Quando termina, ela já sabe o que sobrou.",
+  "OFF5": "A campanha da SOS Human Help olha para a próxima troca. Dez reais ajudam essa mãe a continuar.",
+  "OFF6": "Clique em Saiba mais e entre nessa rotina com eles."
+ },
+ "fatos": {
+  "tira os curativos, lava as feridas, 4 a 5 horas": "mae em Roteiro 3 (18,8 a 33,9 s)",
+  "bolhas de sangue e agua para a mae romper": "Pedrinho em 20260916_234157.mp4 (40 s)",
+  "curativos todos os dias": "Pedrinho em 20260917_001530.mp4 (3,9 s)",
+  "pomada e faixa": "Pedrinho em Um Video Novo (180 s) e roteiro 8.mp4 (65 s)",
+  "segundo curativo do dia, as coisas acabando": "mae em Roteiro_ esse calor (3,9 a 12,8 s)",
+  "nao luto sozinho": "Pedrinho em Roteiro 3 (5,7 s)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     142.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     152.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos todos os dias"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     18.82,
+     20.52
+    ],
+    [
+     24.82,
+     25.36
+    ],
+    [
+     30.8,
+     33.5
+    ]
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     175.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792688406_4013682651782705630_1642859680.mp4",
+     8.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     39.96,
+     44.2
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     199.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     134.0
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     4.6,
+     9.3
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792688406_4013682651782705630_1642859680.mp4",
+     98.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v3_mae_calor.json",
+   "cortes": [
+    [
+     3.9,
+     6.22
+    ],
+    [
+     8.12,
+     8.84
+    ],
+    [
+     10.5,
+     11.2
+    ],
+    [
+     11.88,
+     12.18
+    ]
+   ]
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "fala": "OFF5",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     85.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     13.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     5.7,
+     6.76
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "fala": "OFF6",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro 3.mp4",
+   "inicio": 18.82,
+   "caixa": [
+    0,
+    100,
+    1080,
+    1075
+   ],
+   "quem": "rosto de quem fala / crianca"
+  },
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 3.9,
+   "caixa": [
+    660,
+    960,
+    1080,
+    1400
+   ],
+   "quem": "rosto de quem fala / crianca"
+  },
+  {
+   "arquivo": "Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "inicio": 3.9,
+   "caixa": [
+    0,
+    80,
+    640,
+    1020
+   ],
+   "quem": "rosto de quem fala / crianca"
+  },
+  {
+   "arquivo": "Roteiro 3.mp4",
+   "inicio": 5.7,
+   "caixa": [
+    0,
+    100,
+    1080,
+    1075
+   ],
+   "quem": "rosto de quem fala / crianca"
+  }
+ ],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 53\\PEB 189 - REPORTAGEM.mp4"
+}

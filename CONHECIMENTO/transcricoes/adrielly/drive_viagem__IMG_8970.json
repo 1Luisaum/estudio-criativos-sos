@@ -1,0 +1,161 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Mó, mó sim, mó sete vacância, Gabriel. Mó sete vacância",
+ "words": [
+  {
+   "text": "Mó,",
+   "start": 0.6,
+   "end": 0.72,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.016499859950272366
+  },
+  {
+   "text": " ",
+   "start": 0.72,
+   "end": 0.92,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0036055336240679026
+  },
+  {
+   "text": "mó",
+   "start": 0.92,
+   "end": 1.04,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0036055336240679026
+  },
+  {
+   "text": " ",
+   "start": 1.04,
+   "end": 1.08,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.763883113861084
+  },
+  {
+   "text": "sim,",
+   "start": 1.08,
+   "end": 1.26,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.5770743205212057
+  },
+  {
+   "text": " ",
+   "start": 1.26,
+   "end": 1.28,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0013196102809160948
+  },
+  {
+   "text": "mó",
+   "start": 1.28,
+   "end": 1.36,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0013196102809160948
+  },
+  {
+   "text": " ",
+   "start": 1.36,
+   "end": 1.46,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -1.1616597175598145
+  },
+  {
+   "text": "sete",
+   "start": 1.46,
+   "end": 1.6,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -1.1616597175598145
+  },
+  {
+   "text": " ",
+   "start": 1.6,
+   "end": 1.62,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.36746376752853394
+  },
+  {
+   "text": "vacância,",
+   "start": 1.62,
+   "end": 1.86,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.27539777176247704
+  },
+  {
+   "text": " ",
+   "start": 1.86,
+   "end": 1.86,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.3555672764778137
+  },
+  {
+   "text": "Gabriel.",
+   "start": 1.86,
+   "end": 2.3,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.31343880179338157
+  },
+  {
+   "text": " ",
+   "start": 2.3,
+   "end": 2.82,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.23580434918403625
+  },
+  {
+   "text": "Mó",
+   "start": 2.82,
+   "end": 2.94,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.23580434918403625
+  },
+  {
+   "text": " ",
+   "start": 2.94,
+   "end": 2.98,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00108624086715281
+  },
+  {
+   "text": "sete",
+   "start": 2.98,
+   "end": 3.08,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00108624086715281
+  },
+  {
+   "text": " ",
+   "start": 3.08,
+   "end": 3.12,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00011336160969221964
+  },
+  {
+   "text": "vacância",
+   "start": 3.12,
+   "end": 3.5,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00220279393306555
+  }
+ ],
+ "transcription_id": "TBHCBWVQ4xTGN9mzXifg",
+ "audio_duration_secs": 5.5316875
+}

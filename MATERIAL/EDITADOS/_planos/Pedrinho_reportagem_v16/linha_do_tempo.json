@@ -1,0 +1,35 @@
+{
+ "total": 20.242539,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 2.450544,
+   "texto": "A pele dele é frágil. A fé, não."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 2.68,
+   "texto": "Um pouco com Deus é muito."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.4578,
+   "texto": "O Pedrinho tem epidermólise bolhosa. E hoje só tem os curativos que cabem nas mãos dele."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.3599999999999985,
+   "texto": "Pessoal, eu só tenho esses curativos aqui, que estão na minha mão."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.294195,
+   "texto": "Comente amém e mande a sua oração para o Pedrinho."
+  }
+ ]
+}

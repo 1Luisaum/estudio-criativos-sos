@@ -1,0 +1,60 @@
+{
+ "text": "Os cuidados do Pedrinho passam de quarenta mil reais por mês.",
+ "words": [
+  {
+   "text": "Os",
+   "start": 0.0,
+   "end": 0.139
+  },
+  {
+   "text": "cuidados",
+   "start": 0.186,
+   "end": 0.546
+  },
+  {
+   "text": "do",
+   "start": 0.604,
+   "end": 0.662
+  },
+  {
+   "text": "Pedrinho",
+   "start": 0.708,
+   "end": 1.103
+  },
+  {
+   "text": "passam",
+   "start": 1.173,
+   "end": 1.486
+  },
+  {
+   "text": "de",
+   "start": 1.533,
+   "end": 1.591
+  },
+  {
+   "text": "quarenta",
+   "start": 1.637,
+   "end": 2.067
+  },
+  {
+   "text": "mil",
+   "start": 2.125,
+   "end": 2.264
+  },
+  {
+   "text": "reais",
+   "start": 2.31,
+   "end": 2.543
+  },
+  {
+   "text": "por",
+   "start": 2.601,
+   "end": 2.728
+  },
+  {
+   "text": "mês.",
+   "start": 2.775,
+   "end": 3.39
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "total_s": 92,
+ "videos": [
+  {
+   "plano": "Adrielly_caixas_pedido_var84_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 73,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_var84_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 50\\AEB 86 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 29.08,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 19 momento(s): [2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\AEB 86 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": true
+  }
+ ]
+}

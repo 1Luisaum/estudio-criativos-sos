@@ -1,0 +1,60 @@
+{
+ "text": "Uma por uma, quem rompe essas bolhas é a mãe dele.",
+ "words": [
+  {
+   "text": "Uma",
+   "start": 0.0,
+   "end": 0.313
+  },
+  {
+   "text": "por",
+   "start": 0.372,
+   "end": 0.58
+  },
+  {
+   "text": "uma,",
+   "start": 0.65,
+   "end": 0.975
+  },
+  {
+   "text": "quem",
+   "start": 0.995,
+   "end": 1.233
+  },
+  {
+   "text": "rompe",
+   "start": 1.315,
+   "end": 1.698
+  },
+  {
+   "text": "essas",
+   "start": 1.721,
+   "end": 1.93
+  },
+  {
+   "text": "bolhas",
+   "start": 1.988,
+   "end": 2.313
+  },
+  {
+   "text": "é",
+   "start": 2.371,
+   "end": 2.421
+  },
+  {
+   "text": "a",
+   "start": 2.429,
+   "end": 2.479
+  },
+  {
+   "text": "mãe",
+   "start": 2.511,
+   "end": 2.685
+  },
+  {
+   "text": "dele.",
+   "start": 2.72,
+   "end": 3.156
+  }
+ ]
+}

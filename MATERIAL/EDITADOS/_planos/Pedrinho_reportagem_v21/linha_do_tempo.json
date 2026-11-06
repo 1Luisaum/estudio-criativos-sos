@@ -1,0 +1,71 @@
+{
+ "total": 58.98444599999999,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 6.4890929999999996,
+   "texto": "Todo dia, a mesma cena se repete na casa do Pedrinho. A mãe começa tirando os curativos do filho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 7.719999999999996,
+   "texto": "E todos os dias eu tiro os curativo, e lavo as ferida e leva de quatro a cinco horas"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.185782,
+   "texto": "No meio do caminho, aparece o que a epidermólise bolhosa deixou na pele naquele dia."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.300000000000002,
+   "texto": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.063379,
+   "texto": "Depois, vem a pomada. E a faixa, que volta a cobrir quase o corpo todo."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 5.66,
+   "texto": "a minha mamãe, ela precisa fazer os meus curativos todos os dias."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 2.550703,
+   "texto": "Quando termina, ela já sabe o que sobrou."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 7.020999999999998,
+   "texto": "Eu acabei de fazer o segundo curativo do dia e estou ficando desesperada, porque as coisas deles estão acabando."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 7.290385,
+   "texto": "A campanha da SOS Human Help olha para a próxima troca. Dez reais ajudam essa mãe a continuar."
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "d": 2.0199999999999987,
+   "texto": "Mas eu não luto sozinho"
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 4.684104,
+   "texto": "Clique em Saiba mais e entre nessa rotina com eles."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "text": "Cada faixa no corpo do Pedrinho passa pelas mãos da mãe dele. Uma por uma.",
+ "words": [
+  {
+   "text": "Cada",
+   "start": 0.0,
+   "end": 0.313
+  },
+  {
+   "text": "faixa",
+   "start": 0.383,
+   "end": 0.697
+  },
+  {
+   "text": "no",
+   "start": 0.731,
+   "end": 0.824
+  },
+  {
+   "text": "corpo",
+   "start": 0.882,
+   "end": 1.115
+  },
+  {
+   "text": "do",
+   "start": 1.149,
+   "end": 1.207
+  },
+  {
+   "text": "Pedrinho",
+   "start": 1.242,
+   "end": 1.66
+  },
+  {
+   "text": "passa",
+   "start": 1.788,
+   "end": 2.136
+  },
+  {
+   "text": "pelas",
+   "start": 2.183,
+   "end": 2.426
+  },
+  {
+   "text": "mãos",
+   "start": 2.485,
+   "end": 2.67
+  },
+  {
+   "text": "da",
+   "start": 2.717,
+   "end": 2.786
+  },
+  {
+   "text": "mãe",
+   "start": 2.833,
+   "end": 3.03
+  },
+  {
+   "text": "dele.",
+   "start": 3.065,
+   "end": 3.413
+  },
+  {
+   "text": "Uma",
+   "start": 3.599,
+   "end": 3.843
+  },
+  {
+   "text": "por",
+   "start": 3.889,
+   "end": 4.052
+  },
+  {
+   "text": "uma.",
+   "start": 4.122,
+   "end": 4.69
+  }
+ ]
+}

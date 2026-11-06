@@ -1,0 +1,152 @@
+{
+ "nome": "Pedrinho_lista_v1",
+ "pedido": "refeita 26/10/2026 (visual aprovado, narrador brasileiro)",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/rockymetal-ambient-acoustic-239252.mp3",
+ "musica_volume": 0.12,
+ "chamada": [
+  "46 GRAUS NA PELE DE BORBOLETA 💔",
+  "DOE R$ 3 E PROTEJA O PEDRINHO 👼"
+ ],
+ "etiqueta": "R$ 3 já ajuda ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "palavras_chave": [
+  "QUARENTA",
+  "SEIS",
+  "GRAUS",
+  "CALOR",
+  "BOLHAS",
+  "FERIDAS",
+  "DOR",
+  "FAIXAS",
+  "ACABANDO",
+  "MEDO",
+  "DOIS",
+  "TRÊS",
+  "REAIS",
+  "SAIBA",
+  "MAIS"
+ ],
+ "narracao": {
+  "N01": "Quase quarenta e seis graus. Esse é o calor na cidade do Pedrinho.",
+  "N02": "Para a pele dele, o calor traz:",
+  "I1": "Mais bolhas.",
+  "I2": "Feridas piores.",
+  "I3": "Mais dor.",
+  "N03": "E as faixas que protegem a pele dele estão acabando.",
+  "N04": "Ele mesmo diz: está com muito medo.",
+  "N05": "Dois ou três reais já ajudam, segundo ele.",
+  "N06": "Toque em Saiba mais e proteja a pele do Pedrinho."
+ },
+ "fatos": {
+  "calor de quase 46 graus, ruim pra pele; bolhas piores; faixas acabando; medo; 2 ou 3 reais": "Pedrinho, roteiro 8"
+ },
+ "blocos": [
+  {
+   "nome": "s01",
+   "fala": "N01",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+     58.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     185.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "s02",
+   "fala": "N02",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+     1.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i1",
+   "fala": "I1",
+   "pausa": 0.45,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     175.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i2",
+   "fala": "I2",
+   "pausa": 0.45,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+     15.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "i3",
+   "fala": "I3",
+   "pausa": 0.45,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+     92.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "s03",
+   "fala": "N03",
+   "pausa": 0.08,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/crepe bandagem.png"
+  },
+  {
+   "nome": "s04",
+   "fala": "N04",
+   "pausa": 0.08,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+     72.0
+    ]
+   ]
+  },
+  {
+   "nome": "s05",
+   "fala": "N05",
+   "pausa": 0.08,
+   "etiqueta": true,
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     25.0
+    ]
+   ]
+  },
+  {
+   "nome": "s06",
+   "fala": "N06",
+   "pausa": 1.6,
+   "final": true,
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_lista_v1/final_em_pe.png"
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\LISTA NARRADA\\LEVA 01\\Pedrinho_lista_v1.mp4"
+}

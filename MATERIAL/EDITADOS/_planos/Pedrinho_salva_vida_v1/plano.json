@@ -1,0 +1,49 @@
+{
+ "nome": "Pedrinho_salva_vida_v1",
+ "referencia": "Ampara Brasil, anuncio 1473150411323796 (Miguelzinho, 28,2 s, 9 copias): sem fala, louvor cantado, 'R$10,00' grande + faixa branca 'SALVA VIDA AJUDE O MIGUELZINHO❤️‍🩹' no alto, cenas intimas lentas com fusao",
+ "valor": "R$10,00",
+ "pedido": "SALVA VIDA AJUDE O PEDRINHO❤️",
+ "topo_y": 180,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "transicao": 0.6,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 90.0,
+   "dur": 6.0,
+   "zoom": 1.4,
+   "topo": true,
+   "lado": "direita"
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 160.0,
+   "dur": 5.5
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "start": 40.0,
+   "dur": 5.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 250.0,
+   "dur": 5.5
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "start": 85.0,
+   "dur": 5.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "start": 298.0,
+   "dur": 4.6
+  }
+ ],
+ "fatos": {
+  "R$10": "valor pedido pelo usuario nas referencias",
+  "cenas": "banco do Pedrinho (curativo e cama com a mae)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\SALVA VIDA\\LEVA 01\\Pedrinho_salva_vida_v1.mp4"
+}

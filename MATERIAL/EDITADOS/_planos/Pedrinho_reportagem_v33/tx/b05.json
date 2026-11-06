@@ -1,0 +1,174 @@
+{
+"text": "tem os anjo que apareceu, né, é, pra ajudar nessa batalha, né, que é os anjos da, da SOS Human Help,",
+"words": [
+{
+"text": "tem",
+"start": 0.3,
+"end": 0.5,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0006180283380672336
+},
+{
+"text": "os",
+"start": 1.18,
+"end": 1.32,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.12410788983106613
+},
+{
+"text": "anjo",
+"start": 1.4,
+"end": 1.62,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.21579240437131375
+},
+{
+"text": "que",
+"start": 1.64,
+"end": 1.7,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -6.6756979322235566e-06
+},
+{
+"text": "apareceu,",
+"start": 1.76,
+"end": 2.42,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0017620251134455127
+},
+{
+"text": "né,",
+"start": 2.5,
+"end": 2.68,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.4727974404328656e-05
+},
+{
+"text": "é,",
+"start": 3.44,
+"end": 3.46,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -6.806513647461543e-05
+},
+{
+"text": "pra",
+"start": 3.94,
+"end": 4.08,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.011093251407146454
+},
+{
+"text": "ajudar",
+"start": 4.12,
+"end": 4.4,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0002369599969824776
+},
+{
+"text": "nessa",
+"start": 4.46,
+"end": 4.7,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00168503331951797
+},
+{
+"text": "batalha,",
+"start": 4.76,
+"end": 5.26,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.5525331238895888e-05
+},
+{
+"text": "né,",
+"start": 5.32,
+"end": 5.48,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.1920918344306604e-06
+},
+{
+"text": "que",
+"start": 5.52,
+"end": 5.58,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -6.794906312279636e-06
+},
+{
+"text": "é",
+"start": 5.64,
+"end": 5.66,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0001586549769854173
+},
+{
+"text": "os",
+"start": 5.72,
+"end": 5.82,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -8.22540732769994e-06
+},
+{
+"text": "anjos",
+"start": 5.9,
+"end": 6.12,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.09616621941677295
+},
+{
+"text": "da,",
+"start": 6.179,
+"end": 6.559,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0017502208402220276
+},
+{
+"text": "da",
+"start": 7.34,
+"end": 7.46,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0033521433360874653
+},
+{
+"text": "SOS",
+"start": 7.999,
+"end": 8.54,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0002739054325502366
+},
+{
+"text": "Human",
+"start": 8.92,
+"end": 9.2,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00709194503724575
+},
+{
+"text": "Help,",
+"start": 9.28,
+"end": 9.619,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0032448732876218856
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (249.84 a 259.76 s); imagem trocada por b-roll sem boca em movimento"
+}

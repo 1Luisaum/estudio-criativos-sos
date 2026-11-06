@@ -1,0 +1,328 @@
+{
+ "nome": "Pedrinho_narrado_acabou_v1",
+ "pedido": "2026-10-26_105743",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 8.0,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "FERIDA",
+  "ACABANDO",
+  "ACABOU",
+  "DOR",
+  "CHORAR",
+  "ARDE"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.4,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*ACABARAM*",
+    "fs": 150
+   },
+   {
+    "text": "OS CURATIVOS DO PEDRINHO",
+    "fs": 66
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_000819.json",
+   "cuts": [
+    [
+     1.44,
+     1.8
+    ],
+    [
+     3.54,
+     4.44
+    ],
+    [
+     6.0,
+     6.58
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    },
+    {
+     "z": 1.6,
+     "center": [
+      520,
+      500
+     ]
+    }
+   ],
+   "txt": "É o quê, mãe? Os curativo tão acabando? Meu Deus, e agora?"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 20.0
+    },
+    {
+     "src": "20260127_110703.jpg"
+    }
+   ],
+   "txt": "Foi assim que o Pedrinho recebeu a notícia. O material dos curativos chegou ao fim."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_000819.json",
+   "cuts": [
+    [
+     31.48,
+     31.62
+    ],
+    [
+     32.76,
+     32.76
+    ],
+    [
+     40.38,
+     41.84
+    ],
+    [
+     43.86,
+     45.82
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      520,
+      500
+     ]
+    }
+   ],
+   "txt": "Na verdade, acabou. A gente não tem como comprar nem uns dois, três pacotes de atadura."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240411_123226.jpg"
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 232.0
+    }
+   ],
+   "txt": "Ele tem a doença da pele de borboleta. Sem atadura, cada ferida fica descoberta."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     4.6,
+     9.3
+    ],
+    [
+     15.22,
+     16.48
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "A minha mamãe, ela precisa fazer os meus curativos todos os dias. Duas vezes ao dia."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "2 VEZES",
+    "POR DIA"
+   ],
+   "dur": 1.3
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134438.jpg"
+    },
+    {
+     "src": "20260825_134808.jpg"
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 290.0
+    }
+   ],
+   "txt": "E o material não dura. A gaze de hoje já não serve amanhã."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     28.22,
+     29.6
+    ],
+    [
+     31.06,
+     33.18
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "A gente usa curativo e logo depois acaba rapidamente."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20221127_220927.jpg"
+    },
+    {
+     "src": "20241110_104724.mp4",
+     "start": 4.0
+    }
+   ],
+   "txt": "Acabou o curativo. A coragem dele, não."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_000819.json",
+   "cuts": [
+    [
+     56.1,
+     59.1
+    ],
+    [
+     60.72,
+     61.96
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      620
+     ]
+    },
+    {
+     "z": 1.6,
+     "center": [
+      520,
+      500
+     ]
+    }
+   ],
+   "txt": "Seja com dois ou cinco reais, não importa o valor, já vai tá ajudando muito."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 30.0
+    }
+   ],
+   "txt": "Toque em Saiba mais e ajude a repor o material do Pedrinho hoje."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "REPONHA O *CURATIVO*",
+    "DO PEDRINHO"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 01\\Pedrinho_narrado_acabou_v1.mp4"
+}

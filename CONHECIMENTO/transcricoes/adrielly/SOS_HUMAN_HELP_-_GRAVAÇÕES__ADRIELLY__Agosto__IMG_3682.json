@@ -1,0 +1,338 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Muito obrigada pela sua ajuda, mas eu preciso da sua ajuda todos os meses. Com R$ 10 mensais, você pode salvar a minha vida",
+ "words": [
+  {
+   "text": "Muito",
+   "start": 0.14,
+   "end": 0.42,
+   "type": "word",
+   "logprob": -0.0024034681264311075
+  },
+  {
+   "text": " ",
+   "start": 0.42,
+   "end": 0.46,
+   "type": "spacing",
+   "logprob": -3.373566141817719e-05
+  },
+  {
+   "text": "obrigada",
+   "start": 0.46,
+   "end": 1.1,
+   "type": "word",
+   "logprob": -2.135300920258487e-05
+  },
+  {
+   "text": " ",
+   "start": 1.1,
+   "end": 1.26,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "pela",
+   "start": 1.26,
+   "end": 1.5,
+   "type": "word",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": " ",
+   "start": 1.5,
+   "end": 1.62,
+   "type": "spacing",
+   "logprob": -8.940656698541716e-06
+  },
+  {
+   "text": "sua",
+   "start": 1.66,
+   "end": 1.84,
+   "type": "word",
+   "logprob": -8.940656698541716e-06
+  },
+  {
+   "text": " ",
+   "start": 1.84,
+   "end": 2.0,
+   "type": "spacing",
+   "logprob": -6.9141146923357155e-06
+  },
+  {
+   "text": "ajuda,",
+   "start": 2.0,
+   "end": 2.42,
+   "type": "word",
+   "logprob": -8.881007602212776e-05
+  },
+  {
+   "text": " ",
+   "start": 2.42,
+   "end": 2.42,
+   "type": "spacing",
+   "logprob": -1.3232143828645349e-05
+  },
+  {
+   "text": "mas",
+   "start": 2.94,
+   "end": 3.14,
+   "type": "word",
+   "logprob": -1.3232143828645349e-05
+  },
+  {
+   "text": " ",
+   "start": 3.14,
+   "end": 3.16,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "eu",
+   "start": 3.16,
+   "end": 3.26,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 3.26,
+   "end": 3.28,
+   "type": "spacing",
+   "logprob": -4.410646579344757e-05
+  },
+  {
+   "text": "preciso",
+   "start": 3.28,
+   "end": 3.92,
+   "type": "word",
+   "logprob": -4.410646579344757e-05
+  },
+  {
+   "text": " ",
+   "start": 3.92,
+   "end": 3.98,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "da",
+   "start": 3.98,
+   "end": 4.08,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 4.08,
+   "end": 4.24,
+   "type": "spacing",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": "sua",
+   "start": 4.24,
+   "end": 4.4,
+   "type": "word",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": " ",
+   "start": 4.4,
+   "end": 4.54,
+   "type": "spacing",
+   "logprob": -7.033323527139146e-06
+  },
+  {
+   "text": "ajuda",
+   "start": 4.54,
+   "end": 5.02,
+   "type": "word",
+   "logprob": -7.033323527139146e-06
+  },
+  {
+   "text": " ",
+   "start": 5.02,
+   "end": 5.02,
+   "type": "spacing",
+   "logprob": -5.209310256759636e-05
+  },
+  {
+   "text": "todos",
+   "start": 5.54,
+   "end": 5.9,
+   "type": "word",
+   "logprob": -5.209310256759636e-05
+  },
+  {
+   "text": " ",
+   "start": 5.9,
+   "end": 5.96,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "os",
+   "start": 5.96,
+   "end": 6.14,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 6.14,
+   "end": 6.2,
+   "type": "spacing",
+   "logprob": -3.981510963058099e-05
+  },
+  {
+   "text": "meses.",
+   "start": 6.2,
+   "end": 6.72,
+   "type": "word",
+   "logprob": -3.908001356952203e-05
+  },
+  {
+   "text": " ",
+   "start": 6.72,
+   "end": 6.72,
+   "type": "spacing",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": "Com",
+   "start": 7.22,
+   "end": 7.4,
+   "type": "word",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": " ",
+   "start": 7.4,
+   "end": 7.44,
+   "type": "spacing",
+   "logprob": -0.018813617527484894
+  },
+  {
+   "text": "R$",
+   "start": 7.44,
+   "end": 7.44,
+   "type": "word",
+   "logprob": -0.009440365050977562
+  },
+  {
+   "text": " ",
+   "start": 7.44,
+   "end": 7.46,
+   "type": "spacing",
+   "logprob": -0.007607181556522846
+  },
+  {
+   "text": "10",
+   "start": 7.46,
+   "end": 8.36,
+   "type": "word",
+   "logprob": -1.1920927533992653e-07
+  },
+  {
+   "text": " ",
+   "start": 8.36,
+   "end": 8.58,
+   "type": "spacing",
+   "logprob": -0.004332323558628559
+  },
+  {
+   "text": "mensais,",
+   "start": 8.58,
+   "end": 9.3,
+   "type": "word",
+   "logprob": -0.03365798899895367
+  },
+  {
+   "text": " ",
+   "start": 9.3,
+   "end": 9.3,
+   "type": "spacing",
+   "logprob": -6.48477507638745e-05
+  },
+  {
+   "text": "você",
+   "start": 9.84,
+   "end": 10.42,
+   "type": "word",
+   "logprob": -6.48477507638745e-05
+  },
+  {
+   "text": " ",
+   "start": 10.42,
+   "end": 10.72,
+   "type": "spacing",
+   "logprob": -0.00018618757894728333
+  },
+  {
+   "text": "pode",
+   "start": 10.72,
+   "end": 11.02,
+   "type": "word",
+   "logprob": -0.00018618757894728333
+  },
+  {
+   "text": " ",
+   "start": 11.02,
+   "end": 11.08,
+   "type": "spacing",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": "salvar",
+   "start": 11.08,
+   "end": 11.46,
+   "type": "word",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": " ",
+   "start": 11.46,
+   "end": 11.5,
+   "type": "spacing",
+   "logprob": -1.0132738680113107e-05
+  },
+  {
+   "text": "a",
+   "start": 11.5,
+   "end": 11.52,
+   "type": "word",
+   "logprob": -1.0132738680113107e-05
+  },
+  {
+   "text": " ",
+   "start": 11.52,
+   "end": 11.62,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "minha",
+   "start": 11.62,
+   "end": 11.88,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 11.88,
+   "end": 11.94,
+   "type": "spacing",
+   "logprob": -2.861018856492592e-06
+  },
+  {
+   "text": "vida",
+   "start": 11.94,
+   "end": 12.26,
+   "type": "word",
+   "logprob": -2.861018856492592e-06
+  }
+ ],
+ "transcription_id": "uXHvzjCtj2xMPpQhnD4w",
+ "audio_duration_secs": 12.965
+}

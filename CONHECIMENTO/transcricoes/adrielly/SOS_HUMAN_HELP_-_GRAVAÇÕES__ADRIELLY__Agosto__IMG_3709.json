@@ -1,0 +1,282 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Você viu que a minha rotina não é nem um pouco fácil. Então, por favor, me ajuda no meu tratamento?",
+ "words": [
+  {
+   "text": "Você",
+   "start": 0.2,
+   "end": 0.54,
+   "type": "word",
+   "logprob": -0.00026294111739844084
+  },
+  {
+   "text": " ",
+   "start": 0.54,
+   "end": 0.58,
+   "type": "spacing",
+   "logprob": -8.189342770492658e-05
+  },
+  {
+   "text": "viu",
+   "start": 0.58,
+   "end": 0.88,
+   "type": "word",
+   "logprob": -8.189342770492658e-05
+  },
+  {
+   "text": " ",
+   "start": 0.88,
+   "end": 0.98,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "que",
+   "start": 0.98,
+   "end": 1.04,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 1.04,
+   "end": 1.06,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "a",
+   "start": 1.06,
+   "end": 1.14,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 1.14,
+   "end": 1.18,
+   "type": "spacing",
+   "logprob": -1.168244216387393e-05
+  },
+  {
+   "text": "minha",
+   "start": 1.18,
+   "end": 1.38,
+   "type": "word",
+   "logprob": -1.168244216387393e-05
+  },
+  {
+   "text": " ",
+   "start": 1.38,
+   "end": 1.42,
+   "type": "spacing",
+   "logprob": -2.1219027985353023e-05
+  },
+  {
+   "text": "rotina",
+   "start": 1.42,
+   "end": 2.0,
+   "type": "word",
+   "logprob": -1.1682396461765165e-05
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.34,
+   "type": "spacing",
+   "logprob": -6.9141146923357155e-06
+  },
+  {
+   "text": "não",
+   "start": 2.34,
+   "end": 2.54,
+   "type": "word",
+   "logprob": -6.9141146923357155e-06
+  },
+  {
+   "text": " ",
+   "start": 2.54,
+   "end": 2.6,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "é",
+   "start": 2.6,
+   "end": 2.68,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 2.68,
+   "end": 2.74,
+   "type": "spacing",
+   "logprob": -0.0009189196862280369
+  },
+  {
+   "text": "nem",
+   "start": 2.74,
+   "end": 2.92,
+   "type": "word",
+   "logprob": -0.0009189196862280369
+  },
+  {
+   "text": " ",
+   "start": 2.92,
+   "end": 2.96,
+   "type": "spacing",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": "um",
+   "start": 2.96,
+   "end": 3.06,
+   "type": "word",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": " ",
+   "start": 3.06,
+   "end": 3.1,
+   "type": "spacing",
+   "logprob": -4.1483970562694594e-05
+  },
+  {
+   "text": "pouco",
+   "start": 3.1,
+   "end": 3.46,
+   "type": "word",
+   "logprob": -4.1483970562694594e-05
+  },
+  {
+   "text": " ",
+   "start": 3.46,
+   "end": 3.52,
+   "type": "spacing",
+   "logprob": -6.6756979322235566e-06
+  },
+  {
+   "text": "fácil.",
+   "start": 3.52,
+   "end": 3.92,
+   "type": "word",
+   "logprob": -0.052327146114218216
+  },
+  {
+   "text": " ",
+   "start": 3.92,
+   "end": 3.94,
+   "type": "spacing",
+   "logprob": -8.106198947643861e-06
+  },
+  {
+   "text": "Então,",
+   "start": 4.42,
+   "end": 4.72,
+   "type": "word",
+   "logprob": -0.0030317486301404037
+  },
+  {
+   "text": " ",
+   "start": 4.72,
+   "end": 4.78,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "por",
+   "start": 4.78,
+   "end": 4.9,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.9,
+   "end": 4.96,
+   "type": "spacing",
+   "logprob": -9.059865078597795e-06
+  },
+  {
+   "text": "favor,",
+   "start": 4.96,
+   "end": 5.42,
+   "type": "word",
+   "logprob": -8.861184596753446e-06
+  },
+  {
+   "text": " ",
+   "start": 5.42,
+   "end": 5.64,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "me",
+   "start": 5.64,
+   "end": 5.78,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 5.78,
+   "end": 5.9,
+   "type": "spacing",
+   "logprob": -1.4305012882687151e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 5.9,
+   "end": 6.36,
+   "type": "word",
+   "logprob": -1.4305012882687151e-05
+  },
+  {
+   "text": " ",
+   "start": 6.36,
+   "end": 6.4,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "no",
+   "start": 6.4,
+   "end": 6.48,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 6.48,
+   "end": 6.52,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "meu",
+   "start": 6.52,
+   "end": 6.68,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.68,
+   "end": 6.72,
+   "type": "spacing",
+   "logprob": -0.00010859376925509423
+  },
+  {
+   "text": "tratamento?",
+   "start": 6.72,
+   "end": 7.54,
+   "type": "word",
+   "logprob": -0.00010296969478738241
+  }
+ ],
+ "transcription_id": "ocOru0M8bSr67BtyqjgF",
+ "audio_duration_secs": 9.2716875
+}

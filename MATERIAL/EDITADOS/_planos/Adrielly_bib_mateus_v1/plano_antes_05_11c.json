@@ -1,0 +1,108 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_2241390946718073.mp4",
+ "estilo": "BIB L1 MATEUS",
+ "base": [
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\_tratadas\\WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+   "ini": 1,
+   "fim": 4,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_curativos_juntos.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "ini": 15,
+   "fim": 18,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\Rot 2 (6).mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_sulfadiazina.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+   "ini": 1,
+   "fim": 4,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.31.27.mp4",
+   "ini": 0.5,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_infusao_cama.mp4",
+   "ini": 0,
+   "fim": 2,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21,
+   "linhas": [
+    "Mateus 25:35-40",
+    "ensina que servir aos necessitados",
+    "é servir a Cristo."
+   ],
+   "estilo": "seco",
+   "size": 34,
+   "y": 240,
+   "contorno": 3,
+   "lh": 1.1
+  },
+  {
+   "de": 0,
+   "ate": 21,
+   "linhas": [
+    "5 reais ajudam nos curativos",
+    "da Adrielly ❤️"
+   ],
+   "estilo": "seco",
+   "size": 34,
+   "y": 1395,
+   "contorno": 3,
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 21
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 2241 - Mateus 25.mp3",
+ "musica_volume": 1.0,
+ "modelo": {
+  "id": "peb213_l1_mateus",
+  "exemplo": "PEB 213",
+  "descricao": "2241390946718073: versiculo pequeno no alto (y 12%) e frase pequena embaixo (y 72%)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2241390946718073",
+  "titulo": "Mateus 25"
+ },
+ "fatos": {
+  "5 reais ajudam nos curativos": "IMG_4205: 'me ajuda com cinco ou R$10 pra eu conseguir meus curativos'"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 64\\AEB 97 - BIB L1 MATEUS.mp4",
+ "ajuste_05_11": "Rot 3 (parede lilás, proibida desde 30/10) trocado por Rot 2 (6).mp4"
+}

@@ -1,0 +1,102 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\florisbela_1494659885944630.mp4",
+ "estilo": "BIB SEU SINAL",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 31.7,
+   "fim": 34.55,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 34.9,
+   "fim": 38.25,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 38.7,
+   "fim": 40.6,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 20,
+   "fim": 24,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 4,
+   "fim": 7.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   "ini": 6,
+   "fim": 9,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 1,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 7,
+   "fim": 10,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 8.1,
+   "ate": 23.5,
+   "linhas": [
+    "ESSE É O SEU SINAL:",
+    "AJUDE O PEDRINHO COM R$5 🙏"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 60,
+   "y": 315,
+   "contorno": 4,
+   "lh": 1.05
+  }
+ ],
+ "legenda": {
+  "estilo": "amarelo",
+  "y": 1280,
+  "size": 50,
+  "fonte": "bold",
+  "caixa_alta": false,
+  "contorno": 3
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.4,
+  "de": 23.5
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\magnific_tristes\\Goodbyes.mp3",
+ "musica_volume": 0.178,
+ "musica_depois": [
+  8.1,
+  1.0
+ ],
+ "modelo": {
+  "id": "peb203_florisbela_sinal",
+  "exemplo": "PEB 203",
+  "descricao": "8. Florisbela 1494659885944630: abre com a fala mais forte e legenda de uma linha com a palavra falada em amarelo (y 67%); depois so musica e a frase amarela grossa fixa no alto (y 16%). (A referencia usa um rosto feito por IA; aqui e a fala real dele.)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1494659885944630",
+  "titulo": "Esse é o seu sinal"
+ }
+}

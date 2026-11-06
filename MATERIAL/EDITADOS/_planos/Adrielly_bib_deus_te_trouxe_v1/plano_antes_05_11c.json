@@ -1,0 +1,191 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\florisbela_2388547078640410.mp4",
+ "estilo": "BIB L3 DEUS TE TROUXE",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\TODAS AS PASTAS\\adriely\\IMG_6417.MOV",
+   "ini": 3.12,
+   "fim": 6.2,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\TODAS AS PASTAS\\adriely\\IMG_6417.MOV",
+   "ini": 8.25,
+   "fim": 10.52,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4227.MOV",
+   "ini": 0.7,
+   "fim": 2.2,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4227.MOV",
+   "ini": 2.55,
+   "fim": 3.45,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4227.MOV",
+   "ini": 3.8,
+   "fim": 6.25,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4193.MOV",
+   "ini": 1.2,
+   "fim": 3.2,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4193.MOV",
+   "ini": 3.65,
+   "fim": 5.05,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4193.MOV",
+   "ini": 5.45,
+   "fim": 7.45,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4205.MOV",
+   "ini": 1.45,
+   "fim": 2.45,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4205.MOV",
+   "ini": 2.65,
+   "fim": 5.05,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4205.MOV",
+   "ini": 5.33,
+   "fim": 7.62,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4205.MOV",
+   "ini": 8.0,
+   "fim": 10.76,
+   "som": true
+  }
+ ],
+ "broll": [
+  [
+   5.35,
+   8.05,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\TODAS AS PASTAS\\adriely\\IMG_6436.MOV",
+   4.9
+  ],
+  [
+   8.05,
+   10.2,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\TODAS AS PASTAS\\adriely\\IMG_6438.MOV",
+   5.6
+  ],
+  [
+   10.2,
+   12.6,
+   "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\_tratadas\\IMG_0850_pb.mp4",
+   1
+  ],
+  [
+   12.6,
+   15.6,
+   "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.31.27.mp4",
+   0.5
+  ],
+  [
+   15.6,
+   18.2,
+   "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_curativos_juntos.mp4",
+   0
+  ],
+  [
+   18.2,
+   21.29,
+   "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_pernas_faixas.mp4",
+   0
+  ]
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 5.35,
+   "linhas": [
+    "Deus te trouxe aqui, ajude",
+    "a Adrielly, os curativos",
+    "dela estão acabando."
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 46,
+   "y": 1075,
+   "pad": [
+    26,
+    10
+   ],
+   "lh": 1.08,
+   "fonte": "medium"
+  },
+  {
+   "de": 5.35,
+   "ate": 21.29,
+   "linhas": [
+    "qualquer valor ajuda nos curativos,",
+    "Deus te dê em dobro. ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 42,
+   "y": 432,
+   "pad": [
+    24,
+    10
+   ],
+   "lh": 1.08,
+   "fonte": "medium"
+  }
+ ],
+ "legenda": {
+  "estilo": "pequena",
+  "y": 1230,
+  "size": 46,
+  "contorno": 2
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.4,
+  "de": 22.3
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 1126 - cansados de pedir ajuda.mp3",
+ "musica_volume": 0.33,
+ "modelo": {
+  "id": "peb224_l3_deus_te_trouxe",
+  "exemplo": "PEB 224",
+  "descricao": "Florisbela 2388547078640410: mesmo molde do PEB 204, com a musica do anuncio (separada da voz)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2388547078640410",
+  "titulo": "Deus te trouxe aqui (música do anúncio)"
+ },
+ "fatos": {
+  "os curativos dela estão acabando": "IMG_6452 (30/10) 3,62-10,18: 'Não temos quase nada de curativo para os cuidados dessa semana'",
+  "falas": "IMG_3653 0,25-5,95; IMG_4227 0,70-6,25; IMG_4193 1,20-7,45; IMG_4205 1,45-10,76 (todas dela, pasta Agosto)",
+  "gancho com o terço": "IMG_6417 (30/10) 'Fica só 30 segundos, por favor... não me deixe lutar sozinha, Jesus'",
+  "feridas nos braços": "IMG_6436 e IMG_6438 (30/10)"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 51\\AEB 91 - BIB L3 DEUS TE TROUXE.mp4",
+ "ajuste_05_11b": "pedido do usuário: gancho com o terço, feridas dela no lugar do lençol, música com o cantor"
+}

@@ -1,0 +1,35 @@
+{
+ "total": 30.180999999999997,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.369999999999999,
+   "texto": "Fica só 30 segundos, por favor."
+  },
+  {
+   "nome": "c1",
+   "d": 7.129999999999998,
+   "texto": "Eu tenho epidermólise bolhosa e minha pele arde e dói todos os dias"
+  },
+  {
+   "nome": "c2",
+   "d": 6.369999999999999,
+   "texto": "Me ajude no meu tratamento dessa semana com dois ou cinco reais"
+  },
+  {
+   "nome": "c3",
+   "d": 3.5100000000000002,
+   "texto": "Cinco reais pode parecer pouco pra você,"
+  },
+  {
+   "nome": "c4",
+   "d": 4.810999999999999,
+   "texto": "mas para mim é mais um dia de vida, um dia sem dor."
+  },
+  {
+   "nome": "c5",
+   "d": 4.99,
+   "texto": "Me ajude a sobreviver."
+  }
+ ]
+}

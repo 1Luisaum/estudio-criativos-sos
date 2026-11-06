@@ -1,0 +1,248 @@
+{
+ "nome": "Pedrinho_5horas_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\CORTES COM GANCHO\\LEVA 01\\Pedrinho_5horas_v1.mp4",
+ "face": [
+  560,
+  220
+ ],
+ "zooms": {
+  "ZH": {
+   "z": 1.9,
+   "center": [
+    550,
+    560
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 0.86,
+   "out": 3.12,
+   "zoom": "Z2",
+   "txt": "Um pouco com Deus é muito."
+  },
+  {
+   "in": 3.8,
+   "out": 4.36,
+   "zoom": "Z3",
+   "txt": "Pessoal,"
+  },
+  {
+   "in": 4.78,
+   "out": 7.1,
+   "zoom": "ZH",
+   "txt": "eu só tenho esses curativos aqui,"
+  },
+  {
+   "in": 7.96,
+   "out": 8.58,
+   "zoom": "Z1",
+   "txt": "que estão"
+  },
+  {
+   "in": 9.0,
+   "out": 9.76,
+   "zoom": "ZH",
+   "txt": "na minha mão."
+  },
+  {
+   "in": 11.12,
+   "out": 12.06,
+   "zoom": "Z2",
+   "txt": "da última vez,"
+  },
+  {
+   "in": 13.42,
+   "out": 14.56,
+   "zoom": "Z3",
+   "txt": "minha mãe precisou"
+  },
+  {
+   "in": 15.16,
+   "out": 16.24,
+   "zoom": "ZF",
+   "txt": "de cinco horas,"
+  },
+  {
+   "in": 19.64,
+   "out": 23.1,
+   "txt": "pra fazer todo o meu curativo, por conta de lesões",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 152.0
+    }
+   ]
+  },
+  {
+   "in": 23.52,
+   "out": 25.2,
+   "txt": "e ferimentos bem abertos",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 240.0
+    }
+   ]
+  },
+  {
+   "in": 25.86,
+   "out": 27.28,
+   "zoom": "Z3",
+   "txt": "na carne viva mesmo."
+  },
+  {
+   "in": 34.96,
+   "out": 36.72,
+   "zoom": "Z2",
+   "txt": "os meus ferimentos estão"
+  },
+  {
+   "in": 37.16,
+   "out": 39.62,
+   "zoom": "ZF",
+   "txt": "cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "in": 39.92,
+   "out": 44.76,
+   "txt": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper.",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 272.0,
+     "until": 42.62
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 300.0
+    }
+   ]
+  },
+  {
+   "in": 48.23,
+   "out": 52.76,
+   "txt": "vamo comigo, galera, nessa batalha, entre junto nessa corrente do bem.",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 8.0,
+     "until": 50.6
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 12.0
+    }
+   ]
+  },
+  {
+   "in": 53.34,
+   "out": 54.08,
+   "zoom": "Z3",
+   "txt": "Me ajude,"
+  },
+  {
+   "in": 54.93,
+   "out": 57.56,
+   "txt": "nas minhas necessidade e com os curativo.",
+   "fix": {
+    "CURATIVO": "CURATIVOS"
+   },
+   "broll": [
+    {
+     "src": "20260825_133754.jpg"
+    },
+    {
+     "src": "20260825_134039.jpg"
+    },
+    {
+     "src": "20260825_134129.jpg"
+    },
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134438.jpg"
+    },
+    {
+     "src": "20260825_134808.jpg"
+    },
+    {
+     "src": "20260825_134340.jpg"
+    }
+   ]
+  },
+  {
+   "in": 60.9,
+   "out": 63.6,
+   "zoom": "Z2",
+   "txt": "desde já, meu muito obrigado a todos vocês."
+  }
+ ],
+ "fix": {
+  "NECESSIDADE": "NECESSIDADES"
+ },
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "CINCO",
+  "HORAS",
+  "CARNE",
+  "VIVA",
+  "SANGUE",
+  "ME",
+  "AJUDE"
+ ],
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ME DÁ 30 SEGUNDOS"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "O ÚLTIMO CURATIVO",
+    "DO PEDRINHO",
+    "DUROU *5 HORAS*"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 30.0,
+  "dur": 3.4,
+  "lines": [
+   "SEJA A CORRENTE",
+   "DO BEM DO PEDRINHO"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$5",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ }
+}

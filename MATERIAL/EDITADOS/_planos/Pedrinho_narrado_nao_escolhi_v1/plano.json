@@ -1,0 +1,378 @@
+{
+ "nome": "Pedrinho_narrado_nao_escolhi_v1",
+ "crianca": "Pedrinho",
+ "angulo": "nao_escolhi",
+ "gancho": "ele não escolheu, mas escolheu lutar",
+ "fatos": [
+  "eu não escolhi essa batalha, mas escolhi continuar lutando: Pedrinho, banco Roteiro 7 15 a 22 s",
+  "o Pedro luta pela vida: mãe, Roteiro 2 83 s",
+  "focar nas coisas boas: Pedrinho, Um Vídeo Novo 346 s"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/gospel/Spirit_in_the_Silence.mp3",
+ "music_start": 15.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "BATALHA",
+  "LUTANDO",
+  "LUTA",
+  "VIDA",
+  "VENCIDA",
+  "ERGUIDA"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“EU *NÃO ESCOLHI*”",
+    "fs": 93
+   },
+   {
+    "text": "ESSA BATALHA",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 1.43
+    },
+    {
+     "src": "20260819_222914.jpg"
+    }
+   ],
+   "txt": "Ninguém perguntou ao Pedrinho se ele queria nascer com a pele assim."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/roteiro7.json",
+   "cuts": [
+    [
+     14.7,
+     15.74
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.15,
+     "center": [
+      510,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      510,
+      850
+     ]
+    }
+   ],
+   "txt": "Eu não escolhi essa batalha,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "foto em close.png",
+     "until": 1.12
+    },
+    {
+     "src": "20240411_115750.jpg",
+     "until": 2.02
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 207.0
+    }
+   ],
+   "txt": "Ele não escolheu a dor. Nem as faixas. Nem as horas paradas enquanto a mãe troca tudo."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/roteiro2_mae.json",
+   "cuts": [
+    [
+     73.6,
+     74.2
+    ],
+    [
+     75.62,
+     76.92
+    ],
+    [
+     77.64,
+     78.14
+    ],
+    [
+     80.9,
+     81.2
+    ],
+    [
+     83.04,
+     84.4
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "é uma luta contínuo, todo dia, vinte e quatro horas, todos os meses, é uma vida, O Pedro luta pela vida,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 155.0,
+     "until": 2.27
+    },
+    {
+     "src": "20241110_104724.mp4",
+     "start": 5.0
+    }
+   ],
+   "txt": "Uma doença rara decide muita coisa na vida dele. Mas teve uma decisão que ficou só com ele."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/roteiro7.json",
+   "cuts": [
+    [
+     16.9,
+     17.26
+    ],
+    [
+     18.3,
+     19.4
+    ],
+    [
+     20.32,
+     22.1
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.15,
+     "center": [
+      510,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      510,
+      850
+     ]
+    }
+   ],
+   "txt": "mas eu escolhi continuar sempre lutando, sempre com a cabeça erguida."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "ELE ESCOLHEU",
+    "LUTAR"
+   ],
+   "dur": 1.5,
+   "fs": 180
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 179.0,
+     "until": 1.94
+    },
+    {
+     "src": "20260729_164523.jpg"
+    }
+   ],
+   "txt": "E todo dia, ele escolhe de novo. Encarar a troca. Aguentar a dor. Sorrir para a foto."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     346.24,
+     346.66
+    ],
+    [
+     346.74,
+     347.4
+    ],
+    [
+     348.4,
+     349.1
+    ],
+    [
+     350.74,
+     352.46
+    ],
+    [
+     352.94,
+     353.3
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 14.0
+    },
+    {
+     "src": "20241109_123330.jpg"
+    }
+   ],
+   "txt": "É só a gente também focar nas coisas boas, que aí a luta fica mais fácil, de ser vencida."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v2_dormir.json",
+   "cuts": [
+    [
+     1.02,
+     2.04
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      845
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Por favor, me ajude."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_v1/tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     48.3,
+     48.62
+    ],
+    [
+     49.64,
+     49.94
+    ],
+    [
+     50.64,
+     52.5
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "vamo comigo, nessa batalha, entre junto nessa corrente do bem."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "IMG-20241205-WA0070.jpg"
+    }
+   ],
+   "txt": "Ele podia ter desistido de sorrir. Não desistiu."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 190.0,
+     "until": 1.18
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 36.0
+    }
+   ],
+   "txt": "Ele já escolheu. Agora é com você. Clique em Saiba mais e lute com o Pedrinho."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_180353.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "ELE ESCOLHEU LUTAR.",
+    "*E VOCÊ?*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 185 - NARRADO DE IMPACTO.mp4"
+}

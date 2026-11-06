@@ -1,0 +1,60 @@
+{
+ "text": "Clique em Saiba mais e ajude a completar a próxima troca.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "em",
+   "start": 0.36,
+   "end": 0.418
+  },
+  {
+   "text": "Saiba",
+   "start": 0.499,
+   "end": 0.871
+  },
+  {
+   "text": "mais",
+   "start": 0.94,
+   "end": 1.277
+  },
+  {
+   "text": "e",
+   "start": 1.335,
+   "end": 1.382
+  },
+  {
+   "text": "ajude",
+   "start": 1.44,
+   "end": 1.846
+  },
+  {
+   "text": "a",
+   "start": 1.869,
+   "end": 1.892
+  },
+  {
+   "text": "completar",
+   "start": 1.927,
+   "end": 2.438
+  },
+  {
+   "text": "a",
+   "start": 2.485,
+   "end": 2.508
+  },
+  {
+   "text": "próxima",
+   "start": 2.566,
+   "end": 3.019
+  },
+  {
+   "text": "troca.",
+   "start": 3.053,
+   "end": 3.855
+  }
+ ]
+}

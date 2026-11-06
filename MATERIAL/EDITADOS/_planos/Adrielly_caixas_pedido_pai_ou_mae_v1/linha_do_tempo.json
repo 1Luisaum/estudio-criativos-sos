@@ -1,0 +1,40 @@
+{
+ "total": 34.60999999999999,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 5.1099999999999985,
+   "texto": "eu não sou uma criança. Fica dez segundos, por favor."
+  },
+  {
+   "nome": "c1",
+   "d": 4.39,
+   "texto": "Minha mãe é a pessoa que eu mais amo nesse mundo."
+  },
+  {
+   "nome": "c2a",
+   "d": 5.289999999999998,
+   "texto": "Ela faz de tudo para mim, mas não está conseguindo garantir"
+  },
+  {
+   "nome": "c2b",
+   "d": 2.7100000000000004,
+   "texto": "os meus curativos dessa semana."
+  },
+  {
+   "nome": "c3",
+   "d": 6.829999999999999,
+   "texto": "Me ajude no meu tratamento dessa semana com dois ou cinco reais"
+  },
+  {
+   "nome": "c4",
+   "d": 6.669999999999998,
+   "texto": "Cinco reais pode parecer pouco pra você, mas para mim é mais um dia de vida,"
+  },
+  {
+   "nome": "c5",
+   "d": 3.6099999999999994,
+   "texto": "um dia sem dor."
+  }
+ ]
+}

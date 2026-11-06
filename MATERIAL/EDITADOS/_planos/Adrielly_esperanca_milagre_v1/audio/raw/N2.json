@@ -1,0 +1,50 @@
+{
+ "text": "Mas a Adrielly chegou aos vinte e oito anos.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "a",
+   "start": 0.406,
+   "end": 0.43
+  },
+  {
+   "text": "Adrielly",
+   "start": 0.522,
+   "end": 1.01
+  },
+  {
+   "text": "chegou",
+   "start": 1.033,
+   "end": 1.289
+  },
+  {
+   "text": "aos",
+   "start": 1.416,
+   "end": 1.544
+  },
+  {
+   "text": "vinte",
+   "start": 1.591,
+   "end": 1.8
+  },
+  {
+   "text": "e",
+   "start": 1.823,
+   "end": 1.846
+  },
+  {
+   "text": "oito",
+   "start": 1.892,
+   "end": 2.125
+  },
+  {
+   "text": "anos.",
+   "start": 2.159,
+   "end": 2.833
+  }
+ ]
+}

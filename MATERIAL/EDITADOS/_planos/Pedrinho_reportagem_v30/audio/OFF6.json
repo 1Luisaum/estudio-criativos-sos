@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e seja uma dessas seis pessoas.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.348
+  },
+  {
+   "text": "em",
+   "start": 0.372,
+   "end": 0.43
+  },
+  {
+   "text": "Saiba",
+   "start": 0.522,
+   "end": 0.894
+  },
+  {
+   "text": "mais",
+   "start": 0.952,
+   "end": 1.254
+  },
+  {
+   "text": "e",
+   "start": 1.324,
+   "end": 1.374
+  },
+  {
+   "text": "seja",
+   "start": 1.405,
+   "end": 1.753
+  },
+  {
+   "text": "uma",
+   "start": 1.788,
+   "end": 1.95
+  },
+  {
+   "text": "dessas",
+   "start": 2.02,
+   "end": 2.403
+  },
+  {
+   "text": "seis",
+   "start": 2.461,
+   "end": 2.752
+  },
+  {
+   "text": "pessoas.",
+   "start": 2.81,
+   "end": 3.426
+  }
+ ]
+}

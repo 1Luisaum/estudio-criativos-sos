@@ -1,0 +1,30 @@
+{
+ "total": 29.09000000000001,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 2.6099999999999954,
+   "texto": "Por favor, fica só trinta segundos?"
+  },
+  {
+   "nome": "c1",
+   "d": 7.529999999999999,
+   "texto": "Gente, eu pedi ajuda a SOS porque eu não aguento mais sentir tanta dor."
+  },
+  {
+   "nome": "c2",
+   "d": 8.109999999999996,
+   "texto": "O que me ajuda no dia a dia são os curativos especiais porém são curativos extremamente caros,"
+  },
+  {
+   "nome": "c3",
+   "d": 6.170000000000001,
+   "texto": "Me ajuda a conseguir os meus curativos? Aqui é só eu mais a minha mãe"
+  },
+  {
+   "nome": "c4",
+   "d": 4.670000000000016,
+   "texto": "Cinco reais pode me dar um dia melhor."
+  }
+ ]
+}

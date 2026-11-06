@@ -1,0 +1,213 @@
+{
+ "nome": "Pedrinho_caixas_aspas_horas_v1",
+ "gancho": "aspas: mae 'Todo mundo conhece ele como Pedrinho Guerreiro' + Pedrinho 'Mas eu nao luto sozinho'",
+ "angulo": "as horas de curativo que a mae faz",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "todo mundo conhece ele como Pedrinho Guerreiro / mas eu nao luto sozinho": "mae e Pedrinho, banco Roteiro 3 (1-7 s)",
+  "curativo leva de quatro a cinco horas todos os dias": "mae, banco Roteiro 3 (18-34 s)",
+  "nos dia dificil eu continuo sempre lutando": "Pedrinho, banco Roteiro 3 (37-40 s)",
+  "mae precisou de cinco horas, lesoes e ferimentos bem abertos, ferimentos cada vez mais abertos, bolhas de sangue e de agua, obrigado": "Pedrinho, 20260916_234157"
+ },
+ "modelo": "lote 30 videos 27/10/2026, Frente C",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     1.68,
+     3.66
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+     1.62
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "UM CURATIVO LEVA MINUTOS.",
+    "PARA PEDRINHO, LEVA DE",
+    "QUATRO A CINCO HORAS."
+   ]
+  },
+  {
+   "nome": "h2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     5.7,
+     6.76
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+     5.64
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "UM CURATIVO LEVA MINUTOS.",
+    "PARA PEDRINHO, LEVA DE",
+    "QUATRO A CINCO HORAS."
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     10.6,
+     11.7
+    ],
+    [
+     13.48,
+     15.9
+    ],
+    [
+     19.68,
+     21.16
+    ],
+    [
+     21.8,
+     22.54
+    ],
+    [
+     23.56,
+     24.64
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     140.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     175.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     200.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     230.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     35.02,
+     36.22
+    ],
+    [
+     37.18,
+     39.2
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     2.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+     100.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro3.json",
+   "cortes": [
+    [
+     37.22,
+     40.02
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 3.mp4",
+     37.16
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     39.96,
+     44.2
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     300.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     72.0
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v1_cinco_horas.json",
+   "cortes": [
+    [
+     60.76,
+     63.24
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Ana e Pedro sorrindo.png",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS PARA AS FERIDAS ABERTAS"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "AJUDAM A MÃE DO PEDRINHO NAS",
+   "HORAS DE CURATIVO DE CADA DIA"
+  ],
+  "valor_y": 1300,
+  "cor_caixa": [
+   200,
+   16,
+   28
+  ],
+  "cor_texto": [
+   235,
+   40,
+   40
+  ]
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 27\\PEB 116 - CAIXAS ASPAS.mp4"
+}

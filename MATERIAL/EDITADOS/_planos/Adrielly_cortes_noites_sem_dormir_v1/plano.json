@@ -1,0 +1,269 @@
+{
+ "nome": "Adrielly_cortes_noites_sem_dormir_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5451.MOV",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 0.0,
+ "face": [
+  479,
+  706
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    479,
+    1006
+   ]
+  },
+  "Z2": {
+   "z": 1.25,
+   "center": [
+    479,
+    1006
+   ]
+  },
+  "Z3": {
+   "z": 1.38,
+   "center": [
+    479,
+    1006
+   ]
+  },
+  "ZF": {
+   "z": 1.52,
+   "center": [
+    479,
+    1006
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 0.22,
+   "out": 1.3,
+   "txt": "Adrielly,"
+  },
+  {
+   "in": 1.58,
+   "out": 3.66,
+   "txt": "você consegue dormir bem?"
+  },
+  {
+   "in": 4.18,
+   "out": 5.84,
+   "txt": "Infelizmente não.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 6.5,
+   "out": 7.92,
+   "txt": "A maior parte"
+  },
+  {
+   "in": 8.3,
+   "out": 9.36,
+   "txt": "da noite,"
+  },
+  {
+   "in": 9.66,
+   "out": 10.86,
+   "txt": "de madrugada,"
+  },
+  {
+   "in": 11.24,
+   "out": 13.4,
+   "txt": "eu estou acordada"
+  },
+  {
+   "in": 13.92,
+   "out": 16.3,
+   "txt": "com crises intensa de dor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 52.0
+    }
+   ]
+  },
+  {
+   "in": 16.76,
+   "out": 18.32,
+   "txt": "nas lesões.",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 54.38
+    }
+   ]
+  },
+  {
+   "in": 19.06,
+   "out": 20.54,
+   "txt": "Isso acontece",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_jpg_do_heic/IMG_0404.jpg"
+    }
+   ]
+  },
+  {
+   "in": 20.9,
+   "out": 21.56,
+   "txt": "porque",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/9f6780ad-a7a6-4d5b-89c1-a97ff2d3dac1.jpg"
+    }
+   ]
+  },
+  {
+   "in": 22.22,
+   "out": 23.64,
+   "txt": "devido o meu corpo",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_jpg_do_heic/IMG_0400.jpg"
+    }
+   ]
+  },
+  {
+   "in": 24.04,
+   "out": 27.78,
+   "txt": "ser 95% coberto por lesões,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/adriellyheloisalima_1778176743_3891950279558008966_7297282086.jpg"
+    }
+   ]
+  },
+  {
+   "in": 28.18,
+   "out": 29.24,
+   "txt": "por faixa,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_jpg_do_heic/IMG_0404.jpg"
+    }
+   ]
+  },
+  {
+   "in": 29.94,
+   "out": 32.96,
+   "txt": "acaba que às vezes eu não tenho",
+   "zoom": "ZF"
+  },
+  {
+   "in": 33.52,
+   "out": 34.7,
+   "txt": "uma posição.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 35.2,
+   "out": 36.52,
+   "txt": "E essa questão"
+  },
+  {
+   "in": 36.82,
+   "out": 38.16,
+   "txt": "de não dormir"
+  },
+  {
+   "in": 38.58,
+   "out": 39.14,
+   "txt": "bem"
+  },
+  {
+   "in": 39.64,
+   "out": 41.38,
+   "txt": "acaba me afetando"
+  },
+  {
+   "in": 41.8,
+   "out": 45.08,
+   "txt": "o meu emocional, o meu psicológico,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8378_pb.mp4",
+     "start": 53.0
+    }
+   ]
+  },
+  {
+   "in": 45.5,
+   "out": 46.92,
+   "txt": "o meu físico",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (8).mp4",
+     "start": 3.0
+    }
+   ]
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "DOR",
+  "LESÕES",
+  "95%",
+  "CRISES"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "SÓ 30 SEGUNDOS"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "*95%* DO CORPO DA",
+    "ADRIELLY É COBERTO",
+    "POR LESÕES"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (2).mp4",
+  "start": 5.0,
+  "lines": [
+   "ESTEJA COM A ADRIELLY",
+   "NAS MADRUGADAS DE DOR"
+  ],
+  "dur": 3.4,
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "PODEM DAR ALÍVIO À",
+    64
+   ],
+   [
+    "ADRIELLY NAS MADRUGADAS!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "acordada de madrugada com crises de dor, 95% do corpo com lesões, sem posição": "IMG_5451",
+  "R$10": "ela pede cinco ou dez reais (IMG_4205, IMG_4493, IMG_4740)"
+ },
+ "modelo": "edicao-criativo-ong (Pedrinho_5horas_v1), adaptado para a Adrielly",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 41\\AEB 37 - CORTES COM GANCHO.mp4"
+}

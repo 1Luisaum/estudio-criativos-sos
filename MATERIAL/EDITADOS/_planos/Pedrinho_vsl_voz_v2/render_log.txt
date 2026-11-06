@@ -1,0 +1,17 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v2.mp4
+  f01: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+ok f01 3.83s É o quê, mãe? os curativo tão acabando? Meu Deus, e agora?
+  f02: chamada=290 legenda=1000 etiqueta=None
+ok f02 4.83s a minha mãe acabou de me dar a pior notícia que eu poderia receber dessa semana.
+  f03: chamada=290 legenda=500 etiqueta=None
+  f03: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1000 etiqueta=None
+ok f03 8.71s Os curativos, que é usado, pro meu tratamento e pra aliviar as dores do meu esfolamento e proteger pra não pousar mosquito, evitar poeira,
+  f04: chamada=290 legenda=1000 etiqueta=None
+ok f04 3.19s estão acabando. Na verdade, acabou,
+  f05: chamada=290 legenda=1000 etiqueta=None
+ok f05 7.71s a gente não tem como comprar nem, uns dois, três pacotes de atadura ou um gaze, que é pra passar minha pomadinha.
+  f06: chamada=290 legenda=520 etiqueta=1150
+ok f06 5.45s eu peço a sua ajuda. Seja com dois ou cinco reais, não importa o valor,
+  f07: chamada=290 legenda=480 etiqueta=None
+ok f07 5.39s seja comigo nessa caminhada. E meu muito obrigado.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v2.mp4 duracao=39.1s

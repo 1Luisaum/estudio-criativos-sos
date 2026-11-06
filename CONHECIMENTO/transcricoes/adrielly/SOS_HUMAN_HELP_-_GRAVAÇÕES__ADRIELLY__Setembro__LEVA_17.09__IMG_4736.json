@@ -1,0 +1,282 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Jesus, obrigada por enviar anjos pra me ajudar com os curativos, mas por favor, não deixe eles esquecerem de mim",
+ "words": [
+  {
+   "text": "Jesus,",
+   "start": 3.08,
+   "end": 3.9,
+   "type": "word",
+   "logprob": -0.003912971165846102
+  },
+  {
+   "text": " ",
+   "start": 3.9,
+   "end": 3.9,
+   "type": "spacing",
+   "logprob": -0.00030655929003842175
+  },
+  {
+   "text": "obrigada",
+   "start": 4.58,
+   "end": 5.4,
+   "type": "word",
+   "logprob": -0.00019222540453256443
+  },
+  {
+   "text": " ",
+   "start": 5.4,
+   "end": 5.4,
+   "type": "spacing",
+   "logprob": -1.5735502529423684e-05
+  },
+  {
+   "text": "por",
+   "start": 5.78,
+   "end": 5.94,
+   "type": "word",
+   "logprob": -1.5735502529423684e-05
+  },
+  {
+   "text": " ",
+   "start": 5.94,
+   "end": 5.98,
+   "type": "spacing",
+   "logprob": -2.5987286790041253e-05
+  },
+  {
+   "text": "enviar",
+   "start": 5.98,
+   "end": 6.5,
+   "type": "word",
+   "logprob": -2.5987286790041253e-05
+  },
+  {
+   "text": " ",
+   "start": 6.5,
+   "end": 6.54,
+   "type": "spacing",
+   "logprob": -1.4305012882687151e-05
+  },
+  {
+   "text": "anjos",
+   "start": 6.58,
+   "end": 7.18,
+   "type": "word",
+   "logprob": -1.4877208741381764e-05
+  },
+  {
+   "text": " ",
+   "start": 7.18,
+   "end": 7.58,
+   "type": "spacing",
+   "logprob": -1.6212332411669195e-05
+  },
+  {
+   "text": "pra",
+   "start": 7.58,
+   "end": 7.76,
+   "type": "word",
+   "logprob": -1.6212332411669195e-05
+  },
+  {
+   "text": " ",
+   "start": 7.76,
+   "end": 7.8,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 7.8,
+   "end": 7.86,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 7.86,
+   "end": 7.92,
+   "type": "spacing",
+   "logprob": -3.790783375734463e-05
+  },
+  {
+   "text": "ajudar",
+   "start": 7.92,
+   "end": 8.44,
+   "type": "word",
+   "logprob": -3.790783375734463e-05
+  },
+  {
+   "text": " ",
+   "start": 8.44,
+   "end": 8.58,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "com",
+   "start": 8.58,
+   "end": 8.72,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 8.72,
+   "end": 8.78,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "os",
+   "start": 8.78,
+   "end": 8.92,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 8.92,
+   "end": 8.96,
+   "type": "spacing",
+   "logprob": -2.0146166207268834e-05
+  },
+  {
+   "text": "curativos,",
+   "start": 8.96,
+   "end": 9.92,
+   "type": "word",
+   "logprob": -0.03133638195640742
+  },
+  {
+   "text": " ",
+   "start": 9.92,
+   "end": 9.92,
+   "type": "spacing",
+   "logprob": -5.8412379075889476e-06
+  },
+  {
+   "text": "mas",
+   "start": 10.78,
+   "end": 11.02,
+   "type": "word",
+   "logprob": -5.8412379075889476e-06
+  },
+  {
+   "text": " ",
+   "start": 11.02,
+   "end": 11.06,
+   "type": "spacing",
+   "logprob": -0.0009116546134464443
+  },
+  {
+   "text": "por",
+   "start": 11.06,
+   "end": 11.22,
+   "type": "word",
+   "logprob": -0.0009116546134464443
+  },
+  {
+   "text": " ",
+   "start": 11.22,
+   "end": 11.28,
+   "type": "spacing",
+   "logprob": -1.2516897186287679e-05
+  },
+  {
+   "text": "favor,",
+   "start": 11.28,
+   "end": 11.86,
+   "type": "word",
+   "logprob": -1.1046661181050391e-05
+  },
+  {
+   "text": " ",
+   "start": 11.86,
+   "end": 11.86,
+   "type": "spacing",
+   "logprob": -9.894321920000948e-06
+  },
+  {
+   "text": "não",
+   "start": 12.74,
+   "end": 12.94,
+   "type": "word",
+   "logprob": -9.894321920000948e-06
+  },
+  {
+   "text": " ",
+   "start": 12.94,
+   "end": 13.0,
+   "type": "spacing",
+   "logprob": -0.003217878518626094
+  },
+  {
+   "text": "deixe",
+   "start": 13.0,
+   "end": 13.4,
+   "type": "word",
+   "logprob": -0.003217878518626094
+  },
+  {
+   "text": " ",
+   "start": 13.4,
+   "end": 13.44,
+   "type": "spacing",
+   "logprob": -1.3589766240329482e-05
+  },
+  {
+   "text": "eles",
+   "start": 13.46,
+   "end": 13.74,
+   "type": "word",
+   "logprob": -1.3589766240329482e-05
+  },
+  {
+   "text": " ",
+   "start": 13.74,
+   "end": 13.8,
+   "type": "spacing",
+   "logprob": -0.001166140311397612
+  },
+  {
+   "text": "esquecerem",
+   "start": 13.8,
+   "end": 14.44,
+   "type": "word",
+   "logprob": -0.0006901018320832009
+  },
+  {
+   "text": " ",
+   "start": 14.44,
+   "end": 14.5,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 14.5,
+   "end": 14.6,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 14.6,
+   "end": 14.68,
+   "type": "spacing",
+   "logprob": -1.2159273865108844e-05
+  },
+  {
+   "text": "mim",
+   "start": 14.68,
+   "end": 14.92,
+   "type": "word",
+   "logprob": -1.2159273865108844e-05
+  }
+ ],
+ "transcription_id": "4p7fy4P2pJNB6DIodJS8",
+ "audio_duration_secs": 18.3333125
+}

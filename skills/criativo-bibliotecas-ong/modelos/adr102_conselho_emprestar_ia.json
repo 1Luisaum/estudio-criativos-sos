@@ -1,0 +1,121 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB CONSELHO EMPRESTAR",
+ "base": [
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\biblia_jardim.mp4",
+   "ini": 0,
+   "fim": 4.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_perna_soro.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_braco_dobrado.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_remedios_juntos.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_maos.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\79212854-35CA-4B92-85A4-9354BFBE7E30.mov",
+   "ini": 20,
+   "fim": 23,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_ferropurum.mp4",
+   "ini": 0,
+   "fim": 3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_braco_hospital.mp4",
+   "ini": 0,
+   "fim": 4.76,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_conselho_emprestar_sr.mp3",
+  "tx": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_conselho_emprestar_sr.json",
+  "de": 0.2
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4.5,
+   "linhas": [
+    "Quem se compadece do pobre",
+    "empresta ao Senhor – Provérbios 19:17"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3,
+   "lh": 1.08
+  },
+  {
+   "de": 4.6,
+   "ate": 24.46,
+   "linhas": [
+    "DOE 2 ou 5 reais",
+    "e AJUDE A ADRIELLY 💗"
+   ],
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 50,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 24.46
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz, sem chiado).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "adr102_conselho_emprestar_ia",
+  "exemplo": "AEB 102",
+  "titulo": "Conselho (Provérbios) com vídeo de IA e feridas",
+  "descricao": "vídeo de IA da Magnific no gancho (Bíblia no jardim) com o versículo, caixa vermelha \"DOE 2 ou 5 reais\", takes das feridas com borrão leve, legenda UNICEF. Sem P&B.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "criado": "05/11/2026 (pedido do usuário)"
+ }
+}

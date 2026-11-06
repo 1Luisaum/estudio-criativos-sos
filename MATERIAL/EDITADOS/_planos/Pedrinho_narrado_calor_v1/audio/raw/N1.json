@@ -1,0 +1,85 @@
+{
+ "text": "O Pedrinho tem epidermólise bolhosa, a doença da pele de borboleta. No calor, as feridas pioram.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.104
+  },
+  {
+   "text": "Pedrinho",
+   "start": 0.186,
+   "end": 0.58
+  },
+  {
+   "text": "tem",
+   "start": 0.639,
+   "end": 0.778
+  },
+  {
+   "text": "epidermólise",
+   "start": 0.824,
+   "end": 1.509
+  },
+  {
+   "text": "bolhosa,",
+   "start": 1.556,
+   "end": 2.171
+  },
+  {
+   "text": "a",
+   "start": 2.357,
+   "end": 2.415
+  },
+  {
+   "text": "doença",
+   "start": 2.473,
+   "end": 2.763
+  },
+  {
+   "text": "da",
+   "start": 2.798,
+   "end": 2.868
+  },
+  {
+   "text": "pele",
+   "start": 2.937,
+   "end": 3.135
+  },
+  {
+   "text": "de",
+   "start": 3.17,
+   "end": 3.216
+  },
+  {
+   "text": "borboleta.",
+   "start": 3.262,
+   "end": 3.878
+  },
+  {
+   "text": "No",
+   "start": 4.098,
+   "end": 4.226
+  },
+  {
+   "text": "calor,",
+   "start": 4.272,
+   "end": 4.667
+  },
+  {
+   "text": "as",
+   "start": 4.69,
+   "end": 4.772
+  },
+  {
+   "text": "feridas",
+   "start": 4.83,
+   "end": 5.178
+  },
+  {
+   "text": "pioram.",
+   "start": 5.236,
+   "end": 6.037
+  }
+ ]
+}

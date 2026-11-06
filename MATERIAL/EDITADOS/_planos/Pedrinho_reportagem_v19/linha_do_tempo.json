@@ -1,0 +1,71 @@
+{
+ "total": 58.667619,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.478005,
+   "texto": "Mais de quarenta mil reais. Todo mês. Esse é o tamanho da conta para cuidar de um único menino."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 4.340000000000008,
+   "texto": "hoje os cuidado dele passa dos quarenta mil por mês"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.075601,
+   "texto": "A doença é a epidermólise bolhosa. Quem encontra o Pedrinho na internet não vê essa conta. E ele sabe disso."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.240000000000003,
+   "texto": "as pessoas também não sabem o custo total da epidermólise bolhosa."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.450884,
+   "texto": "A conta é feita de coisas pequenas. Atadura. Gaze. Pomada. E nada disso dura."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 5.679999999999997,
+   "texto": "os custos são muito alto, de cada atadura, de cada gazes."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 4.630703,
+   "texto": "Para essa família, a conta não fecha no fim do mês. Ela só recomeça."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 4.119999999999981,
+   "texto": "é uma luta contínuo, é uma vida, O Pedro luta pela vida,"
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 9.265918000000001,
+   "texto": "Ninguém precisa pagar tudo isso sozinho. A SOS Human Help arrecada doações para os curativos, e dez reais já entram nessa conta."
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "d": 3.08000000000001,
+   "texto": "E se você puder, luta com a gente."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 4.306508,
+   "texto": "Clique em Saiba mais e divida essa conta com ele."
+  }
+ ]
+}

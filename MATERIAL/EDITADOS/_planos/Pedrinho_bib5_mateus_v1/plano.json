@@ -1,0 +1,109 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_2241390946718073.mp4",
+ "estilo": "BIB MATEUS",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21,
+   "linhas": [
+    "Mateus 25:35-40",
+    "ensina que servir aos necessitados",
+    "é servir a Cristo."
+   ],
+   "estilo": "seco",
+   "size": 34,
+   "y": 240,
+   "contorno": 3,
+   "lh": 1.1
+  },
+  {
+   "de": 0,
+   "ate": 21,
+   "linhas": [
+    "5 reais ajudam nos curativos",
+    "do Pedrinho ❤️"
+   ],
+   "estilo": "seco",
+   "size": 34,
+   "y": 1395,
+   "contorno": 3,
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 21
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 2241 - Mateus 25.mp3",
+ "musica_volume": 1.0,
+ "modelo": {
+  "id": "peb213_l1_mateus",
+  "exemplo": "PEB 213",
+  "descricao": "2241390946718073: versiculo pequeno no alto (y 12%) e frase pequena embaixo (y 72%)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2241390946718073",
+  "titulo": "Mateus 25",
+  "variacao": "pedrinho_mateus"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pe_tornozelo.mp4",
+   "ini": 0,
+   "fim": 2.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_peito_bracos.mp4",
+   "ini": 0,
+   "fim": 2.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 6.0,
+   "fim": 8.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152542.mp4",
+   "ini": 3.0,
+   "fim": 5.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_sentado_feridas.mp4",
+   "ini": 0,
+   "fim": 2.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_curativo.mp4",
+   "ini": 0,
+   "fim": 2.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 8.0,
+   "fim": 10.875,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_faixa.mp4",
+   "ini": 0,
+   "fim": 2.875,
+   "som": false
+  }
+ ],
+ "fatos": {
+  "5 reais": "20261102_144645"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 67\\PEB 249 - BIB MATEUS.mp4",
+ "saida_fixa": true
+}

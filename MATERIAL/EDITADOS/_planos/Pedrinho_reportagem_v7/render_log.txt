@@ -1,0 +1,24 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v7.mp4
+narracao OFF3
+  b01: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b01 off 5.15s Há quase quatro anos, uma vaquinha garantiu quase um ano de curativos para o Pedrinho.
+  b02: manchete=ESCONDIDA (rosto) gc=300 legenda=1060 etiqueta=None
+ok b02 sonora 7.20s as pessoas se esqueceram de mim, Até mesmo pessoas que me ajudaram, elas também sumiram
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1080 etiqueta=None
+ok b03 off 6.96s Ele tem epidermólise bolhosa, a doença da pele de borboleta. O curativo é trocado duas vezes por dia.
+  b04: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b04 sonora 3.78s acham já que eu tô bem de ajuda. Só que não é bem assim,
+  b05: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b05 off 3.84s Cada atadura e cada gaze pesam no orçamento da família.
+  b06: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b06 sonora 5.68s os custos são muito alto, de cada atadura, de cada gazes.
+  b07: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1060 etiqueta=None
+ok b07 sonora 4.22s os curativo para os cuidado do Pedrinho são absurdo de caro.
+  b08: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b08 off 5.76s A SOS Human Help está arrecadando doações para o Pedrinho. Dez reais já ajudam.
+  b09: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b09 sonora 5.42s por favor, me ajuda, eu não quero, ter que ficar sem os meus cuidados que eu preciso,
+  b10: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b10 off 5.31s Toque em Saiba mais e mostre ao Pedrinho que ele não foi esquecido.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v7.mp4 duracao=53.3s

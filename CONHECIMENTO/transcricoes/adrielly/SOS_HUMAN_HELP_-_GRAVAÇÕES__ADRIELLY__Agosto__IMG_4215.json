@@ -1,0 +1,310 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Por favor, Jesus, faz um milagre em mim. Eu não estou aguentando mais. Cada dia que passa eu fico ainda mais fraca",
+ "words": [
+  {
+   "text": "Por",
+   "start": 3.14,
+   "end": 3.28,
+   "type": "word",
+   "logprob": -0.00039867559098638594
+  },
+  {
+   "text": " ",
+   "start": 3.28,
+   "end": 3.4,
+   "type": "spacing",
+   "logprob": -6.318072337307967e-06
+  },
+  {
+   "text": "favor,",
+   "start": 3.4,
+   "end": 3.88,
+   "type": "word",
+   "logprob": -0.0006070188079926689
+  },
+  {
+   "text": " ",
+   "start": 3.88,
+   "end": 3.98,
+   "type": "spacing",
+   "logprob": -1.2874520507466514e-05
+  },
+  {
+   "text": "Jesus,",
+   "start": 3.98,
+   "end": 4.7,
+   "type": "word",
+   "logprob": -8.269576831783827e-05
+  },
+  {
+   "text": " ",
+   "start": 4.7,
+   "end": 4.7,
+   "type": "spacing",
+   "logprob": -0.0001282609737245366
+  },
+  {
+   "text": "faz",
+   "start": 5.4,
+   "end": 5.68,
+   "type": "word",
+   "logprob": -0.0001282609737245366
+  },
+  {
+   "text": " ",
+   "start": 5.68,
+   "end": 5.72,
+   "type": "spacing",
+   "logprob": -2.2053474822314456e-05
+  },
+  {
+   "text": "um",
+   "start": 5.72,
+   "end": 5.78,
+   "type": "word",
+   "logprob": -2.2053474822314456e-05
+  },
+  {
+   "text": " ",
+   "start": 5.78,
+   "end": 5.82,
+   "type": "spacing",
+   "logprob": -1.9073304429184645e-05
+  },
+  {
+   "text": "milagre",
+   "start": 5.82,
+   "end": 6.4,
+   "type": "word",
+   "logprob": -9.877260578962574e-06
+  },
+  {
+   "text": " ",
+   "start": 6.4,
+   "end": 6.42,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "em",
+   "start": 6.46,
+   "end": 6.56,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.56,
+   "end": 6.6,
+   "type": "spacing",
+   "logprob": -4.768360213347478e-06
+  },
+  {
+   "text": "mim.",
+   "start": 6.6,
+   "end": 6.86,
+   "type": "word",
+   "logprob": -4.619349283530028e-06
+  },
+  {
+   "text": " ",
+   "start": 6.86,
+   "end": 6.86,
+   "type": "spacing",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": "Eu",
+   "start": 7.6,
+   "end": 7.7,
+   "type": "word",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": " ",
+   "start": 7.7,
+   "end": 7.78,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "não",
+   "start": 7.78,
+   "end": 7.94,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 7.94,
+   "end": 7.98,
+   "type": "spacing",
+   "logprob": -9.775113539944869e-06
+  },
+  {
+   "text": "estou",
+   "start": 7.98,
+   "end": 8.38,
+   "type": "word",
+   "logprob": -9.775113539944869e-06
+  },
+  {
+   "text": " ",
+   "start": 8.38,
+   "end": 8.46,
+   "type": "spacing",
+   "logprob": -1.5616295058862306e-05
+  },
+  {
+   "text": "aguentando",
+   "start": 8.46,
+   "end": 9.04,
+   "type": "word",
+   "logprob": -9.752589866138806e-05
+  },
+  {
+   "text": " ",
+   "start": 9.04,
+   "end": 9.16,
+   "type": "spacing",
+   "logprob": -2.062299427052494e-05
+  },
+  {
+   "text": "mais.",
+   "start": 9.16,
+   "end": 9.7,
+   "type": "word",
+   "logprob": -1.6498395416419954e-05
+  },
+  {
+   "text": " ",
+   "start": 9.7,
+   "end": 9.7,
+   "type": "spacing",
+   "logprob": -0.00015948931104503572
+  },
+  {
+   "text": "Cada",
+   "start": 10.52,
+   "end": 10.82,
+   "type": "word",
+   "logprob": -0.00015948931104503572
+  },
+  {
+   "text": " ",
+   "start": 10.82,
+   "end": 10.9,
+   "type": "spacing",
+   "logprob": -8.106198947643861e-06
+  },
+  {
+   "text": "dia",
+   "start": 10.9,
+   "end": 11.16,
+   "type": "word",
+   "logprob": -8.106198947643861e-06
+  },
+  {
+   "text": " ",
+   "start": 11.16,
+   "end": 11.2,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 11.2,
+   "end": 11.36,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 11.36,
+   "end": 11.42,
+   "type": "spacing",
+   "logprob": -1.6331539882230572e-05
+  },
+  {
+   "text": "passa",
+   "start": 11.42,
+   "end": 11.96,
+   "type": "word",
+   "logprob": -1.6331539882230572e-05
+  },
+  {
+   "text": " ",
+   "start": 11.96,
+   "end": 12.48,
+   "type": "spacing",
+   "logprob": -0.12692931294441223
+  },
+  {
+   "text": "eu",
+   "start": 12.5,
+   "end": 12.6,
+   "type": "word",
+   "logprob": -0.12692931294441223
+  },
+  {
+   "text": " ",
+   "start": 12.6,
+   "end": 12.66,
+   "type": "spacing",
+   "logprob": -1.4781842764932662e-05
+  },
+  {
+   "text": "fico",
+   "start": 12.66,
+   "end": 12.94,
+   "type": "word",
+   "logprob": -1.4781842764932662e-05
+  },
+  {
+   "text": " ",
+   "start": 12.94,
+   "end": 12.98,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "ainda",
+   "start": 12.98,
+   "end": 13.36,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 13.36,
+   "end": 13.42,
+   "type": "spacing",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": "mais",
+   "start": 13.42,
+   "end": 13.7,
+   "type": "word",
+   "logprob": -9.298280929215252e-06
+  },
+  {
+   "text": " ",
+   "start": 13.7,
+   "end": 13.76,
+   "type": "spacing",
+   "logprob": -4.2676016164477915e-05
+  },
+  {
+   "text": "fraca",
+   "start": 13.76,
+   "end": 14.3,
+   "type": "word",
+   "logprob": -2.1004300197091653e-05
+  }
+ ],
+ "transcription_id": "fYzBMPVI4PN9t52Y0bc4",
+ "audio_duration_secs": 18.0666875
+}

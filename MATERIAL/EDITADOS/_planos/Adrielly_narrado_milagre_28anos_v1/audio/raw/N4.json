@@ -1,0 +1,55 @@
+{
+ "text": "Disseram um mês. Já se passaram vinte e oito anos.",
+ "words": [
+  {
+   "text": "Disseram",
+   "start": 0.0,
+   "end": 0.534
+  },
+  {
+   "text": "um",
+   "start": 0.604,
+   "end": 0.685
+  },
+  {
+   "text": "mês.",
+   "start": 0.743,
+   "end": 1.138
+  },
+  {
+   "text": "Já",
+   "start": 1.324,
+   "end": 1.451
+  },
+  {
+   "text": "se",
+   "start": 1.498,
+   "end": 1.544
+  },
+  {
+   "text": "passaram",
+   "start": 1.579,
+   "end": 1.974
+  },
+  {
+   "text": "vinte",
+   "start": 2.032,
+   "end": 2.241
+  },
+  {
+   "text": "e",
+   "start": 2.264,
+   "end": 2.287
+  },
+  {
+   "text": "oito",
+   "start": 2.322,
+   "end": 2.589
+  },
+  {
+   "text": "anos.",
+   "start": 2.647,
+   "end": 3.297
+  }
+ ]
+}

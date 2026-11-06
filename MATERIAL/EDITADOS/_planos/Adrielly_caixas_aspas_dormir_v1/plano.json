@@ -1,0 +1,193 @@
+{
+ "nome": "Adrielly_caixas_aspas_v1",
+ "gancho": "ref 2: pergunta/entrevista ('Adrielly, você consegue dormir bem?') com a citação em aspas",
+ "angulo": "as noites sem dormir",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "não dorme bem, madrugadas acordada com crises": "IMG_5451 (0-18 s)",
+  "noites em claro, dor de um lado e do outro": "IMG_3718 (7-17 s)",
+  "não consegue pagar o tratamento sozinha": "IMG_6218",
+  "curativos aliviam as crises": "IMG_4484",
+  "cinco ou dez reais": "IMG_4503 (8-16 s)"
+ },
+ "modelo": "skill caixas (exemplo Pedrinho_vsl_voz_v7/v8), material da Adrielly",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5451.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5451.json",
+   "cortes": [
+    [
+     0.3,
+     3.16
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5451.MOV",
+     0.24
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "DORMIR É DESCANSAR.",
+    "PARA A ADRIELLY, É UMA LUTA",
+    "TODAS AS NOITES."
+   ]
+  },
+  {
+   "nome": "h2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5451.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5451.json",
+   "cortes": [
+    [
+     4.26,
+     5.42
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5451.MOV",
+     4.2
+    ]
+   ],
+   "sem_caixas": true,
+   "sem_legenda": true,
+   "aspas_ref": [
+    "PARA MUITOS,",
+    "DORMIR É DESCANSAR.",
+    "PARA A ADRIELLY, É UMA LUTA",
+    "TODAS AS NOITES."
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5451.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5451.json",
+   "cortes": [
+    [
+     6.58,
+     7.22
+    ],
+    [
+     8.38,
+     10.02
+    ],
+    [
+     11.32,
+     12.5
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (6).mp4",
+     3.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_infusao_cama.mp4",
+     0.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     20.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3718.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3718.json",
+   "cortes": [
+    [
+     7.26,
+     10.76
+    ],
+    [
+     11.66,
+     16.22
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3718.MOV",
+     7.2
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3718.MOV",
+     10.5
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_clipes_adrielly/adrielly_costas_faixas.mp4",
+     0.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36.mp4",
+     5.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (2).mp4",
+     8.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_6218.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_6218.json",
+   "cortes": [
+    [
+     0.4,
+     3.2
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_6218.MOV",
+     0.34
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_4503.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_4503.json",
+   "cortes": [
+    [
+     8.06,
+     15.6
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo allevyn life 10x10cm.jpeg",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "ADRIELLY TEM EPIDERMÓLISE BOLHOSA E PASSA",
+   "AS MADRUGADAS ACORDADA COM DOR"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "DEIXAM ADRIELLY MAIS PERTO DOS",
+   "CURATIVOS QUE ALIVIAM AS CRISES"
+  ],
+  "valor_y": 1300,
+  "cor_caixa": [
+   200,
+   16,
+   28
+  ],
+  "cor_texto": [
+   235,
+   40,
+   40
+  ]
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 43\\AEB 45 - CAIXAS ASPAS.mp4"
+}

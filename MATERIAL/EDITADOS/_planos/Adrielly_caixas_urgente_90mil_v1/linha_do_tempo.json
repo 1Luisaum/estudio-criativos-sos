@@ -1,0 +1,35 @@
+{
+ "total": 37.02550000000001,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.4545,
+   "texto": "Os curativos da Adrielly custam noventa mil reais."
+  },
+  {
+   "nome": "c1",
+   "d": 10.511000000000006,
+   "texto": "Os meus curativos, são curativos especiais para minha pele, e são curativos extremamente caros."
+  },
+  {
+   "nome": "c2",
+   "d": 5.249999999999999,
+   "texto": "Esse material não é algo que eu compro uma vez e pronto"
+  },
+  {
+   "nome": "c3",
+   "d": 3.3300000000000005,
+   "texto": "Eu uso, acaba e preciso de outro"
+  },
+  {
+   "nome": "c4",
+   "d": 5.409999999999999,
+   "texto": "Meu tratamento é caro, mas ficar sem ele custa minha vida"
+  },
+  {
+   "nome": "c5",
+   "d": 9.069999999999999,
+   "texto": "Por favor, me ajuda com R$ 5 ou R$ 10 pra eu conseguir meus curativos."
+  }
+ ]
+}

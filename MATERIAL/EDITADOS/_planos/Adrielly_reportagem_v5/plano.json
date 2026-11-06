@@ -1,0 +1,117 @@
+{
+ "nome": "Adrielly_reportagem_v5",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reportagem, conta paga)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "JOVEM DE 28 ANOS SÓ COME",
+  "COMIDA LÍQUIDA E COADA"
+ ],
+ "etiqueta": "R$ 10 já ajudam a Adrielly ❤️",
+ "etiqueta_final": "👇 Clique em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Vinte e oito anos. E a comida da Adrielly ainda precisa ser coada.",
+  "OFF2": "Ela tem epidermólise bolhosa, a doença da pele de borboleta. As bolhas aparecem também na boca e no esôfago.",
+  "OFF4": "A pele dela também precisa de curativos caros todos os dias. A SOS Human Help está arrecadando. Com dez reais, você já ajuda.",
+  "OFF5": "Clique em Saiba mais e veja como ajudar a Adrielly."
+ },
+ "fatos": {
+  "estreitamento no esofago, comida liquida/triturada/coada": "Adrielly, IMG_3707 (62.8-79.3) e IMG_5780",
+  "bolhas na boca e no esofago": "PDF Quadro clinico do banco",
+  "dilatacao por endoscopia sem resultado": "Adrielly, IMG_4490",
+  "milkshake de morango / vontade de sanduiche, pizza, arroz, feijao e carne": "Adrielly, IMG_5780",
+  "curativos caros todos os dias": "Adrielly, IMG_5676 / IMG_5185",
+  "R$ 10": "Adrielly, IMG_3676"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_9230_pb.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3707.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3707.json",
+   "cortes": [
+    [
+     62.76,
+     64.34
+    ],
+    [
+     66.4,
+     68.6
+    ]
+   ],
+   "gc": [
+    "ADRIELLY, 28 ANOS",
+    "tem estreitamento no esôfago"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 3 (5).mp4",
+     2.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     4.0
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5780.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5780.json",
+   "cortes": [
+    [
+     25.08,
+     30.42
+    ],
+    [
+     34.76,
+     34.76
+    ],
+    [
+     35.98,
+     35.98
+    ],
+    [
+     37.26,
+     37.6
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF4",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png",
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/ADERIELLY CRIANÇA.png",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "teste": "AEB 39 mais curto (61 s -> ~35 s) com gancho novo (pedido do usuário, 29/10/2026)",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 49\\AEB 74 - REPORTAGEM.mp4"
+}

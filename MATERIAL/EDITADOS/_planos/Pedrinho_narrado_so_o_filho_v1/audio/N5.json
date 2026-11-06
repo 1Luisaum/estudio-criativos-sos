@@ -1,0 +1,90 @@
+{
+ "text": "Lá fora, ele pode ter o nome que for. Para ela, sempre vai ser o menino dela.",
+ "words": [
+  {
+   "text": "Lá",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "fora,",
+   "start": 0.232,
+   "end": 0.708
+  },
+  {
+   "text": "ele",
+   "start": 0.737,
+   "end": 0.895
+  },
+  {
+   "text": "pode",
+   "start": 0.942,
+   "end": 1.116
+  },
+  {
+   "text": "ter",
+   "start": 1.139,
+   "end": 1.232
+  },
+  {
+   "text": "o",
+   "start": 1.255,
+   "end": 1.305
+  },
+  {
+   "text": "nome",
+   "start": 1.36,
+   "end": 1.569
+  },
+  {
+   "text": "que",
+   "start": 1.615,
+   "end": 1.696
+  },
+  {
+   "text": "for.",
+   "start": 1.766,
+   "end": 2.05
+  },
+  {
+   "text": "Para",
+   "start": 2.05,
+   "end": 2.249
+  },
+  {
+   "text": "ela,",
+   "start": 2.342,
+   "end": 2.691
+  },
+  {
+   "text": "sempre",
+   "start": 2.726,
+   "end": 3.027
+  },
+  {
+   "text": "vai",
+   "start": 3.062,
+   "end": 3.167
+  },
+  {
+   "text": "ser",
+   "start": 3.213,
+   "end": 3.445
+  },
+  {
+   "text": "o",
+   "start": 3.503,
+   "end": 3.553
+  },
+  {
+   "text": "menino",
+   "start": 3.608,
+   "end": 3.921
+  },
+  {
+   "text": "dela.",
+   "start": 3.979,
+   "end": 4.323
+  }
+ ]
+}

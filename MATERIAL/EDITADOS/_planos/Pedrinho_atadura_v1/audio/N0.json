@@ -1,0 +1,35 @@
+{
+ "text": "Isso pode parecer uma simples atadura.",
+ "words": [
+  {
+   "text": "Isso",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "pode",
+   "start": 0.209,
+   "end": 0.383
+  },
+  {
+   "text": "parecer",
+   "start": 0.406,
+   "end": 0.743
+  },
+  {
+   "text": "uma",
+   "start": 0.778,
+   "end": 0.894
+  },
+  {
+   "text": "simples",
+   "start": 0.94,
+   "end": 1.231
+  },
+  {
+   "text": "atadura.",
+   "start": 1.289,
+   "end": 1.774
+  }
+ ]
+}

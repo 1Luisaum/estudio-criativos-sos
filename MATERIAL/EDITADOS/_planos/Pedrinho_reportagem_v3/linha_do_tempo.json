@@ -1,0 +1,59 @@
+{
+ "total": 48.089408000000006,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 3.7077999999999998,
+   "texto": "O Pedrinho só tem os curativos que cabem nas mãos dele."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 3.8989999999999974,
+   "texto": "Os meus curativos estão acabando e eu tô com medo,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.18839,
+   "texto": "Ele tem epidermólise bolhosa. A pele dele precisa de curativo todos os dias."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 6.780000000000004,
+   "texto": "porque as coisas deles estão acabando. Pedrinho tá precisando de atadura, precisando de pomada."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 6.193311,
+   "texto": "Gaze, atadura, pomada e soro. Os cuidados com a pele dele passam de quarenta mil reais por mês."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 6.180000000000002,
+   "texto": "porque se acabar tudo, eu e minha mamãe não sabe o que que a gente, vai fazer."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 7.620907,
+   "texto": "A SOS Human Help está arrecadando doações para repor os curativos do Pedrinho. Dez reais já fazem diferença."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 3.660000000000001,
+   "texto": "e desde já, minha eterna gratidão mesmo."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 4.859999999999999,
+   "texto": "Toque em Saiba mais e ajude a repor os curativos do Pedrinho."
+  }
+ ]
+}

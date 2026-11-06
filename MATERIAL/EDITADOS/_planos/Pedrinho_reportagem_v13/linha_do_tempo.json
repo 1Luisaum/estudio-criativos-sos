@@ -1,0 +1,65 @@
+{
+ "total": 59.786531000000025,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 2.6639909999999998,
+   "texto": "Antes de pedir ajuda, ela pediu perdão."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 4.84,
+   "texto": "Pessoal, peço perdão por vim aqui novamente, pedir ajuda pro meu guerreiro."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 8.61542,
+   "texto": "O filho dela, o Pedrinho, tem epidermólise bolhosa. A pele forma bolhas de sangue e de água, e precisa de curativo todos os dias."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 9.800000000000006,
+   "texto": "é algo que compra, a gente usa curativo e logo depois acaba rapidamente, logo em seguida eu preciso novamente."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.0282089999999995,
+   "texto": "Quando o material acaba, pedir de novo é o único caminho que resta para a família."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 7.220000000000007,
+   "texto": "se, não ter os curativos, os cuidados necessários, é a única coisa que a gente, pode tá fazendo."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 4.620000000000005,
+   "texto": "Pedrinho tá precisando de atadura, precisando de pomada."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 7.907596,
+   "texto": "A SOS Human Help arrecada doações para os curativos do Pedrinho. Dez reais já ajudam a comprar atadura e pomada."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 3.140000000000005,
+   "texto": "Então, pessoal, eu peço a sua ajuda."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 5.951314999999999,
+   "texto": "Toque em Saiba mais. Nenhuma mãe deveria pedir perdão por cuidar do próprio filho."
+  }
+ ]
+}

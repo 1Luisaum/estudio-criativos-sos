@@ -1,0 +1,218 @@
+{
+ "nome": "Pedrinho_vsl_voz_v6",
+ "gancho": "ref 1: a crianca pede tempo para a camera",
+ "chamada": [
+  "PEDRINHO TEM EPIDERMÓLISE",
+  "BOLHOSA E PRECISA DE",
+  "CURATIVOS TODOS OS DIAS"
+ ],
+ "lettering": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/lettings/Imagem do ChatGPT 26 de out. de 2026, 17_46_04.png",
+ "lettering_texto": "R$ 10,00 PODEM AJUDAR NO CUIDADO DO PEDRINHO",
+ "lettering_largura": 640,
+ "lettering_y": 1330,
+ "palavras_chave": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "DOR",
+  "MEDO",
+  "ACABANDO",
+  "DEZ",
+  "ANJO",
+  "EPIDERMÓLISE"
+ ],
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.09,
+ "zonas_protegidas": [
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "inicio": 31.0,
+   "caixa": [
+    30,
+    430,
+    400,
+    830
+   ],
+   "quem": "cabeça do Pedrinho de lado"
+  }
+ ],
+ "fatos": {
+  "EB e curativos todo dia": "Pedrinho, banco Roteiro 7 (1-12 s) e 20260917_001530",
+  "curativos acabando, medo, seja um anjo": "Pedrinho, Roteiro_ os meus curativos...",
+  "quatro, cinco, dez reais": "Pedrinho, Roteiro_ peço perdão... (63-74 s)"
+ },
+ "modelo": "copia da edicao das referencias Causas do Bem (Kaue), a pedido do usuario em 26/10/2026: sem seguir skills",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_vsl_voz_v6/tx/v4_curativos_acabando.json",
+   "cortes": [
+    [
+     0.48,
+     2.7
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+     0.42
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "OS MEUS CURATIVOS ESTÃO ACABANDO",
+    "E EU TÔ COM MEDO"
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_vsl_voz_v6/tx/roteiro7.json",
+   "cortes": [
+    [
+     1.18,
+     2.3
+    ],
+    [
+     3.3,
+     5.04
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     31.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     10.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_vsl_voz_v6/tx/roteiro7.json",
+   "cortes": [
+    [
+     6.2,
+     7.14
+    ],
+    [
+     8.02,
+     8.86
+    ],
+    [
+     10.04,
+     11.94
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     205.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     232.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     262.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_vsl_voz_v6/tx/v4_curativos_acabando.json",
+   "cortes": [
+    [
+     4.32,
+     7.82
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+     4.26
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_vsl_voz_v6/tx/t_peco_perdao.json",
+   "cortes": [
+    [
+     63.0,
+     65.54
+    ],
+    [
+     66.36,
+     66.92
+    ],
+    [
+     67.72,
+     67.72
+    ],
+    [
+     69.44,
+     69.72
+    ],
+    [
+     71.56,
+     74.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     60.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     290.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     88.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     20.0
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_vsl_voz_v6/tx/v4_curativos_acabando.json",
+   "cortes": [
+    [
+     18.88,
+     20.26
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/IMG-20260624-WA0043.jpg",
+   "final": true
+  }
+ ],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\VSL COM VOZ DA CRIANÇA\\LEVA 02\\Pedrinho_vsl_voz_v6.mp4",
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS PARA ALIVIAR AS DORES"
+  ],
+  "topo_y": 240,
+  "valor": "R$10,00",
+  "valor_linhas": [
+   "DEIXAM PEDRINHO MAIS PERTO DE COMPRAR",
+   "OS CURATIVOS PARA ALIVIAR AS DORES"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true
+}

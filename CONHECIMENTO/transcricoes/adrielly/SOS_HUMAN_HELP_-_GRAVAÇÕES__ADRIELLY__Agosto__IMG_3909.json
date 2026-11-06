@@ -1,0 +1,940 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Quais os remédios você precisa tomar e em quais dosagem? Pomada sulfatiazina de prata. Eu uso ela todos os dias nos curativos. Ferro Purum, eu uso para minha anemia quando a minha hemoglobina tá baixa, ou seja, uma vez na semana durante dois mês. Gutalax, eu uso para o meu intestino que é preso. Toragesic, em crises de dor. Amoxicilina, quando alguma lesão está em infecção. [ruído]",
+ "words": [
+  {
+   "text": "Quais",
+   "start": 0.34,
+   "end": 0.72,
+   "type": "word",
+   "logprob": -0.0002769704674960849
+  },
+  {
+   "text": " ",
+   "start": 0.72,
+   "end": 0.78,
+   "type": "spacing",
+   "logprob": -4.172316494077677e-06
+  },
+  {
+   "text": "os",
+   "start": 0.78,
+   "end": 0.92,
+   "type": "word",
+   "logprob": -4.172316494077677e-06
+  },
+  {
+   "text": " ",
+   "start": 0.92,
+   "end": 0.96,
+   "type": "spacing",
+   "logprob": -4.935142715112306e-05
+  },
+  {
+   "text": "remédios",
+   "start": 0.96,
+   "end": 1.8,
+   "type": "word",
+   "logprob": -3.6611347013604245e-05
+  },
+  {
+   "text": " ",
+   "start": 1.8,
+   "end": 2.06,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "você",
+   "start": 2.06,
+   "end": 2.5,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 2.5,
+   "end": 2.52,
+   "type": "spacing",
+   "logprob": -1.3112935448589269e-05
+  },
+  {
+   "text": "precisa",
+   "start": 2.52,
+   "end": 3.08,
+   "type": "word",
+   "logprob": -1.3112935448589269e-05
+  },
+  {
+   "text": " ",
+   "start": 3.08,
+   "end": 3.12,
+   "type": "spacing",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "tomar",
+   "start": 3.12,
+   "end": 3.54,
+   "type": "word",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": " ",
+   "start": 3.54,
+   "end": 3.54,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "e",
+   "start": 4.14,
+   "end": 4.22,
+   "type": "word",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": " ",
+   "start": 4.22,
+   "end": 4.24,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "em",
+   "start": 4.24,
+   "end": 4.42,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 4.42,
+   "end": 4.5,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "quais",
+   "start": 4.5,
+   "end": 4.84,
+   "type": "word",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": " ",
+   "start": 4.84,
+   "end": 4.86,
+   "type": "spacing",
+   "logprob": -0.00034171465085819364
+  },
+  {
+   "text": "dosagem?",
+   "start": 4.86,
+   "end": 5.64,
+   "type": "word",
+   "logprob": -0.00444009200725759
+  },
+  {
+   "text": " ",
+   "start": 5.64,
+   "end": 5.64,
+   "type": "spacing",
+   "logprob": -0.0009002208826132119
+  },
+  {
+   "text": "Pomada",
+   "start": 6.3,
+   "end": 6.82,
+   "type": "word",
+   "logprob": -0.0004533886860826897
+  },
+  {
+   "text": " ",
+   "start": 6.82,
+   "end": 6.94,
+   "type": "spacing",
+   "logprob": -0.23878632485866547
+  },
+  {
+   "text": "sulfatiazina",
+   "start": 6.94,
+   "end": 7.94,
+   "type": "word",
+   "logprob": -0.3202446744059368
+  },
+  {
+   "text": " ",
+   "start": 7.94,
+   "end": 8.0,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 8.0,
+   "end": 8.08,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 8.08,
+   "end": 8.18,
+   "type": "spacing",
+   "logprob": -4.2199197196168825e-05
+  },
+  {
+   "text": "prata.",
+   "start": 8.18,
+   "end": 8.74,
+   "type": "word",
+   "logprob": -0.0004494988770602504
+  },
+  {
+   "text": " ",
+   "start": 8.74,
+   "end": 9.34,
+   "type": "spacing",
+   "logprob": -1.168244216387393e-05
+  },
+  {
+   "text": "Eu",
+   "start": 9.34,
+   "end": 9.48,
+   "type": "word",
+   "logprob": -1.168244216387393e-05
+  },
+  {
+   "text": " ",
+   "start": 9.48,
+   "end": 9.56,
+   "type": "spacing",
+   "logprob": -6.437280717364047e-06
+  },
+  {
+   "text": "uso",
+   "start": 9.56,
+   "end": 9.82,
+   "type": "word",
+   "logprob": -6.437280717364047e-06
+  },
+  {
+   "text": " ",
+   "start": 9.82,
+   "end": 9.9,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "ela",
+   "start": 10.0,
+   "end": 10.24,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 10.24,
+   "end": 10.3,
+   "type": "spacing",
+   "logprob": -3.766942609217949e-05
+  },
+  {
+   "text": "todos",
+   "start": 10.3,
+   "end": 10.7,
+   "type": "word",
+   "logprob": -3.766942609217949e-05
+  },
+  {
+   "text": " ",
+   "start": 10.7,
+   "end": 10.74,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "os",
+   "start": 10.74,
+   "end": 10.92,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 10.92,
+   "end": 10.96,
+   "type": "spacing",
+   "logprob": -5.2689116273541003e-05
+  },
+  {
+   "text": "dias",
+   "start": 10.96,
+   "end": 11.42,
+   "type": "word",
+   "logprob": -5.2689116273541003e-05
+  },
+  {
+   "text": " ",
+   "start": 11.42,
+   "end": 11.74,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "nos",
+   "start": 11.74,
+   "end": 11.9,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 11.9,
+   "end": 12.0,
+   "type": "spacing",
+   "logprob": -9.417489309271332e-06
+  },
+  {
+   "text": "curativos.",
+   "start": 12.0,
+   "end": 12.96,
+   "type": "word",
+   "logprob": -1.0657246360779026e-05
+  },
+  {
+   "text": " ",
+   "start": 12.96,
+   "end": 12.96,
+   "type": "spacing",
+   "logprob": -0.0003960540343541652
+  },
+  {
+   "text": "Ferro",
+   "start": 13.7,
+   "end": 14.06,
+   "type": "word",
+   "logprob": -0.0003960540343541652
+  },
+  {
+   "text": " ",
+   "start": 14.06,
+   "end": 14.22,
+   "type": "spacing",
+   "logprob": -0.32340091466903687
+  },
+  {
+   "text": "Purum,",
+   "start": 14.22,
+   "end": 14.68,
+   "type": "word",
+   "logprob": -0.20481207858150205
+  },
+  {
+   "text": " ",
+   "start": 14.68,
+   "end": 15.34,
+   "type": "spacing",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": "eu",
+   "start": 15.4,
+   "end": 15.54,
+   "type": "word",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": " ",
+   "start": 15.54,
+   "end": 15.66,
+   "type": "spacing",
+   "logprob": -8.940656698541716e-06
+  },
+  {
+   "text": "uso",
+   "start": 15.66,
+   "end": 15.96,
+   "type": "word",
+   "logprob": -8.940656698541716e-06
+  },
+  {
+   "text": " ",
+   "start": 15.96,
+   "end": 16.059,
+   "type": "spacing",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": "para",
+   "start": 16.059,
+   "end": 16.28,
+   "type": "word",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": " ",
+   "start": 16.28,
+   "end": 16.42,
+   "type": "spacing",
+   "logprob": -0.06197232007980347
+  },
+  {
+   "text": "minha",
+   "start": 16.42,
+   "end": 16.58,
+   "type": "word",
+   "logprob": -0.06197232007980347
+  },
+  {
+   "text": " ",
+   "start": 16.58,
+   "end": 16.6,
+   "type": "spacing",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": "anemia",
+   "start": 16.6,
+   "end": 17.18,
+   "type": "word",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": " ",
+   "start": 17.18,
+   "end": 17.72,
+   "type": "spacing",
+   "logprob": -0.023310085758566856
+  },
+  {
+   "text": "quando",
+   "start": 17.72,
+   "end": 17.94,
+   "type": "word",
+   "logprob": -0.023310085758566856
+  },
+  {
+   "text": " ",
+   "start": 17.94,
+   "end": 17.98,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "a",
+   "start": 17.98,
+   "end": 18.02,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 18.02,
+   "end": 18.12,
+   "type": "spacing",
+   "logprob": -2.1576648578047752e-05
+  },
+  {
+   "text": "minha",
+   "start": 18.12,
+   "end": 18.28,
+   "type": "word",
+   "logprob": -2.1576648578047752e-05
+  },
+  {
+   "text": " ",
+   "start": 18.28,
+   "end": 18.3,
+   "type": "spacing",
+   "logprob": -0.020692424848675728
+  },
+  {
+   "text": "hemoglobina",
+   "start": 18.3,
+   "end": 19.14,
+   "type": "word",
+   "logprob": -0.005783838831090096
+  },
+  {
+   "text": " ",
+   "start": 19.14,
+   "end": 19.24,
+   "type": "spacing",
+   "logprob": -0.0008071978809311986
+  },
+  {
+   "text": "tá",
+   "start": 19.24,
+   "end": 19.4,
+   "type": "word",
+   "logprob": -0.0008071978809311986
+  },
+  {
+   "text": " ",
+   "start": 19.4,
+   "end": 19.46,
+   "type": "spacing",
+   "logprob": -2.706014311115723e-05
+  },
+  {
+   "text": "baixa,",
+   "start": 19.46,
+   "end": 19.88,
+   "type": "word",
+   "logprob": -2.2569987473038584e-05
+  },
+  {
+   "text": " ",
+   "start": 19.88,
+   "end": 20.52,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "ou",
+   "start": 20.52,
+   "end": 20.62,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 20.62,
+   "end": 20.74,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "seja,",
+   "start": 20.74,
+   "end": 21.12,
+   "type": "word",
+   "logprob": -2.2172896919414597e-06
+  },
+  {
+   "text": " ",
+   "start": 21.12,
+   "end": 21.38,
+   "type": "spacing",
+   "logprob": -1.5139465176616795e-05
+  },
+  {
+   "text": "uma",
+   "start": 21.38,
+   "end": 21.66,
+   "type": "word",
+   "logprob": -1.5139465176616795e-05
+  },
+  {
+   "text": " ",
+   "start": 21.66,
+   "end": 21.7,
+   "type": "spacing",
+   "logprob": -8.22540732769994e-06
+  },
+  {
+   "text": "vez",
+   "start": 21.7,
+   "end": 21.98,
+   "type": "word",
+   "logprob": -8.22540732769994e-06
+  },
+  {
+   "text": " ",
+   "start": 21.98,
+   "end": 22.02,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "na",
+   "start": 22.02,
+   "end": 22.14,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 22.14,
+   "end": 22.2,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "semana",
+   "start": 22.2,
+   "end": 22.74,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 22.74,
+   "end": 23.36,
+   "type": "spacing",
+   "logprob": -0.3868981599807739
+  },
+  {
+   "text": "durante",
+   "start": 23.36,
+   "end": 24.06,
+   "type": "word",
+   "logprob": -0.3868981599807739
+  },
+  {
+   "text": " ",
+   "start": 24.06,
+   "end": 24.4,
+   "type": "spacing",
+   "logprob": -2.3245540432981215e-05
+  },
+  {
+   "text": "dois",
+   "start": 24.4,
+   "end": 24.68,
+   "type": "word",
+   "logprob": -2.3245540432981215e-05
+  },
+  {
+   "text": " ",
+   "start": 24.68,
+   "end": 24.78,
+   "type": "spacing",
+   "logprob": -0.002234345069155097
+  },
+  {
+   "text": "mês.",
+   "start": 24.78,
+   "end": 25.28,
+   "type": "word",
+   "logprob": -0.001676295243100867
+  },
+  {
+   "text": " ",
+   "start": 25.28,
+   "end": 25.3,
+   "type": "spacing",
+   "logprob": -0.07035220414400101
+  },
+  {
+   "text": "Gutalax,",
+   "start": 26.4,
+   "end": 27.36,
+   "type": "word",
+   "logprob": -0.31823337987589184
+  },
+  {
+   "text": " ",
+   "start": 27.36,
+   "end": 27.74,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "eu",
+   "start": 27.76,
+   "end": 27.94,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 27.94,
+   "end": 28.04,
+   "type": "spacing",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": "uso",
+   "start": 28.04,
+   "end": 28.4,
+   "type": "word",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": " ",
+   "start": 28.4,
+   "end": 29.0,
+   "type": "spacing",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": "para",
+   "start": 29.0,
+   "end": 29.2,
+   "type": "word",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": " ",
+   "start": 29.2,
+   "end": 29.24,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "o",
+   "start": 29.24,
+   "end": 29.3,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 29.3,
+   "end": 29.34,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "meu",
+   "start": 29.34,
+   "end": 29.52,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 29.52,
+   "end": 29.54,
+   "type": "spacing",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": "intestino",
+   "start": 29.54,
+   "end": 30.26,
+   "type": "word",
+   "logprob": -9.536697689327411e-06
+  },
+  {
+   "text": " ",
+   "start": 30.26,
+   "end": 30.4,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "que",
+   "start": 30.4,
+   "end": 30.52,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 30.52,
+   "end": 30.58,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "é",
+   "start": 30.58,
+   "end": 30.66,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 30.66,
+   "end": 30.78,
+   "type": "spacing",
+   "logprob": -0.0001370812824461609
+  },
+  {
+   "text": "preso.",
+   "start": 30.78,
+   "end": 31.32,
+   "type": "word",
+   "logprob": -0.00011425427025220831
+  },
+  {
+   "text": " ",
+   "start": 31.32,
+   "end": 32.1,
+   "type": "spacing",
+   "logprob": -0.005435450002551079
+  },
+  {
+   "text": "Toragesic,",
+   "start": 32.1,
+   "end": 33.1,
+   "type": "word",
+   "logprob": -0.0018027022160822526
+  },
+  {
+   "text": " ",
+   "start": 33.1,
+   "end": 33.66,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "em",
+   "start": 33.66,
+   "end": 33.82,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 33.82,
+   "end": 33.9,
+   "type": "spacing",
+   "logprob": -0.001675750594586134
+  },
+  {
+   "text": "crises",
+   "start": 33.9,
+   "end": 34.58,
+   "type": "word",
+   "logprob": -0.001675750594586134
+  },
+  {
+   "text": " ",
+   "start": 34.58,
+   "end": 34.84,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 34.84,
+   "end": 34.94,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 34.94,
+   "end": 35.04,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "dor.",
+   "start": 35.04,
+   "end": 35.44,
+   "type": "word",
+   "logprob": -1.6391260242443195e-06
+  },
+  {
+   "text": " ",
+   "start": 35.44,
+   "end": 36.04,
+   "type": "spacing",
+   "logprob": -4.768258077092469e-05
+  },
+  {
+   "text": "Amoxicilina,",
+   "start": 36.1,
+   "end": 37.26,
+   "type": "word",
+   "logprob": -0.025134134770875487
+  },
+  {
+   "text": " ",
+   "start": 37.26,
+   "end": 37.84,
+   "type": "spacing",
+   "logprob": -5.006664650863968e-05
+  },
+  {
+   "text": "quando",
+   "start": 37.84,
+   "end": 38.1,
+   "type": "word",
+   "logprob": -5.006664650863968e-05
+  },
+  {
+   "text": " ",
+   "start": 38.1,
+   "end": 38.16,
+   "type": "spacing",
+   "logprob": -8.83301836438477e-05
+  },
+  {
+   "text": "alguma",
+   "start": 38.16,
+   "end": 38.56,
+   "type": "word",
+   "logprob": -8.83301836438477e-05
+  },
+  {
+   "text": " ",
+   "start": 38.56,
+   "end": 38.62,
+   "type": "spacing",
+   "logprob": -3.8980677345534787e-05
+  },
+  {
+   "text": "lesão",
+   "start": 38.62,
+   "end": 39.26,
+   "type": "word",
+   "logprob": -2.3674508611293277e-05
+  },
+  {
+   "text": " ",
+   "start": 39.26,
+   "end": 39.56,
+   "type": "spacing",
+   "logprob": -1.2278481335670222e-05
+  },
+  {
+   "text": "está",
+   "start": 39.56,
+   "end": 40.02,
+   "type": "word",
+   "logprob": -1.2278481335670222e-05
+  },
+  {
+   "text": " ",
+   "start": 40.02,
+   "end": 40.04,
+   "type": "spacing",
+   "logprob": -0.4375779628753662
+  },
+  {
+   "text": "em",
+   "start": 40.04,
+   "end": 40.12,
+   "type": "word",
+   "logprob": -0.4375779628753662
+  },
+  {
+   "text": " ",
+   "start": 40.12,
+   "end": 40.2,
+   "type": "spacing",
+   "logprob": -0.01631668023765087
+  },
+  {
+   "text": "infecção.",
+   "start": 40.2,
+   "end": 41.02,
+   "type": "word",
+   "logprob": -0.008111238520036245
+  },
+  {
+   "text": " ",
+   "start": 41.02,
+   "end": 41.1,
+   "type": "spacing",
+   "logprob": -0.16056589782238007
+  },
+  {
+   "text": "[ruído]",
+   "start": 41.1,
+   "end": 43.66,
+   "type": "audio_event",
+   "logprob": -0.1421417927032356
+  }
+ ],
+ "transcription_id": "CgWDhiMeEfHCn1KSyIsc",
+ "audio_duration_secs": 43.9366875
+}

@@ -1,0 +1,198 @@
+{
+ "nome": "Pedrinho_reportagem_v12",
+ "pedido": "lote 30 videos 27/10/2026 - frente B",
+ "angulo": "a faixa e o escudo dele: protege a ferida de mosquito e poeira e o faz se sentir seguro",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (brasileiro), conta paga"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "manchete": [
+  "PARA MENINO COM EB, A FAIXA",
+  "PROTEGE DE MOSQUITO E POEIRA"
+ ],
+ "etiqueta": "R$ 10 protege o Pedrinho ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Para o Pedrinho, a faixa é o que fica entre a ferida, o mosquito e a poeira.",
+  "OFF2": "A doença dele é a epidermólise bolhosa. Na pele, surgem bolhas de sangue e de água todos os dias.",
+  "OFF3": "Sem a faixa, a ferida fica exposta. Com ela, ele conta que se sente bem mais seguro.",
+  "OFF4": "A SOS Human Help reúne doações para as faixas, gazes e pomadas do Pedrinho. Dez reais ajudam a manter essa proteção.",
+  "OFF5": "Toque em Saiba mais e ajude a manter o Pedrinho protegido."
+ },
+ "fatos": {
+  "curativo pra aliviar as dores, proteger de mosquito e poeira, me sentir mais protegido, estao acabando": "Pedrinho, 20260917_000819.mp4 (16.5-31 s)",
+  "bolhas de sangue e de agua a cada dia": "Pedrinho, 20260916_234157.mp4 (40-44.7 s)",
+  "nao quero ficar sem curativos, gazes, atadura e sentir mais dor": "Pedrinho, roteiro 7.mp4 (119-131 s)",
+  "me sinto bem mais seguro": "Pedrinho, Um Video Novo pra campanha (174-179 s)",
+  "seja comigo nessa caminhada; meu muito obrigado": "Pedrinho, 20260917_000819.mp4 (65-71.7 s)",
+  "R$10": "padrao dos pedidos (brief do lote)",
+  "e uma vida; o Pedro luta pela vida": "mae, banco Roteiro 2.mp4 (80.9-84.6 s)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240514_210632.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     16.56,
+     16.72
+    ],
+    [
+     18.2,
+     18.42
+    ],
+    [
+     19.76,
+     25.42
+    ],
+    [
+     26.46,
+     27.8
+    ],
+    [
+     29.86,
+     30.64
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     120.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro7b.json",
+   "cortes": [
+    [
+     119.48,
+     120.28
+    ],
+    [
+     120.6,
+     120.88
+    ],
+    [
+     121.9,
+     122.7
+    ],
+    [
+     123.2,
+     124.48
+    ],
+    [
+     125.12,
+     127.78
+    ],
+    [
+     129.7,
+     131.06
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+     100.0
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cortes": [
+    [
+     80.9,
+     81.2
+    ],
+    [
+     83.04,
+     84.4
+    ]
+   ],
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos do filho"
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+     2.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     65.82,
+     66.0
+    ],
+    [
+     67.22,
+     68.02
+    ],
+    [
+     68.98,
+     69.28
+    ],
+    [
+     70.8,
+     71.26
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241108_111235(0).jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 32\\PEB 134 - REPORTAGEM.mp4",
+ "obs": "1a montagem usou a mae do 'absurdo de caro' (54 s): a legenda caiu no queixo dela (o rosto fica baixo no quadro); trocada pela fala do Roteiro 2"
+}

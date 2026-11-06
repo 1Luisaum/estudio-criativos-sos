@@ -1,0 +1,35 @@
+{
+ "total": 38.3600000000001,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.690000000000008,
+   "texto": "nos dia difícil, eu continuo sempre lutando,"
+  },
+  {
+   "nome": "c1",
+   "d": 4.9500000000000055,
+   "texto": "vamo comigo, galera, nessa batalha, entre junto nessa corrente do bem."
+  },
+  {
+   "nome": "c2",
+   "d": 5.530000000000002,
+   "texto": "Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando,"
+  },
+  {
+   "nome": "c3",
+   "d": 9.570000000000089,
+   "texto": "cada um ajuda como pode, pra não deixar faltar nada pra mim, os itens de curativo, e assim a gente vai ir caminhando e vai vencendo essa batalha,"
+  },
+  {
+   "nome": "c4",
+   "d": 9.809999999999985,
+   "texto": "quatro, cinco reais, dez reais, parece pouco, mas pra gente e pra mim, é uma nova esperança de um dia sem dor."
+  },
+  {
+   "nome": "c5",
+   "d": 4.810000000000009,
+   "texto": "se você puder, luta com a gente."
+  }
+ ]
+}

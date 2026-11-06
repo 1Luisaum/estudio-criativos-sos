@@ -1,0 +1,80 @@
+{
+ "text": "Cada troca consome faixas, gazes, soro e pomada. E isso se repete todos os dias.",
+ "words": [
+  {
+   "text": "Cada",
+   "start": 0.0,
+   "end": 0.29
+  },
+  {
+   "text": "troca",
+   "start": 0.348,
+   "end": 0.639
+  },
+  {
+   "text": "consome",
+   "start": 0.685,
+   "end": 1.045
+  },
+  {
+   "text": "faixas,",
+   "start": 1.126,
+   "end": 1.776
+  },
+  {
+   "text": "gázes,",
+   "start": 1.834,
+   "end": 2.357
+  },
+  {
+   "text": "soro",
+   "start": 2.392,
+   "end": 2.81
+  },
+  {
+   "text": "e",
+   "start": 2.868,
+   "end": 2.918
+  },
+  {
+   "text": "pomada.",
+   "start": 2.961,
+   "end": 3.518
+  },
+  {
+   "text": "E",
+   "start": 3.808,
+   "end": 3.889
+  },
+  {
+   "text": "isso",
+   "start": 3.971,
+   "end": 4.11
+  },
+  {
+   "text": "se",
+   "start": 4.145,
+   "end": 4.226
+  },
+  {
+   "text": "repete",
+   "start": 4.261,
+   "end": 4.667
+  },
+  {
+   "text": "todos",
+   "start": 4.702,
+   "end": 4.923
+  },
+  {
+   "text": "os",
+   "start": 4.992,
+   "end": 5.062
+  },
+  {
+   "text": "dias.",
+   "start": 5.108,
+   "end": 5.614
+  }
+ ]
+}

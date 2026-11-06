@@ -1,0 +1,16 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_curativos_acabando_v1.mp4
+seg 00 ok  t=  0.70
+seg 01 ok  t=  2.73
+seg 02 ok  t=  5.20
+seg 03 ok  t=  7.87
+seg 04 ok  t=  8.20
+seg 05 ok  t=  9.03
+seg 06 ok  t=  9.60
+seg 07 ok  t= 10.40
+seg 08 ok  t= 11.50
+seg 09 ok  t= 12.33
+seg 10 ok  t= 14.13
+seg 11 ok  t= 14.77
+seg 12 ok  t= 16.67
+audio: 20.03s  buracos=nenhum  ganho voz=+6.6dB
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_curativos_acabando_v1.mp4  duracao=20.07s  tela_final=16.67s

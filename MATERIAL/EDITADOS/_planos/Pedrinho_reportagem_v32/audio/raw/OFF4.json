@@ -1,0 +1,40 @@
+{
+ "text": "E a mãe já vigia outro ponto.",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "a",
+   "start": 0.151,
+   "end": 0.186
+  },
+  {
+   "text": "mãe",
+   "start": 0.244,
+   "end": 0.418
+  },
+  {
+   "text": "já",
+   "start": 0.441,
+   "end": 0.534
+  },
+  {
+   "text": "vigia",
+   "start": 0.58,
+   "end": 0.998
+  },
+  {
+   "text": "outro",
+   "start": 1.033,
+   "end": 1.335
+  },
+  {
+   "text": "ponto.",
+   "start": 1.393,
+   "end": 2.043
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "nome": "Pedrinho_espera_v1",
+ "pedido": "completar LEVA 01 (26/10/2026)",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+ "transcript": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro9.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  583,
+  470
+ ],
+ "segments": [
+  {
+   "in": 44.16,
+   "out": 46.02,
+   "txt": "quem é B não pode esperar,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 46.91,
+   "out": 48.86,
+   "txt": "E eu não posso esperar mais.",
+   "zoom": "Z3"
+  },
+  {
+   "in": 48.99,
+   "out": 52.18,
+   "txt": "Os meus ferimentos não podem esperar.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 1.15,
+   "out": 5.06,
+   "txt": "Gente, eu sei que não pode usar o mesmo curativo,",
+   "zoom": "Z1"
+  },
+  {
+   "in": 7.01,
+   "out": 8.56,
+   "txt": "eu e minha mãe vai fazer o quê?",
+   "zoom": "Z3"
+  },
+  {
+   "in": 27.51,
+   "out": 29.58,
+   "txt": "a gente até chegou a entrar,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 200.0
+    }
+   ]
+  },
+  {
+   "in": 29.77,
+   "out": 31.72,
+   "txt": "com processos contra o governo,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 215.0
+    }
+   ]
+  },
+  {
+   "in": 32.11,
+   "out": 33.42,
+   "txt": "mas essas coisas,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 34.17,
+   "out": 36.5,
+   "txt": "demora e demora muito mesmo",
+   "zoom": "ZF"
+  },
+  {
+   "in": 52.57,
+   "out": 53.58,
+   "txt": "Tem noites,",
+   "zoom": "Z1"
+  },
+  {
+   "in": 54.49,
+   "out": 59.18,
+   "txt": "que eu chego até a chorar por causa das feridas doloridas,",
+   "zoom": "Z3"
+  },
+  {
+   "in": 79.3,
+   "out": 81.58,
+   "txt": "se você sentir no seu coração,",
+   "broll": [
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134438.jpg"
+    },
+    {
+     "src": "20260825_134340.jpg"
+    }
+   ]
+  },
+  {
+   "in": 82.15,
+   "out": 84.48,
+   "txt": "ajude no meu tratamento.",
+   "zoom": "Z2"
+  },
+  {
+   "in": 91.01,
+   "out": 92.46,
+   "txt": "E muito obrigado.",
+   "zoom": "Z1"
+  }
+ ],
+ "fix": {
+  "B": "EB"
+ },
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIMENTOS",
+  "FERIDAS",
+  "ESPERAR",
+  "CHORAR",
+  "DEMORA"
+ ],
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ELE NÃO PODE ESPERAR"
+   ],
+   "fs": 96
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.2,
+   "lines": [
+    "A JUSTIÇA DEMORA.",
+    "AS FERIDAS",
+    "DO PEDRINHO *NÃO*"
+   ],
+   "fs": 88
+  }
+ ],
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 20.0,
+  "dur": 3.4,
+  "lines": [
+   "O TRATAMENTO DELE",
+   "NÃO PODE ESPERAR"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\CORTES COM GANCHO\\LEVA 01\\Pedrinho_espera_v1.mp4",
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$5",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Meus curativos custam R$ 90.000.",
+ "words": [
+  {
+   "text": "Meus",
+   "start": 0.44,
+   "end": 0.72,
+   "type": "word",
+   "logprob": -0.00047786065255195354
+  },
+  {
+   "text": " ",
+   "start": 0.72,
+   "end": 0.82,
+   "type": "spacing",
+   "logprob": -1.6569954823353328e-05
+  },
+  {
+   "text": "curativos",
+   "start": 0.82,
+   "end": 1.82,
+   "type": "word",
+   "logprob": -2.2768705700097296e-05
+  },
+  {
+   "text": " ",
+   "start": 1.82,
+   "end": 2.0,
+   "type": "spacing",
+   "logprob": -1.168244216387393e-05
+  },
+  {
+   "text": "custam",
+   "start": 2.0,
+   "end": 2.58,
+   "type": "word",
+   "logprob": -7.867767626142571e-06
+  },
+  {
+   "text": " ",
+   "start": 2.58,
+   "end": 2.58,
+   "type": "spacing",
+   "logprob": -0.02905229665338993
+  },
+  {
+   "text": "R$",
+   "start": 3.08,
+   "end": 3.3,
+   "type": "word",
+   "logprob": -0.014687293310998939
+  },
+  {
+   "text": " ",
+   "start": 3.3,
+   "end": 3.46,
+   "type": "spacing",
+   "logprob": -0.0008045773720368743
+  },
+  {
+   "text": "90.000.",
+   "start": 3.46,
+   "end": 4.68,
+   "type": "word",
+   "logprob": -0.08896665700713921
+  }
+ ],
+ "transcription_id": "o9wD1t2gm6KlVtckE0jV",
+ "audio_duration_secs": 11.665
+}

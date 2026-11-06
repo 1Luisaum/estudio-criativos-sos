@@ -1,0 +1,45 @@
+{
+ "text": "Guerreiro também chora. E no dia seguinte, continua.",
+ "words": [
+  {
+   "text": "Guerreiro",
+   "start": 0.0,
+   "end": 0.418
+  },
+  {
+   "text": "também",
+   "start": 0.464,
+   "end": 0.755
+  },
+  {
+   "text": "chora.",
+   "start": 0.813,
+   "end": 1.242
+  },
+  {
+   "text": "E",
+   "start": 1.579,
+   "end": 1.66
+  },
+  {
+   "text": "no",
+   "start": 1.73,
+   "end": 1.811
+  },
+  {
+   "text": "dia",
+   "start": 1.869,
+   "end": 1.974
+  },
+  {
+   "text": "seguinte,",
+   "start": 2.02,
+   "end": 2.415
+  },
+  {
+   "text": "continua.",
+   "start": 2.438,
+   "end": 3.028
+  }
+ ]
+}

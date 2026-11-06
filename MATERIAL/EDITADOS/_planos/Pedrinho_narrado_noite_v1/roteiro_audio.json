@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Pedrinho tem epidermólise bolhosa. As feridas não dão trégua nem de madrugada.",
+  "N2": "De dia, a mãe troca os curativos duas vezes. E mesmo assim a dor volta.",
+  "N3": "Doze reais de cada uma garantem os itens do curativo dessa semana.",
+  "N4": "Ele não pede um milagre. Pede uma noite sem dor.",
+  "N5": "Toque em Saiba mais e seja uma das seis pessoas que o Pedrinho pediu."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

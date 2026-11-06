@@ -1,0 +1,226 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu quero agradecer a SOS e também a todos doadores. Ontem chegaram os meus primeiros curativos",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.38,
+   "end": 0.48,
+   "type": "word",
+   "logprob": -0.0005628670332953334
+  },
+  {
+   "text": " ",
+   "start": 0.48,
+   "end": 0.56,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "quero",
+   "start": 0.56,
+   "end": 0.78,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 0.78,
+   "end": 0.82,
+   "type": "spacing",
+   "logprob": -5.900685573578812e-05
+  },
+  {
+   "text": "agradecer",
+   "start": 0.82,
+   "end": 1.62,
+   "type": "word",
+   "logprob": -5.900685573578812e-05
+  },
+  {
+   "text": " ",
+   "start": 1.62,
+   "end": 1.96,
+   "type": "spacing",
+   "logprob": -0.5231412649154663
+  },
+  {
+   "text": "a",
+   "start": 2.04,
+   "end": 2.14,
+   "type": "word",
+   "logprob": -0.5231412649154663
+  },
+  {
+   "text": " ",
+   "start": 2.14,
+   "end": 2.42,
+   "type": "spacing",
+   "logprob": -0.0006373281357809901
+  },
+  {
+   "text": "SOS",
+   "start": 2.42,
+   "end": 3.08,
+   "type": "word",
+   "logprob": -0.0006373281357809901
+  },
+  {
+   "text": " ",
+   "start": 3.08,
+   "end": 3.1,
+   "type": "spacing",
+   "logprob": -0.001991552533581853
+  },
+  {
+   "text": "e",
+   "start": 3.7,
+   "end": 3.74,
+   "type": "word",
+   "logprob": -0.001991552533581853
+  },
+  {
+   "text": " ",
+   "start": 3.74,
+   "end": 3.86,
+   "type": "spacing",
+   "logprob": -6.9141146923357155e-06
+  },
+  {
+   "text": "também",
+   "start": 3.86,
+   "end": 4.4,
+   "type": "word",
+   "logprob": -6.9141146923357155e-06
+  },
+  {
+   "text": " ",
+   "start": 4.4,
+   "end": 4.8,
+   "type": "spacing",
+   "logprob": -0.00010287232726113871
+  },
+  {
+   "text": "a",
+   "start": 4.8,
+   "end": 4.86,
+   "type": "word",
+   "logprob": -0.00010287232726113871
+  },
+  {
+   "text": " ",
+   "start": 4.86,
+   "end": 5.02,
+   "type": "spacing",
+   "logprob": -7.867782187531702e-06
+  },
+  {
+   "text": "todos",
+   "start": 5.02,
+   "end": 5.48,
+   "type": "word",
+   "logprob": -7.867782187531702e-06
+  },
+  {
+   "text": " ",
+   "start": 5.48,
+   "end": 5.54,
+   "type": "spacing",
+   "logprob": -0.25338590145111084
+  },
+  {
+   "text": "doadores.",
+   "start": 5.54,
+   "end": 6.36,
+   "type": "word",
+   "logprob": -0.056328561273807684
+  },
+  {
+   "text": " ",
+   "start": 6.36,
+   "end": 6.36,
+   "type": "spacing",
+   "logprob": -0.002508352743461728
+  },
+  {
+   "text": "Ontem",
+   "start": 6.94,
+   "end": 7.4,
+   "type": "word",
+   "logprob": -0.0016480848891660572
+  },
+  {
+   "text": " ",
+   "start": 7.4,
+   "end": 7.44,
+   "type": "spacing",
+   "logprob": -0.00011944057769142091
+  },
+  {
+   "text": "chegaram",
+   "start": 7.44,
+   "end": 8.119,
+   "type": "word",
+   "logprob": -8.964003790623565e-05
+  },
+  {
+   "text": " ",
+   "start": 8.119,
+   "end": 8.42,
+   "type": "spacing",
+   "logprob": -1.2636104656849056e-05
+  },
+  {
+   "text": "os",
+   "start": 8.42,
+   "end": 8.58,
+   "type": "word",
+   "logprob": -1.2636104656849056e-05
+  },
+  {
+   "text": " ",
+   "start": 8.58,
+   "end": 8.64,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "meus",
+   "start": 8.64,
+   "end": 8.88,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 8.88,
+   "end": 8.9,
+   "type": "spacing",
+   "logprob": -8.642300235806033e-05
+  },
+  {
+   "text": "primeiros",
+   "start": 8.9,
+   "end": 9.46,
+   "type": "word",
+   "logprob": -8.642300235806033e-05
+  },
+  {
+   "text": " ",
+   "start": 9.46,
+   "end": 9.6,
+   "type": "spacing",
+   "logprob": -3.85038583772257e-05
+  },
+  {
+   "text": "curativos",
+   "start": 9.6,
+   "end": 10.64,
+   "type": "word",
+   "logprob": -3.802704062157621e-05
+  }
+ ],
+ "transcription_id": "0JmsYSUdiOipiXPpdtbp",
+ "audio_duration_secs": 11.7416875
+}

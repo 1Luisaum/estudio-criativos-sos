@@ -1,0 +1,175 @@
+{
+ "nome": "Pedrinho_lettering_muita_dor_v1",
+ "pedido": "5 variacoes cortes com lettering com os brutos novos (03/11/2026)",
+ "angulo": "abre com 'eu tenho sentido muita, muita dor mesmo'",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+ "transcript": "C:\\Users\\EDITING_SECTOR\\.claude\\estudio-ong\\CONHECIMENTO\\transcricoes\\pedrinho_0211\\lv_0_20261102155438.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  540,
+  600
+ ],
+ "segments": [
+  {
+   "in": 15.31,
+   "out": 16.48,
+   "txt": "Eu tenho sentido",
+   "zoom": "Z1"
+  },
+  {
+   "in": 16.53,
+   "out": 18.4,
+   "txt": "muita, muita dor mesmo,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 1.71,
+   "out": 3.2,
+   "txt": "Eu tenho uma doença rara,",
+   "zoom": "Z3"
+  },
+  {
+   "in": 3.59,
+   "out": 4.98,
+   "txt": "que faz surgir bolhas",
+   "zoom": "ZF"
+  },
+  {
+   "in": 4.99,
+   "out": 6.16,
+   "txt": "por todo o meu corpo.",
+   "zoom": "Z1"
+  },
+  {
+   "in": 7.61,
+   "out": 8.96,
+   "txt": "E o meu tratamento",
+   "zoom": "Z2"
+  },
+  {
+   "in": 9.33,
+   "out": 9.92,
+   "txt": "é caro,",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+     "start": 8
+    }
+   ]
+  },
+  {
+   "in": 10.53,
+   "out": 11.34,
+   "txt": "mas é ele",
+   "zoom": "Z3"
+  },
+  {
+   "in": 11.77,
+   "out": 13.16,
+   "txt": "que faz amenizar",
+   "zoom": "ZF"
+  },
+  {
+   "in": 13.17,
+   "out": 14.5,
+   "txt": "todas as minhas dores.",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+     "start": 5
+    }
+   ]
+  },
+  {
+   "in": 23.73,
+   "out": 24.36,
+   "txt": "Por favor,",
+   "zoom": "Z1"
+  },
+  {
+   "in": 24.97,
+   "out": 26.6,
+   "txt": "ajude no tratamento",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+     "start": 2
+    }
+   ]
+  },
+  {
+   "in": 26.97,
+   "out": 27.92,
+   "txt": "dessa semana,",
+   "zoom": "Z2"
+  },
+  {
+   "in": 28.45,
+   "out": 30.62,
+   "txt": "seja com dois ou cinco reais,",
+   "broll": [
+    {
+     "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+     "start": 1
+    }
+   ]
+  },
+  {
+   "in": 32.29,
+   "out": 34.26,
+   "txt": "assim já vai ajudar muito mesmo.",
+   "zoom": "Z3"
+  },
+  {
+   "in": 34.79,
+   "out": 36.26,
+   "txt": "E o meu muito obrigado,",
+   "zoom": "ZF"
+  },
+  {
+   "in": 36.53,
+   "out": 37.34,
+   "txt": "de coração.",
+   "zoom": "Z1"
+  }
+ ],
+ "fix": {
+  "DOIS": "2",
+  "CINCO": "5"
+ },
+ "red": [
+  "DOR",
+  "DÓI",
+  "DORES",
+  "FERIDAS",
+  "BOLHAS",
+  "TRATAMENTO",
+  "CARO",
+  "2",
+  "5",
+  "REAIS",
+  "VIDA",
+  "RARA"
+ ],
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\R$ 5,00 Podem Ajudar o Pedrinho (1).png",
+  "texto_do_lettering": "R$ 5,00 PODEM AJUDAR O PEDRINHO HOJE"
+ },
+ "endcard": {
+  "src": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn2_1760826007_92s.mp4",
+  "start": 9.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "CLIQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "fatos": {
+  "falas": "Pedrinho, lv_0_20261102155438.mp4 (gravado em 02/11/2026)",
+  "valor": "R$5: ele fala 'dois ou cinco reais'"
+ },
+ "hook": [],
+ "caption_y": 950,
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 61\\PEB 233 - CORTES COM LETTERING.mp4"
+}

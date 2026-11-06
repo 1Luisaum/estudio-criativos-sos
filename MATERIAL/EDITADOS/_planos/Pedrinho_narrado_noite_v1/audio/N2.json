@@ -1,0 +1,80 @@
+{
+ "text": "De dia, a mãe troca os curativos duas vezes. E mesmo assim a dor volta.",
+ "words": [
+  {
+   "text": "De",
+   "start": 0.0,
+   "end": 0.174
+  },
+  {
+   "text": "dia,",
+   "start": 0.244,
+   "end": 0.766
+  },
+  {
+   "text": "a",
+   "start": 0.894,
+   "end": 0.952
+  },
+  {
+   "text": "mãe",
+   "start": 1.022,
+   "end": 1.173
+  },
+  {
+   "text": "troca",
+   "start": 1.207,
+   "end": 1.44
+  },
+  {
+   "text": "os",
+   "start": 1.463,
+   "end": 1.521
+  },
+  {
+   "text": "curativos",
+   "start": 1.579,
+   "end": 2.09
+  },
+  {
+   "text": "duas",
+   "start": 2.136,
+   "end": 2.368
+  },
+  {
+   "text": "vezes.",
+   "start": 2.45,
+   "end": 2.9
+  },
+  {
+   "text": "E",
+   "start": 3.169,
+   "end": 3.238
+  },
+  {
+   "text": "mesmo",
+   "start": 3.308,
+   "end": 3.564
+  },
+  {
+   "text": "assim",
+   "start": 3.587,
+   "end": 3.889
+  },
+  {
+   "text": "a",
+   "start": 3.958,
+   "end": 4.008
+  },
+  {
+   "text": "dor",
+   "start": 4.04,
+   "end": 4.214
+  },
+  {
+   "text": "volta.",
+   "start": 4.26,
+   "end": 4.682
+  }
+ ]
+}

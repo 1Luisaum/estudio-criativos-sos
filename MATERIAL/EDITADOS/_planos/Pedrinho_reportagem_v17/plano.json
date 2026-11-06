@@ -1,0 +1,107 @@
+{
+ "nome": "Pedrinho_reportagem_v17",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (brasileiro), conta paga"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "“AS PESSOAS SE ESQUECERAM DE",
+  "MIM”, DIZ MENINO COM EB"
+ ],
+ "etiqueta": "💬 Comente FORÇA PEDRINHO",
+ "etiqueta_final": "💬 Comente FORÇA PEDRINHO",
+ "narracao": {
+  "OFF1": "O Pedrinho tem um pedido simples: não ser esquecido.",
+  "OFF2": "Ele tem epidermólise bolhosa. E muita gente acha que ele já está bem.",
+  "OFF3": "Comente força, Pedrinho, e mostre que ele não está sozinho."
+ },
+ "fatos": {
+  "pessoas se esqueceram dele": "Pedrinho em roteiro 8.mp4 (22.88)",
+  "acham que ele ja esta bem": "Pedrinho em roteiro 7.mp4 (14.9)",
+  "epidermolise bolhosa (pele de borboleta)": "Pedrinho e mae nos brutos"
+ },
+ "obs": "curto, CTA de engajamento sem 'Saiba mais' e sem logo SOS (@juntospelopedrinho no lugar) - pedido do usuario 29/10/2026",
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240411_123226.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 8.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro8.json",
+   "cortes": [
+    [
+     22.88,
+     23.14
+    ],
+    [
+     24.64,
+     26.0
+    ],
+    [
+     27.58,
+     29.3
+    ],
+    [
+     32.32,
+     33.16
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     160.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     232.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cortes": [
+    [
+     14.9,
+     16.36
+    ],
+    [
+     17.28,
+     18.2
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\TUDO BALBINO\\LEVA 34\\PEB 154 - REPORTAGEM.mp4"
+}

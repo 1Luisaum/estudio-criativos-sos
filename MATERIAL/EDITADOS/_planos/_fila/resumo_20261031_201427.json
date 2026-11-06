@@ -1,0 +1,393 @@
+{
+ "total_s": 3510,
+ "videos": [
+  {
+   "plano": "Pedrinho_narrado_perdao_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 178,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_perdao_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 172 - NARRADO DE IMPACTO.mp4",
+   "duracao": 58.43,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(24.43, 0.57), (25.0, 0.73)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 10 momento(s): [7.0, 7.5, 8.0, 23.5, 39.0, 43.5, 44.0, 44.5, 55.5, 56.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 172 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_vigilia_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 178,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_vigilia_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 173 - NARRADO DE IMPACTO.mp4",
+   "duracao": 60.0,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(32.13, 1.27)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 6 momento(s): [11.0, 33.5, 38.5, 55.0, 57.0, 59.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 173 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_so_o_filho_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 108,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_so_o_filho_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 174 - NARRADO DE IMPACTO.mp4",
+   "duracao": 58.2,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(31.17, 1.27)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 10 momento(s): [10.5, 11.0, 38.5, 41.0, 46.5, 48.0, 50.0, 54.0, 55.0, 56.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 174 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_chorar_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 111,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_chorar_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 175 - NARRADO DE IMPACTO.mp4",
+   "duracao": 58.1,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(12.23, 1.27)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 17 momento(s): [10.5, 39.0, 39.5, 40.0, 40.5, 41.0, 41.5, 42.0, 42.5, 44.0, 44.5, 45.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 175 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_medo_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 134,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_medo_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 176 - NARRADO DE IMPACTO.mp4",
+   "duracao": 59.5,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(31.33, 0.23), (31.57, 0.5), (32.07, 0.53)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 3 momento(s): [12.5, 46.0, 47.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 176 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_sem_nocao_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 145,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_sem_nocao_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 177 - NARRADO DE IMPACTO.mp4",
+   "duracao": 57.17,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(20.97, 1.27)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 8 momento(s): [6.5, 8.5, 12.5, 13.0, 13.5, 14.0, 18.0, 42.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 177 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_nao_sei_explicar_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 184,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_nao_sei_explicar_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 178 - NARRADO DE IMPACTO.mp4",
+   "duracao": 61.23,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(31.17, 1.23)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 7 momento(s): [0.0, 2.5, 4.0, 5.0, 5.5, 22.5, 41.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 178 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_seguidores_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 189,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_seguidores_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 179 - NARRADO DE IMPACTO.mp4",
+   "duracao": 60.2,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(32.23, 1.27)] (se for a tela final parada, ignore)"
+   ],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_queria_muito_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 168,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_queria_muito_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 180 - NARRADO DE IMPACTO.mp4",
+   "duracao": 57.17,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(23.53, 0.57), (24.1, 0.7)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 1 momento(s): [44.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 180 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_fe_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 201,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_fe_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 181 - NARRADO DE IMPACTO.mp4",
+   "duracao": 61.33,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(23.07, 1.27)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 7 momento(s): [13.0, 13.5, 14.0, 14.5, 15.0, 15.5, 16.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 181 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_anjos_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 196,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_anjos_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 182 - NARRADO DE IMPACTO.mp4",
+   "duracao": 59.07,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(26.1, 0.4), (26.5, 0.87)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 5 momento(s): [55.0, 55.5, 56.0, 56.5, 58.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 182 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_reforco_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 208,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_reforco_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 183 - NARRADO DE IMPACTO.mp4",
+   "duracao": 62.23,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(29.3, 0.47), (29.77, 0.83)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 1 momento(s): [42.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 183 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_heroi_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 208,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_heroi_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 184 - NARRADO DE IMPACTO.mp4",
+   "duracao": 58.33,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(32.57, 1.27)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 6 momento(s): [4.0, 7.5, 8.0, 10.5, 29.5, 30.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 184 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_nao_escolhi_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 184,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_nao_escolhi_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 40\\PEB 185 - NARRADO DE IMPACTO.mp4",
+   "duracao": 56.4,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(26.2, 0.4), (26.6, 0.43), (27.03, 0.47)] (se for a tela final parada, ignore)"
+   ],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_narrado_desde_ja_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 183,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_narrado_desde_ja_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 41\\PEB 186 - NARRADO DE IMPACTO.mp4",
+   "duracao": 59.4,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(33.37, 1.27)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 3 momento(s): [19.5, 30.0, 31.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 186 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v19",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 281,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v19.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 42\\PEB 187 - REPORTAGEM.mp4",
+   "duracao": 58.64,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 33 momento(s): [3.0, 3.5, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 24.0, 26.0, 27.0, 27.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 187 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v20",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 291,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v20.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 43\\PEB 188 - REPORTAGEM.mp4",
+   "duracao": 63.16,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 16 momento(s): [7.5, 33.5, 36.5, 37.5, 38.0, 40.0, 41.0, 41.5, 42.5, 43.0, 43.5, 55.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 188 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v21",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 250,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v21.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 44\\PEB 189 - REPORTAGEM.mp4",
+   "duracao": 58.97,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 50 momento(s): [4.5, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 189 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v22",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 285,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v22.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 45\\PEB 190 - REPORTAGEM.mp4",
+   "duracao": 62.3,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 72 momento(s): [0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 190 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v23",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 209,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v23.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 46\\PEB 191 - REPORTAGEM.mp4",
+   "duracao": 52.18,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 35 momento(s): [3.0, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 22.5, 23.0, 23.5, 24.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 191 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v24",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 285,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v24.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 47\\PEB 192 - REPORTAGEM.mp4",
+   "duracao": 61.58,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 48 momento(s): [3.0, 3.5, 4.0, 5.0, 5.5, 6.0, 6.5, 7.0, 8.0, 8.5, 9.0, 9.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 192 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v25",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 265,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v25.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 48\\PEB 193 - REPORTAGEM.mp4",
+   "duracao": 59.88,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 14 momento(s): [6.0, 6.5, 7.0, 8.0, 8.5, 9.0, 9.5, 22.5, 23.0, 27.0, 34.0, 36.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 193 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v26",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 267,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v26.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 49\\PEB 194 - REPORTAGEM.mp4",
+   "duracao": 54.21,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 29 momento(s): [8.5, 22.0, 24.0, 25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.5, 29.0, 29.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 194 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v27",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 220,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v27.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 50\\PEB 195 - REPORTAGEM.mp4",
+   "duracao": 53.72,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 13 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 4.0, 8.5, 35.5, 45.5, 46.0, 48.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 195 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Pedrinho_reportagem_v30",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 202,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_reportagem_v30.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 51\\PEB 196 - REPORTAGEM.mp4",
+   "duracao": 55.64,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 64 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 196 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  }
+ ]
+}

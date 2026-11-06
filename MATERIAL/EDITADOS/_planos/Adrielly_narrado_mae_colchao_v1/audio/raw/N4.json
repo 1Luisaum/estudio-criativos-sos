@@ -1,0 +1,85 @@
+{
+ "text": "Ela segurou a mão da filha a vida inteira. Agora, as duas precisam de outras mãos.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "segurou",
+   "start": 0.267,
+   "end": 0.58
+  },
+  {
+   "text": "a",
+   "start": 0.639,
+   "end": 0.662
+  },
+  {
+   "text": "mão",
+   "start": 0.697,
+   "end": 0.836
+  },
+  {
+   "text": "da",
+   "start": 0.871,
+   "end": 0.94
+  },
+  {
+   "text": "filha",
+   "start": 0.998,
+   "end": 1.196
+  },
+  {
+   "text": "a",
+   "start": 1.382,
+   "end": 1.463
+  },
+  {
+   "text": "vida",
+   "start": 1.544,
+   "end": 1.73
+  },
+  {
+   "text": "inteira.",
+   "start": 1.753,
+   "end": 2.287
+  },
+  {
+   "text": "Agora,",
+   "start": 2.473,
+   "end": 2.833
+  },
+  {
+   "text": "as",
+   "start": 2.868,
+   "end": 3.03
+  },
+  {
+   "text": "duas",
+   "start": 3.077,
+   "end": 3.239
+  },
+  {
+   "text": "precisam",
+   "start": 3.286,
+   "end": 3.727
+  },
+  {
+   "text": "de",
+   "start": 3.773,
+   "end": 3.831
+  },
+  {
+   "text": "outras",
+   "start": 3.866,
+   "end": 4.122
+  },
+  {
+   "text": "mãos.",
+   "start": 4.18,
+   "end": 4.83
+  }
+ ]
+}

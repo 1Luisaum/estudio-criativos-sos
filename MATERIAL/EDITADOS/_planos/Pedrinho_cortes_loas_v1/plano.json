@@ -1,0 +1,258 @@
+{
+ "nome": "Pedrinho_cortes_loas_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "Cortes com gancho (edicao-criativo-ong)",
+ "angulo": "a mae: o Pedrinho recebe o LOAS de mil e quinhentos e com isso ela nao consegue fazer nada; os curativos sao absurdo de caro e ela nunca pensou que ia pedir ajuda",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "face": [
+  535,
+  836
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.42,
+   "center": [
+    535,
+    1920
+   ]
+  },
+  "Z2": {
+   "z": 1.49,
+   "center": [
+    535,
+    1920
+   ]
+  },
+  "Z3": {
+   "z": 1.56,
+   "center": [
+    535,
+    1920
+   ]
+  },
+  "ZF": {
+   "z": 1.62,
+   "center": [
+    535,
+    1920
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 2.07,
+   "out": 2.6,
+   "zoom": "Z1",
+   "txt": "Quando fiz"
+  },
+  {
+   "in": 2.91,
+   "out": 4.44,
+   "zoom": "Z2",
+   "txt": "a primeira vaquinha do Pedrinho,"
+  },
+  {
+   "in": 5.49,
+   "out": 6.4,
+   "zoom": "Z3",
+   "txt": "eu nunca pensei"
+  },
+  {
+   "in": 6.95,
+   "out": 9.88,
+   "zoom": "ZF",
+   "txt": "que fosse precisar de eu vim aqui pedir uma ajuda,"
+  },
+  {
+   "in": 17.69,
+   "out": 19.68,
+   "zoom": "Z1",
+   "txt": "os curativo para os cuidado do Pedrinho"
+  },
+  {
+   "in": 20.13,
+   "out": 21.46,
+   "broll": [
+    {
+     "src": "20260825_134039.jpg"
+    },
+    {
+     "src": "20260825_134438.jpg"
+    },
+    {
+     "src": "20260825_134710.jpg"
+    }
+   ],
+   "txt": "são absurdo de caro."
+  },
+  {
+   "in": 22.33,
+   "out": 23.22,
+   "zoom": "Z2",
+   "txt": "Infelizmente,"
+  },
+  {
+   "in": 23.55,
+   "out": 24.7,
+   "zoom": "Z3",
+   "txt": "precisou de eu vim aqui,"
+  },
+  {
+   "in": 26.05,
+   "out": 27.0,
+   "zoom": "ZF",
+   "txt": "pedir uma ajuda"
+  },
+  {
+   "in": 27.77,
+   "out": 28.64,
+   "zoom": "Z1",
+   "txt": "pra vocês,"
+  },
+  {
+   "in": 29.79,
+   "out": 30.58,
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 140.0
+    }
+   ],
+   "txt": "pro meu filho,"
+  },
+  {
+   "in": 31.89,
+   "out": 33.6,
+   "zoom": "Z3",
+   "txt": "O Pedro ele recebe luvas,"
+  },
+  {
+   "in": 34.61,
+   "out": 35.42,
+   "zoom": "ZF",
+   "txt": "mil e quinhentos,"
+  },
+  {
+   "in": 35.67,
+   "out": 37.2,
+   "zoom": "Z1",
+   "txt": "mas o que eu faço com mil e quinhentos?"
+  },
+  {
+   "in": 37.53,
+   "out": 38.76,
+   "zoom": "Z2",
+   "txt": "Não consigo fazer nada."
+  },
+  {
+   "in": 44.85,
+   "out": 46.24,
+   "zoom": "Z3",
+   "txt": "eu não quero convencer,"
+  },
+  {
+   "in": 47.19,
+   "out": 49.02,
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 30.0
+    }
+   ],
+   "txt": "vocês a ajudar meu filho,"
+  },
+  {
+   "in": 49.33,
+   "out": 50.28,
+   "zoom": "ZF",
+   "txt": "mas como mãe,"
+  },
+  {
+   "in": 54.37,
+   "out": 56.58,
+   "zoom": "Z1",
+   "txt": "eu te peço, ajude o meu filho."
+  },
+  {
+   "in": 58.25,
+   "out": 60.06,
+   "zoom": "Z2",
+   "txt": "Que Deus abençoe e fique com Deus"
+  }
+ ],
+ "fix": {
+  "LUVAS": "LOAS",
+  "CURATIVO": "CURATIVOS",
+  "CUIDADO": "CUIDADOS"
+ },
+ "red": [
+  "CURATIVOS",
+  "ABSURDO",
+  "CARO",
+  "LOAS",
+  "MIL",
+  "QUINHENTOS",
+  "NADA",
+  "AJUDE"
+ ],
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 44.0,
+  "dur": 3.4,
+  "lines": [
+   "AJUDE O FILHO",
+   "DESSA MÃE"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "O PEDRINHO",
+    "RECEBE *R$1.500*"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "E A MÃE DELE DIZ:",
+    "\"NÃO CONSIGO",
+    "FAZER NADA\""
+   ],
+   "fs": 92
+  }
+ ],
+ "fatos": {
+  "recebe o LOAS, mil e quinhentos; nao consigo fazer nada": "Mae, Roteiro_ os curativos ... absurdo de caro.mp4, 31.9-38.7 s (a transcricao ouviu 'luvas')",
+  "nunca pensei que fosse precisar pedir ajuda": "Mae, mesmo bruto, 2.1-9.9 s",
+  "os curativos sao absurdo de caro": "Mae, mesmo bruto, 17.7-21.4 s",
+  "ajude o meu filho (tela final)": "Mae, mesmo bruto, 54.4-56.5 s",
+  "R$10": "padrao dos pedidos (brief do lote); sem valor de doacao dito no bruto"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 32\\PEB 136 - CORTES COM GANCHO.mp4"
+}

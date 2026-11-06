@@ -1,0 +1,95 @@
+{
+ "text": "minha mamãe tá atenta, se ela ver que vai ferir mesmo, ela vai ter que tampar esse ombro,",
+ "words": [
+  {
+   "text": "minha",
+   "start": 0.07,
+   "end": 0.19
+  },
+  {
+   "text": "mamãe",
+   "start": 0.36,
+   "end": 0.62
+  },
+  {
+   "text": "tá",
+   "start": 0.68,
+   "end": 0.84
+  },
+  {
+   "text": "atenta,",
+   "start": 0.88,
+   "end": 1.26
+  },
+  {
+   "text": "se",
+   "start": 1.32,
+   "end": 1.38
+  },
+  {
+   "text": "ela",
+   "start": 1.4,
+   "end": 1.5
+  },
+  {
+   "text": "ver",
+   "start": 1.54,
+   "end": 1.64
+  },
+  {
+   "text": "que",
+   "start": 1.68,
+   "end": 1.76
+  },
+  {
+   "text": "vai",
+   "start": 1.78,
+   "end": 1.9
+  },
+  {
+   "text": "ferir",
+   "start": 1.96,
+   "end": 2.2
+  },
+  {
+   "text": "mesmo,",
+   "start": 2.26,
+   "end": 2.52
+  },
+  {
+   "text": "ela",
+   "start": 3.02,
+   "end": 3.1
+  },
+  {
+   "text": "vai",
+   "start": 3.14,
+   "end": 3.3
+  },
+  {
+   "text": "ter",
+   "start": 3.38,
+   "end": 3.48
+  },
+  {
+   "text": "que",
+   "start": 3.52,
+   "end": 3.64
+  },
+  {
+   "text": "tampar",
+   "start": 3.7,
+   "end": 4.04
+  },
+  {
+   "text": "esse",
+   "start": 4.1,
+   "end": 4.38
+  },
+  {
+   "text": "ombro,",
+   "start": 4.46,
+   "end": 4.64
+  }
+ ]
+}

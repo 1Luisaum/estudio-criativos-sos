@@ -1,0 +1,50 @@
+{
+ "text": "A ajuda não precisa ser grande. A mãe explica.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "ajuda",
+   "start": 0.139,
+   "end": 0.499
+  },
+  {
+   "text": "não",
+   "start": 0.546,
+   "end": 0.639
+  },
+  {
+   "text": "precisa",
+   "start": 0.673,
+   "end": 1.068
+  },
+  {
+   "text": "ser",
+   "start": 1.115,
+   "end": 1.277
+  },
+  {
+   "text": "grande.",
+   "start": 1.347,
+   "end": 1.881
+  },
+  {
+   "text": "A",
+   "start": 2.009,
+   "end": 2.078
+  },
+  {
+   "text": "mãe",
+   "start": 2.159,
+   "end": 2.334
+  },
+  {
+   "text": "explica.",
+   "start": 2.357,
+   "end": 3.204
+  }
+ ]
+}

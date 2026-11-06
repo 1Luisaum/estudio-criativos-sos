@@ -1,0 +1,35 @@
+{
+ "total": 31.240000000000116,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.27,
+   "texto": "Por favor, fica só mais 30 segundos."
+  },
+  {
+   "nome": "c1",
+   "d": 4.97,
+   "texto": "Muita gente vê meus vídeos pedindo ajuda e ignora"
+  },
+  {
+   "nome": "c2",
+   "d": 7.750000000000038,
+   "texto": "quando eu não tenho os curativos acaba soltando mais bolhas, as dores ainda mais intensas."
+  },
+  {
+   "nome": "c3",
+   "d": 6.1500000000000155,
+   "texto": "Esses são os últimos que eu tenho, por isso que eu preciso da sua ajuda."
+  },
+  {
+   "nome": "c4",
+   "d": 5.250000000000038,
+   "texto": "Hoje tá tudo muito caro, eu preciso de você. Cinco reais pode me dar um dia melhor."
+  },
+  {
+   "nome": "c5",
+   "d": 3.8500000000000227,
+   "texto": "Ajude a salvar a minha vida."
+  }
+ ]
+}

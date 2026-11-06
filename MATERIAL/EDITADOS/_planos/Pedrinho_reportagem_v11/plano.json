@@ -1,0 +1,185 @@
+{
+ "nome": "Pedrinho_reportagem_v11",
+ "pedido": "lote 30 videos 27/10/2026 - frente B",
+ "angulo": "o curativo e uma compra que nunca termina: compra, usa, acaba e precisa de novo",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (brasileiro), conta paga"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/24631838-sleep-16009.mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "manchete": [
+  "PARA MENINO COM EB, CURATIVO",
+  "É COMPRA QUE NUNCA TERMINA"
+ ],
+ "etiqueta": "R$ 10 ajuda na próxima troca ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Para a família do Pedrinho, o curativo é uma compra que nunca termina.",
+  "OFF2": "Ele tem epidermólise bolhosa. Por causa das feridas abertas, a troca agora é feita duas vezes por dia.",
+  "OFF3": "Cada pacote que a mãe abre já começa a acabar.",
+  "OFF4": "A SOS Human Help recebe doações para o próximo estoque de curativos do Pedrinho. Dez reais já ajudam.",
+  "OFF5": "Toque em Saiba mais e ajude a garantir a próxima troca."
+ },
+ "fatos": {
+  "nao e algo que compra e depois nao precisa mais; usa e acaba rapidamente; preciso novamente": "Pedrinho, 20260917_001530.mp4 (17-39 s)",
+  "feridas bem abertas, duas vezes ao dia": "Pedrinho, 20260917_001530.mp4 (10-17 s)",
+  "cuidados passam dos quarenta mil; luta continua": "mae, banco Roteiro 2.mp4 (67-75 s)",
+  "pedindo ajuda pros proximos curativos": "Pedrinho, 20260917_001530.mp4 (41-54 s)",
+  "quem Deus tocar no coracao de ajudar": "Pedrinho, 20260917_001530.mp4 (70-78 s)",
+  "R$10": "padrao dos pedidos (brief do lote)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240402_095732.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     21.44,
+     22.46
+    ],
+    [
+     23.94,
+     25.28
+    ],
+    [
+     28.22,
+     29.6
+    ],
+    [
+     31.06,
+     33.18
+    ],
+    [
+     35.64,
+     38.6
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     150.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cortes": [
+    [
+     67.38,
+     71.5
+    ],
+    [
+     73.6,
+     74.2
+    ]
+   ],
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos do filho"
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     232.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     41.84,
+     42.28
+    ],
+    [
+     43.5,
+     45.14
+    ],
+    [
+     46.1,
+     46.3
+    ],
+    [
+     47.92,
+     48.68
+    ],
+    [
+     49.42,
+     53.16
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     12.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     70.88,
+     72.88
+    ],
+    [
+     75.54,
+     77.98
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/IMG-20241205-WA0070.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 27\\PEB 117 - REPORTAGEM.mp4"
+}

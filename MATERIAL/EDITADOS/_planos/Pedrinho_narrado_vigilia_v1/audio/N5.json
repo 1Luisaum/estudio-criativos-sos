@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e fique ao lado dessa mãe.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.418
+  },
+  {
+   "text": "em",
+   "start": 0.441,
+   "end": 0.499
+  },
+  {
+   "text": "Saiba",
+   "start": 0.592,
+   "end": 0.987
+  },
+  {
+   "text": "mais",
+   "start": 1.045,
+   "end": 1.474
+  },
+  {
+   "text": "e",
+   "start": 1.602,
+   "end": 1.683
+  },
+  {
+   "text": "fique",
+   "start": 1.741,
+   "end": 1.974
+  },
+  {
+   "text": "ao",
+   "start": 2.009,
+   "end": 2.078
+  },
+  {
+   "text": "lado",
+   "start": 2.125,
+   "end": 2.38
+  },
+  {
+   "text": "dessa",
+   "start": 2.426,
+   "end": 2.635
+  },
+  {
+   "text": "mãe.",
+   "start": 2.682,
+   "end": 2.956
+  }
+ ]
+}

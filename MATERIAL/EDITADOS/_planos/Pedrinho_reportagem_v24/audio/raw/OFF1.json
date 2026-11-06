@@ -1,0 +1,95 @@
+{
+ "text": "Ele conhece a regra. A família também. O problema começa quando a regra encontra a falta de material.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "conhece",
+   "start": 0.255,
+   "end": 0.708
+  },
+  {
+   "text": "a",
+   "start": 0.743,
+   "end": 0.766
+  },
+  {
+   "text": "regra.",
+   "start": 0.824,
+   "end": 1.324
+  },
+  {
+   "text": "A",
+   "start": 1.498,
+   "end": 1.556
+  },
+  {
+   "text": "família",
+   "start": 1.637,
+   "end": 2.02
+  },
+  {
+   "text": "também.",
+   "start": 2.078,
+   "end": 2.485
+  },
+  {
+   "text": "O",
+   "start": 2.694,
+   "end": 2.763
+  },
+  {
+   "text": "problema",
+   "start": 2.844,
+   "end": 3.239
+  },
+  {
+   "text": "começa",
+   "start": 3.286,
+   "end": 3.808
+  },
+  {
+   "text": "quando",
+   "start": 3.866,
+   "end": 4.133
+  },
+  {
+   "text": "a",
+   "start": 4.168,
+   "end": 4.203
+  },
+  {
+   "text": "regra",
+   "start": 4.284,
+   "end": 4.632
+  },
+  {
+   "text": "encontra",
+   "start": 4.656,
+   "end": 5.201
+  },
+  {
+   "text": "a",
+   "start": 5.224,
+   "end": 5.248
+  },
+  {
+   "text": "falta",
+   "start": 5.364,
+   "end": 5.724
+  },
+  {
+   "text": "de",
+   "start": 5.782,
+   "end": 5.851
+  },
+  {
+   "text": "material.",
+   "start": 5.909,
+   "end": 6.827
+  }
+ ]
+}

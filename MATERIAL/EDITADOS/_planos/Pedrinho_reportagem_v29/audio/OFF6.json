@@ -1,0 +1,70 @@
+{
+ "text": "A SOS Human Help reúne doações para esses cuidados. Dez reais já somam.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "SOS",
+   "start": 0.232,
+   "end": 0.998
+  },
+  {
+   "text": "Human",
+   "start": 1.057,
+   "end": 1.335
+  },
+  {
+   "text": "Help",
+   "start": 1.405,
+   "end": 1.695
+  },
+  {
+   "text": "reúne",
+   "start": 1.776,
+   "end": 2.159
+  },
+  {
+   "text": "doações",
+   "start": 2.206,
+   "end": 2.74
+  },
+  {
+   "text": "para",
+   "start": 2.798,
+   "end": 3.007
+  },
+  {
+   "text": "esses",
+   "start": 3.065,
+   "end": 3.297
+  },
+  {
+   "text": "cuidados.",
+   "start": 3.344,
+   "end": 3.967
+  },
+  {
+   "text": "Dez",
+   "start": 3.989,
+   "end": 4.291
+  },
+  {
+   "text": "reais",
+   "start": 4.373,
+   "end": 4.709
+  },
+  {
+   "text": "já",
+   "start": 4.744,
+   "end": 4.883
+  },
+  {
+   "text": "somam.",
+   "start": 4.953,
+   "end": 5.382
+  }
+ ]
+}

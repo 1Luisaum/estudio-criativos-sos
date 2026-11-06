@@ -1,0 +1,177 @@
+{
+ "nome": "Pedrinho_atadura_v1",
+ "pedido": "27/10/2026: modelar os 8 s de gancho do anuncio 1669162520799709 (UNICEF Brasil, 'Isso pode parecer um simples sache') e depois uma edicao bem simples no estilo Cortes com lettering",
+ "angulo": "parece uma simples atadura, mas e o que protege a pele e alivia as dores; o curativo acaba rapido e cada atadura e cada gaze custa caro",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+ "transcript": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music_start": 8.3,
+ "face": [
+  480,
+  240
+ ],
+ "segments": [
+  {
+   "in": 4.57,
+   "out": 5.48,
+   "zoom": "Z1",
+   "txt": "A minha mamãe,"
+  },
+  {
+   "in": 5.85,
+   "out": 9.78,
+   "zoom": "Z2",
+   "txt": "ela precisa fazer os meus curativos todos os dias."
+  },
+  {
+   "in": 12.55,
+   "out": 14.66,
+   "zoom": "Z3",
+   "txt": "por conta dos ferimentos bem abertos,"
+  },
+  {
+   "in": 15.19,
+   "out": 16.94,
+   "zoom": "ZF",
+   "txt": "duas vezes ao dia."
+  },
+  {
+   "in": 21.41,
+   "out": 23.02,
+   "zoom": "Z1",
+   "txt": "Não é algo que compra"
+  },
+  {
+   "in": 23.91,
+   "out": 25.68,
+   "zoom": "Z2",
+   "txt": "e depois não precisa mais."
+  },
+  {
+   "in": 28.19,
+   "out": 30.38,
+   "txt": "A gente usa curativo,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 268.0
+    }
+   ]
+  },
+  {
+   "in": 31.03,
+   "out": 34.14,
+   "txt": "e logo depois acaba rapidamente.",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 305.0
+    }
+   ]
+  },
+  {
+   "in": 65.25,
+   "out": 66.94,
+   "zoom": "Z3",
+   "txt": "Os custos são muito altos,",
+   "fix": {
+    "ALTO": "ALTOS"
+   }
+  },
+  {
+   "in": 67.13,
+   "out": 68.8,
+   "txt": "de cada atadura,",
+   "broll": [
+    {
+     "src": "crepe bandagem.png"
+    }
+   ]
+  },
+  {
+   "in": 69.19,
+   "out": 70.48,
+   "txt": "de cada gaze.",
+   "broll": [
+    {
+     "src": "GAZE.png"
+    }
+   ],
+   "fix": {
+    "GAZES": "GAZE"
+   }
+  },
+  {
+   "in": 79.57,
+   "out": 82.38,
+   "zoom": "ZF",
+   "txt": "Dois reais, três reais, cinco reais,"
+  },
+  {
+   "in": 84.45,
+   "out": 85.83,
+   "zoom": "Z1",
+   "txt": "o que importa é"
+  },
+  {
+   "in": 86.43,
+   "out": 87.94,
+   "zoom": "Z2",
+   "txt": "ajudar nas minhas dores"
+  },
+  {
+   "in": 88.01,
+   "out": 89.54,
+   "txt": "a dar uma aliviada.",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 5.0
+    }
+   ]
+  },
+  {
+   "in": 90.19,
+   "out": 92.22,
+   "zoom": "Z3",
+   "txt": "Seja um anjo na minha vida."
+  }
+ ],
+ "fix": {
+  "DOIS": "2",
+  "TRÊS": "3",
+  "CINCO": "5"
+ },
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "DORES",
+  "ATADURA",
+  "GAZE",
+  "CUSTOS",
+  "ANJO",
+  "5"
+ ],
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_45_55.png",
+  "texto_do_lettering": "R$ 5,00 PODEM LEVAR ALÍVIO PRO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260824_182501.mp4",
+  "start": 20.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "hook": [],
+ "caption_y": 950,
+ "fatos": {
+  "curativo/atadura protege a pele e alivia as dores": "Pedrinho, roteiro 7.mp4 ('com os meus curativos, alivia bastante as minhas dores'); 20260917_000819.mp4 (o curativo protege)",
+  "mãe faz os curativos todos os dias, duas vezes ao dia, ferimentos abertos": "Pedrinho, 20260917_001530.mp4, 4-17 s",
+  "curativo acaba rápido": "Pedrinho, 20260917_001530.mp4, 21-34 s",
+  "custo de cada atadura e de cada gaze": "Pedrinho, 20260917_001530.mp4, 65-70 s",
+  "R$5 (lettering)": "Pedrinho, 20260917_001530.mp4, 79-82 s ('dois reais, três reais, cinco reais')"
+ }
+}

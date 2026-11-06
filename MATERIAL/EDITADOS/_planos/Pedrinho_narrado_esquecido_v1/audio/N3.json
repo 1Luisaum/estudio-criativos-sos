@@ -1,0 +1,45 @@
+{
+ "text": "Ele não precisa de pena. Precisa de gaze.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "não",
+   "start": 0.244,
+   "end": 0.372
+  },
+  {
+   "text": "precisa",
+   "start": 0.418,
+   "end": 0.778
+  },
+  {
+   "text": "de",
+   "start": 0.824,
+   "end": 0.894
+  },
+  {
+   "text": "pena.",
+   "start": 0.964,
+   "end": 1.32
+  },
+  {
+   "text": "Precisa",
+   "start": 1.32,
+   "end": 1.689
+  },
+  {
+   "text": "de",
+   "start": 1.747,
+   "end": 1.828
+  },
+  {
+   "text": "gáze.",
+   "start": 1.898,
+   "end": 2.486
+  }
+ ]
+}

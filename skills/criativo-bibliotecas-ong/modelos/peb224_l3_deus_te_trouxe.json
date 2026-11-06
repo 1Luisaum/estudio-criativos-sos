@@ -1,0 +1,159 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\florisbela_2388547078640410.mp4",
+ "estilo": "BIB L3 DEUS TE TROUXE",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151715.mp4",
+   "ini": 1.7,
+   "fim": 7.2,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 1.65,
+   "fim": 6.2,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 7.55,
+   "fim": 9.95,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 10.5,
+   "fim": 14.55,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 23.7,
+   "fim": 26.6,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 26.95,
+   "fim": 27.95,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 28.4,
+   "fim": 30.6,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 34.75,
+   "fim": 37.35,
+   "som": true
+  }
+ ],
+ "broll": [
+  [
+   5.5,
+   10.05,
+   "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   2
+  ],
+  [
+   10.05,
+   12.45,
+   "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   3
+  ],
+  [
+   12.45,
+   16.5,
+   "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   1
+  ],
+  [
+   16.5,
+   19.4,
+   "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   1
+  ],
+  [
+   19.4,
+   20.4,
+   "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+   1
+  ],
+  [
+   20.4,
+   22.6,
+   "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   0
+  ]
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 5.5,
+   "linhas": [
+    "Deus te trouxe aqui, ajude",
+    "o Pedrinho, os curativos",
+    "dele estão acabando."
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 46,
+   "y": 413,
+   "pad": [
+    26,
+    10
+   ],
+   "lh": 1.08,
+   "fonte": "medium"
+  },
+  {
+   "de": 5.5,
+   "ate": 22.6,
+   "linhas": [
+    "qualquer valor ajuda nos curativos,",
+    "Deus te dê em dobro. ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 42,
+   "y": 432,
+   "pad": [
+    24,
+    10
+   ],
+   "lh": 1.08,
+   "fonte": "medium"
+  }
+ ],
+ "legenda": {
+  "estilo": "pequena",
+  "y": 1200,
+  "size": 46,
+  "contorno": 2
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.4,
+  "de": 23.6
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Florisbela 2388 - Deus te trouxe aqui (fundo sem voz).mp3",
+ "musica_volume": 1.531,
+ "modelo": {
+  "id": "peb224_l3_deus_te_trouxe",
+  "exemplo": "PEB 224",
+  "descricao": "Florisbela 2388547078640410: mesmo molde do PEB 204, com a musica do anuncio (separada da voz)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2388547078640410",
+  "titulo": "Deus te trouxe aqui (música do anúncio)"
+ }
+}

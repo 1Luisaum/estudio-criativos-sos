@@ -1,0 +1,15 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Virar na cama. Pra ele, até isso machuca.",
+  "N2": "Uma ferida aberta no ombro. Durante a noite, a casca grudou na almofada.",
+  "N3": "De manhã, não teve outro jeito.",
+  "N4": "Cada camada de gaze com pomada vira uma armadura pra pele dele.",
+  "N5": "A pele dele não aguenta nem a almofada. A fé dele aguenta tudo.",
+  "N6": "Deixe aqui nos comentários uma palavra de força pro Pedrinho. E salve esse vídeo."
+ },
+ "efeitos": {
+  "boom": {"text": "deep cinematic boom impact hit, dark trailer, short tail", "dur": 2.0},
+  "whoosh": {"text": "fast soft cinematic whoosh transition", "dur": 0.8}
+ }
+}

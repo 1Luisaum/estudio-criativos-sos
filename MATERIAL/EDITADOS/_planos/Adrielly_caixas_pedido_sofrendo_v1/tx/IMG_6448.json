@@ -1,0 +1,198 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "O meu próprio corpo quer me destruir e quem deveria me proteger não consegue",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.4,
+   "end": 0.48,
+   "type": "word",
+   "logprob": -0.00011824862303910777
+  },
+  {
+   "text": " ",
+   "start": 0.48,
+   "end": 0.54,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "meu",
+   "start": 0.54,
+   "end": 0.7,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 0.7,
+   "end": 0.8,
+   "type": "spacing",
+   "logprob": -2.455681169521995e-05
+  },
+  {
+   "text": "próprio",
+   "start": 0.8,
+   "end": 1.24,
+   "type": "word",
+   "logprob": -2.455681169521995e-05
+  },
+  {
+   "text": " ",
+   "start": 1.24,
+   "end": 1.36,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "corpo",
+   "start": 1.36,
+   "end": 1.94,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 1.94,
+   "end": 2.22,
+   "type": "spacing",
+   "logprob": -3.0397906812140718e-05
+  },
+  {
+   "text": "quer",
+   "start": 2.22,
+   "end": 2.4,
+   "type": "word",
+   "logprob": -3.0397906812140718e-05
+  },
+  {
+   "text": " ",
+   "start": 2.4,
+   "end": 2.44,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "me",
+   "start": 2.44,
+   "end": 2.56,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 2.56,
+   "end": 2.6,
+   "type": "spacing",
+   "logprob": -0.006741517689079046
+  },
+  {
+   "text": "destruir",
+   "start": 2.6,
+   "end": 3.22,
+   "type": "word",
+   "logprob": -0.006741517689079046
+  },
+  {
+   "text": " ",
+   "start": 3.22,
+   "end": 3.22,
+   "type": "spacing",
+   "logprob": -0.0004764852055814117
+  },
+  {
+   "text": "e",
+   "start": 3.82,
+   "end": 3.88,
+   "type": "word",
+   "logprob": -0.0004764852055814117
+  },
+  {
+   "text": " ",
+   "start": 3.88,
+   "end": 3.98,
+   "type": "spacing",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": "quem",
+   "start": 3.98,
+   "end": 4.18,
+   "type": "word",
+   "logprob": -3.099436753473128e-06
+  },
+  {
+   "text": " ",
+   "start": 4.18,
+   "end": 4.24,
+   "type": "spacing",
+   "logprob": -2.586808113846928e-05
+  },
+  {
+   "text": "deveria",
+   "start": 4.24,
+   "end": 4.78,
+   "type": "word",
+   "logprob": -2.586808113846928e-05
+  },
+  {
+   "text": " ",
+   "start": 4.78,
+   "end": 4.82,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 4.82,
+   "end": 4.92,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.92,
+   "end": 5.0,
+   "type": "spacing",
+   "logprob": -5.721882189391181e-05
+  },
+  {
+   "text": "proteger",
+   "start": 5.0,
+   "end": 5.78,
+   "type": "word",
+   "logprob": -5.721882189391181e-05
+  },
+  {
+   "text": " ",
+   "start": 5.78,
+   "end": 6.34,
+   "type": "spacing",
+   "logprob": -0.0380423329770565
+  },
+  {
+   "text": "não",
+   "start": 6.34,
+   "end": 6.5,
+   "type": "word",
+   "logprob": -0.0380423329770565
+  },
+  {
+   "text": " ",
+   "start": 6.5,
+   "end": 6.56,
+   "type": "spacing",
+   "logprob": -7.748573807475623e-06
+  },
+  {
+   "text": "consegue",
+   "start": 6.56,
+   "end": 7.34,
+   "type": "word",
+   "logprob": -7.748573807475623e-06
+  }
+ ],
+ "transcription_id": "tkhiOACVrMFlzilu1I2a",
+ "audio_duration_secs": 8.1316875
+}

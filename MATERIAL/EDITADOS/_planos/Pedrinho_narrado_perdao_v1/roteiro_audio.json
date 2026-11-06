@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Uma mãe pedindo desculpa por pedir ajuda. Não para ela. Para o filho.",
+  "N2": "Cada troca de curativo sai das mãos dela. Cuidado nunca faltou nessa casa. Dinheiro, sim.",
+  "N3": "Perdão de quê? De pedir atadura para o próprio filho? De amar uma criança que sente dor todos os dias?",
+  "N4": "Quem ama desse jeito não deve perdão a ninguém.",
+  "N5": "Clique em Saiba mais e diga a essa mãe que ela não precisa se desculpar. Pela SOS Human Help, o seu gesto entra nessa casa."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

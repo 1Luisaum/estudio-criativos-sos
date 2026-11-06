@@ -1,0 +1,198 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Eu não escolhi viver assim. Antes de pular esse vídeo, me dá uma chance?",
+ "words": [
+  {
+   "text": "Eu",
+   "start": 0.5,
+   "end": 0.64,
+   "type": "word",
+   "logprob": -0.0005937243695370853
+  },
+  {
+   "text": " ",
+   "start": 0.64,
+   "end": 0.72,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "não",
+   "start": 0.72,
+   "end": 0.92,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 0.92,
+   "end": 0.96,
+   "type": "spacing",
+   "logprob": -8.618460560683161e-05
+  },
+  {
+   "text": "escolhi",
+   "start": 0.96,
+   "end": 1.68,
+   "type": "word",
+   "logprob": -6.196914984814481e-05
+  },
+  {
+   "text": " ",
+   "start": 1.68,
+   "end": 2.0,
+   "type": "spacing",
+   "logprob": -1.9788545614574105e-05
+  },
+  {
+   "text": "viver",
+   "start": 2.0,
+   "end": 2.34,
+   "type": "word",
+   "logprob": -1.9788545614574105e-05
+  },
+  {
+   "text": " ",
+   "start": 2.34,
+   "end": 2.4,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "assim.",
+   "start": 2.4,
+   "end": 2.84,
+   "type": "word",
+   "logprob": -5.662361076019806e-06
+  },
+  {
+   "text": " ",
+   "start": 2.84,
+   "end": 2.84,
+   "type": "spacing",
+   "logprob": -6.627816765103489e-05
+  },
+  {
+   "text": "Antes",
+   "start": 3.56,
+   "end": 3.92,
+   "type": "word",
+   "logprob": -6.627816765103489e-05
+  },
+  {
+   "text": " ",
+   "start": 3.92,
+   "end": 3.96,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "de",
+   "start": 3.96,
+   "end": 4.04,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 4.04,
+   "end": 4.16,
+   "type": "spacing",
+   "logprob": -4.053033626405522e-05
+  },
+  {
+   "text": "pular",
+   "start": 4.16,
+   "end": 4.46,
+   "type": "word",
+   "logprob": -2.8991262661293148e-05
+  },
+  {
+   "text": " ",
+   "start": 4.46,
+   "end": 4.52,
+   "type": "spacing",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": "esse",
+   "start": 4.52,
+   "end": 4.82,
+   "type": "word",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": " ",
+   "start": 4.82,
+   "end": 4.86,
+   "type": "spacing",
+   "logprob": -8.702239938429557e-06
+  },
+  {
+   "text": "vídeo,",
+   "start": 4.86,
+   "end": 5.36,
+   "type": "word",
+   "logprob": -1.1900964030549707e-05
+  },
+  {
+   "text": " ",
+   "start": 5.36,
+   "end": 5.36,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 5.92,
+   "end": 6.04,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 6.04,
+   "end": 6.08,
+   "type": "spacing",
+   "logprob": -9.894321920000948e-06
+  },
+  {
+   "text": "dá",
+   "start": 6.08,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -9.894321920000948e-06
+  },
+  {
+   "text": " ",
+   "start": 6.26,
+   "end": 6.3,
+   "type": "spacing",
+   "logprob": -0.0002101439022226259
+  },
+  {
+   "text": "uma",
+   "start": 6.3,
+   "end": 6.5,
+   "type": "word",
+   "logprob": -0.0002101439022226259
+  },
+  {
+   "text": " ",
+   "start": 6.5,
+   "end": 6.56,
+   "type": "spacing",
+   "logprob": -2.2291887944447808e-05
+  },
+  {
+   "text": "chance?",
+   "start": 6.56,
+   "end": 7.22,
+   "type": "word",
+   "logprob": -0.007149877079167969
+  }
+ ],
+ "transcription_id": "NIQi2Bq1b9BYaB3mk5Jw",
+ "audio_duration_secs": 8.1
+}

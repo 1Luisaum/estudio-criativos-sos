@@ -1,0 +1,50 @@
+{
+ "text": "Um obrigado desses diz muito sobre quem está pedindo.",
+ "words": [
+  {
+   "text": "Um",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "obrigado",
+   "start": 0.197,
+   "end": 0.639
+  },
+  {
+   "text": "desses",
+   "start": 0.697,
+   "end": 0.987
+  },
+  {
+   "text": "diz",
+   "start": 1.022,
+   "end": 1.196
+  },
+  {
+   "text": "muito",
+   "start": 1.289,
+   "end": 1.753
+  },
+  {
+   "text": "sobre",
+   "start": 3.123,
+   "end": 3.506
+  },
+  {
+   "text": "quem",
+   "start": 3.553,
+   "end": 3.796
+  },
+  {
+   "text": "está",
+   "start": 3.866,
+   "end": 4.122
+  },
+  {
+   "text": "pedindo.",
+   "start": 4.214,
+   "end": 5.155
+  }
+ ]
+}

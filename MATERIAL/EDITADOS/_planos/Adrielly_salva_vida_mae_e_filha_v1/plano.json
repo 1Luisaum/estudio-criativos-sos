@@ -1,0 +1,44 @@
+{
+ "nome": "Adrielly_salva_vida_mae_e_filha_v1",
+ "referencia": "Ampara Brasil, anuncio 1473150411323796 (copia do formato)",
+ "valor": "R$10,00",
+ "pedido": "SALVA VIDA AJUDE A ADRIELLY❤️",
+ "topo_y": 180,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647.mp3",
+ "transicao": 0.6,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Image 2026-07-07 at 19.31.32.jpeg",
+   "dur": 5.5
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "start": 20.0,
+   "dur": 5.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+   "start": 50.0,
+   "dur": 5.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/ADERIELLY CRIANÇA.png",
+   "dur": 5.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+   "start": 3.0,
+   "dur": 5.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/wmremove-transformed.jpg",
+   "dur": 5.5
+  }
+ ],
+ "fatos": {
+  "R$10": "ela pede cinco ou dez reais (IMG_4205, IMG_4493, IMG_4740)",
+  "cenas": "banco da Adrielly: ela na cama, a mãe cuidando, curativo (versão P&B tratada), criança com a mãe, fisioterapia, as duas no sofá"
+ },
+ "modelo": "criativo-salva-vida-ong (Pedrinho_salva_vida_v1), adaptado para a Adrielly",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 43\\AEB 46 - SALVA VIDA.mp4"
+}

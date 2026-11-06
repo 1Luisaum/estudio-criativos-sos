@@ -1,0 +1,95 @@
+{
+ "text": "Quatro a cinco horas por dia. Faixa por faixa, ferida por ferida, até o corpo inteiro estar coberto.",
+ "words": [
+  {
+   "text": "Quatro",
+   "start": 0.0,
+   "end": 0.604
+  },
+  {
+   "text": "a",
+   "start": 0.673,
+   "end": 0.72
+  },
+  {
+   "text": "cinco",
+   "start": 0.766,
+   "end": 1.126
+  },
+  {
+   "text": "horas",
+   "start": 1.149,
+   "end": 1.37
+  },
+  {
+   "text": "por",
+   "start": 1.44,
+   "end": 1.567
+  },
+  {
+   "text": "dia.",
+   "start": 1.614,
+   "end": 2.009
+  },
+  {
+   "text": "Faixa",
+   "start": 2.345,
+   "end": 2.682
+  },
+  {
+   "text": "por",
+   "start": 2.728,
+   "end": 2.856
+  },
+  {
+   "text": "faixa,",
+   "start": 2.914,
+   "end": 3.529
+  },
+  {
+   "text": "ferida",
+   "start": 3.576,
+   "end": 3.901
+  },
+  {
+   "text": "por",
+   "start": 3.947,
+   "end": 4.063
+  },
+  {
+   "text": "ferida,",
+   "start": 4.11,
+   "end": 4.772
+  },
+  {
+   "text": "até",
+   "start": 5.108,
+   "end": 5.41
+  },
+  {
+   "text": "o",
+   "start": 5.48,
+   "end": 5.503
+  },
+  {
+   "text": "corpo",
+   "start": 5.573,
+   "end": 5.828
+  },
+  {
+   "text": "inteiro",
+   "start": 5.863,
+   "end": 6.351
+  },
+  {
+   "text": "estar",
+   "start": 6.374,
+   "end": 6.536
+  },
+  {
+   "text": "coberto.",
+   "start": 6.571,
+   "end": 7.43
+  }
+ ]
+}

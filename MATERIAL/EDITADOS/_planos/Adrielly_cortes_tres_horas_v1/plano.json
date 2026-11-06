@@ -1,0 +1,205 @@
+{
+ "nome": "Adrielly_cortes_tres_horas_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5487.MOV",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 0.0,
+ "face": [
+  487,
+  762
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    487,
+    1062
+   ]
+  },
+  "Z2": {
+   "z": 1.25,
+   "center": [
+    487,
+    1062
+   ]
+  },
+  "Z3": {
+   "z": 1.38,
+   "center": [
+    487,
+    1062
+   ]
+  },
+  "ZF": {
+   "z": 1.52,
+   "center": [
+    487,
+    1062
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 11.98,
+   "out": 14.42,
+   "txt": "Eu faço os meus curativos"
+  },
+  {
+   "in": 14.78,
+   "out": 16.22,
+   "txt": "todos os dias."
+  },
+  {
+   "in": 16.46,
+   "out": 17.92,
+   "txt": "Demora em cerca"
+  },
+  {
+   "in": 18.3,
+   "out": 21.02,
+   "txt": "de três horas, mais ou menos."
+  },
+  {
+   "in": 21.46,
+   "out": 23.1,
+   "txt": "Isto vai depender",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_jpg_do_heic/IMG_0403.jpg"
+    }
+   ]
+  },
+  {
+   "in": 23.46,
+   "out": 25.28,
+   "txt": "de uma série de coisas,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/2f3b8216-748b-4056-b13d-07519ca2a469.jpg"
+    }
+   ]
+  },
+  {
+   "in": 25.82,
+   "out": 29.84,
+   "txt": "dentre elas, de como estão as lesões,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_jpg_do_heic/IMG_0404.jpg"
+    }
+   ]
+  },
+  {
+   "in": 30.48,
+   "out": 33.1,
+   "txt": "se estão pregado na roupa",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/adriellyheloisalima_1778176743_3891950279558008966_7297282086.jpg"
+    }
+   ]
+  },
+  {
+   "in": 33.66,
+   "out": 35.04,
+   "txt": "ou na faixa.",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/9f6780ad-a7a6-4d5b-89c1-a97ff2d3dac1.jpg"
+    }
+   ]
+  },
+  {
+   "in": 35.56,
+   "out": 36.76,
+   "txt": "Então,"
+  },
+  {
+   "in": 37.22,
+   "out": 40.76,
+   "txt": "tem que desapregar embaixo d'água."
+  },
+  {
+   "in": 60.22,
+   "out": 61.88,
+   "txt": "E dói muito, gente.",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 16.0
+    }
+   ]
+  },
+  {
+   "in": 62.48,
+   "out": 64.96,
+   "txt": "É uma dor muito intensa",
+   "zoom": "ZF"
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "DOR",
+  "LESÕES",
+  "TRÊS",
+  "HORAS",
+  "INTENSA"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ASSISTE ATÉ O FIM"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "O CURATIVO DA",
+    "ADRIELLY LEVA",
+    "*3 HORAS* TODO DIA"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+  "start": 4.2,
+  "lines": [
+   "ALIVIE AS 3 HORAS",
+   "DE DOR DA ADRIELLY"
+  ],
+  "dur": 3.4,
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "PODEM ALIVIAR A DOR DA",
+    64
+   ],
+   [
+    "ADRIELLY GUERREIRA!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "curativo todo dia, cerca de 3 horas, desapregar embaixo d'água, dor intensa": "IMG_5487 (12-65 s)",
+  "R$10": "ela pede cinco ou dez reais (IMG_4205, IMG_4493, IMG_4740)"
+ },
+ "modelo": "edicao-criativo-ong (Pedrinho_5horas_v1), adaptado para a Adrielly",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 41\\AEB 34 - CORTES COM GANCHO.mp4"
+}

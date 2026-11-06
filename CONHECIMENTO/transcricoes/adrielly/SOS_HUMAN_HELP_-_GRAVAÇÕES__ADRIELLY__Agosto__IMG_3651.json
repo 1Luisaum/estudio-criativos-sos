@@ -1,0 +1,408 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Gente, eu pedi ajuda a SOS porque eu não aguento mais sentir tanta dor. Me ajuda a conseguir os meus curativos? Aqui é só eu mais a minha mãe",
+ "words": [
+  {
+   "text": "Gente,",
+   "start": 0.28,
+   "end": 0.82,
+   "type": "word",
+   "logprob": -0.0004875576811779562
+  },
+  {
+   "text": " ",
+   "start": 0.82,
+   "end": 1.14,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "eu",
+   "start": 1.14,
+   "end": 1.26,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 1.26,
+   "end": 1.3,
+   "type": "spacing",
+   "logprob": -6.508615479106084e-05
+  },
+  {
+   "text": "pedi",
+   "start": 1.3,
+   "end": 1.6,
+   "type": "word",
+   "logprob": -6.508615479106084e-05
+  },
+  {
+   "text": " ",
+   "start": 1.6,
+   "end": 1.74,
+   "type": "spacing",
+   "logprob": -4.494089080253616e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 1.74,
+   "end": 2.28,
+   "type": "word",
+   "logprob": -4.494089080253616e-05
+  },
+  {
+   "text": " ",
+   "start": 2.28,
+   "end": 2.6,
+   "type": "spacing",
+   "logprob": -0.02325732633471489
+  },
+  {
+   "text": "a",
+   "start": 2.6,
+   "end": 2.74,
+   "type": "word",
+   "logprob": -0.02325732633471489
+  },
+  {
+   "text": " ",
+   "start": 2.74,
+   "end": 2.98,
+   "type": "spacing",
+   "logprob": -0.0029130426701158285
+  },
+  {
+   "text": "SOS",
+   "start": 2.98,
+   "end": 3.62,
+   "type": "word",
+   "logprob": -0.0029130426701158285
+  },
+  {
+   "text": " ",
+   "start": 3.62,
+   "end": 4.14,
+   "type": "spacing",
+   "logprob": -0.007645629812031984
+  },
+  {
+   "text": "porque",
+   "start": 4.14,
+   "end": 4.42,
+   "type": "word",
+   "logprob": -0.007645629812031984
+  },
+  {
+   "text": " ",
+   "start": 4.42,
+   "end": 4.46,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "eu",
+   "start": 4.46,
+   "end": 4.58,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 4.58,
+   "end": 4.68,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "não",
+   "start": 4.68,
+   "end": 4.86,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 4.86,
+   "end": 4.98,
+   "type": "spacing",
+   "logprob": -0.0015260252403095365
+  },
+  {
+   "text": "aguento",
+   "start": 4.98,
+   "end": 5.36,
+   "type": "word",
+   "logprob": -0.0004887128036768575
+  },
+  {
+   "text": " ",
+   "start": 5.36,
+   "end": 5.42,
+   "type": "spacing",
+   "logprob": -9.703165414975956e-05
+  },
+  {
+   "text": "mais",
+   "start": 5.42,
+   "end": 5.98,
+   "type": "word",
+   "logprob": -9.703165414975956e-05
+  },
+  {
+   "text": " ",
+   "start": 5.98,
+   "end": 6.3,
+   "type": "spacing",
+   "logprob": -0.0002053765201708302
+  },
+  {
+   "text": "sentir",
+   "start": 6.3,
+   "end": 6.7,
+   "type": "word",
+   "logprob": -0.0002053765201708302
+  },
+  {
+   "text": " ",
+   "start": 6.7,
+   "end": 6.76,
+   "type": "spacing",
+   "logprob": -2.372236667724792e-05
+  },
+  {
+   "text": "tanta",
+   "start": 6.76,
+   "end": 7.1,
+   "type": "word",
+   "logprob": -2.372236667724792e-05
+  },
+  {
+   "text": " ",
+   "start": 7.1,
+   "end": 7.16,
+   "type": "spacing",
+   "logprob": -1.8000440832111053e-05
+  },
+  {
+   "text": "dor.",
+   "start": 7.16,
+   "end": 7.42,
+   "type": "word",
+   "logprob": -1.3619539885212362e-05
+  },
+  {
+   "text": " ",
+   "start": 7.42,
+   "end": 7.42,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "Me",
+   "start": 8.4,
+   "end": 8.52,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 8.52,
+   "end": 8.68,
+   "type": "spacing",
+   "logprob": -3.3378044463461265e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 8.68,
+   "end": 9.2,
+   "type": "word",
+   "logprob": -3.3378044463461265e-05
+  },
+  {
+   "text": " ",
+   "start": 9.2,
+   "end": 9.48,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 9.48,
+   "end": 9.54,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 9.54,
+   "end": 9.58,
+   "type": "spacing",
+   "logprob": -6.460934673668817e-05
+  },
+  {
+   "text": "conseguir",
+   "start": 9.58,
+   "end": 10.1,
+   "type": "word",
+   "logprob": -6.460934673668817e-05
+  },
+  {
+   "text": " ",
+   "start": 10.1,
+   "end": 10.12,
+   "type": "spacing",
+   "logprob": -0.0018120075110346079
+  },
+  {
+   "text": "os",
+   "start": 10.12,
+   "end": 10.2,
+   "type": "word",
+   "logprob": -0.0018120075110346079
+  },
+  {
+   "text": " ",
+   "start": 10.2,
+   "end": 10.24,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "meus",
+   "start": 10.24,
+   "end": 10.5,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 10.5,
+   "end": 10.54,
+   "type": "spacing",
+   "logprob": -1.2874520507466514e-05
+  },
+  {
+   "text": "curativos?",
+   "start": 10.54,
+   "end": 11.46,
+   "type": "word",
+   "logprob": -0.016032719553459175
+  },
+  {
+   "text": " ",
+   "start": 11.46,
+   "end": 11.46,
+   "type": "spacing",
+   "logprob": -4.2199197196168825e-05
+  },
+  {
+   "text": "Aqui",
+   "start": 12.16,
+   "end": 12.54,
+   "type": "word",
+   "logprob": -4.2199197196168825e-05
+  },
+  {
+   "text": " ",
+   "start": 12.54,
+   "end": 12.96,
+   "type": "spacing",
+   "logprob": -0.0004318020073696971
+  },
+  {
+   "text": "é",
+   "start": 12.96,
+   "end": 13.06,
+   "type": "word",
+   "logprob": -0.0004318020073696971
+  },
+  {
+   "text": " ",
+   "start": 13.06,
+   "end": 13.14,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "só",
+   "start": 13.14,
+   "end": 13.34,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 13.34,
+   "end": 13.42,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "eu",
+   "start": 13.42,
+   "end": 13.62,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 13.62,
+   "end": 13.7,
+   "type": "spacing",
+   "logprob": -0.019925901666283607
+  },
+  {
+   "text": "mais",
+   "start": 13.7,
+   "end": 13.94,
+   "type": "word",
+   "logprob": -0.019925901666283607
+  },
+  {
+   "text": " ",
+   "start": 13.94,
+   "end": 13.98,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "a",
+   "start": 13.98,
+   "end": 14.02,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 14.02,
+   "end": 14.08,
+   "type": "spacing",
+   "logprob": -5.709961988031864e-05
+  },
+  {
+   "text": "minha",
+   "start": 14.08,
+   "end": 14.32,
+   "type": "word",
+   "logprob": -5.709961988031864e-05
+  },
+  {
+   "text": " ",
+   "start": 14.32,
+   "end": 14.38,
+   "type": "spacing",
+   "logprob": -2.8609820219571702e-05
+  },
+  {
+   "text": "mãe",
+   "start": 14.38,
+   "end": 14.72,
+   "type": "word",
+   "logprob": -2.8609820219571702e-05
+  }
+ ],
+ "transcription_id": "DHAHDNpI0o2hkuKSwfmP",
+ "audio_duration_secs": 14.9666875
+}

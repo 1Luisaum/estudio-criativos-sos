@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Em julho, o governo negou mais uma vez os curativos da Adrielly.",
+  "N2": "Noventa e cinco por cento do corpo dela é coberto por lesões, por causa da pele de borboleta.",
+  "N3": "O material certo protege as feridas. Sem ele, tudo piora.",
+  "N4": "Negaram o direito dela. Mas não tiraram a força.",
+  "N5": "Enquanto o governo diz não, a SOS Human Help busca os curativos dela. E cada doação de dez reais conta."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

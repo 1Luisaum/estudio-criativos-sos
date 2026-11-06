@@ -1,0 +1,95 @@
+{
+ "text": "Pedrinho nasceu com uma doença rara, que faz a pele formar bolhas e se abrir com quase nada.",
+ "words": [
+  {
+   "text": "Pedrinho",
+   "start": 0.0,
+   "end": 0.499
+  },
+  {
+   "text": "nasceu",
+   "start": 0.534,
+   "end": 0.813
+  },
+  {
+   "text": "com",
+   "start": 0.859,
+   "end": 0.94
+  },
+  {
+   "text": "uma",
+   "start": 1.474,
+   "end": 1.718
+  },
+  {
+   "text": "doença",
+   "start": 1.765,
+   "end": 2.148
+  },
+  {
+   "text": "rara,",
+   "start": 2.194,
+   "end": 2.635
+  },
+  {
+   "text": "que",
+   "start": 2.753,
+   "end": 3.016
+  },
+  {
+   "text": "faz",
+   "start": 3.202,
+   "end": 3.469
+  },
+  {
+   "text": "a",
+   "start": 3.539,
+   "end": 3.589
+  },
+  {
+   "text": "pele",
+   "start": 3.62,
+   "end": 3.829
+  },
+  {
+   "text": "formar",
+   "start": 3.875,
+   "end": 4.166
+  },
+  {
+   "text": "bolhas",
+   "start": 4.247,
+   "end": 4.851
+  },
+  {
+   "text": "e",
+   "start": 4.914,
+   "end": 5.208
+  },
+  {
+   "text": "se",
+   "start": 5.37,
+   "end": 5.579
+  },
+  {
+   "text": "abrir",
+   "start": 5.649,
+   "end": 6.009
+  },
+  {
+   "text": "com",
+   "start": 6.055,
+   "end": 6.206
+  },
+  {
+   "text": "quase",
+   "start": 6.276,
+   "end": 6.543
+  },
+  {
+   "text": "nada.",
+   "start": 6.612,
+   "end": 7.0
+  }
+ ]
+}

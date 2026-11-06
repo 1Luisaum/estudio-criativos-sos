@@ -1,0 +1,35 @@
+{
+ "total": 36.51899999999999,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 5.049999999999999,
+   "texto": "eu enfrento feridas e horas e horas de curativo."
+  },
+  {
+   "nome": "c1",
+   "d": 9.510000000000002,
+   "texto": "a minha mamãe, ela precisa fazer os meus curativos todos os dias. por conta dos ferimentos bem abertos, duas vezes ao dia."
+  },
+  {
+   "nome": "c2",
+   "d": 6.3290000000000015,
+   "texto": "da última vez, minha mãe precisou de cinco horas, pra fazer todo o meu curativo,"
+  },
+  {
+   "nome": "c3",
+   "d": 5.150000000000001,
+   "texto": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "nome": "c4",
+   "d": 5.330000000000008,
+   "texto": "Seja com dois ou cinco reais, não importa o valor, já vai tá ajudando muito"
+  },
+  {
+   "nome": "c5",
+   "d": 5.149999999999977,
+   "texto": "por favor, seja comigo nessa caminhada."
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "nome": "Adrielly_esperanca_v3",
+ "estilo": "Da dor à esperança (Adrielly, frente C, 27/10/2026)",
+ "angulo": "o sabor favorito: esôfago estreito x milkshake de morango",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "tensa_inicio": 0,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/11145955-mesa-10550.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 5,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/f15d09f6-0d63-46fe-ac78-b59130366092_pb.jpg",
+   "look": "pb",
+   "dur": 2.8,
+   "palavras": [
+    [
+     "AS FERIDAS",
+     0.25,
+     "branco",
+     150
+    ],
+    [
+     "CHEGAM ATÉ",
+     0.82,
+     "branco",
+     150
+    ],
+    [
+     "A GARGANTA",
+     1.44,
+     "vermelho",
+     170
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.44
+    ]
+   ],
+   "palavras_y": 1450,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4719.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__LEVA_17.09__IMG_4719.json",
+   "look": "pb",
+   "cortes": [
+    [
+     1.06,
+     5.36
+    ],
+    [
+     5.92,
+     9.3
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Meu sonho não é como o das outras meninas. Eu só queria viver sem chorar de dor"
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "Suplemento Milk shake Xuky coco Bretzke.jpeg"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8511_pb.jpg",
+     "look": "pb"
+    }
+   ],
+   "folga": 0.0
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5780.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5780.json",
+   "look": "cor",
+   "cortes": [
+    [
+     25.04,
+     31.84
+    ],
+    [
+     34.72,
+     35.42
+    ],
+    [
+     35.94,
+     36.6
+    ],
+    [
+     37.22,
+     38.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      760
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Confesso que tenho muita vontade de comer sanduíche, pizza, até o básico, arroz, feijão e a carne."
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4714.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__LEVA_17.09__IMG_4714.json",
+   "look": "cor",
+   "cortes": [
+    [
+     6.24,
+     9.9
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Somos só eu e minha mãe aqui em casa"
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (4).mp4",
+     "start": 2
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ],
+   "folga": 0.0
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5780.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5780.json",
+   "look": "cor",
+   "cortes": [
+    [
+     4.52,
+     11.72
+    ]
+   ],
+   "broll": [
+    {
+     "src": "Suplemento Milk shake morango Apti.jpeg"
+    },
+    {
+     "src": "Adrielly criança.jpg"
+    }
+   ],
+   "txt": "A minha comida favorita é milkshake de morango, ainda mais nesses dias de calor."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (8).mp4",
+     "start": 4
+    },
+    {
+     "src": "80d80d55-6517-4a11-8546-5e6c9fbc1c0b (1).jpg"
+    }
+   ],
+   "folga": 0.0
+  },
+  {
+   "tipo": "fim",
+   "foto": "80d80d55-6517-4a11-8546-5e6c9fbc1c0b (1) (1).png",
+   "dur": 3.6,
+   "linhas": [
+    "A ESPERANÇA DELA",
+    "*PASSA POR VOCÊ*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "lesões até no esôfago/boca": "Quadro clínico (PDF): bolhas na boca e no esôfago; IMG_3707/IMG_4490 (estreitamento)",
+  "comida líquida, triturada, coada": "IMG_3707 (62-79 s), IMG_5780 (12-24 s)",
+  "vontade de comer sanduíche, pizza, arroz, feijão e carne": "IMG_5780 (25-38 s)",
+  "milkshake de morango é a comida favorita": "IMG_5780 (4-12 s)",
+  "só eu e minha mãe": "IMG_4714 (6-10 s)",
+  "sonho de viver sem dor": "IMG_4719",
+  "R$10": "IMG_4205/IMG_4493"
+ },
+ "modelo": "skill criativo-esperanca-ong (exemplo Pedrinho_esperanca_v1), material da Adrielly",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 45\\AEB 55 - DA DOR À ESPERANÇA.mp4",
+ "ajuste_05_11": "pedido do usuário 05/11/2026: marca @juntospelaadrielly; menos cenas em P&B; narrador sem pausas"
+}

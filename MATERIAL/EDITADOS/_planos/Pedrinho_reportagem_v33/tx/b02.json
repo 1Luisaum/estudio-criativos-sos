@@ -1,0 +1,70 @@
+{
+"text": "É, cada um ajuda como pode, né, pa,",
+"words": [
+{
+"text": "É,",
+"start": 0.22,
+"end": 0.22,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.12265262758592144
+},
+{
+"text": "cada",
+"start": 0.3,
+"end": 0.5,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00015662873920518905
+},
+{
+"text": "um",
+"start": 0.6,
+"end": 0.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -9.870042413240299e-05
+},
+{
+"text": "ajuda",
+"start": 0.64,
+"end": 0.9,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.04417094960808754
+},
+{
+"text": "como",
+"start": 0.94,
+"end": 1.2,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.0002644904307089746
+},
+{
+"text": "pode,",
+"start": 1.28,
+"end": 1.66,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.001351026880001882
+},
+{
+"text": "né,",
+"start": 1.72,
+"end": 1.9,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -8.633640512319592e-05
+},
+{
+"text": "pa,",
+"start": 1.96,
+"end": 2.18,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.16874917794484645
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (280.96 a 282.92 s); imagem trocada por b-roll sem boca em movimento"
+}

@@ -1,0 +1,65 @@
+{
+ "total": 57.25152,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.275918,
+   "texto": "Sem soro fisiológico, o banho do Pedrinho é feito com água. E a água arde na pele dele."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 7.160000000000008,
+   "texto": "se não ter um soro fisiológico, a minha mãe vai ter que usar água pra me dar banho,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.098209,
+   "texto": "Ele tem epidermólise bolhosa. Cada troca de curativo precisa de soro, gaze e pomada."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 3.7,
+   "texto": "cada item de curativo é importante em uma troca"
+  },
+  {
+   "nome": "b05",
+   "tipo": "sonora",
+   "d": 4.320000000000012,
+   "texto": "E a água, se ela bater na pele, ela arde e arde muito"
+  },
+  {
+   "nome": "b06",
+   "tipo": "off",
+   "d": 3.821293,
+   "texto": "A mãe dele nunca imaginou que um dia precisaria pedir ajuda."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 5.6400000000000015,
+   "texto": "Infelizmente, precisou de eu vim aqui, pedir uma ajuda pra vocês, pro meu filho,"
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 7.287098,
+   "texto": "A SOS Human Help está arrecadando doações para os curativos do Pedrinho. Quatro reais já ajudam."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 9.05999999999998,
+   "texto": "quatro, cinco reais, dez reais, parece pouco, mas pra mim, é uma nova esperança de um dia sem dor."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.889002,
+   "texto": "Toque em Saiba mais e ajude o Pedrinho a ter um banho sem dor."
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+"text": "Por isso que é muito importante a pomadinha, a pomadinha, né, o gaze tudo, né, pra, pra aliviar.",
+"words": [
+{
+"text": "Por",
+"start": 0.3,
+"end": 0.4,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -5.435795901576057e-05
+},
+{
+"text": "isso",
+"start": 0.44,
+"end": 0.54,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.9550132492440753e-05
+},
+{
+"text": "que",
+"start": 0.56,
+"end": 0.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.311301275563892e-06
+},
+{
+"text": "é",
+"start": 0.68,
+"end": 0.68,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.1920928244535389e-07
+},
+{
+"text": "muito",
+"start": 0.72,
+"end": 0.98,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.2278481335670222e-05
+},
+{
+"text": "importante",
+"start": 1.02,
+"end": 1.44,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.755022044060752e-05
+},
+{
+"text": "a",
+"start": 1.5,
+"end": 1.56,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": 0.0
+},
+{
+"text": "pomadinha,",
+"start": 1.62,
+"end": 2.44,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.002249273747918323
+},
+{
+"text": "a",
+"start": 2.92,
+"end": 3.0,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -3.576278118089249e-07
+},
+{
+"text": "pomadinha,",
+"start": 3.06,
+"end": 3.8,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -2.880010279113776e-05
+},
+{
+"text": "né,",
+"start": 3.86,
+"end": 3.94,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -1.9668961594258388e-05
+},
+{
+"text": "o",
+"start": 4.02,
+"end": 4.08,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -9.536738616588991e-07
+},
+{
+"text": "gaze",
+"start": 4.14,
+"end": 4.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.005135796032845974
+},
+{
+"text": "tudo,",
+"start": 4.68,
+"end": 4.96,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.12827150805460405
+},
+{
+"text": "né,",
+"start": 5.44,
+"end": 5.6,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.1946868896156957
+},
+{
+"text": "pra,",
+"start": 5.68,
+"end": 6.0,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.007677900704948115
+},
+{
+"text": "pra",
+"start": 6.06,
+"end": 6.18,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.02983442321419716
+},
+{
+"text": "aliviar.",
+"start": 6.18,
+"end": 6.9,
+"type": "word",
+"speaker_id": "speaker_0",
+"logprob": -0.00012735894411619597
+}
+],
+"origem": "Um Vídeo Novo pra campanha 💚.mp4 (190.82 a 198.02 s); imagem trocada por b-roll sem boca em movimento"
+}

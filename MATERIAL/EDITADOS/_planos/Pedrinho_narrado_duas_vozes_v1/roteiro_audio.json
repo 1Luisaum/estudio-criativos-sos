@@ -1,0 +1,14 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Cada faixa no corpo do Pedrinho passa pelas mãos da mãe dele. Uma por uma.",
+  "N2": "A pele dele forma bolhas e feridas a cada dia. E o curativo é o que protege essa pele.",
+  "N3": "Cada troca gasta atadura, gaze e pomada que a família não consegue repor.",
+  "N4": "Ela não larga a mão dele. E ele não larga a luta.",
+  "N5": "Com dez reais, essa mãe fica mais perto de não deixar faltar nada para o filho. É só tocar em Saiba mais."
+ },
+ "efeitos": {
+  "boom": {"text": "deep cinematic boom impact hit, dark trailer, short tail", "dur": 2.0},
+  "whoosh": {"text": "fast soft cinematic whoosh transition", "dur": 0.8}
+ }
+}

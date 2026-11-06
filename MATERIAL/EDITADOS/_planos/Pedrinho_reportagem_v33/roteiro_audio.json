@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Sozinha, a família do Pedrinho não alcança a conta dos cuidados. Por isso, ele aprendeu a contar com uma rede.",
+  "OFF2": "Nessa rede tem seguidor antigo. E tem gente nova, que ele faz questão de citar.",
+  "OFF3": "A ajuda não precisa ser grande. A mãe explica.",
+  "OFF4": "E quando a ajuda chega, é assim que ele agradece.",
+  "OFF5": "Cinco reais, pela SOS Human Help, já colocam você nessa rede.",
+  "OFF6": "Clique em Saiba mais e entre para essa rede."
+ }
+}

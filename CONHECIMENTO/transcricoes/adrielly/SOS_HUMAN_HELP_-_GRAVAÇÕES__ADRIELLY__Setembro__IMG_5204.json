@@ -1,0 +1,184 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Se você puder fazer parte dessa próxima compra comigo, clique em doar. Obrigada",
+ "words": [
+  {
+   "text": "Se",
+   "start": 0.2,
+   "end": 0.3,
+   "type": "word",
+   "logprob": -0.00029094755882397294
+  },
+  {
+   "text": " ",
+   "start": 0.3,
+   "end": 0.4,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "você",
+   "start": 0.4,
+   "end": 0.86,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 0.86,
+   "end": 0.94,
+   "type": "spacing",
+   "logprob": -3.0278701160568744e-05
+  },
+  {
+   "text": "puder",
+   "start": 0.96,
+   "end": 1.38,
+   "type": "word",
+   "logprob": -1.8262588116613188e-05
+  },
+  {
+   "text": " ",
+   "start": 1.38,
+   "end": 1.44,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "fazer",
+   "start": 1.44,
+   "end": 1.82,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 1.82,
+   "end": 1.86,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "parte",
+   "start": 1.86,
+   "end": 2.18,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.18,
+   "end": 2.22,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "dessa",
+   "start": 2.22,
+   "end": 2.5,
+   "type": "word",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": " ",
+   "start": 2.5,
+   "end": 2.74,
+   "type": "spacing",
+   "logprob": -6.556489552167477e-06
+  },
+  {
+   "text": "próxima",
+   "start": 2.74,
+   "end": 3.2,
+   "type": "word",
+   "logprob": -6.556489552167477e-06
+  },
+  {
+   "text": " ",
+   "start": 3.2,
+   "end": 3.32,
+   "type": "spacing",
+   "logprob": -0.0004037995240651071
+  },
+  {
+   "text": "compra",
+   "start": 3.32,
+   "end": 3.66,
+   "type": "word",
+   "logprob": -0.0004037995240651071
+  },
+  {
+   "text": " ",
+   "start": 3.66,
+   "end": 3.76,
+   "type": "spacing",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "comigo,",
+   "start": 3.76,
+   "end": 4.3,
+   "type": "word",
+   "logprob": -6.403202990311131e-06
+  },
+  {
+   "text": " ",
+   "start": 4.3,
+   "end": 4.3,
+   "type": "spacing",
+   "logprob": -0.0002641328901518136
+  },
+  {
+   "text": "clique",
+   "start": 5.08,
+   "end": 5.58,
+   "type": "word",
+   "logprob": -0.0002641328901518136
+  },
+  {
+   "text": " ",
+   "start": 5.58,
+   "end": 5.62,
+   "type": "spacing",
+   "logprob": -1.0371154530730564e-05
+  },
+  {
+   "text": "em",
+   "start": 5.62,
+   "end": 5.76,
+   "type": "word",
+   "logprob": -1.0371154530730564e-05
+  },
+  {
+   "text": " ",
+   "start": 5.76,
+   "end": 5.78,
+   "type": "spacing",
+   "logprob": -0.18349064886569977
+  },
+  {
+   "text": "doar.",
+   "start": 5.78,
+   "end": 6.2,
+   "type": "word",
+   "logprob": -0.14679592844913714
+  },
+  {
+   "text": " ",
+   "start": 6.2,
+   "end": 6.38,
+   "type": "spacing",
+   "logprob": -0.00012563870404846966
+  },
+  {
+   "text": "Obrigada",
+   "start": 6.38,
+   "end": 7.0,
+   "type": "word",
+   "logprob": -7.89265211693646e-05
+  }
+ ],
+ "transcription_id": "VuNVESWv0SBCttFkExZR",
+ "audio_duration_secs": 7.5383125
+}

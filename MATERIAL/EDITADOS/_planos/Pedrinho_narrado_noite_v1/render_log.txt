@@ -1,0 +1,20 @@
+N1: 5.12s  Pedrinho tem epidermólise bolhosa. As feridas não dão trégua nem de madrugada.
+N2: 4.68s  De dia, a mãe troca os curativos duas vezes. E mesmo assim a dor volta.
+N3: 4.41s  Doze reais de cada uma garantem os itens do curativo dessa semana.
+N4: 2.72s  Ele não pede um milagre. Pede uma noite sem dor.
+N5: 3.66s  Toque em Saiba mais e seja uma das seis pessoas que o Pedrinho pediu.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_noite_v1.mp4
+real  ok  t=  5.33
+narr  ok  t= 10.60
+real  ok  t= 16.30
+narr  ok  t= 21.13
+real  ok  t= 25.33
+real  ok  t= 31.33
+card  ok  t= 32.73
+narr  ok  t= 37.30
+narr  ok  t= 40.17
+real  ok  t= 42.97
+narr  ok  t= 46.77
+end   ok  t= 50.37
+audio: 50.37s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_noite_v1.mp4  duracao=50.37s

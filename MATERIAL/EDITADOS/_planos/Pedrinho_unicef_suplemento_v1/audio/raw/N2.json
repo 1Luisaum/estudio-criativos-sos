@@ -1,0 +1,25 @@
+{
+ "text": "Junto com cada curativo.",
+ "words": [
+  {
+   "text": "Junto",
+   "start": 0.0,
+   "end": 0.302
+  },
+  {
+   "text": "com",
+   "start": 0.325,
+   "end": 0.441
+  },
+  {
+   "text": "cada",
+   "start": 0.511,
+   "end": 0.755
+  },
+  {
+   "text": "curativo.",
+   "start": 0.789,
+   "end": 1.718
+  }
+ ]
+}

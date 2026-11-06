@@ -1,0 +1,80 @@
+{
+ "text": "A falta, aqui, não é de cuidado. É de faixa, de gaze e de dinheiro.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.104
+  },
+  {
+   "text": "falta,",
+   "start": 0.232,
+   "end": 0.848
+  },
+  {
+   "text": "aqui,",
+   "start": 0.94,
+   "end": 1.451
+  },
+  {
+   "text": "não",
+   "start": 1.602,
+   "end": 1.765
+  },
+  {
+   "text": "é",
+   "start": 1.811,
+   "end": 1.834
+  },
+  {
+   "text": "de",
+   "start": 1.892,
+   "end": 1.962
+  },
+  {
+   "text": "cuidado.",
+   "start": 1.997,
+   "end": 2.612
+  },
+  {
+   "text": "É",
+   "start": 2.937,
+   "end": 2.995
+  },
+  {
+   "text": "de",
+   "start": 3.088,
+   "end": 3.146
+  },
+  {
+   "text": "faixa,",
+   "start": 3.262,
+   "end": 3.785
+  },
+  {
+   "text": "de",
+   "start": 3.843,
+   "end": 3.947
+  },
+  {
+   "text": "gáze",
+   "start": 4.005,
+   "end": 4.447
+  },
+  {
+   "text": "e",
+   "start": 4.505,
+   "end": 4.563
+  },
+  {
+   "text": "de",
+   "start": 4.621,
+   "end": 4.702
+  },
+  {
+   "text": "dinheiro.",
+   "start": 4.748,
+   "end": 5.619
+  }
+ ]
+}

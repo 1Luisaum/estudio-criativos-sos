@@ -1,0 +1,75 @@
+{
+ "text": "Parece um detalhe. Mas a família evita esse ponto por um motivo: o tempo.",
+ "words": [
+  {
+   "text": "Parece",
+   "start": 0.0,
+   "end": 0.453
+  },
+  {
+   "text": "um",
+   "start": 0.499,
+   "end": 0.546
+  },
+  {
+   "text": "detalhe.",
+   "start": 0.604,
+   "end": 1.219
+  },
+  {
+   "text": "Mas",
+   "start": 1.428,
+   "end": 1.625
+  },
+  {
+   "text": "a",
+   "start": 1.695,
+   "end": 1.718
+  },
+  {
+   "text": "família",
+   "start": 1.776,
+   "end": 2.159
+  },
+  {
+   "text": "evita",
+   "start": 2.194,
+   "end": 2.589
+  },
+  {
+   "text": "esse",
+   "start": 2.612,
+   "end": 2.775
+  },
+  {
+   "text": "ponto",
+   "start": 2.844,
+   "end": 3.146
+  },
+  {
+   "text": "por",
+   "start": 3.204,
+   "end": 3.344
+  },
+  {
+   "text": "um",
+   "start": 3.413,
+   "end": 3.471
+  },
+  {
+   "text": "motivo:",
+   "start": 3.495,
+   "end": 4.168
+  },
+  {
+   "text": "o",
+   "start": 4.412,
+   "end": 4.493
+  },
+  {
+   "text": "tempo.",
+   "start": 4.563,
+   "end": 5.294
+  }
+ ]
+}

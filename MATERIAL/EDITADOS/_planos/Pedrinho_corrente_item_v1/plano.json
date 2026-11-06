@@ -1,0 +1,125 @@
+{
+ "nome": "Pedrinho_corrente_item_v1",
+ "referencia": "Causas do Bem, anuncio 1444789200923601 (Kauê): texto fixo no alto com destaque amarelo, voz da crianca 0-9 s, depois so musica",
+ "angulo": "cada item da troca de curativo importa; dez reais parecem pouco mas sao esperanca",
+ "texto": [
+  [
+   "Corrente do bem: ",
+   ""
+  ],
+  [
+   "Com R$10,",
+   "y"
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "você ajuda a não faltar",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "nenhum item",
+   "y"
+  ],
+  [
+   " na troca",
+   ""
+  ],
+  [
+   "",
+   ""
+  ],
+  [
+   "de curativo do Pedrinho",
+   ""
+  ]
+ ],
+ "texto_y": 255,
+ "falas": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "corte": [
+    65.2,
+    65.98
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "corte": [
+    66.3,
+    67.28
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "corte": [
+    67.66,
+    68.9
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "corte": [
+    71.5,
+    74.52
+   ]
+  }
+ ],
+ "voz_inicio": 0.4,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "musica_sob_voz": 0.12,
+ "musica_depois": 0.45,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 4.0,
+   "start": 22.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 4.3,
+   "start": 140.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 3.8,
+   "start": 50.0,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 4.4,
+   "start": 228.0,
+   "fade_in": true,
+   "fade_out": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+   "dur": 4.0,
+   "start": 12.0,
+   "fade_in": true
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "dur": 4.0,
+   "start": 38.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Ana e Pedro sorrindo.png",
+   "dur": 4.2
+  }
+ ],
+ "fatos": {
+  "dez reais parece pouco, mas pra gente é uma nova esperança de um dia sem dor": "Pedrinho, Roteiro_ peço perdão (65-75 s)",
+  "cada item de curativo é importante em uma troca": "Pedrinho, Roteiro_ peço perdão (21-26 s)",
+  "R$10": "o Pedrinho fala em dez reais no mesmo bruto"
+ },
+ "modelo": "lote de 30 (27/10/2026), frente D",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 28\\PEB 120 - CORRENTE DO BEM.mp4"
+}

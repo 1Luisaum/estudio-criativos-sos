@@ -1,0 +1,65 @@
+{
+ "text": "A mãe dele olha o que sobrou e sente o mesmo medo.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "mãe",
+   "start": 0.163,
+   "end": 0.36
+  },
+  {
+   "text": "dele",
+   "start": 0.395,
+   "end": 0.639
+  },
+  {
+   "text": "olha",
+   "start": 0.731,
+   "end": 1.01
+  },
+  {
+   "text": "o",
+   "start": 1.057,
+   "end": 1.107
+  },
+  {
+   "text": "que",
+   "start": 1.184,
+   "end": 1.289
+  },
+  {
+   "text": "sobrou",
+   "start": 1.347,
+   "end": 1.741
+  },
+  {
+   "text": "e",
+   "start": 1.811,
+   "end": 1.861
+  },
+  {
+   "text": "sente",
+   "start": 1.881,
+   "end": 2.125
+  },
+  {
+   "text": "o",
+   "start": 2.148,
+   "end": 2.198
+  },
+  {
+   "text": "mesmo",
+   "start": 2.229,
+   "end": 2.519
+  },
+  {
+   "text": "medo.",
+   "start": 2.577,
+   "end": 2.911
+  }
+ ]
+}

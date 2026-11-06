@@ -1,0 +1,212 @@
+{
+ "nome": "Pedrinho_caixas_pedido_cama_v1",
+ "gancho": "pedido: 'Entao hoje eu to aqui pra te pedir' + frase verde 'toda vez que ia virar na cama, grudava no forro'",
+ "angulo": "nem virar na cama ele consegue sem dor: toda vez que vira, a ferida gruda no forro",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "musica_volume": 0.09,
+ "fatos": {
+  "entao hoje eu to aqui pra te pedir": "Pedrinho, 20260917_001530.mp4 (70.9-73.2 s)",
+  "dando trabalho pra deitar a noite de lado; toda vez que ia levantar ou virar na cama grudava no forro; pensa o sofrimento": "Pedrinho, Um Video Novo pra campanha (29-44.9 s)",
+  "ficar virado so de um lado a gente cansa": "Pedrinho, Um Video Novo pra campanha (70.3-74 s)",
+  "um, dois, tres, cinco reais, nao importa; o que importa e ajudar nas minhas dores a dar uma aliviada": "Pedrinho, 20260917_001530.mp4 (76.7-89.5 s)",
+  "seja um anjo na minha vida": "Pedrinho, 20260917_001530.mp4 (89.5-92.2 s)",
+  "R$5,00": "Pedrinho cita cinco reais na fala c4"
+ },
+ "modelo": "completar as LEVAs 27/10/2026 - frente 2",
+ "frases": [
+  {
+   "nome": "h1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     70.88,
+     72.88
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+     70.82
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "TODA VEZ QUE IA VIRAR NA CAMA",
+    "GRUDAVA NO FORRO"
+   ]
+  },
+  {
+   "nome": "c1",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_video_novo.json",
+   "cortes": [
+    [
+     29.0,
+     30.46
+    ],
+    [
+     32.2,
+     32.8
+    ],
+    [
+     33.36,
+     33.58
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+     36.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     132.0
+    ]
+   ]
+  },
+  {
+   "nome": "c2",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_video_novo.json",
+   "cortes": [
+    [
+     35.66,
+     36.66
+    ],
+    [
+     37.78,
+     40.2
+    ],
+    [
+     41.78,
+     42.6
+    ],
+    [
+     42.92,
+     43.72
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     145.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     10.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     199.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     56.0
+    ]
+   ]
+  },
+  {
+   "nome": "c3",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_video_novo.json",
+   "cortes": [
+    [
+     70.28,
+     73.6
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Um Vídeo Novo pra campanha 💚.mp4",
+     70.22
+    ]
+   ],
+   "sem_topo": true
+  },
+  {
+   "nome": "c4",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     76.66,
+     78.3
+    ],
+    [
+     78.38,
+     83.08
+    ],
+    [
+     84.48,
+     84.68
+    ],
+    [
+     86.46,
+     88.9
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     6.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     167.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     86.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/vídeo na Horizontal para o Site_.mp4",
+     60.0
+    ]
+   ]
+  },
+  {
+   "nome": "c5",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     89.52,
+     89.52
+    ],
+    [
+     90.22,
+     91.84
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/IMG-20260624-WA0043.jpg",
+   "final": true
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "PEDRINHO TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS PARA A FERIDA NÃO GRUDAR NA CAMA"
+  ],
+  "topo_y": 240,
+  "valor": "R$5,00",
+  "valor_linhas": [
+   "JÁ AJUDAM A DAR UMA ALIVIADA",
+   "NAS DORES DO PEDRINHO"
+  ],
+  "valor_y": 1300,
+  "cor_caixa": [
+   200,
+   16,
+   28
+  ],
+  "cor_texto": [
+   235,
+   40,
+   40
+  ]
+ },
+ "sem_legenda": true,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 27\\PEB 142 - CAIXAS PEDIDO DE TEMPO.mp4",
+ "obs": "1a montagem: foto final 20251031_135442 (ferida aberta em close) trocada"
+}

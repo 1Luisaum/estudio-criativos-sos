@@ -1,0 +1,238 @@
+{
+ "nome": "Adrielly_cortes_milkshake_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5780.MOV",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647 (1).mp3",
+ "music_start": 10.0,
+ "face": [
+  495,
+  742
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    495,
+    1042
+   ]
+  },
+  "Z2": {
+   "z": 1.25,
+   "center": [
+    495,
+    1042
+   ]
+  },
+  "Z3": {
+   "z": 1.38,
+   "center": [
+    495,
+    1042
+   ]
+  },
+  "ZF": {
+   "z": 1.52,
+   "center": [
+    495,
+    1042
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 4.48,
+   "out": 6.54,
+   "txt": "A minha comida favorita"
+  },
+  {
+   "in": 6.88,
+   "out": 9.1,
+   "txt": "é milkshake de morango,"
+  },
+  {
+   "in": 9.5,
+   "out": 11.8,
+   "txt": "ainda mais nesses dias de calor."
+  },
+  {
+   "in": 12.28,
+   "out": 15.96,
+   "txt": "Pra quem não sabe, eu tenho estreitamento no esôfago,"
+  },
+  {
+   "in": 16.48,
+   "out": 18.48,
+   "txt": "fazendo que a minha alimentação",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Suplemento Milk shake morango Apti.jpeg"
+    }
+   ]
+  },
+  {
+   "in": 18.92,
+   "out": 20.9,
+   "txt": "ela se torna especial,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Suplemento Milk shake Xuky coco Bretzke.jpeg"
+    }
+   ]
+  },
+  {
+   "in": 21.24,
+   "out": 22.06,
+   "txt": "ou seja,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Suplemento Milk shake coco Xuky.png"
+    }
+   ]
+  },
+  {
+   "in": 22.32,
+   "out": 23.0,
+   "txt": "líquida,",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Suplemento Milk shake morango Apti.jpeg"
+    }
+   ]
+  },
+  {
+   "in": 23.3,
+   "out": 24.5,
+   "txt": "pastosa.",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Suplemento Milk shake Xuky coco Bretzke.jpeg"
+    }
+   ]
+  },
+  {
+   "in": 25.0,
+   "out": 29.36,
+   "txt": "Confesso que tenho muita vontade de comer sanduíche,"
+  },
+  {
+   "in": 29.84,
+   "out": 31.81,
+   "txt": "pizza, até o básico"
+  },
+  {
+   "in": 34.61,
+   "out": 36.68,
+   "txt": "o arroz, que o feijão",
+   "zoom": "ZF"
+  },
+  {
+   "in": 37.18,
+   "out": 38.24,
+   "txt": "e a carne.",
+   "zoom": "ZF"
+  },
+  {
+   "in": 38.64,
+   "out": 43.3,
+   "txt": "Muitos pode me perguntar: você acredita que esse dia vai chegar?",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (1).mp4",
+     "start": 3.0
+    }
+   ]
+  },
+  {
+   "in": 43.54,
+   "out": 44.66,
+   "txt": "Eu acredito sim,"
+  },
+  {
+   "in": 45.08,
+   "out": 47.08,
+   "txt": "porque eu tenho um Deus de milagre,"
+  },
+  {
+   "in": 47.46,
+   "out": 49.18,
+   "txt": "um Deus de promessa"
+  },
+  {
+   "in": 49.74,
+   "out": 52.42,
+   "txt": "e vai acontecer no tempo de Deus",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (7).mp4",
+     "start": 6.0
+    }
+   ]
+  }
+ ],
+ "red": [
+  "ESÔFAGO",
+  "LÍQUIDA",
+  "PASTOSA",
+  "ARROZ",
+  "FEIJÃO",
+  "CARNE",
+  "MILAGRE"
+ ],
+ "fix": {},
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "VOCÊ COMEU HOJE?"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "A ADRIELLY SÓ",
+    "PODE COMER COMIDA",
+    "*LÍQUIDA E PASTOSA*"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+  "start": 0.4,
+  "lines": [
+   "ACREDITE NO MILAGRE",
+   "JUNTO COM A ADRIELLY"
+  ],
+  "dur": 3.4,
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DA",
+    64
+   ],
+   [
+    "ADRIELLY GUERREIRA!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "milkshake de morango, estreitamento no esôfago, comida líquida e pastosa, vontade de comer arroz, feijão e carne": "IMG_5780",
+  "milkshake (suplemento)": "banco, fotos dos suplementos",
+  "R$10": "IMG_4205, IMG_4493, IMG_4740"
+ },
+ "modelo": "edicao-criativo-ong (Pedrinho_5horas_v1), adaptado para a Adrielly",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 43\\AEB 47 - CORTES COM GANCHO.mp4"
+}

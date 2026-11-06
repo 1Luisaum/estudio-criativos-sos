@@ -1,0 +1,198 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Enquanto Deus não me curar, eu vou continuar lutando para ter os meus curativos",
+ "words": [
+  {
+   "text": "Enquanto",
+   "start": 0.16,
+   "end": 0.86,
+   "type": "word",
+   "logprob": -4.5237247832119465e-05
+  },
+  {
+   "text": " ",
+   "start": 0.86,
+   "end": 0.98,
+   "type": "spacing",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": "Deus",
+   "start": 0.98,
+   "end": 1.28,
+   "type": "word",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": " ",
+   "start": 1.28,
+   "end": 1.32,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "não",
+   "start": 1.32,
+   "end": 1.46,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 1.46,
+   "end": 1.5,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 1.5,
+   "end": 1.6,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 1.6,
+   "end": 1.72,
+   "type": "spacing",
+   "logprob": -3.242440288886428e-05
+  },
+  {
+   "text": "curar,",
+   "start": 1.72,
+   "end": 2.12,
+   "type": "word",
+   "logprob": -0.00015036798625563583
+  },
+  {
+   "text": " ",
+   "start": 2.12,
+   "end": 2.12,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "eu",
+   "start": 2.62,
+   "end": 2.78,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 2.78,
+   "end": 2.82,
+   "type": "spacing",
+   "logprob": -7.510157047363464e-06
+  },
+  {
+   "text": "vou",
+   "start": 2.82,
+   "end": 2.98,
+   "type": "word",
+   "logprob": -7.510157047363464e-06
+  },
+  {
+   "text": " ",
+   "start": 2.98,
+   "end": 3.04,
+   "type": "spacing",
+   "logprob": -5.8412379075889476e-06
+  },
+  {
+   "text": "continuar",
+   "start": 3.04,
+   "end": 3.64,
+   "type": "word",
+   "logprob": -5.8412379075889476e-06
+  },
+  {
+   "text": " ",
+   "start": 3.64,
+   "end": 3.74,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "lutando",
+   "start": 3.74,
+   "end": 4.38,
+   "type": "word",
+   "logprob": -1.1750613404209226e-06
+  },
+  {
+   "text": " ",
+   "start": 4.38,
+   "end": 4.88,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "para",
+   "start": 4.88,
+   "end": 5.18,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 5.18,
+   "end": 5.24,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "ter",
+   "start": 5.24,
+   "end": 5.4,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 5.4,
+   "end": 5.46,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "os",
+   "start": 5.46,
+   "end": 5.6,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 5.6,
+   "end": 5.66,
+   "type": "spacing",
+   "logprob": -1.585470999998506e-05
+  },
+  {
+   "text": "meus",
+   "start": 5.66,
+   "end": 5.96,
+   "type": "word",
+   "logprob": -1.585470999998506e-05
+  },
+  {
+   "text": " ",
+   "start": 5.96,
+   "end": 6.0,
+   "type": "spacing",
+   "logprob": -8.4638240878121e-06
+  },
+  {
+   "text": "curativos",
+   "start": 6.0,
+   "end": 6.9,
+   "type": "word",
+   "logprob": -7.112795174180064e-06
+  }
+ ],
+ "transcription_id": "uuJ0V8fhmRqHGYbAF8tI",
+ "audio_duration_secs": 7.4316875
+}

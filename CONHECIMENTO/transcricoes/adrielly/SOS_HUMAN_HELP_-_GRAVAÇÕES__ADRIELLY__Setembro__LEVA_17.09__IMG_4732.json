@@ -1,0 +1,128 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Meu corpo dói, minha pele está cheia de feridas",
+ "words": [
+  {
+   "text": "Meu",
+   "start": 1.22,
+   "end": 1.4,
+   "type": "word",
+   "logprob": -0.0017434648470953107
+  },
+  {
+   "text": " ",
+   "start": 1.4,
+   "end": 1.52,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "corpo",
+   "start": 1.52,
+   "end": 1.92,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 1.92,
+   "end": 2.04,
+   "type": "spacing",
+   "logprob": -0.0036992470268160105
+  },
+  {
+   "text": "dói,",
+   "start": 2.04,
+   "end": 2.54,
+   "type": "word",
+   "logprob": -0.00255862908625204
+  },
+  {
+   "text": " ",
+   "start": 2.54,
+   "end": 2.54,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "minha",
+   "start": 3.04,
+   "end": 3.32,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 3.32,
+   "end": 3.42,
+   "type": "spacing",
+   "logprob": -7.986990567587782e-06
+  },
+  {
+   "text": "pele",
+   "start": 3.42,
+   "end": 3.76,
+   "type": "word",
+   "logprob": -7.986990567587782e-06
+  },
+  {
+   "text": " ",
+   "start": 3.76,
+   "end": 3.78,
+   "type": "spacing",
+   "logprob": -1.3112935448589269e-05
+  },
+  {
+   "text": "está",
+   "start": 3.78,
+   "end": 4.08,
+   "type": "word",
+   "logprob": -1.3112935448589269e-05
+  },
+  {
+   "text": " ",
+   "start": 4.08,
+   "end": 4.12,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "cheia",
+   "start": 4.12,
+   "end": 4.44,
+   "type": "word",
+   "logprob": -2.145763392036315e-06
+  },
+  {
+   "text": " ",
+   "start": 4.44,
+   "end": 4.5,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "de",
+   "start": 4.5,
+   "end": 4.62,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 4.62,
+   "end": 4.72,
+   "type": "spacing",
+   "logprob": -2.9802276912960224e-06
+  },
+  {
+   "text": "feridas",
+   "start": 4.72,
+   "end": 5.66,
+   "type": "word",
+   "logprob": -2.571511296472246e-06
+  }
+ ],
+ "transcription_id": "z5M7QSeVId3i0I657AeI",
+ "audio_duration_secs": 6.8333125
+}

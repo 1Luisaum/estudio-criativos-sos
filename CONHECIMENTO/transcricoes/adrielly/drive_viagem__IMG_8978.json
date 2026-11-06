@@ -1,0 +1,289 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Ai. Pera aí, pera aí. Vai lá. Vou contar até três e cê olha. Um, dois, três, olha",
+ "words": [
+  {
+   "text": "Ai.",
+   "start": 0.64,
+   "end": 0.84,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.04226824901221941
+  },
+  {
+   "text": " ",
+   "start": 0.84,
+   "end": 0.84,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.007768182549625635
+  },
+  {
+   "text": "Pera",
+   "start": 1.22,
+   "end": 1.3,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.001948751129930315
+  },
+  {
+   "text": " ",
+   "start": 1.3,
+   "end": 1.32,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.1430446356534958
+  },
+  {
+   "text": "aí,",
+   "start": 1.32,
+   "end": 1.36,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.09536368648158107
+  },
+  {
+   "text": " ",
+   "start": 1.36,
+   "end": 1.38,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0015811334596946836
+  },
+  {
+   "text": "pera",
+   "start": 1.38,
+   "end": 1.48,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0015811334596946836
+  },
+  {
+   "text": " ",
+   "start": 1.48,
+   "end": 1.5,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -1.2040065485052764e-05
+  },
+  {
+   "text": "aí.",
+   "start": 1.5,
+   "end": 1.62,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -2.3205680918181315e-05
+  },
+  {
+   "text": " ",
+   "start": 1.62,
+   "end": 1.84,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0002422039397060871
+  },
+  {
+   "text": "Vai",
+   "start": 1.84,
+   "end": 1.92,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0002422039397060871
+  },
+  {
+   "text": " ",
+   "start": 1.92,
+   "end": 1.94,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "lá.",
+   "start": 1.94,
+   "end": 2.08,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 2.08,
+   "end": 2.66,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -1.1086402082582936e-05
+  },
+  {
+   "text": "Vou",
+   "start": 2.66,
+   "end": 2.74,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -1.1086402082582936e-05
+  },
+  {
+   "text": " ",
+   "start": 2.74,
+   "end": 2.76,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00013624693383462727
+  },
+  {
+   "text": "contar",
+   "start": 2.76,
+   "end": 2.94,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00013624693383462727
+  },
+  {
+   "text": " ",
+   "start": 2.94,
+   "end": 2.96,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.16820238530635834
+  },
+  {
+   "text": "até",
+   "start": 2.96,
+   "end": 3.02,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.16820238530635834
+  },
+  {
+   "text": " ",
+   "start": 3.02,
+   "end": 3.06,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -9.595887240720913e-05
+  },
+  {
+   "text": "três",
+   "start": 3.06,
+   "end": 3.26,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -9.595887240720913e-05
+  },
+  {
+   "text": " ",
+   "start": 3.26,
+   "end": 3.28,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.30764633417129517
+  },
+  {
+   "text": "e",
+   "start": 3.28,
+   "end": 3.34,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.30764633417129517
+  },
+  {
+   "text": " ",
+   "start": 3.34,
+   "end": 3.38,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.12807703018188477
+  },
+  {
+   "text": "cê",
+   "start": 3.38,
+   "end": 3.42,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.06404948222552775
+  },
+  {
+   "text": " ",
+   "start": 3.42,
+   "end": 3.46,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.03193562105298042
+  },
+  {
+   "text": "olha.",
+   "start": 3.46,
+   "end": 3.66,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.025550952538651472
+  },
+  {
+   "text": " ",
+   "start": 3.66,
+   "end": 3.74,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "Um,",
+   "start": 3.74,
+   "end": 3.96,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -2.702072066540495e-06
+  },
+  {
+   "text": " ",
+   "start": 3.96,
+   "end": 4.54,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0001255195093108341
+  },
+  {
+   "text": "dois,",
+   "start": 4.54,
+   "end": 4.96,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.00010475477865838912
+  },
+  {
+   "text": " ",
+   "start": 4.96,
+   "end": 5.14,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0006493605324067175
+  },
+  {
+   "text": "três,",
+   "start": 5.14,
+   "end": 5.52,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.0005820635124109685
+  },
+  {
+   "text": " ",
+   "start": 5.52,
+   "end": 5.72,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -3.8265450712060556e-05
+  },
+  {
+   "text": "olha",
+   "start": 5.72,
+   "end": 5.9,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -3.8265450712060556e-05
+  }
+ ],
+ "transcription_id": "sMLMHBrUbQV0OT28P8Dn",
+ "audio_duration_secs": 9.565
+}

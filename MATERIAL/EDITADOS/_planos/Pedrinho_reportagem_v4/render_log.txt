@@ -1,0 +1,27 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v4.mp4
+narracao OFF1
+narracao OFF2
+narracao OFF3
+narracao OFF4
+narracao OFF5
+  b01: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b01 off 3.67s Cinco horas. Foi quanto durou o último curativo do Pedrinho.
+  b02: manchete=ESCONDIDA (rosto) gc=920 legenda=1060 etiqueta=None
+ok b02 sonora 11.80s E da última vez, minha mãe precisou de cinco horas, pra fazer todo o meu curativo, por conta de lesões e ferimentos bem abertos na carne viva mesmo.
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b03 off 6.97s Ele tem epidermólise bolhosa. A pele se solta com qualquer atrito, e todo dia aparecem bolhas novas.
+  b04: manchete=ESCONDIDA (rosto) gc=- legenda=970 etiqueta=None
+ok b04 sonora 5.30s A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper.
+  b05: manchete=ESCONDIDA (rosto) gc=- legenda=1070 etiqueta=None
+  b05: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b05 off 3.83s É a mãe quem faz cada curativo, duas vezes por dia.
+  b06: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=790 etiqueta=None
+ok b06 sonora 2.80s Esse calor tá acabando com a pele do meu filho.
+  b07: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b07 off 6.85s A SOS Human Help está arrecadando doações para os curativos. Com dez reais, você ajuda essa família.
+  b08: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b08 sonora 2.86s Então, seja um anjo na minha vida
+  b09: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b09 off 4.23s Toque em Saiba mais e seja o anjo do Pedrinho.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v4.mp4 duracao=48.3s

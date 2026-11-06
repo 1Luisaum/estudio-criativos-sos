@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Seis pessoas. Doze reais. Foi a conta que o Pedrinho fez para atravessar a semana.",
+  "OFF2": "O valor é pequeno. O motivo, não.",
+  "OFF3": "O pedido não é para o ano. É para a semana. É para a próxima troca.",
+  "OFF4": "Agora, as trocas são duas por dia. E a mãe nunca pensou que estaria pedindo.",
+  "OFF5": "Doze reais, pela SOS Human Help, podem ser a sua parte nessa conta.",
+  "OFF6": "Clique em Saiba mais e seja uma dessas seis pessoas."
+ }
+}

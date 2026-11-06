@@ -1,0 +1,65 @@
+{
+ "total": 54.246009,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 3.624898,
+   "texto": "Um simples atrito pode abrir uma ferida na pele deste menino."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 4.64,
+   "texto": "Eu sou o Pedrinho Guerreiro e eu tenho epidermólise bolhosa."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.206893,
+   "texto": "É a epidermólise bolhosa, a doença da pele de borboleta. Na casa dele, o curativo é feito duas vezes por dia."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.579999999999999,
+   "texto": "Esse calor tá acabando com a pele do meu filho. Eu acabei de fazer o segundo curativo do dia"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 6.998798,
+   "texto": "Da última vez, o curativo levou cinco horas. E os cuidados com a pele dele já passam de quarenta mil reais por mês."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 5.220000000000005,
+   "texto": "Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando,"
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 6.780000000000004,
+   "texto": "porque as coisas deles estão acabando. Pedrinho tá precisando de atadura, precisando de pomada."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 7.509819,
+   "texto": "A SOS Human Help está arrecadando doações para os curativos do Pedrinho. Com dez reais, você já ajuda."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 2.8600000000000003,
+   "texto": "Então, seja um anjo na minha vida"
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 3.825601,
+   "texto": "Toque em Saiba mais e veja como ajudar."
+  }
+ ]
+}

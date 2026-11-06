@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Ela não tem plantão nem troca de turno. O turno dela é o filho.",
+  "OFF2": "Quem conta como é esse turno é o próprio paciente. E ele não deixa ninguém de fora da história.",
+  "OFF3": "Nas semanas piores, ela chega ainda mais perto.",
+  "OFF4": "Dá para medir essa dedicação no relógio.",
+  "OFF5": "Ela não pede folga. Pede atadura, gaze e pomada. Dez reais, pela SOS Human Help, ajudam essa mãe a não parar.",
+  "OFF6": "Clique em Saiba mais e cuide de quem cuida."
+ }
+}

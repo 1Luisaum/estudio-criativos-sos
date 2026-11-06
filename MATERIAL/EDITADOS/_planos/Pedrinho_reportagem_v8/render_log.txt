@@ -1,0 +1,23 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v8.mp4
+  b01: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b01 off 3.22s O processo na Justiça já começou. A resposta, não.
+  b02: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1080 etiqueta=None
+ok b02 sonora 8.16s a gente até chegou a entrar, com processos contra o governo, mas essas coisas, demora e demora muito mesmo
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b03 off 6.35s Pedrinho tem epidermólise bolhosa. Duas vezes por dia, a mãe troca os curativos do corpo inteiro.
+  b04: manchete=ESCONDIDA (rosto) gc=- legenda=1070 etiqueta=None
+ok b04 sonora 6.06s Tem noites, que eu chego até a chorar por causa das feridas doloridas,
+  b05: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b05 off 4.13s Sem dinheiro para o material, a família não consegue manter os cuidados.
+  b06: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1060 etiqueta=None
+ok b06 sonora 4.14s E pela minha condição, eu não consigo nem o básico pra ele.
+  b07: manchete=ESCONDIDA (rosto) gc=- legenda=1080 etiqueta=None
+ok b07 sonora 4.28s quem é EB não pode esperar, E eu não posso esperar mais.
+  b08: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b08 off 6.72s A SOS Human Help está arrecadando doações para os curativos. Dez reais ajudam hoje.
+  b09: manchete=ESCONDIDA (rosto) gc=- legenda=1080 etiqueta=1150
+ok b09 sonora 4.98s se você sentir no seu coração, ajude no meu tratamento.
+  b10: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b10 off 5.58s Toque em Saiba mais. O tratamento do Pedrinho não pode esperar a Justiça.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v8.mp4 duracao=53.6s

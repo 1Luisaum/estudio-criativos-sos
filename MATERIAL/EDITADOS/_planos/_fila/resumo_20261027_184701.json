@@ -1,0 +1,20 @@
+{
+ "total_s": 68,
+ "videos": [
+  {
+   "plano": "Pedrinho_lettering_nem_o_basico_v1",
+   "skill": "criativo-lettering-ong",
+   "montagem_s": 40,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_lettering_nem_o_basico_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 29\\PEB 146 - CORTES COM LETTERING.mp4",
+   "duracao": 29.4,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 6 momento(s): [6.0, 7.0, 13.5, 19.5, 20.0, 25.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 146 - CORTES COM LETTERING_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": true
+  }
+ ]
+}

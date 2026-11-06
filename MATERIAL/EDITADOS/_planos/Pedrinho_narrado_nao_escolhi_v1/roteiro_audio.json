@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Ninguém perguntou ao Pedrinho se ele queria nascer com a pele assim.",
+  "N2": "Ele não escolheu a dor. Nem as faixas. Nem as horas paradas enquanto a mãe troca tudo.",
+  "N3": "Uma doença rara decide muita coisa na vida dele. Mas teve uma decisão que ficou só com ele.",
+  "N4": "E todo dia, ele escolhe de novo. Encarar a troca. Aguentar a dor. Sorrir para a foto.",
+  "N5": "Ele podia ter desistido de sorrir. Não desistiu.",
+  "N6": "Ele já escolheu. Agora é com você. Clique em Saiba mais e lute com o Pedrinho."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "total_s": 412,
+ "videos": [
+  {
+   "plano": "Adrielly_caixas_pedido_var84_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 119,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_var84_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 50\\AEB 86 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 32.18,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 21 momento(s): [6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\AEB 86 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_pedido_var88_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 106,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_var88_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 51\\AEB 87 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 30.58,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 13 momento(s): [3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 12.0, 12.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\AEB 87 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_pedido_var66_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 109,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_var66_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 51\\AEB 88 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 29.36,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 12 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 21.5, 22.5, 23.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\AEB 88 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_pedido_var76_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 145,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_var76_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 51\\AEB 89 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 33.24,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 2 momento(s): [16.0, 16.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\AEB 89 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_pedido_var733_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 117,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_var733_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 51\\AEB 90 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 36.98,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 2 momento(s): [18.0, 19.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\AEB 90 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  }
+ ]
+}

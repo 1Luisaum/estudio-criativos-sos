@@ -1,0 +1,60 @@
+{
+ "text": "Toque em Saiba mais e não deixe o Pedrinho ser esquecido.",
+ "words": [
+  {
+   "text": "Toque",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "em",
+   "start": 0.302,
+   "end": 0.352
+  },
+  {
+   "text": "Saiba",
+   "start": 0.406,
+   "end": 0.755
+  },
+  {
+   "text": "mais",
+   "start": 0.813,
+   "end": 1.045
+  },
+  {
+   "text": "e",
+   "start": 1.103,
+   "end": 1.231
+  },
+  {
+   "text": "não",
+   "start": 1.324,
+   "end": 1.474
+  },
+  {
+   "text": "deixe",
+   "start": 1.509,
+   "end": 1.695
+  },
+  {
+   "text": "o",
+   "start": 1.718,
+   "end": 1.768
+  },
+  {
+   "text": "Pedrinho",
+   "start": 1.788,
+   "end": 2.148
+  },
+  {
+   "text": "ser",
+   "start": 2.171,
+   "end": 2.287
+  },
+  {
+   "text": "esquecido.",
+   "start": 2.38,
+   "end": 3.188
+  }
+ ]
+}

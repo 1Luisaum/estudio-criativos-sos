@@ -1,0 +1,65 @@
+{
+ "total": 53.32491999999999,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.150907,
+   "texto": "Há quase quatro anos, uma vaquinha garantiu quase um ano de curativos para o Pedrinho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 7.200000000000004,
+   "texto": "as pessoas se esqueceram de mim, Até mesmo pessoas que me ajudaram, elas também sumiram"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.960249,
+   "texto": "Ele tem epidermólise bolhosa, a doença da pele de borboleta. O curativo é trocado duas vezes por dia."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 3.780000000000002,
+   "texto": "acham já que eu tô bem de ajuda. Só que não é bem assim,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 3.840794,
+   "texto": "Cada atadura e cada gaze pesam no orçamento da família."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 5.679999999999997,
+   "texto": "os custos são muito alto, de cada atadura, de cada gazes."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 4.22,
+   "texto": "os curativo para os cuidado do Pedrinho são absurdo de caro."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 5.7643759999999995,
+   "texto": "A SOS Human Help está arrecadando doações para o Pedrinho. Dez reais já ajudam."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 5.419999999999992,
+   "texto": "por favor, me ajuda, eu não quero, ter que ficar sem os meus cuidados que eu preciso,"
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 5.308593999999999,
+   "texto": "Toque em Saiba mais e mostre ao Pedrinho que ele não foi esquecido."
+  }
+ ]
+}

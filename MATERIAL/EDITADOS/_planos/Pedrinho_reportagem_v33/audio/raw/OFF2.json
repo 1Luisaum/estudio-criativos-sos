@@ -1,0 +1,80 @@
+{
+ "text": "Nessa rede tem seguidor antigo. E tem gente nova, que ele faz questão de citar.",
+ "words": [
+  {
+   "text": "Nessa",
+   "start": 0.0,
+   "end": 0.325
+  },
+  {
+   "text": "rede",
+   "start": 0.395,
+   "end": 0.72
+  },
+  {
+   "text": "tem",
+   "start": 0.778,
+   "end": 0.917
+  },
+  {
+   "text": "seguidor",
+   "start": 0.987,
+   "end": 1.405
+  },
+  {
+   "text": "antigo.",
+   "start": 1.451,
+   "end": 2.055
+  },
+  {
+   "text": "E",
+   "start": 2.264,
+   "end": 2.345
+  },
+  {
+   "text": "tem",
+   "start": 2.415,
+   "end": 2.543
+  },
+  {
+   "text": "gente",
+   "start": 2.601,
+   "end": 2.821
+  },
+  {
+   "text": "nova,",
+   "start": 2.902,
+   "end": 3.262
+  },
+  {
+   "text": "que",
+   "start": 3.297,
+   "end": 3.402
+  },
+  {
+   "text": "ele",
+   "start": 3.448,
+   "end": 3.576
+  },
+  {
+   "text": "faz",
+   "start": 3.622,
+   "end": 3.785
+  },
+  {
+   "text": "questão",
+   "start": 3.843,
+   "end": 4.214
+  },
+  {
+   "text": "de",
+   "start": 4.261,
+   "end": 4.342
+  },
+  {
+   "text": "citar.",
+   "start": 4.389,
+   "end": 5.155
+  }
+ ]
+}

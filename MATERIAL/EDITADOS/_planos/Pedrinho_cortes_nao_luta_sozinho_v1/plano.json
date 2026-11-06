@@ -1,0 +1,221 @@
+{
+ "nome": "Pedrinho_cortes_nao_luta_sozinho_v1",
+ "pedido": "Completar as LEVAs 27/10/2026 - Frente 1",
+ "estilo": "Cortes com gancho (edicao-criativo-ong)",
+ "angulo": "ele nao luta sozinho: todo dia a mae tira os curativos e lava as feridas, de 4 a 5 horas; e ele, mesmo nos dias dificeis, luta como um heroi e pede: luta com a gente",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\Roteiro 3.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  540,
+  600
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    540,
+    1085
+   ]
+  },
+  "Z2": {
+   "z": 1.25,
+   "center": [
+    430,
+    1152
+   ]
+  },
+  "Z3": {
+   "z": 1.3,
+   "center": [
+    720,
+    1181
+   ]
+  },
+  "ZF": {
+   "z": 1.22,
+   "center": [
+    380,
+    1133
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 1.65,
+   "out": 4.18,
+   "zoom": "Z1",
+   "txt": "Todo mundo conhece ele como Pedrinho Guerreiro"
+  },
+  {
+   "in": 5.67,
+   "out": 7.24,
+   "zoom": "Z2",
+   "txt": "Mas eu não luto sozinho."
+  },
+  {
+   "in": 9.75,
+   "out": 11.66,
+   "zoom": "Z3",
+   "txt": "Todos os dias eu cuido dele."
+  },
+  {
+   "in": 20.01,
+   "out": 21.46,
+   "zoom": "Z1",
+   "txt": "eu tiro os curativo,",
+   "fix": {
+    "CURATIVO": "CURATIVOS"
+   }
+  },
+  {
+   "in": 24.95,
+   "out": 26.02,
+   "zoom": "Z3",
+   "txt": "lavo as ferida",
+   "fix": {
+    "FERIDA": "FERIDAS"
+   }
+  },
+  {
+   "in": 31.33,
+   "out": 31.78,
+   "txt": "leva",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 146.0
+    }
+   ]
+  },
+  {
+   "in": 32.29,
+   "out": 34.0,
+   "txt": "de quatro a cinco horas.",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 147.0
+    }
+   ]
+  },
+  {
+   "in": 35.77,
+   "out": 36.54,
+   "zoom": "ZF",
+   "txt": "E mesmo,"
+  },
+  {
+   "in": 37.19,
+   "out": 38.36,
+   "zoom": "Z1",
+   "txt": "nos dia difícil,",
+   "fix": {
+    "DIA": "DIAS",
+    "DIFÍCIL": "DIFÍCEIS"
+   }
+  },
+  {
+   "in": 38.73,
+   "out": 40.58,
+   "zoom": "Z2",
+   "txt": "eu continuo sempre lutando,"
+  },
+  {
+   "in": 40.93,
+   "out": 43.82,
+   "txt": "lutando bravamente e como um verdadeiro herói",
+   "broll": [
+    {
+     "src": "20241109_123330.jpg"
+    }
+   ]
+  },
+  {
+   "in": 52.13,
+   "out": 53.38,
+   "zoom": "ZF",
+   "txt": "E se você puder,"
+  },
+  {
+   "in": 55.07,
+   "out": 56.4,
+   "zoom": "Z1",
+   "txt": "luta com a gente."
+  },
+  {
+   "in": 59.61,
+   "out": 62.0,
+   "zoom": "Z2",
+   "txt": "E desde já, nossa eterna gratidão mesmo."
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "FERIDAS",
+  "QUATRO",
+  "CINCO",
+  "HORAS",
+  "SOZINHO",
+  "HERÓI",
+  "LUTA"
+ ],
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ELE NÃO LUTA SOZINHO"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "TODO DIA A MÃE",
+    "TIRA OS CURATIVOS",
+    "E LAVA AS *FERIDAS*"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 28.0,
+  "dur": 3.4,
+  "lines": [
+   "ELE NÃO PRECISA",
+   "LUTAR SOZINHO"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$5",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "'mas eu nao luto sozinho'": "Pedrinho, banco Roteiro 3.mp4, 5.7-7.2 s",
+  "todos os dias a mae cuida dele, tira os curativos, lava as feridas; leva de 4 a 5 horas (gancho 2)": "Mae, mesmo bruto, 9.8-33.9 s",
+  "nos dias dificeis ele continua lutando bravamente como um heroi": "Pedrinho, mesmo bruto, 35.8-43.8 s",
+  "'se voce puder, luta com a gente' (tela final)": "Pedrinho, mesmo bruto, 52.2-56.3 s",
+  "R$5 (faixa)": "sem valor de doacao dito no bruto: R$5, que e o que a mae diz (regra da skill)",
+  "cortado": "'e leva quatro horas' (repetido), 'galera', o 'Doe agora' (56.6-58.0 s), os 40 mil (ja estao no luta_continua)"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 31\\PEB 148 - CORTES COM GANCHO.mp4"
+}

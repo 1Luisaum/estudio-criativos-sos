@@ -1,0 +1,18 @@
+N1: 5.72s  Quase quatro anos atrás, uma vaquinha comprou quase um ano de curativos.
+N2: 4.68s  Aquele estoque acabou faz tempo. E a pele do Pedrinho precisa de cuidado todo dia.
+N3: 2.49s  Ele não precisa de pena. Precisa de gaze.
+N4: 3.19s  Toque em Saiba mais e não deixe o Pedrinho ser esquecido.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_esquecido_v1.mp4
+real  ok  t=  2.87
+real  ok  t=  6.80
+narr  ok  t= 12.67
+real  ok  t= 16.03
+narr  ok  t= 20.87
+real  ok  t= 26.17
+card  ok  t= 27.57
+narr  ok  t= 30.20
+real  ok  t= 35.57
+narr  ok  t= 38.90
+end   ok  t= 42.50
+audio: 42.50s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_esquecido_v1.mp4  duracao=42.50s

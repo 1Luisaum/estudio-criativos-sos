@@ -1,0 +1,208 @@
+{
+ "nome": "Pedrinho_reportagem_v29",
+ "crianca": "Pedrinho",
+ "angulo": "o cuidado vai além do curativo: suplemento e alimentação",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (reporter brasileiro)"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "musica_volume": 0.036,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "NÃO É SÓ CURATIVO: MENINO COM EB",
+  "TAMBÉM PRECISA DE SUPLEMENTO"
+ ],
+ "etiqueta": "R$ 10 ajuda nos cuidados ❤️",
+ "etiqueta_final": "👇 Clique em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Quando se fala do Pedrinho, todo mundo pensa em faixa. Mas a lista dele não termina na faixa.",
+  "OFF2": "Este é um dos suplementos da dieta dele.",
+  "OFF3": "Este óleo também entra nos cuidados com a pele.",
+  "OFF4": "Somando tudo, o cuidado virou uma despesa que a família não alcança.",
+  "OFF5": "Ele sabe o tamanho do pedido. E faz mesmo assim.",
+  "OFF6": "A SOS Human Help reúne doações para esses cuidados. Dez reais já somam.",
+  "OFF7": "Clique em Saiba mais e veja como ajudar além da faixa."
+ },
+ "fatos": {
+  "itens de curativo, suplemento, alimentacao": "voz do Pedrinho em Um Video Novo (281,2 s), so o audio, sobre b-roll de itens",
+  "suplemento e oleo cicatrizante": "fotos do banco 20260825_133754 e 20260825_134129 (Cubitan - Suplementos e Dieta Terapeutica; Oleo de girassol)",
+  "luta ficou cara, mais de 40 mil em cuidados": "Roteiro 4 (20,7 a 30,9 s)",
+  "peco a sua ajuda": "Pedrinho em 20260917_000819.mp4 (50,9 s)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240411_123226.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v29/fonte/b02.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_reportagem_v29/tx/b02.json",
+   "cortes": [
+    [
+     0.3,
+     2.18
+    ],
+    [
+     2.5,
+     2.98
+    ],
+    [
+     4.64,
+     6.74
+    ],
+    [
+     8.56,
+     9.44
+    ]
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Cubitan -Suplementos e Dieta Terapêutica.png"
+  },
+  {
+   "nome": "b04",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260825_134129.jpg"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     22.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     215.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos todos os dias"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro4.json",
+   "cortes": [
+    [
+     20.74,
+     23.7
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 4.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro4.json",
+   "cortes": [
+    [
+     25.96,
+     28.52
+    ],
+    [
+     30.02,
+     30.2
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF5",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     122.0
+    ]
+   ]
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     50.88,
+     52.94
+    ]
+   ]
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF6",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+     18.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+     12.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "fala": "OFF7",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     16.0
+    ]
+   ],
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [
+  {
+   "arquivo": "Roteiro 4.mp4",
+   "inicio": 20.74,
+   "caixa": [
+    0,
+    240,
+    1080,
+    1075
+   ],
+   "quem": "rosto de quem fala / crianca"
+  },
+  {
+   "arquivo": "Roteiro 4.mp4",
+   "inicio": 25.96,
+   "caixa": [
+    0,
+    240,
+    1080,
+    1075
+   ],
+   "quem": "rosto de quem fala / crianca"
+  }
+ ],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 52\\PEB 197 - REPORTAGEM.mp4"
+}

@@ -1,0 +1,212 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Deus, se o Senhor me ouve, por favor, me ajuda. Eu preciso dos meus curativos",
+ "words": [
+  {
+   "text": "Deus,",
+   "start": 3.22,
+   "end": 3.84,
+   "type": "word",
+   "logprob": -0.0024644078788668366
+  },
+  {
+   "text": " ",
+   "start": 3.84,
+   "end": 3.84,
+   "type": "spacing",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": "se",
+   "start": 4.54,
+   "end": 4.6,
+   "type": "word",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": " ",
+   "start": 4.6,
+   "end": 4.66,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "o",
+   "start": 4.66,
+   "end": 4.7,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 4.7,
+   "end": 4.78,
+   "type": "spacing",
+   "logprob": -0.3868829905986786
+  },
+  {
+   "text": "Senhor",
+   "start": 4.78,
+   "end": 5.16,
+   "type": "word",
+   "logprob": -0.3868829905986786
+  },
+  {
+   "text": " ",
+   "start": 5.16,
+   "end": 5.24,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "me",
+   "start": 5.24,
+   "end": 5.38,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 5.38,
+   "end": 5.5,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "ouve,",
+   "start": 5.5,
+   "end": 6.0,
+   "type": "word",
+   "logprob": -1.573560700762755e-06
+  },
+  {
+   "text": " ",
+   "start": 6.0,
+   "end": 6.0,
+   "type": "spacing",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": "por",
+   "start": 6.54,
+   "end": 6.68,
+   "type": "word",
+   "logprob": -1.0728830375228426e-06
+  },
+  {
+   "text": " ",
+   "start": 6.68,
+   "end": 6.78,
+   "type": "spacing",
+   "logprob": -7.271740287251305e-06
+  },
+  {
+   "text": "favor,",
+   "start": 6.78,
+   "end": 7.38,
+   "type": "word",
+   "logprob": -0.00020109122594173337
+  },
+  {
+   "text": " ",
+   "start": 7.38,
+   "end": 7.5,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 7.5,
+   "end": 7.64,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 7.64,
+   "end": 7.72,
+   "type": "spacing",
+   "logprob": -1.490105023549404e-05
+  },
+  {
+   "text": "ajuda.",
+   "start": 7.72,
+   "end": 8.4,
+   "type": "word",
+   "logprob": -2.8450420055984676e-05
+  },
+  {
+   "text": " ",
+   "start": 8.4,
+   "end": 8.4,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "Eu",
+   "start": 9.22,
+   "end": 9.32,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 9.32,
+   "end": 9.38,
+   "type": "spacing",
+   "logprob": -7.950943836476654e-05
+  },
+  {
+   "text": "preciso",
+   "start": 9.38,
+   "end": 9.9,
+   "type": "word",
+   "logprob": -7.950943836476654e-05
+  },
+  {
+   "text": " ",
+   "start": 9.9,
+   "end": 9.94,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "dos",
+   "start": 9.94,
+   "end": 10.12,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 10.12,
+   "end": 10.16,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "meus",
+   "start": 10.16,
+   "end": 10.46,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 10.46,
+   "end": 10.5,
+   "type": "spacing",
+   "logprob": -6.794906312279636e-06
+  },
+  {
+   "text": "curativos",
+   "start": 10.5,
+   "end": 11.62,
+   "type": "word",
+   "logprob": -1.1086397989856778e-05
+  }
+ ],
+ "transcription_id": "L7NHkOhrdTfdoyzpvWgD",
+ "audio_duration_secs": 14.365
+}

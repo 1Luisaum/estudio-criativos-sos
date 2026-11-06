@@ -1,0 +1,105 @@
+{
+ "text": "Essa semana minha mamãe tá colando bastante comigo, porque tô andando um pouco nervoso, de tanto ferimento de ficar doendo,",
+ "words": [
+  {
+   "text": "Essa",
+   "start": 0.07,
+   "end": 0.23
+  },
+  {
+   "text": "semana",
+   "start": 0.31,
+   "end": 0.61
+  },
+  {
+   "text": "minha",
+   "start": 0.65,
+   "end": 0.77
+  },
+  {
+   "text": "mamãe",
+   "start": 0.95,
+   "end": 1.07
+  },
+  {
+   "text": "tá",
+   "start": 1.13,
+   "end": 1.23
+  },
+  {
+   "text": "colando",
+   "start": 1.29,
+   "end": 1.47
+  },
+  {
+   "text": "bastante",
+   "start": 1.64,
+   "end": 2.06
+  },
+  {
+   "text": "comigo,",
+   "start": 2.1,
+   "end": 2.48
+  },
+  {
+   "text": "porque",
+   "start": 2.65,
+   "end": 3.27
+  },
+  {
+   "text": "tô",
+   "start": 3.44,
+   "end": 3.52
+  },
+  {
+   "text": "andando",
+   "start": 3.56,
+   "end": 3.9
+  },
+  {
+   "text": "um",
+   "start": 4.07,
+   "end": 4.17
+  },
+  {
+   "text": "pouco",
+   "start": 4.21,
+   "end": 4.39
+  },
+  {
+   "text": "nervoso,",
+   "start": 4.45,
+   "end": 4.85
+  },
+  {
+   "text": "de",
+   "start": 5.02,
+   "end": 5.08
+  },
+  {
+   "text": "tanto",
+   "start": 5.14,
+   "end": 5.4
+  },
+  {
+   "text": "ferimento",
+   "start": 5.46,
+   "end": 6.04
+  },
+  {
+   "text": "de",
+   "start": 6.21,
+   "end": 6.33
+  },
+  {
+   "text": "ficar",
+   "start": 6.39,
+   "end": 6.55
+  },
+  {
+   "text": "doendo,",
+   "start": 6.61,
+   "end": 7.05
+  }
+ ]
+}

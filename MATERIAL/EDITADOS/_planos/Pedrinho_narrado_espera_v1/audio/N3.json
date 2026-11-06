@@ -1,0 +1,45 @@
+{
+ "text": "A Justiça pode demorar. A ferida não espera.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "Justiça",
+   "start": 0.139,
+   "end": 0.464
+  },
+  {
+   "text": "pode",
+   "start": 0.511,
+   "end": 0.685
+  },
+  {
+   "text": "demorar.",
+   "start": 0.72,
+   "end": 1.207
+  },
+  {
+   "text": "A",
+   "start": 1.428,
+   "end": 1.486
+  },
+  {
+   "text": "ferida",
+   "start": 1.567,
+   "end": 1.834
+  },
+  {
+   "text": "não",
+   "start": 1.869,
+   "end": 1.974
+  },
+  {
+   "text": "espera.",
+   "start": 1.997,
+   "end": 2.518
+  }
+ ]
+}

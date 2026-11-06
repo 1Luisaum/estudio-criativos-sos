@@ -1,0 +1,224 @@
+{
+ "nome": "Adrielly_esperanca_v2",
+ "estilo": "Da dor à esperança (Adrielly, frente C, 27/10/2026)",
+ "angulo": "virada real: as doações trouxeram os primeiros curativos",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "tensa_inicio": 0,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/good_b_music-melody-of-nature-main-6672.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 5,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_0161_pb.jpg",
+   "look": "pb",
+   "dur": 2.47,
+   "palavras": [
+    [
+     "O CURATIVO",
+     0.25,
+     "branco",
+     150
+    ],
+    [
+     "ARRANCAVA",
+     0.83,
+     "branco",
+     150
+    ],
+    [
+     "A PELE",
+     1.46,
+     "vermelho",
+     270
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.46
+    ]
+   ],
+   "palavras_y": 1350,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4696.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__LEVA_17.09__IMG_4696.json",
+   "look": "pb",
+   "cortes": [
+    [
+     0.94,
+     9.5
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Eu já perdi as contas de quantas vezes eu precisei reutilizar os mesmos curativos,"
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4702.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__LEVA_17.09__IMG_4702.json",
+   "look": "pb",
+   "cortes": [
+    [
+     0.88,
+     6.64
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Porque gruda e arranca a pele e eu perco ainda mais sangue"
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/83e3b143-239c-44d6-9d2e-41268b95b7a2_pb.jpg"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_9230_pb.jpg"
+    }
+   ]
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5481.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5481.json",
+   "look": "pb",
+   "cortes": [
+    [
+     13.2,
+     17.84
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Ela fala que queria que fosse nela e não ni mim."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (1).mp4",
+     "start": 4
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3886.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3886.json",
+   "look": "cor",
+   "cortes": [
+    [
+     0.46,
+     6.66
+    ],
+    [
+     7.12,
+     9.54
+    ]
+   ],
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3886.MOV",
+     "start": 0.5
+    },
+    {
+     "src": "curativos juntos.png"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     "start": 3
+    }
+   ],
+   "txt": "Gente, meus curativos chegaram e isso é graça a vocês. Vão me ajudar demais"
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "Curativos Mepilex Transfer20x50cm.jpeg"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (4).mp4",
+     "start": 4
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "wmremove-transformed.jpg",
+   "dur": 3.6,
+   "linhas": [
+    "O PRÓXIMO CURATIVO",
+    "*PODE VIR DE VOCÊ*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "curativo gruda e arranca a pele; reutilizava curativos": "IMG_4696 (1-9 s), IMG_4702",
+  "lençóis sujos de sangue todos os dias": "IMG_4200",
+  "mãe queria que fosse nela": "IMG_5481 (13-18 s)",
+  "primeiros curativos chegaram com as doações": "IMG_3886, IMG_3892, IMG_3542, IMG_4696 (10-18 s)",
+  "duram só um mês": "IMG_3887 (8-12 s), IMG_5696 ('em média 30 dias')",
+  "R$10": "IMG_4205/IMG_4493"
+ },
+ "modelo": "skill criativo-esperanca-ong (exemplo Pedrinho_esperanca_v1), material da Adrielly",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 44\\AEB 49 - DA DOR À ESPERANÇA.mp4"
+}

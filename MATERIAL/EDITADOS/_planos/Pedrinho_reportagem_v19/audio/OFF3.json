@@ -1,0 +1,75 @@
+{
+ "text": "A conta é feita de coisas pequenas. Atadura. Gaze. Pomada. E nada disso dura.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "conta",
+   "start": 0.163,
+   "end": 0.406
+  },
+  {
+   "text": "é",
+   "start": 0.43,
+   "end": 0.48
+  },
+  {
+   "text": "feita",
+   "start": 0.534,
+   "end": 0.882
+  },
+  {
+   "text": "de",
+   "start": 0.929,
+   "end": 1.01
+  },
+  {
+   "text": "coisas",
+   "start": 1.068,
+   "end": 1.451
+  },
+  {
+   "text": "pequenas.",
+   "start": 1.521,
+   "end": 2.221
+  },
+  {
+   "text": "Atadura.",
+   "start": 2.221,
+   "end": 2.873
+  },
+  {
+   "text": "Gáze.",
+   "start": 2.917,
+   "end": 3.445
+  },
+  {
+   "text": "Pomada.",
+   "start": 3.445,
+   "end": 4.014
+  },
+  {
+   "text": "E",
+   "start": 4.014,
+   "end": 4.064
+  },
+  {
+   "text": "nada",
+   "start": 4.144,
+   "end": 4.388
+  },
+  {
+   "text": "disso",
+   "start": 4.434,
+   "end": 4.713
+  },
+  {
+   "text": "dura.",
+   "start": 4.759,
+   "end": 5.071
+  }
+ ]
+}

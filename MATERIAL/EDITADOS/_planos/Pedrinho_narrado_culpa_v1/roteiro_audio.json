@@ -1,0 +1,19 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "A epidermólise bolhosa é uma doença genética. Não é culpa de ninguém.",
+  "N2": "São duas trocas de curativo por dia. Quem faz cada uma delas é a mãe.",
+  "N3": "Ela não tem culpa. Tem coragem.",
+  "N4": "Toque em Saiba mais e mostre a ela que não está sozinha."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

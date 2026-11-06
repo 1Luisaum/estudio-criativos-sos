@@ -1,0 +1,40 @@
+{
+ "total": 39.11,
+ "blocos": [
+  {
+   "nome": "f01",
+   "d": 3.829999999999999,
+   "texto": "É o quê, mãe? os curativo tão acabando? Meu Deus, e agora?"
+  },
+  {
+   "nome": "f02",
+   "d": 4.830000000000001,
+   "texto": "a minha mãe acabou de me dar a pior notícia que eu poderia receber dessa semana."
+  },
+  {
+   "nome": "f03",
+   "d": 8.710000000000004,
+   "texto": "Os curativos, que é usado, pro meu tratamento e pra aliviar as dores do meu esfolamento e proteger pra não pousar mosquito, evitar poeira,"
+  },
+  {
+   "nome": "f04",
+   "d": 3.190000000000008,
+   "texto": "estão acabando. Na verdade, acabou,"
+  },
+  {
+   "nome": "f05",
+   "d": 7.710000000000011,
+   "texto": "a gente não tem como comprar nem, uns dois, três pacotes de atadura ou um gaze, que é pra passar minha pomadinha."
+  },
+  {
+   "nome": "f06",
+   "d": 5.4500000000000055,
+   "texto": "eu peço a sua ajuda. Seja com dois ou cinco reais, não importa o valor,"
+  },
+  {
+   "nome": "f07",
+   "d": 5.389999999999969,
+   "texto": "seja comigo nessa caminhada. E meu muito obrigado."
+  }
+ ]
+}

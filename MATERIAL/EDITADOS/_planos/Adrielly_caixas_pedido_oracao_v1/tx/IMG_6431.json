@@ -1,0 +1,240 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Oi, eu estou triste. Você pode ouvir minha oração? Seus 10 segundos nesse vídeo me ajuda muito",
+ "words": [
+  {
+   "text": "Oi,",
+   "start": 3.3,
+   "end": 3.6,
+   "type": "word",
+   "logprob": -0.0013016643691419934
+  },
+  {
+   "text": " ",
+   "start": 3.6,
+   "end": 3.6,
+   "type": "spacing",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": "eu",
+   "start": 4.28,
+   "end": 4.4,
+   "type": "word",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": " ",
+   "start": 4.4,
+   "end": 4.42,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "estou",
+   "start": 4.44,
+   "end": 4.78,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 4.78,
+   "end": 4.84,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "triste.",
+   "start": 4.84,
+   "end": 5.4,
+   "type": "word",
+   "logprob": -4.107105399141021e-05
+  },
+  {
+   "text": " ",
+   "start": 5.4,
+   "end": 5.4,
+   "type": "spacing",
+   "logprob": -1.847726889536716e-05
+  },
+  {
+   "text": "Você",
+   "start": 6.0,
+   "end": 6.34,
+   "type": "word",
+   "logprob": -1.847726889536716e-05
+  },
+  {
+   "text": " ",
+   "start": 6.34,
+   "end": 6.38,
+   "type": "spacing",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": "pode",
+   "start": 6.38,
+   "end": 6.64,
+   "type": "word",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": " ",
+   "start": 6.64,
+   "end": 6.66,
+   "type": "spacing",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": "ouvir",
+   "start": 6.66,
+   "end": 7.02,
+   "type": "word",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": " ",
+   "start": 7.02,
+   "end": 7.08,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "minha",
+   "start": 7.08,
+   "end": 7.24,
+   "type": "word",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": " ",
+   "start": 7.24,
+   "end": 7.28,
+   "type": "spacing",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "oração?",
+   "start": 7.32,
+   "end": 8.02,
+   "type": "word",
+   "logprob": -2.2138835577477167e-06
+  },
+  {
+   "text": " ",
+   "start": 8.02,
+   "end": 8.039,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "Seus",
+   "start": 8.78,
+   "end": 9.0,
+   "type": "word",
+   "logprob": -7.748600694412744e-07
+  },
+  {
+   "text": " ",
+   "start": 9.0,
+   "end": 9.06,
+   "type": "spacing",
+   "logprob": -0.0052368370816111565
+  },
+  {
+   "text": "10",
+   "start": 9.06,
+   "end": 9.32,
+   "type": "word",
+   "logprob": -5.9604641222676946e-08
+  },
+  {
+   "text": " ",
+   "start": 9.32,
+   "end": 9.38,
+   "type": "spacing",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": "segundos",
+   "start": 9.38,
+   "end": 10.14,
+   "type": "word",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": " ",
+   "start": 10.14,
+   "end": 10.26,
+   "type": "spacing",
+   "logprob": -2.992108420585282e-05
+  },
+  {
+   "text": "nesse",
+   "start": 10.26,
+   "end": 10.6,
+   "type": "word",
+   "logprob": -2.992108420585282e-05
+  },
+  {
+   "text": " ",
+   "start": 10.6,
+   "end": 10.66,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "vídeo",
+   "start": 10.66,
+   "end": 11.16,
+   "type": "word",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": " ",
+   "start": 11.16,
+   "end": 11.16,
+   "type": "spacing",
+   "logprob": -0.0007098776986822486
+  },
+  {
+   "text": "me",
+   "start": 11.64,
+   "end": 11.76,
+   "type": "word",
+   "logprob": -0.0007098776986822486
+  },
+  {
+   "text": " ",
+   "start": 11.76,
+   "end": 11.84,
+   "type": "spacing",
+   "logprob": -3.480850500636734e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 11.84,
+   "end": 12.28,
+   "type": "word",
+   "logprob": -3.480850500636734e-05
+  },
+  {
+   "text": " ",
+   "start": 12.28,
+   "end": 12.38,
+   "type": "spacing",
+   "logprob": -4.017272294731811e-05
+  },
+  {
+   "text": "muito",
+   "start": 12.4,
+   "end": 12.92,
+   "type": "word",
+   "logprob": -4.017272294731811e-05
+  }
+ ],
+ "transcription_id": "qypSKbVLGPmz96hrXDZo",
+ "audio_duration_secs": 15.3816875
+}

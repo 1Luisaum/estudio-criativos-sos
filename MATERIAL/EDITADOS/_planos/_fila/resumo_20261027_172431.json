@@ -1,0 +1,44 @@
+{
+ "total_s": 521,
+ "videos": [
+  {
+   "plano": "Pedrinho_unicef_gaze_v1",
+   "skill": "criativo-unicef-ong",
+   "montagem_s": 256,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_unicef_gaze_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 30\\PEB 125 - UNICEF.mp4",
+   "duracao": 39.51,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 1 momento(s): [35.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 125 - UNICEF_suspeitos.jpg"
+  },
+  {
+   "plano": "Pedrinho_unicef_soro_v1",
+   "skill": "criativo-unicef-ong",
+   "montagem_s": 257,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_unicef_soro_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 32\\PEB 135 - UNICEF.mp4",
+   "duracao": 42.5,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 3 momento(s): [26.0, 26.5, 34.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 135 - UNICEF_suspeitos.jpg"
+  },
+  {
+   "plano": "Pedrinho_unicef_pomada_v1",
+   "skill": "criativo-unicef-ong",
+   "montagem_s": 171,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_unicef_pomada_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 33\\PEB 140 - UNICEF.mp4",
+   "duracao": 38.3,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 17 momento(s): [11.5, 12.0, 13.0, 13.5, 14.5, 16.0, 17.0, 17.5, 18.0, 20.5, 25.5, 26.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 140 - UNICEF_suspeitos.jpg"
+  }
+ ]
+}

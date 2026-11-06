@@ -1,0 +1,239 @@
+{
+ "nome": "Adrielly_esperanca_v1",
+ "estilo": "Da dor à esperança (Adrielly, frente C, 27/10/2026)",
+ "angulo": "milagre: os médicos davam um mês e ela tem 28 anos",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "tensa_inicio": 0,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/rockymetal-ambient-acoustic-239252.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 5,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/17a0b81e-5545-4cb6-a77f-38d5be0de115_pb.jpg",
+   "look": "pb",
+   "dur": 2.49,
+   "palavras": [
+    [
+     "ELA NÃO",
+     0.85,
+     "branco",
+     150
+    ],
+    [
+     "PASSARIA DE",
+     1.12,
+     "branco",
+     140
+    ],
+    [
+     "UM MÊS",
+     1.64,
+     "vermelho",
+     260
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.64
+    ]
+   ],
+   "palavras_y": 1480,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_4227.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_4227.json",
+   "look": "pb",
+   "cortes": [
+    [
+     0.72,
+     6.14
+    ],
+    [
+     6.78,
+     8.74
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "A pele arde, sangra e eu só consigo chorar de dor e chamar a minha mãe."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_8768_pb.jpg"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_jpg_do_heic/IMG_0400.jpg",
+     "look": "pb"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     "start": 5
+    }
+   ]
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_4507.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_4507.json",
+   "look": "pb",
+   "cortes": [
+    [
+     9.18,
+     12.62
+    ],
+    [
+     17.38,
+     21.78
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Os médicos não me davam esperança de vida, dizendo que se eu fosse até um mês, era muito."
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4725.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__LEVA_17.09__IMG_4725.json",
+   "look": "pb",
+   "cortes": [
+    [
+     1.32,
+     5.64
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.18,
+     "center": [
+      540,
+      760
+     ]
+    }
+   ],
+   "txt": "Minha mãe já não tem mais dinheiro para meu tratamento."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     "start": 2
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5805.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5805.json",
+   "look": "cor",
+   "cortes": [
+    [
+     32.54,
+     33.16
+    ],
+    [
+     33.46,
+     36.68
+    ],
+    [
+     37.58,
+     40.8
+    ]
+   ],
+   "broll": [
+    {
+     "src": "Adrielly criança 3.jpg"
+    },
+    {
+     "src": "ADERIELLY CRIANÇA.png"
+    },
+    {
+     "src": "80d80d55-6517-4a11-8546-5e6c9fbc1c0b (1) (1).png"
+    }
+   ],
+   "txt": "Então, tá aqui hoje pra mim, eu me considero um milagre de Deus, uma dádiva."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (2).mp4",
+     "start": 6
+    },
+    {
+     "src": "wmremove-transformed.jpg"
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "vlcsnap-2026-07-07-17h28m49s694.png",
+   "dur": 3.6,
+   "linhas": [
+    "O MILAGRE",
+    "*CONTINUA COM VOCÊ*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "não passaria de um mês / médicos sem esperança": "IMG_4507 (9-21 s), IMG_5805 (28-32 s)",
+  "95% do corpo com lesões": "IMG_3722, IMG_3868, IMG_5451",
+  "curativo de cerca de 3 horas": "IMG_5487 (16-21 s)",
+  "28 anos": "IMG_4507 (22-25 s), IMG_5805",
+  "falas": "IMG_4227 (0,7-8,7 s); IMG_4507 (9-22 s); IMG_4725 (1,3-5,6 s); IMG_5805 (32-41 s)",
+  "R$10": "IMG_4205/IMG_4493 ('cinco ou dez reais'), padrão do usuário"
+ },
+ "modelo": "skill criativo-esperanca-ong (exemplo Pedrinho_esperanca_v1), material da Adrielly",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 41\\AEB 38 - DA DOR À ESPERANÇA.mp4"
+}

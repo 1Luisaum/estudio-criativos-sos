@@ -1,0 +1,134 @@
+{
+ "nome": "Pedrinho_mae_desesperada_nenhuma_mae_v1",
+ "referencia": "Causas do Bem, anuncio 1428626718623984 (Kauê): mae falando para a camera, voz da crianca sobre b-roll, caixa vermelha fixa",
+ "angulo": "a mae ouviu que e culpada e conta que nao consegue nem o basico pro filho",
+ "gancho": {
+  "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+  "cortes": [
+   [
+    1.72,
+    5.5
+   ],
+   [
+    5.72,
+    7.4
+   ],
+   [
+    36.18,
+    38.16
+   ]
+  ],
+  "zooms": [
+   1.0,
+   1.15,
+   1.0
+  ]
+ },
+ "voz_off": [
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "corte": [
+    79.3,
+    81.54
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "corte": [
+    82.16,
+    84.44
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "corte": [
+    91.02,
+    92.42
+   ],
+   "respiro": 0.25
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "corte": [
+    52.14,
+    52.9
+   ]
+  },
+  {
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "corte": [
+    53.16,
+    55.24
+   ]
+  }
+ ],
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "musica_sob_voz": 0.1,
+ "musica_depois": 0.4,
+ "caixa": [
+  "NENHUMA MÃE DEVERIA OUVIR ISSO...",
+  "ELA NÃO CONSEGUE NEM O BÁSICO PRO PEDRINHO",
+  "R$10,00 SE TORNA VIDA🙏"
+ ],
+ "cta": "👇 TOQUE EM SAIBA MAIS",
+ "caixa_y": 1344,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 134.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 152.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 2.6,
+   "start": 20.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 196.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "dur": 2.6,
+   "start": 20.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 244.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "dur": 2.6,
+   "start": 80.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "dur": 2.6,
+   "start": 280.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_mae_desesperada_nenhuma_mae_v1/fotos/IMG-20260620-WA0011.png",
+   "dur": 2.6,
+   "fonte_original": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/IMG-20260620-WA0011.jpg"
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_mae_desesperada_nenhuma_mae_v1/fotos/20241107_202353.png",
+   "dur": 3.0,
+   "fonte_original": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg"
+  }
+ ],
+ "fatos": {
+  "nenhuma mãe deveria ouvir isso: você é culpada; não consigo nem o básico pra ele; por favor, desde já, gratidão": "mãe, Roteiro_ Nenhuma mãe... (1-8 s, 36-38 s, 52-55 s)",
+  "se você sentir no seu coração, ajude no meu tratamento; e muito obrigado": "Pedrinho, roteiro 9 (79-92 s)",
+  "R$10": "valor padrao do pedido (nenhuma fala usada cita outro valor)"
+ },
+ "modelo": "lote de 30 (27/10/2026), frente D",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 26\\PEB 114 - MÃE DESESPERADA.mp4"
+}

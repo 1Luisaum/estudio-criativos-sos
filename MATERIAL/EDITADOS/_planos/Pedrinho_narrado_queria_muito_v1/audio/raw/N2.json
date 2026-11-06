@@ -1,0 +1,80 @@
+{
+ "text": "Dormir. Só isso. Virar na cama sem doer. Acordar sem a pele colada no pano.",
+ "words": [
+  {
+   "text": "Dormir.",
+   "start": 0.0,
+   "end": 0.569
+  },
+  {
+   "text": "Só",
+   "start": 0.824,
+   "end": 1.045
+  },
+  {
+   "text": "isso.",
+   "start": 1.138,
+   "end": 1.474
+  },
+  {
+   "text": "Virar",
+   "start": 1.695,
+   "end": 1.95
+  },
+  {
+   "text": "na",
+   "start": 1.985,
+   "end": 2.078
+  },
+  {
+   "text": "cama",
+   "start": 2.159,
+   "end": 2.438
+  },
+  {
+   "text": "sem",
+   "start": 2.485,
+   "end": 2.612
+  },
+  {
+   "text": "doer.",
+   "start": 2.659,
+   "end": 2.984
+  },
+  {
+   "text": "Acordar",
+   "start": 3.274,
+   "end": 3.773
+  },
+  {
+   "text": "sem",
+   "start": 3.808,
+   "end": 3.913
+  },
+  {
+   "text": "a",
+   "start": 3.982,
+   "end": 4.005
+  },
+  {
+   "text": "pele",
+   "start": 4.052,
+   "end": 4.261
+  },
+  {
+   "text": "colada",
+   "start": 4.296,
+   "end": 4.574
+  },
+  {
+   "text": "no",
+   "start": 4.621,
+   "end": 4.69
+  },
+  {
+   "text": "pano.",
+   "start": 4.76,
+   "end": 5.48
+  }
+ ]
+}

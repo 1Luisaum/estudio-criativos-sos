@@ -1,0 +1,70 @@
+{
+ "text": "Uma ferida aberta no ombro. Durante a noite, a casca grudou na almofada.",
+ "words": [
+  {
+   "text": "Uma",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "ferida",
+   "start": 0.221,
+   "end": 0.546
+  },
+  {
+   "text": "aberta",
+   "start": 0.569,
+   "end": 0.894
+  },
+  {
+   "text": "no",
+   "start": 0.94,
+   "end": 1.033
+  },
+  {
+   "text": "ombro.",
+   "start": 1.08,
+   "end": 1.374
+  },
+  {
+   "text": "Durante",
+   "start": 1.374,
+   "end": 1.699
+  },
+  {
+   "text": "a",
+   "start": 1.745,
+   "end": 1.795
+  },
+  {
+   "text": "noite,",
+   "start": 1.826,
+   "end": 2.128
+  },
+  {
+   "text": "a",
+   "start": 2.152,
+   "end": 2.202
+  },
+  {
+   "text": "casca",
+   "start": 2.279,
+   "end": 2.744
+  },
+  {
+   "text": "grudou",
+   "start": 2.79,
+   "end": 3.162
+  },
+  {
+   "text": "na",
+   "start": 3.231,
+   "end": 3.289
+  },
+  {
+   "text": "almofada.",
+   "start": 3.313,
+   "end": 4.057
+  }
+ ]
+}

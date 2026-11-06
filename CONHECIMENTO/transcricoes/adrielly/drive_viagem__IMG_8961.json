@@ -1,0 +1,113 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "SOS, SOS, precisamos de um socorro também",
+ "words": [
+  {
+   "text": "SOS,",
+   "start": 7.06,
+   "end": 7.36,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.23894664249382913
+  },
+  {
+   "text": " ",
+   "start": 7.36,
+   "end": 7.66,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.5244736075401306
+  },
+  {
+   "text": "SOS,",
+   "start": 7.7,
+   "end": 7.88,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.46443792432546616
+  },
+  {
+   "text": " ",
+   "start": 7.88,
+   "end": 8.02,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.6780133247375488
+  },
+  {
+   "text": "precisamos",
+   "start": 8.02,
+   "end": 8.4,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.6780133247375488
+  },
+  {
+   "text": " ",
+   "start": 8.4,
+   "end": 8.4,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.3533828556537628
+  },
+  {
+   "text": "de",
+   "start": 8.4,
+   "end": 8.46,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.3533828556537628
+  },
+  {
+   "text": " ",
+   "start": 8.46,
+   "end": 8.46,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -2.059962034225464
+  },
+  {
+   "text": "um",
+   "start": 8.46,
+   "end": 8.46,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -2.059962034225464
+  },
+  {
+   "text": " ",
+   "start": 8.46,
+   "end": 8.46,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -1.375853180885315
+  },
+  {
+   "text": "socorro",
+   "start": 8.46,
+   "end": 8.66,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.6097898866449084
+  },
+  {
+   "text": " ",
+   "start": 8.66,
+   "end": 8.7,
+   "type": "spacing",
+   "speaker_id": "speaker_0",
+   "logprob": -0.14651945233345032
+  },
+  {
+   "text": "também",
+   "start": 8.7,
+   "end": 8.96,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.14651945233345032
+  }
+ ],
+ "transcription_id": "MLjhKBkJnr8ZzqD4GfdJ",
+ "audio_duration_secs": 9.5
+}

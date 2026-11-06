@@ -1,0 +1,40 @@
+{
+ "text": "E nenhuma dessas horas foi escolha dele.",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "nenhuma",
+   "start": 0.163,
+   "end": 0.476
+  },
+  {
+   "text": "dessas",
+   "start": 0.522,
+   "end": 0.801
+  },
+  {
+   "text": "horas",
+   "start": 0.871,
+   "end": 1.115
+  },
+  {
+   "text": "foi",
+   "start": 1.173,
+   "end": 1.324
+  },
+  {
+   "text": "escolha",
+   "start": 1.347,
+   "end": 1.73
+  },
+  {
+   "text": "dele.",
+   "start": 1.788,
+   "end": 2.069
+  }
+ ]
+}

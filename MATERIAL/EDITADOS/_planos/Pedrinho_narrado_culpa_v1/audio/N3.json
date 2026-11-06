@@ -1,0 +1,35 @@
+{
+ "text": "Ela não tem culpa. Tem coragem.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.174
+  },
+  {
+   "text": "não",
+   "start": 0.209,
+   "end": 0.313
+  },
+  {
+   "text": "tem",
+   "start": 0.36,
+   "end": 0.488
+  },
+  {
+   "text": "culpa.",
+   "start": 0.546,
+   "end": 0.998
+  },
+  {
+   "text": "Tem",
+   "start": 1.015,
+   "end": 1.132
+  },
+  {
+   "text": "coragem.",
+   "start": 1.179,
+   "end": 1.686
+  }
+ ]
+}

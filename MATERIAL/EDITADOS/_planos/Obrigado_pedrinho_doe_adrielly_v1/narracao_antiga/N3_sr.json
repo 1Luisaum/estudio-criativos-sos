@@ -1,0 +1,240 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "E ele não é o único. A Adrielly tem a mesma doença e também precisa de ajuda",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.08,
+   "end": 0.12,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 0.12,
+   "end": 0.18,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "ele",
+   "start": 0.18,
+   "end": 0.32,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 0.32,
+   "end": 0.34,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "não",
+   "start": 0.34,
+   "end": 0.48,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 0.48,
+   "end": 0.52,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "é",
+   "start": 0.54,
+   "end": 0.56,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 0.56,
+   "end": 0.6,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "o",
+   "start": 0.6,
+   "end": 0.66,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 0.66,
+   "end": 0.72,
+   "type": "spacing",
+   "logprob": -1.8954096958623268e-05
+  },
+  {
+   "text": "único.",
+   "start": 0.72,
+   "end": 1.14,
+   "type": "word",
+   "logprob": -0.010363617761868227
+  },
+  {
+   "text": " ",
+   "start": 1.14,
+   "end": 1.38,
+   "type": "spacing",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": "A",
+   "start": 1.38,
+   "end": 1.46,
+   "type": "word",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": " ",
+   "start": 1.46,
+   "end": 1.52,
+   "type": "spacing",
+   "logprob": -0.0004601611872203648
+  },
+  {
+   "text": "Adrielly",
+   "start": 1.52,
+   "end": 2.0,
+   "type": "word",
+   "logprob": -0.0005729877157136798
+  },
+  {
+   "text": " ",
+   "start": 2.0,
+   "end": 2.04,
+   "type": "spacing",
+   "logprob": -3.766942609217949e-05
+  },
+  {
+   "text": "tem",
+   "start": 2.04,
+   "end": 2.16,
+   "type": "word",
+   "logprob": -3.766942609217949e-05
+  },
+  {
+   "text": " ",
+   "start": 2.16,
+   "end": 2.2,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "a",
+   "start": 2.2,
+   "end": 2.22,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.22,
+   "end": 2.34,
+   "type": "spacing",
+   "logprob": -2.038458114839159e-05
+  },
+  {
+   "text": "mesma",
+   "start": 2.36,
+   "end": 2.68,
+   "type": "word",
+   "logprob": -2.038458114839159e-05
+  },
+  {
+   "text": " ",
+   "start": 2.68,
+   "end": 2.72,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "doença",
+   "start": 2.72,
+   "end": 3.18,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 3.18,
+   "end": 3.46,
+   "type": "spacing",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": "e",
+   "start": 3.46,
+   "end": 3.5,
+   "type": "word",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": " ",
+   "start": 3.5,
+   "end": 3.58,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "também",
+   "start": 3.58,
+   "end": 3.88,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 3.88,
+   "end": 3.92,
+   "type": "spacing",
+   "logprob": -1.8000440832111053e-05
+  },
+  {
+   "text": "precisa",
+   "start": 3.92,
+   "end": 4.38,
+   "type": "word",
+   "logprob": -1.8000440832111053e-05
+  },
+  {
+   "text": " ",
+   "start": 4.38,
+   "end": 4.44,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 4.44,
+   "end": 4.48,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.48,
+   "end": 4.54,
+   "type": "spacing",
+   "logprob": -5.364403477869928e-06
+  },
+  {
+   "text": "ajuda",
+   "start": 4.54,
+   "end": 4.96,
+   "type": "word",
+   "logprob": -5.364403477869928e-06
+  }
+ ],
+ "transcription_id": "kJVQQRiWdnXrxxWGtVfP",
+ "audio_duration_secs": 5.1115
+}

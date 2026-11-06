@@ -1,0 +1,123 @@
+{
+ "nome": "Pedrinho_prazo_acabando_v5",
+ "crianca": "Pedrinho",
+ "estilo": "PRAZO ACABANDO",
+ "referencia": "Drive 1vlTjZsPdSYywk1HxnwLOacyMG3AvEmjr (cachorro, 'nosso prazo está acabando'), copiada em EDITADOS/_referencias/drive_1vlTjZ/ref.mp4",
+ "cor_vermelha": [
+  231,
+  0,
+  5
+ ],
+ "topo": {
+  "linhas": [
+   "nosso prazo",
+   "está acabando."
+  ],
+  "ref_frase": "está acabando.",
+  "ref_largura": 445,
+  "cx": 544,
+  "y": 246,
+  "passo": 58,
+  "padx": 11,
+  "pady": 1
+ },
+ "meio": {
+  "linhas": [
+   "Dia 20 procurando",
+   "2 mil pessoas para",
+   "doar 2 reais para salvar",
+   "vidas."
+  ],
+  "ref_frase": "doar 2 reais para salvar",
+  "ref_largura": 707,
+  "cx": 556,
+  "y": 1333,
+  "passo": 60,
+  "padx": 9,
+  "pady": 0
+ },
+ "baixo": {
+  "linhas": [
+   "ME AJUDE, FAÇA O BEM..."
+  ],
+  "ref_frase": "ME AJUDE, FAÇA O BEM...",
+  "ref_largura": 674,
+  "cx": 552,
+  "y": 1612,
+  "passo": 65,
+  "padx": 9,
+  "pady": 0
+ },
+ "tomadas": [
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792598774_4012931281706053238_1642859680.mp4",
+   "inicio": 102.0,
+   "dur": 2.2,
+   "zoom_topo": 1.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+   "inicio": 80.0,
+   "dur": 2.8
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240603_141622.jpg",
+   "inicio": 0.0,
+   "dur": 1.0
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1789402278_3986114791733758398_1642859680.mp4",
+   "inicio": 240.0,
+   "dur": 3.0,
+   "zoom_topo": 1.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1774481214_3860949812967821509_1642859680.mp4",
+   "inicio": 70.0,
+   "dur": 1.2
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260113_023031.jpg",
+   "inicio": 0.0,
+   "dur": 3.2
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+   "inicio": 270.0,
+   "dur": 1.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+   "inicio": 9.5,
+   "dur": 2.8
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/VID-20260702-WA0016.mp4",
+   "inicio": 170.0,
+   "dur": 1.4
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20240402_095757.jpg",
+   "inicio": 0.0,
+   "dur": 3.0,
+   "zoom_topo": 1.15
+  },
+  {
+   "arquivo": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/pedrinho_guerreiro_1792347808_4010826309325643133_1642859680.mp4",
+   "inicio": 60.0,
+   "dur": 1.56,
+   "zoom_topo": 1.5
+  }
+ ],
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_referencias/drive_1vlTjZ/ref.mp4",
+ "musica_inicio": 0,
+ "fatos": {
+  "curativos estao acabando": "Pedrinho em 'Roteiro_ os meus curativos estão acabando e eu tô com medo...'",
+  "2 reais ajudam": "mãe em 'Roteiro_ esse calor...' (quiser doar dois reais ou cinco reais, vai tá ajudando)",
+  "tirado da referencia (nao e fato)": "'Dia 19' e '2 mil pessoas' ficaram de fora: não são fatos do Pedrinho",
+  "'Dia N'": "pedido do usuário (29/10/2026): versões Dia 17 a 21, como a referência; esta é o Dia 20",
+  "texto": "texto igual ao do anúncio do Caio (referência), só mudando o dia: pedido do usuário em 29/10/2026"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\TUDO BALBINO\\LEVA 35\\PEB 160 - PRAZO ACABANDO.mp4",
+ "obs_tomadas": "29/10/2026: 11 takes de 11 fontes diferentes (nenhuma repete no mesmo video, pedido do usuario), novos + antigos + fotos fortes sem curativo; sem a TV e sem ferida aberta em close"
+}

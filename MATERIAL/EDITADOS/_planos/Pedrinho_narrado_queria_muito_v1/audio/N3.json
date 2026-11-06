@@ -1,0 +1,75 @@
+{
+ "text": "Tem mais um pedido nessa lista. Ele quer que a mãe consiga trabalhar tranquila.",
+ "words": [
+  {
+   "text": "Tem",
+   "start": 0.0,
+   "end": 0.255
+  },
+  {
+   "text": "mais",
+   "start": 0.29,
+   "end": 0.453
+  },
+  {
+   "text": "um",
+   "start": 0.522,
+   "end": 0.572
+  },
+  {
+   "text": "pedido",
+   "start": 0.615,
+   "end": 0.929
+  },
+  {
+   "text": "nessa",
+   "start": 0.964,
+   "end": 1.173
+  },
+  {
+   "text": "lista.",
+   "start": 1.231,
+   "end": 1.669
+  },
+  {
+   "text": "Ele",
+   "start": 1.669,
+   "end": 1.853
+  },
+  {
+   "text": "quer",
+   "start": 1.888,
+   "end": 2.004
+  },
+  {
+   "text": "que",
+   "start": 2.039,
+   "end": 2.12
+  },
+  {
+   "text": "a",
+   "start": 2.166,
+   "end": 2.216
+  },
+  {
+   "text": "mãe",
+   "start": 2.259,
+   "end": 2.607
+  },
+  {
+   "text": "consiga",
+   "start": 2.654,
+   "end": 3.049
+  },
+  {
+   "text": "trabalhar",
+   "start": 3.083,
+   "end": 3.443
+  },
+  {
+   "text": "tranquila.",
+   "start": 3.467,
+   "end": 4.031
+  }
+ ]
+}

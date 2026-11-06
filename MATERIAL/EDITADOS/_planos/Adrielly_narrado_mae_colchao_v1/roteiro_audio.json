@@ -1,0 +1,19 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Toda noite, a mãe da Adrielly dorme num colchão ao lado da cama da filha.",
+  "N2": "É ela quem dá o banho, troca cada curativo e prepara cada refeição.",
+  "N3": "Mas essa mãe também adoeceu. E o dinheiro acabou.",
+  "N5": "Com dez reais, você ajuda a comprar os curativos da Adrielly e alivia o peso dessa mãe."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "nome": "Pedrinho_reportagem_v14",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "etiqueta_manchete": "ESPECIAL",
+ "manchete": [
+  "MENINO COM “PELE DE BORBOLETA”",
+  "LUTA PARA CONSEGUIR DORMIR"
+ ],
+ "etiqueta": "❤️ Deixe um coração aqui",
+ "etiqueta_final": "❤️ Deixe um coração aqui",
+ "narracao": {
+  "OFF1": "Dormir virou uma luta para o Pedrinho.",
+  "OFF2": "Ele tem epidermólise bolhosa, a pele de borboleta. E as feridas estão cada vez mais abertas.",
+  "OFF3": "Deixe um coração nos comentários e mande o seu carinho para o Pedrinho."
+ },
+ "fatos": {
+  "nao consegue dormir de dor": "Pedrinho em 'Roteiro_ Eu não aguento mais não conseguir dormir'",
+  "feridas cada vez mais abertas": "Pedrinho em 20260916_234157.mp4",
+  "epidermolise bolhosa (pele de borboleta)": "Pedrinho e mae nos brutos"
+ },
+ "obs": "curto, CTA de engajamento sem 'Saiba mais' e sem logo SOS (@juntospelopedrinho no lugar) - pedido do usuario 29/10/2026",
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260113_023031.jpg",
+   "pb": true
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Eu não aguento mais não conseguir dormir_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_corrigidas/v2_dormir.json",
+   "cortes": [
+    [
+     3.22,
+     4.76
+    ],
+    [
+     11.5,
+     12.88
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     165.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     232.0
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Pedrinho_narrado_calor_v1/tx/v1_cinco_horas.json",
+   "cortes": [
+    [
+     35.02,
+     36.22
+    ],
+    [
+     37.18,
+     39.2
+    ]
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20221127_220927.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\TUDO BALBINO\\LEVA 34\\PEB 151 - REPORTAGEM.mp4"
+}

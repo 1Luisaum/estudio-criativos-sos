@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e faça mais do que seguir.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.372
+  },
+  {
+   "text": "em",
+   "start": 0.395,
+   "end": 0.453
+  },
+  {
+   "text": "Saiba",
+   "start": 0.546,
+   "end": 0.94
+  },
+  {
+   "text": "mais",
+   "start": 1.01,
+   "end": 1.335
+  },
+  {
+   "text": "e",
+   "start": 1.393,
+   "end": 1.443
+  },
+  {
+   "text": "faça",
+   "start": 1.474,
+   "end": 1.788
+  },
+  {
+   "text": "mais",
+   "start": 1.869,
+   "end": 2.148
+  },
+  {
+   "text": "do",
+   "start": 2.183,
+   "end": 2.252
+  },
+  {
+   "text": "que",
+   "start": 2.299,
+   "end": 2.38
+  },
+  {
+   "text": "seguir.",
+   "start": 2.438,
+   "end": 2.798
+  }
+ ]
+}

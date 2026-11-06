@@ -1,0 +1,35 @@
+{
+ "total": 35.079,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.6300000000000003,
+   "texto": "Adrielly, você consegue dormir bem?"
+  },
+  {
+   "nome": "h2",
+   "d": 1.8499999999999992,
+   "texto": "Infelizmente não."
+  },
+  {
+   "nome": "c1",
+   "d": 6.249999999999997,
+   "texto": "A maior parte da noite, de madrugada, eu estou acordada"
+  },
+  {
+   "nome": "c2",
+   "d": 9.57,
+   "texto": "Só Deus sabe quantas noites em claro eu passei. Eu virava prum lado, sentia dor, virava pro outro, sentia dor também"
+  },
+  {
+   "nome": "c3",
+   "d": 3.85,
+   "texto": "Eu não consigo pagar o meu tratamento sozinha."
+  },
+  {
+   "nome": "c4",
+   "d": 9.929000000000004,
+   "texto": "Se você se sentir de me ajudar, doe cinco ou dez reais para me ajudar no meu tratamento."
+  }
+ ]
+}

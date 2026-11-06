@@ -1,0 +1,181 @@
+{
+ "nome": "Adrielly_caixas_pedido_pai_ou_mae_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "gancho": "IMG_6440: não sou uma criança, fica dez segundos",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/cortes/cardigan.mp3",
+ "musica_volume": 0.211,
+ "fatos": {
+  "EB": "ADRIELLY.md (laudo) / IMG_6436",
+  "R$5": "IMG_6418 / IMG_6420",
+  "falas": "brutos novos IMG_6417-6454, 30/10/2026"
+ },
+ "modelo": "criativo-caixas-pedido-ong, estrutura do AEB 35 (Adrielly_caixas_pedido_tratamento_caro_v1)",
+ "frases": [
+  {
+   "nome": "h1",
+   "cortes": [
+    [
+     3.8,
+     8.0
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6440.MOV",
+     3.74
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "SE VOCÊ É PAI OU MÃE,",
+    "ASSISTA ATÉ O FINAL"
+   ],
+   "texto_verde_y": 1310,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6440.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_pai_ou_mae_v1/tx/IMG_6440.json"
+  },
+  {
+   "nome": "c1",
+   "cortes": [
+    [
+     0.4,
+     1.86
+    ],
+    [
+     2.94,
+     4.34
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     22.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     4.0
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6444.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_pai_ou_mae_v1/tx/IMG_6444.json"
+  },
+  {
+   "nome": "c2a",
+   "cortes": [
+    [
+     5.38,
+     7.38
+    ],
+    [
+     8.32,
+     10.12
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     16.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     1.0
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6444.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_pai_ou_mae_v1/tx/IMG_6444.json"
+  },
+  {
+   "nome": "c2b",
+   "cortes": [
+    [
+     11.4,
+     13.14
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6444.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_pai_ou_mae_v1/tx/IMG_6444.json",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png"
+  },
+  {
+   "nome": "c3",
+   "cortes": [
+    [
+     0.4,
+     6.18
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6418.MOV",
+     0.34
+    ]
+   ],
+   "sem_topo": true,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6418.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_pai_ou_mae_v1/tx/IMG_6418.json"
+  },
+  {
+   "nome": "c4",
+   "cortes": [
+    [
+     0.64,
+     3.56
+    ],
+    [
+     4.58,
+     7.02
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36.mp4",
+     13.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     3.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     5.5
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6427.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_pai_ou_mae_v1/tx/IMG_6427.json"
+  },
+  {
+   "nome": "c5",
+   "cortes": [
+    [
+     7.94,
+     8.88
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativos Mepilex Transfer20x50cm.jpeg",
+   "final": true,
+   "texto_verde": [
+    "CLIQUE EM SAIBA MAIS",
+    "E AJUDE A ADRIELLY"
+   ],
+   "texto_verde_y": 1660,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6427.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_pai_ou_mae_v1/tx/IMG_6427.json"
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "ADRIELLY TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS QUE A MÃE NÃO CONSEGUE GARANTIR"
+  ],
+  "topo_y": 240,
+  "valor": "R$5,00",
+  "valor_linhas": [
+   "DEIXAM A ADRIELLY MAIS PERTO DE COMPRAR",
+   "OS CURATIVOS DESTA SEMANA"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "final_extra": 2.2,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 50\\AEB 84 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

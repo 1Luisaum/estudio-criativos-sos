@@ -1,0 +1,20 @@
+N1: 4.71s  Foi assim que o Pedrinho recebeu a notícia. O material dos curativos chegou ao fim.
+N2: 4.05s  Ele tem a doença da pele de borboleta. Sem atadura, cada ferida fica descoberta.
+N3: 3.16s  E o material não dura. A gaze de hoje já não serve amanhã.
+N4: 2.04s  Acabou o curativo. A coragem dele, não.
+N5: 3.30s  Toque em Saiba mais e ajude a repor o material do Pedrinho hoje.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_acabou_v1.mp4
+real  ok  t=  3.63
+narr  ok  t=  8.50
+real  ok  t= 14.60
+narr  ok  t= 18.80
+real  ok  t= 25.93
+card  ok  t= 27.23
+narr  ok  t= 30.53
+real  ok  t= 36.00
+narr  ok  t= 38.20
+real  ok  t= 43.27
+narr  ok  t= 46.70
+end   ok  t= 50.30
+audio: 50.30s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_acabou_v1.mp4  duracao=50.30s

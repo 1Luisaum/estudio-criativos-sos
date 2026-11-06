@@ -1,0 +1,85 @@
+{
+ "text": "Ele fica nervoso de tanta dor. Ela também sente. Mas é ela quem não pode cair.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.186
+  },
+  {
+   "text": "fica",
+   "start": 0.221,
+   "end": 0.395
+  },
+  {
+   "text": "nervoso",
+   "start": 0.43,
+   "end": 0.882
+  },
+  {
+   "text": "de",
+   "start": 0.917,
+   "end": 0.975
+  },
+  {
+   "text": "tanta",
+   "start": 1.057,
+   "end": 1.358
+  },
+  {
+   "text": "dor.",
+   "start": 1.416,
+   "end": 1.765
+  },
+  {
+   "text": "Ela",
+   "start": 2.02,
+   "end": 2.218
+  },
+  {
+   "text": "também",
+   "start": 2.276,
+   "end": 2.577
+  },
+  {
+   "text": "sente.",
+   "start": 2.659,
+   "end": 3.204
+  },
+  {
+   "text": "Mas",
+   "start": 3.669,
+   "end": 3.901
+  },
+  {
+   "text": "é",
+   "start": 4.029,
+   "end": 4.075
+  },
+  {
+   "text": "ela",
+   "start": 4.11,
+   "end": 4.365
+  },
+  {
+   "text": "quem",
+   "start": 4.423,
+   "end": 4.563
+  },
+  {
+   "text": "não",
+   "start": 4.586,
+   "end": 4.69
+  },
+  {
+   "text": "pode",
+   "start": 4.737,
+   "end": 4.957
+  },
+  {
+   "text": "cair.",
+   "start": 4.992,
+   "end": 5.666
+  }
+ ]
+}

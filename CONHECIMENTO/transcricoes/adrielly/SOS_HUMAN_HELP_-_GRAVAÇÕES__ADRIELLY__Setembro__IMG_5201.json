@@ -1,0 +1,142 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Depois de amanhã de novo e assim todos os dias",
+ "words": [
+  {
+   "text": "Depois",
+   "start": 0.26,
+   "end": 0.78,
+   "type": "word",
+   "logprob": -0.0011703077470883727
+  },
+  {
+   "text": " ",
+   "start": 0.78,
+   "end": 0.82,
+   "type": "spacing",
+   "logprob": -0.03322876989841461
+  },
+  {
+   "text": "de",
+   "start": 0.82,
+   "end": 0.88,
+   "type": "word",
+   "logprob": -0.03322876989841461
+  },
+  {
+   "text": " ",
+   "start": 0.88,
+   "end": 0.92,
+   "type": "spacing",
+   "logprob": -0.0023523299023509026
+  },
+  {
+   "text": "amanhã",
+   "start": 0.92,
+   "end": 1.38,
+   "type": "word",
+   "logprob": -0.0008205072657953375
+  },
+  {
+   "text": " ",
+   "start": 1.38,
+   "end": 1.42,
+   "type": "spacing",
+   "logprob": -0.00043096792069263756
+  },
+  {
+   "text": "de",
+   "start": 1.42,
+   "end": 1.52,
+   "type": "word",
+   "logprob": -0.00043096792069263756
+  },
+  {
+   "text": " ",
+   "start": 1.52,
+   "end": 1.56,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "novo",
+   "start": 1.56,
+   "end": 1.96,
+   "type": "word",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": " ",
+   "start": 1.96,
+   "end": 2.14,
+   "type": "spacing",
+   "logprob": -0.0005807381821796298
+  },
+  {
+   "text": "e",
+   "start": 2.18,
+   "end": 2.26,
+   "type": "word",
+   "logprob": -0.0005807381821796298
+  },
+  {
+   "text": " ",
+   "start": 2.26,
+   "end": 2.32,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "assim",
+   "start": 2.32,
+   "end": 2.72,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 2.72,
+   "end": 2.78,
+   "type": "spacing",
+   "logprob": -0.00083078199531883
+  },
+  {
+   "text": "todos",
+   "start": 2.8,
+   "end": 3.12,
+   "type": "word",
+   "logprob": -0.00083078199531883
+  },
+  {
+   "text": " ",
+   "start": 3.12,
+   "end": 3.16,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "os",
+   "start": 3.16,
+   "end": 3.32,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 3.32,
+   "end": 3.36,
+   "type": "spacing",
+   "logprob": -6.174850568640977e-05
+  },
+  {
+   "text": "dias",
+   "start": 3.36,
+   "end": 3.86,
+   "type": "word",
+   "logprob": -6.174850568640977e-05
+  }
+ ],
+ "transcription_id": "XAUGvchuv7DDqtk7l7fN",
+ "audio_duration_secs": 4.57
+}

@@ -1,0 +1,327 @@
+{
+ "nome": "Pedrinho_narrado_sem_nocao_v1",
+ "crianca": "Pedrinho",
+ "angulo": "sem_nocao",
+ "gancho": "vocês não têm noção da dor",
+ "fatos": [
+  "a água arde que vocês não têm noção: Pedrinho, Roteiro_ peço perdão 40 s",
+  "agudava no forro (gruda): Pedrinho, Um Vídeo Novo 38 s",
+  "dores do dia a dia e durante a noite: Pedrinho, 20260917_001530"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "music_start": 60.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "ARDE",
+  "DOR",
+  "DORES",
+  "SOFRIMENTO",
+  "NOITE",
+  "ALÍVIO"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“*NÃO TÊM NOÇÃO*”",
+    "fs": 100
+   },
+   {
+    "text": "DA DOR DO PEDRINHO",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro7b.json",
+   "cuts": [
+    [
+     59.14,
+     60.62
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Isso que as pessoas não sabem,"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "foto em close.png",
+     "until": 1.06
+    },
+    {
+     "src": "20260113_023031.jpg"
+    }
+   ],
+   "txt": "Você vê as faixas. Mas ninguém, de fora, sabe o que é dormir e acordar sentindo a própria pele."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cuts": [
+    [
+     40.08,
+     45.54
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.6,
+     "center": [
+      760,
+      1000
+     ]
+    },
+    {
+     "z": 1.4,
+     "center": [
+      740,
+      1000
+     ]
+    }
+   ],
+   "txt": "E a água, se ela bater na pele, ela arde e arde muito que vocês não têm noção, pessoal."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260825_134340.jpg",
+     "until": 3.05
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 146.0
+    }
+   ],
+   "txt": "Para quase todo mundo, água é alívio. Para ele, até o banho precisa de coragem."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "ARDE",
+    "E ARDE MUITO"
+   ],
+   "dur": 1.5,
+   "fs": 230
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     37.78,
+     39.7
+    ],
+    [
+     40.0,
+     40.2
+    ],
+    [
+     42.92,
+     43.72
+    ],
+    [
+     44.44,
+     44.44
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 34.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 84.0
+    }
+   ],
+   "txt": "pensa toda vez que ia levantar ou virar na cama Aí pensa o sofrimento galera."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260127_110703.jpg",
+     "until": 1.76
+    },
+    {
+     "src": "20240411_115750.jpg"
+    }
+   ],
+   "txt": "A ferida gruda no forro da cama. Levantar dói. Virar dói. Deitar dói."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     58.1,
+     59.12
+    ],
+    [
+     59.64,
+     60.22
+    ],
+    [
+     60.86,
+     61.7
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "já não basta as dores do dia a dia e durante a noite."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240514_210632.jpg",
+     "until": 2.05
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 92.0
+    }
+   ],
+   "txt": "Isso é o que ele vive de dia. De noite, a dor continua, e ninguém vê."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 104.0,
+     "until": 1.71
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 30.0
+    }
+   ],
+   "txt": "Ninguém pode sentir essa dor por ele. Mas dá para aliviar."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_001530.json",
+   "cuts": [
+    [
+     84.48,
+     85.48
+    ],
+    [
+     86.46,
+     88.9
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      490,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.55,
+     "center": [
+      490,
+      560
+     ]
+    }
+   ],
+   "txt": "O que importa é ajudar nas minhas dores a dar uma aliviada."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 200.0,
+     "until": 2.76
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 30.0
+    }
+   ],
+   "txt": "Clique em Saiba mais. Você nunca vai saber como dói. Mas pode ser o alívio dele."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_180353.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "NÃO DÁ PRA SENTIR.",
+    "DÁ PRA *ALIVIAR*."
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 177 - NARRADO DE IMPACTO.mp4"
+}

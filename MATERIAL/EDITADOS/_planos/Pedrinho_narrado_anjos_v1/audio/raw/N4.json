@@ -1,0 +1,80 @@
+{
+ "text": "Anjo não tem asa. Anjo tem um celular na mão. E um minuto de coragem.",
+ "words": [
+  {
+   "text": "Anjo",
+   "start": 0.0,
+   "end": 0.302
+  },
+  {
+   "text": "não",
+   "start": 0.337,
+   "end": 0.464
+  },
+  {
+   "text": "tem",
+   "start": 0.522,
+   "end": 0.673
+  },
+  {
+   "text": "asa.",
+   "start": 0.743,
+   "end": 1.115
+  },
+  {
+   "text": "Anjo",
+   "start": 1.649,
+   "end": 1.927
+  },
+  {
+   "text": "tem",
+   "start": 1.985,
+   "end": 2.09
+  },
+  {
+   "text": "um",
+   "start": 2.148,
+   "end": 2.206
+  },
+  {
+   "text": "celular",
+   "start": 2.241,
+   "end": 2.624
+  },
+  {
+   "text": "na",
+   "start": 2.659,
+   "end": 2.74
+  },
+  {
+   "text": "mão.",
+   "start": 2.798,
+   "end": 3.135
+  },
+  {
+   "text": "E",
+   "start": 3.39,
+   "end": 3.518
+  },
+  {
+   "text": "um",
+   "start": 3.704,
+   "end": 3.82
+  },
+  {
+   "text": "minuto",
+   "start": 3.982,
+   "end": 4.516
+  },
+  {
+   "text": "de",
+   "start": 4.574,
+   "end": 4.632
+  },
+  {
+   "text": "coragem.",
+   "start": 4.679,
+   "end": 5.526
+  }
+ ]
+}

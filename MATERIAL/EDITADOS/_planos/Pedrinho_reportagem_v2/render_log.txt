@@ -1,0 +1,27 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v2.mp4
+narracao OFF1
+narracao OFF2
+narracao OFF3
+narracao OFF4
+narracao OFF5
+  b01: manchete=ESCONDIDA (rosto) gc=- legenda=1080 etiqueta=None
+ok b01 off 4.91s Para o Pedrinho, a noite é a pior hora do dia. A dor não deixa ele dormir.
+  b02: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1060 etiqueta=None
+ok b02 sonora 8.00s Eu não aguento mais não conseguir dormir pelo motivo dos ferimentos estarem bem abertos e estarem muito doloridos mesmo.
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1080 etiqueta=None
+ok b03 off 5.50s Ele tem epidermólise bolhosa, a pele de borboleta. Qualquer atrito pode virar ferida.
+  b04: manchete=ESCONDIDA (rosto) gc=- legenda=940 etiqueta=None
+ok b04 sonora 4.82s os meus ferimentos estão cada vez mais abertos, mais do que nunca.
+  b05: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+  b05: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b05 off 5.55s O curativo é trocado duas vezes por dia. Da última vez, a troca levou cinco horas.
+  b06: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=800 etiqueta=None
+ok b06 sonora 4.86s Eu acabei de fazer o segundo curativo do dia e estou ficando desesperada,
+  b07: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b07 off 7.55s A SOS Human Help está arrecadando doações para atadura, gaze e pomada. Com dez reais, você já ajuda.
+  b08: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b08 sonora 2.58s Então, por favor, me ajude.
+  b09: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b09 off 5.08s Toque em Saiba mais e ajude o Pedrinho a ter uma noite de sono.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v2.mp4 duracao=48.8s

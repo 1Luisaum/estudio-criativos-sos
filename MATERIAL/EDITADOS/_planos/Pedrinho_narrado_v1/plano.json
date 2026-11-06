@@ -1,0 +1,454 @@
+{
+ "nome": "Pedrinho_narrado_v1",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 01\\Pedrinho_narrado_v1.mp4",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 1.2,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "FERIDA",
+  "ACABANDO",
+  "MEDO",
+  "SOFRENDO",
+  "40",
+  "MIL"
+ ],
+ "caption_fix": {
+  "QUARENTA": "40"
+ },
+ "hook": {
+  "t1": 4.6,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "ATÉ *5 HORAS*",
+    "fs": 150
+   },
+   {
+    "text": "DE CURATIVO. TODO DIA.",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "tx/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     0.48,
+     0.7
+    ],
+    [
+     1.6,
+     2.7
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      520,
+      845
+     ]
+    }
+   ],
+   "txt": "Por favor, fica só 30 segundos."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 7.mp4",
+   "tx": "tx/roteiro7.json",
+   "cuts": [
+    [
+     1.18,
+     2.3
+    ],
+    [
+     3.3,
+     5.04
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.15,
+     "center": [
+      510,
+      900
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Eu sou o Pedrinho Guerreiro e eu tenho epidermólise bolhosa."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+     "start": 27.5,
+     "until": 2.0
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 205.0
+    }
+   ],
+   "txt": "É a doença da pele de borboleta. Um simples atrito pode abrir uma ferida."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 7.mp4",
+   "tx": "tx/roteiro7.json",
+   "cuts": [
+    [
+     6.2,
+     7.14
+    ],
+    [
+     8.02,
+     8.86
+    ],
+    [
+     10.04,
+     11.94
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      510,
+      850
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      510,
+      900
+     ]
+    }
+   ],
+   "txt": "E todos os dias eu enfrento feridas e horas e horas de curativo."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 160.0,
+     "until": 2.5
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 232.0,
+     "until": 4.0
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 290.0
+    }
+   ],
+   "txt": "Todo dia, a mãe dele tira cada curativo, lava cada ferida... e enfaixa tudo de novo."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_234157.mp4",
+   "tx": "tx/v1_cinco_horas.json",
+   "cuts": [
+    [
+     11.16,
+     11.7
+    ],
+    [
+     13.48,
+     13.94
+    ],
+    [
+     15.18,
+     15.9
+    ],
+    [
+     19.68,
+     21.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.7,
+     "center": [
+      560,
+      565
+     ]
+    },
+    {
+     "z": 2.0,
+     "center": [
+      560,
+      480
+     ]
+    },
+    {
+     "z": 1.3,
+     "center": [
+      560,
+      738
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Da última vez, minha mãe precisou de cinco horas pra fazer todo o meu curativo."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "5 HORAS",
+    "DE CURATIVO"
+   ],
+   "dur": 1.3
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "fix": {
+    "quarenta": "40"
+   },
+   "broll": [
+    {
+     "src": "20260825_134438.jpg",
+     "until": 0.95
+    },
+    {
+     "src": "20260825_134710.jpg",
+     "until": 1.55
+    },
+    {
+     "src": "20260825_134039.jpg",
+     "until": 2.55
+    },
+    {
+     "src": "20260825_134808.jpg",
+     "until": 4.55
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 15.0
+    }
+   ],
+   "txt": "Atadura. Gaze. Pomada. Esparadrapo especial. Os cuidados dele passam de quarenta mil reais por mês."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "R$ 40 MIL",
+    "POR MÊS"
+   ],
+   "dur": 1.4,
+   "fs": 200
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "tx/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     4.32,
+     6.06
+    ],
+    [
+     7.24,
+     7.82
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      845
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Os meus curativos estão acabando e eu tô com medo."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "Roteiro 2.mp4",
+   "tx": "tx/roteiro2_mae.json",
+   "cuts": [
+    [
+     105.92,
+     107.26
+    ],
+    [
+     108.46,
+     109.18
+    ],
+    [
+     111.9,
+     112.5
+    ],
+    [
+     119.44,
+     121.16
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    }
+   ],
+   "txt": "Se você puder ajudar, ajude o meu filho, porque ele precisa. Não porque você precisou vê-lo sofrendo."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "Roteiro 7.mp4",
+   "tx": "tx/roteiro7.json",
+   "cuts": [
+    [
+     14.7,
+     15.74
+    ],
+    [
+     16.9,
+     17.26
+    ],
+    [
+     18.3,
+     19.4
+    ],
+    [
+     20.32,
+     22.1
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      510,
+      850
+     ]
+    },
+    {
+     "z": 1.15,
+     "center": [
+      510,
+      900
+     ]
+    },
+    {
+     "z": 1.3,
+     "center": [
+      510,
+      850
+     ]
+    }
+   ],
+   "txt": "Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando, sempre com a cabeça erguida."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20230603_203654.jpg",
+     "until": 1.5
+    },
+    {
+     "src": "20241110_104724.mp4",
+     "start": 8.0
+    }
+   ],
+   "txt": "A pele dele é frágil. Ele não."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+   "tx": "tx/v4_curativos_acabando.json",
+   "cuts": [
+    [
+     18.88,
+     20.26
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      520,
+      845
+     ]
+    }
+   ],
+   "txt": "Seja um anjo na minha vida."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 12.0
+    }
+   ],
+   "txt": "Toque em Saiba mais. E seja a resposta para esse pedido."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "SEJA O *ANJO*",
+    "DO PEDRINHO"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ]
+}

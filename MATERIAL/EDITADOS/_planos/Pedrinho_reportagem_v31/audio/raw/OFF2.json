@@ -1,0 +1,60 @@
+{
+ "text": "A receita da casa é simples. A pomada vai no gaze.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "receita",
+   "start": 0.163,
+   "end": 0.569
+  },
+  {
+   "text": "da",
+   "start": 0.604,
+   "end": 0.685
+  },
+  {
+   "text": "casa",
+   "start": 0.731,
+   "end": 0.975
+  },
+  {
+   "text": "é",
+   "start": 0.998,
+   "end": 1.022
+  },
+  {
+   "text": "simples.",
+   "start": 1.08,
+   "end": 1.672
+  },
+  {
+   "text": "A",
+   "start": 1.846,
+   "end": 1.904
+  },
+  {
+   "text": "pomada",
+   "start": 1.985,
+   "end": 2.357
+  },
+  {
+   "text": "vai",
+   "start": 2.403,
+   "end": 2.508
+  },
+  {
+   "text": "no",
+   "start": 2.543,
+   "end": 2.624
+  },
+  {
+   "text": "gáze.",
+   "start": 2.67,
+   "end": 3.437
+  }
+ ]
+}

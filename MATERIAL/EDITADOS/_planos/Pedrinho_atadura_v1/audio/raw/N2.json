@@ -1,0 +1,40 @@
+{
+ "text": "É o que alivia as dores dele.",
+ "words": [
+  {
+   "text": "É",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "o",
+   "start": 0.151,
+   "end": 0.174
+  },
+  {
+   "text": "que",
+   "start": 0.221,
+   "end": 0.29
+  },
+  {
+   "text": "alivia",
+   "start": 0.313,
+   "end": 0.766
+  },
+  {
+   "text": "as",
+   "start": 0.789,
+   "end": 0.859
+  },
+  {
+   "text": "dores",
+   "start": 0.906,
+   "end": 1.161
+  },
+  {
+   "text": "dele.",
+   "start": 1.207,
+   "end": 1.811
+  }
+ ]
+}

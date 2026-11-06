@@ -1,0 +1,105 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1403709941748846.mp4",
+ "estilo": "BIB ORACOES RESPOSTA",
+ "base": [
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\vitral_capela.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\altar_catolico.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_perna_soro.mp4",
+   "ini": 0,
+   "fim": 3.3,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\85fe8774-511b-460c-a587-4ae5d58e0b82.mov",
+   "ini": 5,
+   "fim": 8.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_mepilex.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_rosto.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_urgotul.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\375B0806-B2AE-4470-938C-26C98249DAD2.mov",
+   "ini": 10,
+   "fim": 13.7,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_oracoes_resposta_sr.mp3",
+  "tx": "{RAIZ}\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_oracoes_resposta_sr.json",
+  "de": 0.3
+ },
+ "textos": [
+  {
+   "de": 12,
+   "ate": 28.13,
+   "linhas": [
+    "às vezes a resposta da sua oração",
+    "é ser a resposta de alguém ❤️"
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 34,
+   "y": 140,
+   "pad": [
+    16,
+    8
+   ],
+   "fonte": "serif_bold",
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 28.13
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1403 - orações (fundo sem voz).mp3",
+ "musica_volume": 2.089,
+ "modelo": {
+  "id": "adr100_oracoes_ia",
+  "exemplo": "AEB 100",
+  "titulo": "Orações com vídeo de IA e feridas (legenda UNICEF)",
+  "descricao": "1403709941748846: dois vídeos de IA da Magnific no gancho (vitral e altar católico, sem animais), narração do Leonardo, caixa branca no alto, cenas fortes das feridas com borrão leve e legenda UNICEF (palavra falada em caixinha vermelha). Sem P&B.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1403709941748846",
+  "criado": "05/11/2026 (pedido do usuário)"
+ }
+}

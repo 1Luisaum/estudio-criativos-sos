@@ -1,0 +1,1444 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "A palavra de Deus diz em Lucas, capítulo seis, versículo trinta e oito: \"Dai e vos será dado.\" Deus nos ensina que a generosidade nunca volta vazia. Hoje eu quero pedir a sua ajuda para o Pedrinho. Ele tem epidermólise bolhosa, a pele de borboleta, e o tratamento dele é caro. Uma caixa de curativos custa mil e quinhentos reais. A gente faz o possível, mas não consegue fazer isso sozinho. Se Deus colocar esse desejo no seu coração, doe cinco reais ou qualquer valor que puder. Toda ajuda faz diferença na vida do Pedrinho. Que Deus multiplique tudo aquilo que você fizer.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.08,
+   "end": 0.16,
+   "type": "word",
+   "logprob": -1.3470558769768104e-05
+  },
+  {
+   "text": " ",
+   "start": 0.16,
+   "end": 0.18,
+   "type": "spacing",
+   "logprob": -0.008928967639803886
+  },
+  {
+   "text": "palavra",
+   "start": 0.18,
+   "end": 0.56,
+   "type": "word",
+   "logprob": -0.008928967639803886
+  },
+  {
+   "text": " ",
+   "start": 0.56,
+   "end": 0.62,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "de",
+   "start": 0.62,
+   "end": 0.68,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 0.68,
+   "end": 0.74,
+   "type": "spacing",
+   "logprob": -6.437280717364047e-06
+  },
+  {
+   "text": "Deus",
+   "start": 0.74,
+   "end": 1.04,
+   "type": "word",
+   "logprob": -6.437280717364047e-06
+  },
+  {
+   "text": " ",
+   "start": 1.04,
+   "end": 1.06,
+   "type": "spacing",
+   "logprob": -2.407998726994265e-05
+  },
+  {
+   "text": "diz",
+   "start": 1.08,
+   "end": 1.26,
+   "type": "word",
+   "logprob": -2.407998726994265e-05
+  },
+  {
+   "text": " ",
+   "start": 1.26,
+   "end": 1.28,
+   "type": "spacing",
+   "logprob": -0.00023672162205912173
+  },
+  {
+   "text": "em",
+   "start": 1.3,
+   "end": 1.42,
+   "type": "word",
+   "logprob": -0.00023672162205912173
+  },
+  {
+   "text": " ",
+   "start": 1.42,
+   "end": 1.46,
+   "type": "spacing",
+   "logprob": -5.2569914259947836e-05
+  },
+  {
+   "text": "Lucas,",
+   "start": 1.46,
+   "end": 1.86,
+   "type": "word",
+   "logprob": -0.00048638066558244947
+  },
+  {
+   "text": " ",
+   "start": 1.86,
+   "end": 1.96,
+   "type": "spacing",
+   "logprob": -0.0011818574275821447
+  },
+  {
+   "text": "capítulo",
+   "start": 1.96,
+   "end": 2.36,
+   "type": "word",
+   "logprob": -0.0011818574275821447
+  },
+  {
+   "text": " ",
+   "start": 2.36,
+   "end": 2.5,
+   "type": "spacing",
+   "logprob": -0.0006398299592547119
+  },
+  {
+   "text": "seis,",
+   "start": 2.5,
+   "end": 2.82,
+   "type": "word",
+   "logprob": -0.0005122215949540987
+  },
+  {
+   "text": " ",
+   "start": 2.82,
+   "end": 2.92,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "versículo",
+   "start": 2.92,
+   "end": 3.42,
+   "type": "word",
+   "logprob": -2.7285644187536996e-06
+  },
+  {
+   "text": " ",
+   "start": 3.42,
+   "end": 3.54,
+   "type": "spacing",
+   "logprob": -3.2782016205601394e-05
+  },
+  {
+   "text": "trinta",
+   "start": 3.54,
+   "end": 3.8,
+   "type": "word",
+   "logprob": -1.4424135467076363e-05
+  },
+  {
+   "text": " ",
+   "start": 3.8,
+   "end": 3.86,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "e",
+   "start": 3.86,
+   "end": 3.88,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 3.88,
+   "end": 4.0,
+   "type": "spacing",
+   "logprob": -2.062299427052494e-05
+  },
+  {
+   "text": "oito:",
+   "start": 4.0,
+   "end": 4.26,
+   "type": "word",
+   "logprob": -3.840786230284721e-05
+  },
+  {
+   "text": " ",
+   "start": 4.26,
+   "end": 4.4,
+   "type": "spacing",
+   "logprob": -1.1086402082582936e-05
+  },
+  {
+   "text": "\"Dai",
+   "start": 4.4,
+   "end": 4.68,
+   "type": "word",
+   "logprob": -0.010822611379808222
+  },
+  {
+   "text": " ",
+   "start": 4.68,
+   "end": 4.82,
+   "type": "spacing",
+   "logprob": -0.004621301311999559
+  },
+  {
+   "text": "e",
+   "start": 4.82,
+   "end": 4.86,
+   "type": "word",
+   "logprob": -0.004621301311999559
+  },
+  {
+   "text": " ",
+   "start": 4.86,
+   "end": 4.92,
+   "type": "spacing",
+   "logprob": -0.0004539651272352785
+  },
+  {
+   "text": "vos",
+   "start": 4.92,
+   "end": 5.06,
+   "type": "word",
+   "logprob": -0.0004539651272352785
+  },
+  {
+   "text": " ",
+   "start": 5.06,
+   "end": 5.12,
+   "type": "spacing",
+   "logprob": -0.0002759314374998212
+  },
+  {
+   "text": "será",
+   "start": 5.12,
+   "end": 5.32,
+   "type": "word",
+   "logprob": -0.0002759314374998212
+  },
+  {
+   "text": " ",
+   "start": 5.32,
+   "end": 5.4,
+   "type": "spacing",
+   "logprob": -2.753696753643453e-05
+  },
+  {
+   "text": "dado.\"",
+   "start": 5.4,
+   "end": 5.7,
+   "type": "word",
+   "logprob": -5.995942531929662e-05
+  },
+  {
+   "text": " ",
+   "start": 5.7,
+   "end": 5.84,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "Deus",
+   "start": 5.84,
+   "end": 6.08,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 6.08,
+   "end": 6.12,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "nos",
+   "start": 6.12,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 6.26,
+   "end": 6.32,
+   "type": "spacing",
+   "logprob": -8.583032467868179e-06
+  },
+  {
+   "text": "ensina",
+   "start": 6.32,
+   "end": 6.8,
+   "type": "word",
+   "logprob": -4.827957752695511e-06
+  },
+  {
+   "text": " ",
+   "start": 6.8,
+   "end": 6.9,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 6.9,
+   "end": 6.96,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 6.96,
+   "end": 7.0,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "a",
+   "start": 7.0,
+   "end": 7.04,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 7.04,
+   "end": 7.12,
+   "type": "spacing",
+   "logprob": -2.3007127310847864e-05
+  },
+  {
+   "text": "generosidade",
+   "start": 7.12,
+   "end": 8.02,
+   "type": "word",
+   "logprob": -0.0010983334354174683
+  },
+  {
+   "text": " ",
+   "start": 8.02,
+   "end": 8.16,
+   "type": "spacing",
+   "logprob": -1.6927575416048057e-05
+  },
+  {
+   "text": "nunca",
+   "start": 8.16,
+   "end": 8.42,
+   "type": "word",
+   "logprob": -1.6927575416048057e-05
+  },
+  {
+   "text": " ",
+   "start": 8.42,
+   "end": 8.46,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "volta",
+   "start": 8.46,
+   "end": 8.74,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 8.74,
+   "end": 8.76,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "vazia.",
+   "start": 8.76,
+   "end": 9.22,
+   "type": "word",
+   "logprob": -4.152442244276244e-06
+  },
+  {
+   "text": " ",
+   "start": 9.22,
+   "end": 9.36,
+   "type": "spacing",
+   "logprob": -2.5987286790041253e-05
+  },
+  {
+   "text": "Hoje",
+   "start": 9.36,
+   "end": 9.54,
+   "type": "word",
+   "logprob": -2.5987286790041253e-05
+  },
+  {
+   "text": " ",
+   "start": 9.54,
+   "end": 9.58,
+   "type": "spacing",
+   "logprob": -3.8980677345534787e-05
+  },
+  {
+   "text": "eu",
+   "start": 9.58,
+   "end": 9.68,
+   "type": "word",
+   "logprob": -3.8980677345534787e-05
+  },
+  {
+   "text": " ",
+   "start": 9.68,
+   "end": 9.72,
+   "type": "spacing",
+   "logprob": -3.540453326422721e-05
+  },
+  {
+   "text": "quero",
+   "start": 9.72,
+   "end": 9.96,
+   "type": "word",
+   "logprob": -3.540453326422721e-05
+  },
+  {
+   "text": " ",
+   "start": 9.96,
+   "end": 9.98,
+   "type": "spacing",
+   "logprob": -7.390948667307384e-06
+  },
+  {
+   "text": "pedir",
+   "start": 9.98,
+   "end": 10.28,
+   "type": "word",
+   "logprob": -7.390948667307384e-06
+  },
+  {
+   "text": " ",
+   "start": 10.28,
+   "end": 10.32,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 10.32,
+   "end": 10.36,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 10.36,
+   "end": 10.48,
+   "type": "spacing",
+   "logprob": -1.1086402082582936e-05
+  },
+  {
+   "text": "sua",
+   "start": 10.48,
+   "end": 10.62,
+   "type": "word",
+   "logprob": -1.1086402082582936e-05
+  },
+  {
+   "text": " ",
+   "start": 10.62,
+   "end": 10.72,
+   "type": "spacing",
+   "logprob": -1.645074735279195e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 10.72,
+   "end": 11.18,
+   "type": "word",
+   "logprob": -1.645074735279195e-05
+  },
+  {
+   "text": " ",
+   "start": 11.18,
+   "end": 11.2,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "para",
+   "start": 11.2,
+   "end": 11.32,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 11.32,
+   "end": 11.34,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "o",
+   "start": 11.34,
+   "end": 11.44,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 11.44,
+   "end": 11.46,
+   "type": "spacing",
+   "logprob": -0.00018952481332235038
+  },
+  {
+   "text": "Pedrinho.",
+   "start": 11.46,
+   "end": 11.92,
+   "type": "word",
+   "logprob": -6.509552885189705e-05
+  },
+  {
+   "text": " ",
+   "start": 11.92,
+   "end": 12.06,
+   "type": "spacing",
+   "logprob": -3.71926071238704e-05
+  },
+  {
+   "text": "Ele",
+   "start": 12.06,
+   "end": 12.28,
+   "type": "word",
+   "logprob": -3.71926071238704e-05
+  },
+  {
+   "text": " ",
+   "start": 12.28,
+   "end": 12.32,
+   "type": "spacing",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": "tem",
+   "start": 12.32,
+   "end": 12.58,
+   "type": "word",
+   "logprob": -1.9073468138230965e-06
+  },
+  {
+   "text": " ",
+   "start": 12.58,
+   "end": 12.64,
+   "type": "spacing",
+   "logprob": -0.00018630675913300365
+  },
+  {
+   "text": "epidermólise",
+   "start": 12.66,
+   "end": 13.64,
+   "type": "word",
+   "logprob": -9.563713213841159e-05
+  },
+  {
+   "text": " ",
+   "start": 13.64,
+   "end": 13.66,
+   "type": "spacing",
+   "logprob": -4.088794958079234e-05
+  },
+  {
+   "text": "bolhosa,",
+   "start": 13.66,
+   "end": 14.24,
+   "type": "word",
+   "logprob": -2.0637760854924636e-05
+  },
+  {
+   "text": " ",
+   "start": 14.24,
+   "end": 14.38,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "a",
+   "start": 14.38,
+   "end": 14.4,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 14.4,
+   "end": 14.48,
+   "type": "spacing",
+   "logprob": -0.0004924515378661454
+  },
+  {
+   "text": "pele",
+   "start": 14.48,
+   "end": 14.7,
+   "type": "word",
+   "logprob": -0.0004924515378661454
+  },
+  {
+   "text": " ",
+   "start": 14.7,
+   "end": 14.76,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "de",
+   "start": 14.76,
+   "end": 14.82,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 14.82,
+   "end": 14.9,
+   "type": "spacing",
+   "logprob": -0.00020776021119672805
+  },
+  {
+   "text": "borboleta,",
+   "start": 14.9,
+   "end": 15.54,
+   "type": "word",
+   "logprob": -7.577470523756347e-05
+  },
+  {
+   "text": " ",
+   "start": 15.54,
+   "end": 15.66,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "e",
+   "start": 15.66,
+   "end": 15.7,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 15.7,
+   "end": 15.74,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "o",
+   "start": 15.74,
+   "end": 15.8,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 15.8,
+   "end": 15.82,
+   "type": "spacing",
+   "logprob": -6.592056161025539e-05
+  },
+  {
+   "text": "tratamento",
+   "start": 15.82,
+   "end": 16.36,
+   "type": "word",
+   "logprob": -6.592056161025539e-05
+  },
+  {
+   "text": " ",
+   "start": 16.36,
+   "end": 16.46,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "dele",
+   "start": 16.46,
+   "end": 16.68,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 16.68,
+   "end": 16.7,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "é",
+   "start": 16.7,
+   "end": 16.82,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 16.82,
+   "end": 16.86,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "caro.",
+   "start": 16.86,
+   "end": 17.16,
+   "type": "word",
+   "logprob": -1.764295660677817e-06
+  },
+  {
+   "text": " ",
+   "start": 17.16,
+   "end": 17.26,
+   "type": "spacing",
+   "logprob": -4.827859811484814e-05
+  },
+  {
+   "text": "Uma",
+   "start": 17.26,
+   "end": 17.38,
+   "type": "word",
+   "logprob": -4.827859811484814e-05
+  },
+  {
+   "text": " ",
+   "start": 17.38,
+   "end": 17.5,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "caixa",
+   "start": 17.5,
+   "end": 17.88,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 17.88,
+   "end": 17.94,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 17.94,
+   "end": 18.0,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 18.0,
+   "end": 18.08,
+   "type": "spacing",
+   "logprob": -1.2874520507466514e-05
+  },
+  {
+   "text": "curativos",
+   "start": 18.08,
+   "end": 18.72,
+   "type": "word",
+   "logprob": -4.5377709284366574e-05
+  },
+  {
+   "text": " ",
+   "start": 18.72,
+   "end": 18.74,
+   "type": "spacing",
+   "logprob": -4.2676016164477915e-05
+  },
+  {
+   "text": "custa",
+   "start": 18.74,
+   "end": 19.04,
+   "type": "word",
+   "logprob": -3.414081293158233e-05
+  },
+  {
+   "text": " ",
+   "start": 19.04,
+   "end": 19.18,
+   "type": "spacing",
+   "logprob": -2.825220326485578e-05
+  },
+  {
+   "text": "mil",
+   "start": 19.18,
+   "end": 19.34,
+   "type": "word",
+   "logprob": -2.825220326485578e-05
+  },
+  {
+   "text": " ",
+   "start": 19.34,
+   "end": 19.38,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "e",
+   "start": 19.38,
+   "end": 19.46,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 19.46,
+   "end": 19.48,
+   "type": "spacing",
+   "logprob": -0.002089461777359247
+  },
+  {
+   "text": "quinhentos",
+   "start": 19.48,
+   "end": 19.88,
+   "type": "word",
+   "logprob": -0.0013400558382215878
+  },
+  {
+   "text": " ",
+   "start": 19.88,
+   "end": 19.92,
+   "type": "spacing",
+   "logprob": -8.05822346592322e-05
+  },
+  {
+   "text": "reais.",
+   "start": 19.92,
+   "end": 20.32,
+   "type": "word",
+   "logprob": -6.715186221602683e-05
+  },
+  {
+   "text": " ",
+   "start": 20.32,
+   "end": 20.42,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "A",
+   "start": 20.42,
+   "end": 20.46,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 20.46,
+   "end": 20.52,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "gente",
+   "start": 20.52,
+   "end": 20.76,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 20.76,
+   "end": 20.8,
+   "type": "spacing",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": "faz",
+   "start": 20.8,
+   "end": 20.98,
+   "type": "word",
+   "logprob": -3.4570634852570947e-06
+  },
+  {
+   "text": " ",
+   "start": 20.98,
+   "end": 21.0,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "o",
+   "start": 21.0,
+   "end": 21.08,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 21.08,
+   "end": 21.1,
+   "type": "spacing",
+   "logprob": -4.0531076592742465e-06
+  },
+  {
+   "text": "possível,",
+   "start": 21.1,
+   "end": 21.64,
+   "type": "word",
+   "logprob": -3.60276236379933e-06
+  },
+  {
+   "text": " ",
+   "start": 21.64,
+   "end": 21.76,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "mas",
+   "start": 21.76,
+   "end": 21.92,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 21.92,
+   "end": 21.96,
+   "type": "spacing",
+   "logprob": -1.537788011773955e-05
+  },
+  {
+   "text": "não",
+   "start": 21.96,
+   "end": 22.1,
+   "type": "word",
+   "logprob": -1.537788011773955e-05
+  },
+  {
+   "text": " ",
+   "start": 22.1,
+   "end": 22.12,
+   "type": "spacing",
+   "logprob": -1.0847986231965479e-05
+  },
+  {
+   "text": "consegue",
+   "start": 22.12,
+   "end": 22.62,
+   "type": "word",
+   "logprob": -1.0847986231965479e-05
+  },
+  {
+   "text": " ",
+   "start": 22.62,
+   "end": 22.66,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "fazer",
+   "start": 22.66,
+   "end": 22.94,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 22.94,
+   "end": 23.0,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "isso",
+   "start": 23.0,
+   "end": 23.16,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 23.16,
+   "end": 23.26,
+   "type": "spacing",
+   "logprob": -2.861018856492592e-06
+  },
+  {
+   "text": "sozinho.",
+   "start": 23.26,
+   "end": 23.76,
+   "type": "word",
+   "logprob": -2.801414382247458e-06
+  },
+  {
+   "text": " ",
+   "start": 23.76,
+   "end": 23.9,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "Se",
+   "start": 23.9,
+   "end": 23.96,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 23.96,
+   "end": 24.04,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "Deus",
+   "start": 24.04,
+   "end": 24.26,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 24.26,
+   "end": 24.28,
+   "type": "spacing",
+   "logprob": -1.1324817933200393e-05
+  },
+  {
+   "text": "colocar",
+   "start": 24.3,
+   "end": 24.74,
+   "type": "word",
+   "logprob": -1.1324817933200393e-05
+  },
+  {
+   "text": " ",
+   "start": 24.74,
+   "end": 24.76,
+   "type": "spacing",
+   "logprob": -6.6756979322235566e-06
+  },
+  {
+   "text": "esse",
+   "start": 24.76,
+   "end": 24.98,
+   "type": "word",
+   "logprob": -6.6756979322235566e-06
+  },
+  {
+   "text": " ",
+   "start": 24.98,
+   "end": 25.0,
+   "type": "spacing",
+   "logprob": -7.867782187531702e-06
+  },
+  {
+   "text": "desejo",
+   "start": 25.0,
+   "end": 25.48,
+   "type": "word",
+   "logprob": -7.867782187531702e-06
+  },
+  {
+   "text": " ",
+   "start": 25.48,
+   "end": 25.52,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "no",
+   "start": 25.52,
+   "end": 25.66,
+   "type": "word",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": " ",
+   "start": 25.66,
+   "end": 25.7,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "seu",
+   "start": 25.7,
+   "end": 25.86,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 25.86,
+   "end": 25.88,
+   "type": "spacing",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": "coração,",
+   "start": 25.88,
+   "end": 26.38,
+   "type": "word",
+   "logprob": -2.0265550091380646e-06
+  },
+  {
+   "text": " ",
+   "start": 26.38,
+   "end": 26.58,
+   "type": "spacing",
+   "logprob": -0.0022802562452852726
+  },
+  {
+   "text": "doe",
+   "start": 26.58,
+   "end": 26.76,
+   "type": "word",
+   "logprob": -0.0022802562452852726
+  },
+  {
+   "text": " ",
+   "start": 26.76,
+   "end": 26.94,
+   "type": "spacing",
+   "logprob": -0.0011853104224428535
+  },
+  {
+   "text": "cinco",
+   "start": 26.94,
+   "end": 27.2,
+   "type": "word",
+   "logprob": -0.0011853104224428535
+  },
+  {
+   "text": " ",
+   "start": 27.2,
+   "end": 27.28,
+   "type": "spacing",
+   "logprob": -1.3232143828645349e-05
+  },
+  {
+   "text": "reais",
+   "start": 27.28,
+   "end": 27.66,
+   "type": "word",
+   "logprob": -1.3232143828645349e-05
+  },
+  {
+   "text": " ",
+   "start": 27.66,
+   "end": 27.7,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "ou",
+   "start": 27.7,
+   "end": 27.82,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 27.82,
+   "end": 27.84,
+   "type": "spacing",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": "qualquer",
+   "start": 27.84,
+   "end": 28.32,
+   "type": "word",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": " ",
+   "start": 28.32,
+   "end": 28.36,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "valor",
+   "start": 28.36,
+   "end": 28.74,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 28.74,
+   "end": 28.8,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "que",
+   "start": 28.8,
+   "end": 28.92,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 28.92,
+   "end": 28.94,
+   "type": "spacing",
+   "logprob": -3.731181277544238e-05
+  },
+  {
+   "text": "puder.",
+   "start": 28.94,
+   "end": 29.24,
+   "type": "word",
+   "logprob": -2.0344700563631097e-05
+  },
+  {
+   "text": " ",
+   "start": 29.24,
+   "end": 29.34,
+   "type": "spacing",
+   "logprob": -2.0503786799963564e-05
+  },
+  {
+   "text": "Toda",
+   "start": 29.34,
+   "end": 29.58,
+   "type": "word",
+   "logprob": -2.0503786799963564e-05
+  },
+  {
+   "text": " ",
+   "start": 29.58,
+   "end": 29.62,
+   "type": "spacing",
+   "logprob": -2.0146166207268834e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 29.62,
+   "end": 30.12,
+   "type": "word",
+   "logprob": -2.0146166207268834e-05
+  },
+  {
+   "text": " ",
+   "start": 30.12,
+   "end": 30.16,
+   "type": "spacing",
+   "logprob": -1.4185804502631072e-05
+  },
+  {
+   "text": "faz",
+   "start": 30.16,
+   "end": 30.34,
+   "type": "word",
+   "logprob": -1.4185804502631072e-05
+  },
+  {
+   "text": " ",
+   "start": 30.34,
+   "end": 30.38,
+   "type": "spacing",
+   "logprob": -1.9788545614574105e-05
+  },
+  {
+   "text": "diferença",
+   "start": 30.38,
+   "end": 30.94,
+   "type": "word",
+   "logprob": -1.9788545614574105e-05
+  },
+  {
+   "text": " ",
+   "start": 30.94,
+   "end": 31.0,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "na",
+   "start": 31.0,
+   "end": 31.06,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 31.06,
+   "end": 31.16,
+   "type": "spacing",
+   "logprob": -4.172316494077677e-06
+  },
+  {
+   "text": "vida",
+   "start": 31.16,
+   "end": 31.36,
+   "type": "word",
+   "logprob": -4.172316494077677e-06
+  },
+  {
+   "text": " ",
+   "start": 31.36,
+   "end": 31.4,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "do",
+   "start": 31.4,
+   "end": 31.46,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 31.46,
+   "end": 31.52,
+   "type": "spacing",
+   "logprob": -0.0001392267586197704
+  },
+  {
+   "text": "Pedrinho.",
+   "start": 31.52,
+   "end": 31.96,
+   "type": "word",
+   "logprob": -4.7508292621185116e-05
+  },
+  {
+   "text": " ",
+   "start": 31.96,
+   "end": 32.02,
+   "type": "spacing",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": "Que",
+   "start": 32.02,
+   "end": 32.1,
+   "type": "word",
+   "logprob": -3.933898824470816e-06
+  },
+  {
+   "text": " ",
+   "start": 32.1,
+   "end": 32.159,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "Deus",
+   "start": 32.159,
+   "end": 32.34,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 32.34,
+   "end": 32.38,
+   "type": "spacing",
+   "logprob": -0.0009608419495634735
+  },
+  {
+   "text": "multiplique",
+   "start": 32.38,
+   "end": 32.94,
+   "type": "word",
+   "logprob": -0.0006137423578448678
+  },
+  {
+   "text": " ",
+   "start": 32.94,
+   "end": 32.98,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "tudo",
+   "start": 32.98,
+   "end": 33.2,
+   "type": "word",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": " ",
+   "start": 33.2,
+   "end": 33.24,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "aquilo",
+   "start": 33.24,
+   "end": 33.58,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 33.58,
+   "end": 33.6,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 33.6,
+   "end": 33.7,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 33.7,
+   "end": 33.72,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "você",
+   "start": 33.72,
+   "end": 33.98,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 33.98,
+   "end": 34.02,
+   "type": "spacing",
+   "logprob": -0.00015853578224778175
+  },
+  {
+   "text": "fizer.",
+   "start": 34.02,
+   "end": 34.32,
+   "type": "word",
+   "logprob": -0.021797944558784366
+  }
+ ],
+ "transcription_id": "GyFOcLX4WRszmAegVIkF",
+ "audio_duration_secs": 34.3468125
+}

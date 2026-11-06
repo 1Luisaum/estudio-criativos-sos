@@ -1,0 +1,35 @@
+{
+ "total": 32.20099999999998,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 4.569999999999999,
+   "texto": "Eu tô sofrendo, Jesus. Não me deixa lutar sozinha"
+  },
+  {
+   "nome": "c1",
+   "d": 7.550000000000003,
+   "texto": "Eu faço os meus curativos todos os dias. Demora em cerca de três horas,"
+  },
+  {
+   "nome": "c2",
+   "d": 6.309999999999984,
+   "texto": "Eu tenho crises, dor, choro, a pele arde, coça, dói bastante."
+  },
+  {
+   "nome": "c3",
+   "d": 3.8299999999999943,
+   "texto": "Por favor, me ajuda no tratamento com cinco reais."
+  },
+  {
+   "nome": "c4",
+   "d": 6.2909999999999995,
+   "texto": "Cinco reais pode parecer pouco pra você, mas para mim é mais um dia de vida,"
+  },
+  {
+   "nome": "c5",
+   "d": 3.6499999999999995,
+   "texto": "um dia sem dor."
+  }
+ ]
+}

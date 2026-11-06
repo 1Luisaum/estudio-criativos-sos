@@ -1,0 +1,65 @@
+{
+ "total": 49.238098000000015,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 2.664195,
+   "texto": "O calor está piorando as feridas do Pedrinho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 4.501,
+   "texto": "Esse calor tá acabando com a pele do meu filho. e estou ficando desesperada,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.852313,
+   "texto": "Ele tem epidermólise bolhosa, a doença da pele de borboleta. E as feridas estão cada vez mais abertas."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 8.42000000000001,
+   "texto": "E eu não sei, pessoal, se é por causa do tempo ou não, mas os meus ferimentos estão cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 2.395397,
+   "texto": "À noite, a dor não deixa ele dormir."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 4.159999999999999,
+   "texto": "Eu não aguento mais não conseguir dormir Eu quero conseguir dormir bem."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 4.22,
+   "texto": "quiser doar dois reais ou cinco reais, vai tá ajudando demais."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 7.325102,
+   "texto": "A SOS Human Help está arrecadando doações para os curativos do Pedrinho. Cinco reais já ajudam."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 4.740000000000006,
+   "texto": "vamo comigo, nessa batalha, entre junto nessa corrente do bem."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 3.960091,
+   "texto": "Toque em Saiba mais e entre nessa corrente."
+  }
+ ]
+}

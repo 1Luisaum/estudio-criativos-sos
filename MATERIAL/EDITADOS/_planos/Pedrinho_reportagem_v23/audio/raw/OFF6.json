@@ -1,0 +1,35 @@
+{
+ "text": "E ainda tem o esparadrapo impermeável.",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.0,
+   "end": 0.104
+  },
+  {
+   "text": "ainda",
+   "start": 0.197,
+   "end": 0.476
+  },
+  {
+   "text": "tem",
+   "start": 0.534,
+   "end": 0.685
+  },
+  {
+   "text": "o",
+   "start": 0.708,
+   "end": 0.743
+  },
+  {
+   "text": "esparadrapo",
+   "start": 0.789,
+   "end": 1.451
+  },
+  {
+   "text": "impermeável.",
+   "start": 1.486,
+   "end": 2.554
+  }
+ ]
+}

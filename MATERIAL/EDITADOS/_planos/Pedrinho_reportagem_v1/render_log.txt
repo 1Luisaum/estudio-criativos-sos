@@ -1,0 +1,30 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v1.mp4
+narracao OFF1
+narracao OFF2
+narracao OFF3
+narracao OFF4
+narracao OFF5
+  b01: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+  b01: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=None
+ok b01 off 3.62s Um simples atrito pode abrir uma ferida na pele deste menino.
+  b02: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=1060 etiqueta=None
+ok b02 sonora 4.64s Eu sou o Pedrinho Guerreiro e eu tenho epidermólise bolhosa.
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+  b03: manchete=290 gc=- legenda=1080 etiqueta=None
+ok b03 off 7.21s É a epidermólise bolhosa, a doença da pele de borboleta. Na casa dele, o curativo é feito duas vezes por dia.
+  b04: manchete=ESCONDIDA (rosto) gc=1110 legenda=790 etiqueta=None
+ok b04 sonora 5.58s Esse calor tá acabando com a pele do meu filho. Eu acabei de fazer o segundo curativo do dia
+  b05: manchete=ESCONDIDA (rosto) gc=- legenda=1030 etiqueta=None
+  b05: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b05 off 7.00s Da última vez, o curativo levou cinco horas. E os cuidados com a pele dele já passam de quarenta mil reais por mês.
+  b06: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b06 sonora 5.22s Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando,
+  b07: manchete=ESCONDIDA (rosto) gc=- legenda=790 etiqueta=None
+ok b07 sonora 6.78s porque as coisas deles estão acabando. Pedrinho tá precisando de atadura, precisando de pomada.
+  b08: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b08 off 7.51s A SOS Human Help está arrecadando doações para os curativos do Pedrinho. Com dez reais, você já ajuda.
+  b09: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b09 sonora 2.86s Então, seja um anjo na minha vida
+  b10: manchete=290 gc=- legenda=750 etiqueta=920
+ok b10 off 3.83s Toque em Saiba mais e veja como ajudar.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v1.mp4 duracao=54.2s

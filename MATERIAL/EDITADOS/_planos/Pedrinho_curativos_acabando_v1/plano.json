@@ -1,0 +1,193 @@
+{
+ "nome": "Pedrinho_curativos_acabando_v1",
+ "raw": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os meus curativos estão acabando e eu tô com medo seja um anjo na minha vida_.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\CORTES COM GANCHO\\LEVA 01\\Pedrinho_curativos_acabando_v1.mp4",
+ "face": [
+  520,
+  420
+ ],
+ "zooms": {
+  "Z2": {
+   "z": 1.2,
+   "center": [
+    520,
+    845
+   ]
+  },
+  "Z3": {
+   "z": 1.35,
+   "center": [
+    520,
+    845
+   ]
+  },
+  "ZF": {
+   "z": 1.5,
+   "center": [
+    520,
+    845
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 0.42,
+   "out": 1.12,
+   "zoom": "Z2",
+   "txt": "Por favor,"
+  },
+  {
+   "in": 1.54,
+   "out": 3.58,
+   "zoom": "Z3",
+   "txt": "fica só 30 segundos."
+  },
+  {
+   "in": 4.26,
+   "out": 6.72,
+   "zoom": "ZF",
+   "txt": "Os meus curativos estão acabando"
+  },
+  {
+   "in": 7.18,
+   "out": 9.84,
+   "zoom": "Z1",
+   "txt": "e eu tô com medo, porque se acabar tudo,"
+  },
+  {
+   "in": 10.48,
+   "out": 10.8,
+   "zoom": "Z3",
+   "txt": "eu"
+  },
+  {
+   "in": 11.06,
+   "out": 11.88,
+   "zoom": "Z2",
+   "txt": "e minha mamãe"
+  },
+  {
+   "in": 12.26,
+   "out": 12.81,
+   "txt": "realmente",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 156.0
+    }
+   ]
+  },
+  {
+   "in": 13.14,
+   "out": 13.94,
+   "txt": "não sabe",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 156.6
+    }
+   ]
+  },
+  {
+   "in": 14.38,
+   "out": 15.48,
+   "txt": "o que que a gente,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 244.0
+    }
+   ]
+  },
+  {
+   "in": 16.15,
+   "out": 16.98,
+   "txt": "vai fazer.",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 245.1
+    }
+   ]
+  },
+  {
+   "in": 18.82,
+   "out": 20.62,
+   "zoom": "ZF",
+   "txt": "seja um anjo na minha vida"
+  },
+  {
+   "in": 21.44,
+   "out": 22.08,
+   "zoom": "Z2",
+   "txt": "desde já,"
+  },
+  {
+   "in": 22.54,
+   "out": 24.44,
+   "zoom": "Z3",
+   "txt": "minha eterna gratidão mesmo."
+  }
+ ],
+ "red": [
+  "CURATIVOS",
+  "ACABANDO",
+  "30",
+  "SEGUNDOS",
+  "MEDO",
+  "ANJO"
+ ],
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 2.4,
+   "lines": [
+    "OS CURATIVOS DO",
+    "PEDRINHO ESTÃO",
+    "*ACABANDO*"
+   ],
+   "fs": 92
+  },
+  {
+   "t0": 2.4,
+   "t1": 5.6,
+   "lines": [
+    "SE ACABAR TUDO,",
+    "ELE E A MÃE NÃO",
+    "SABEM O QUE FAZER"
+   ],
+   "fs": 88
+  }
+ ],
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 30.0,
+  "dur": 3.4,
+  "lines": [
+   "SEJA UM ANJO",
+   "NA VIDA DO PEDRINHO"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$5",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ }
+}

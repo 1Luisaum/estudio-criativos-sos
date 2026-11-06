@@ -1,0 +1,80 @@
+{
+ "text": "O guerreiro aguenta. O filho precisa de colo. E o colo dele tem nome: mãe.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "guerreiro",
+   "start": 0.186,
+   "end": 0.522
+  },
+  {
+   "text": "aguenta.",
+   "start": 0.546,
+   "end": 1.112
+  },
+  {
+   "text": "O",
+   "start": 1.112,
+   "end": 1.168
+  },
+  {
+   "text": "filho",
+   "start": 1.249,
+   "end": 1.447
+  },
+  {
+   "text": "precisa",
+   "start": 1.47,
+   "end": 1.818
+  },
+  {
+   "text": "de",
+   "start": 1.865,
+   "end": 1.946
+  },
+  {
+   "text": "colo.",
+   "start": 2.015,
+   "end": 2.464
+  },
+  {
+   "text": "E",
+   "start": 2.464,
+   "end": 2.531
+  },
+  {
+   "text": "o",
+   "start": 2.589,
+   "end": 2.639
+  },
+  {
+   "text": "colo",
+   "start": 2.659,
+   "end": 2.891
+  },
+  {
+   "text": "dele",
+   "start": 2.937,
+   "end": 3.123
+  },
+  {
+   "text": "tem",
+   "start": 3.158,
+   "end": 3.297
+  },
+  {
+   "text": "nome:",
+   "start": 3.344,
+   "end": 3.686
+  },
+  {
+   "text": "mãe.",
+   "start": 3.768,
+   "end": 4.102
+  }
+ ]
+}

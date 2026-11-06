@@ -1,0 +1,143 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1289222076667000.mp4",
+ "estilo": "BIB LUCAS DIA DE VIDA",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 6.4,
+   "linhas": [
+    "Dai, e vos será dado – Lucas 6:38"
+   ],
+   "estilo": "caixa",
+   "bg": "preto",
+   "fg": "branco",
+   "size": 40,
+   "y": 300,
+   "pad": [
+    16,
+    6
+   ],
+   "destaque": [
+    "Lucas",
+    "6:38"
+   ],
+   "cor_destaque": [
+    120,
+    200,
+    255
+   ]
+  },
+  {
+   "de": 6.4,
+   "ate": 28.9,
+   "linhas": [
+    "Doe R$5 e faça parte",
+    "dessa missão de amor 🙏"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 355,
+   "contorno": 2,
+   "lh": 1.05
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1330
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 28.9
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1289 - Lucas 6.38 (fundo sem voz).mp3",
+ "musica_volume": 1.479,
+ "modelo": {
+  "id": "peb222_l2_lucas",
+  "exemplo": "PEB 222",
+  "descricao": "1289222076667000: faixa preta \"Dai, e vos sera dado - Lucas 6:38\", depois texto amarelo no alto e legenda com a palavra falada em verde; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1289222076667000",
+  "titulo": "Dai e vos será dado (Lucas 6:38)",
+  "variacao": "pedrinho_lucas_dia_de_vida"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pescoco.mp4",
+   "ini": 0,
+   "fim": 3.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_estendido.mp4",
+   "ini": 0,
+   "fim": 3.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+   "ini": 2.0,
+   "fim": 5.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152542.mp4",
+   "ini": 3.0,
+   "fim": 6.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_sentado_feridas.mp4",
+   "ini": 0,
+   "fim": 3.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_bracos_close.mp4",
+   "ini": 0,
+   "fim": 3.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn3_1792347808_155s.mp4",
+   "ini": 20.0,
+   "fim": 23.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_faixa.mp4",
+   "ini": 0,
+   "fim": 3.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_peito_bracos.mp4",
+   "ini": 0,
+   "fim": 3.17,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 2.0,
+   "fim": 5.17,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_lucas_dia_de_vida_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_lucas_dia_de_vida_sr.json",
+  "de": 0.2
+ },
+ "fatos": {
+  "doenca rara que faz surgir bolhas": "lv_0_20261102155438 1,7-6,1",
+  "cinco reais = mais um dia sem dor e de vida": "20261102_144645 31,8-40,5"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 66\\PEB 242 - BIB LUCAS DIA DE VIDA.mp4",
+ "saida_fixa": true
+}

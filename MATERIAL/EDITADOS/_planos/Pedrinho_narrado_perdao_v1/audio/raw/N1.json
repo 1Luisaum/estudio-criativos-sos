@@ -1,0 +1,70 @@
+{
+ "text": "Uma mãe pedindo desculpa por pedir ajuda. Não para ela. Para o filho.",
+ "words": [
+  {
+   "text": "Uma",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "mãe",
+   "start": 0.197,
+   "end": 0.337
+  },
+  {
+   "text": "pedindo",
+   "start": 0.36,
+   "end": 0.615
+  },
+  {
+   "text": "desculpa",
+   "start": 0.673,
+   "end": 1.184
+  },
+  {
+   "text": "por",
+   "start": 1.37,
+   "end": 1.637
+  },
+  {
+   "text": "pedir",
+   "start": 1.707,
+   "end": 1.997
+  },
+  {
+   "text": "ajuda.",
+   "start": 2.032,
+   "end": 2.554
+  },
+  {
+   "text": "Não",
+   "start": 2.694,
+   "end": 2.868
+  },
+  {
+   "text": "para",
+   "start": 2.914,
+   "end": 3.1
+  },
+  {
+   "text": "ela.",
+   "start": 3.17,
+   "end": 3.402
+  },
+  {
+   "text": "Para",
+   "start": 3.437,
+   "end": 3.611
+  },
+  {
+   "text": "o",
+   "start": 3.634,
+   "end": 3.657
+  },
+  {
+   "text": "filho.",
+   "start": 3.715,
+   "end": 4.365
+  }
+ ]
+}

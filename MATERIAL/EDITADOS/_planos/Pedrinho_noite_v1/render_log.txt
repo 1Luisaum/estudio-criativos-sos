@@ -1,0 +1,21 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_noite_v1.mp4
+seg 00 ok  t=  3.23
+seg 01 ok  t=  5.33
+seg 02 ok  t=  7.17
+seg 03 ok  t=  8.27
+seg 04 ok  t=  9.20
+seg 05 ok  t= 10.23
+seg 06 ok  t= 11.33
+seg 07 ok  t= 12.83
+seg 08 ok  t= 14.53
+seg 09 ok  t= 17.53
+seg 10 ok  t= 21.40
+seg 11 ok  t= 22.63
+seg 12 ok  t= 24.73
+seg 13 ok  t= 26.73
+seg 14 ok  t= 27.77
+seg 15 ok  t= 29.27
+seg 16 ok  t= 30.93
+seg 17 ok  t= 33.27
+audio: 36.67s  buracos=nenhum  ganho voz=+12.0dB
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_noite_v1.mp4  duracao=36.67s  tela_final=33.27s

@@ -1,0 +1,129 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_907048145709918.mp4",
+ "estilo": "BIB MAIS UM DIA",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 25.5,
+   "linhas": [
+    "Mais um dia postando porque",
+    "os curativos do Pedrinho",
+    "estão acabando 💔"
+   ],
+   "estilo": "seco",
+   "size": 46,
+   "y": 1275,
+   "contorno": 4,
+   "lh": 1.08
+  },
+  {
+   "de": 0,
+   "ate": 25.5,
+   "linhas": [
+    "5 reais já fazem a diferença"
+   ],
+   "estilo": "caixa",
+   "bg": [
+    24,
+    70,
+    215
+   ],
+   "fg": "branco",
+   "size": 40,
+   "y": 1480,
+   "pad": [
+    16,
+    4
+   ]
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 25.5
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 907 - mais um dia postando.mp3",
+ "musica_volume": 1.0,
+ "modelo": {
+  "id": "peb215_l1_mais_um_dia",
+  "exemplo": "PEB 215",
+  "descricao": "907048145709918: letra branca com contorno (y 66%) e faixa azul \"5 reais ja fazem a diferenca\" (y 77%)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=907048145709918",
+  "titulo": "Mais um dia postando",
+  "variacao": "pedrinho_mais_um_dia"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_bracos_curativo.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_faixas.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 8.0,
+   "fim": 10.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152739.mp4",
+   "ini": 3.0,
+   "fim": 5.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pescoco.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_sentado_feridas.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 0.5,
+   "fim": 3.25,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pe_tornozelo.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_estendido.mp4",
+   "ini": 0,
+   "fim": 2.75,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 6.0,
+   "fim": 8.75,
+   "som": false
+  }
+ ],
+ "fatos": {
+  "curativos acabando": "placa 20261102_151715",
+  "5 reais": "20261102_144645"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 67\\PEB 247 - BIB MAIS UM DIA.mp4",
+ "saida_fixa": true
+}

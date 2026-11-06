@@ -1,0 +1,100 @@
+{
+ "text": "Ele não disse que vai dar certo. Disse que já deu. Isso é fé de quem dorme com dor.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.197
+  },
+  {
+   "text": "não",
+   "start": 0.232,
+   "end": 0.36
+  },
+  {
+   "text": "disse",
+   "start": 0.406,
+   "end": 0.58
+  },
+  {
+   "text": "que",
+   "start": 0.604,
+   "end": 0.673
+  },
+  {
+   "text": "vai",
+   "start": 0.708,
+   "end": 0.801
+  },
+  {
+   "text": "dar",
+   "start": 0.824,
+   "end": 0.94
+  },
+  {
+   "text": "certo.",
+   "start": 0.964,
+   "end": 1.37
+  },
+  {
+   "text": "Disse",
+   "start": 1.556,
+   "end": 1.776
+  },
+  {
+   "text": "que",
+   "start": 1.8,
+   "end": 1.881
+  },
+  {
+   "text": "já",
+   "start": 1.927,
+   "end": 2.032
+  },
+  {
+   "text": "deu.",
+   "start": 2.125,
+   "end": 2.426
+  },
+  {
+   "text": "Isso",
+   "start": 2.647,
+   "end": 2.868
+  },
+  {
+   "text": "é",
+   "start": 2.902,
+   "end": 2.926
+  },
+  {
+   "text": "fé",
+   "start": 3.019,
+   "end": 3.193
+  },
+  {
+   "text": "de",
+   "start": 3.239,
+   "end": 3.309
+  },
+  {
+   "text": "quem",
+   "start": 3.344,
+   "end": 3.483
+  },
+  {
+   "text": "dorme",
+   "start": 3.541,
+   "end": 3.785
+  },
+  {
+   "text": "com",
+   "start": 3.831,
+   "end": 3.959
+  },
+  {
+   "text": "dor.",
+   "start": 4.029,
+   "end": 4.598
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "text": "Clique em Saiba mais. Para ele, curativo novo não é luxo.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "em",
+   "start": 0.36,
+   "end": 0.41
+  },
+  {
+   "text": "Saiba",
+   "start": 0.488,
+   "end": 0.848
+  },
+  {
+   "text": "mais.",
+   "start": 0.894,
+   "end": 1.265
+  },
+  {
+   "text": "Para",
+   "start": 1.324,
+   "end": 1.556
+  },
+  {
+   "text": "ele,",
+   "start": 1.602,
+   "end": 1.776
+  },
+  {
+   "text": "curativo",
+   "start": 1.8,
+   "end": 2.276
+  },
+  {
+   "text": "novo",
+   "start": 2.322,
+   "end": 2.635
+  },
+  {
+   "text": "não",
+   "start": 2.694,
+   "end": 2.798
+  },
+  {
+   "text": "é",
+   "start": 2.844,
+   "end": 2.894
+  },
+  {
+   "text": "luxo.",
+   "start": 2.914,
+   "end": 3.322
+  }
+ ]
+}

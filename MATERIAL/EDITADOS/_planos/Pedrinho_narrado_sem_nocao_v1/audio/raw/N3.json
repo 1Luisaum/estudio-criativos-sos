@@ -1,0 +1,70 @@
+{
+ "text": "A ferida gruda no forro da cama. Levantar dói. Virar dói. Deitar dói.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "ferida",
+   "start": 0.163,
+   "end": 0.488
+  },
+  {
+   "text": "gruda",
+   "start": 0.557,
+   "end": 0.824
+  },
+  {
+   "text": "no",
+   "start": 0.871,
+   "end": 0.94
+  },
+  {
+   "text": "forro",
+   "start": 0.998,
+   "end": 1.207
+  },
+  {
+   "text": "da",
+   "start": 1.254,
+   "end": 1.335
+  },
+  {
+   "text": "cama.",
+   "start": 1.393,
+   "end": 1.753
+  },
+  {
+   "text": "Levantar",
+   "start": 2.009,
+   "end": 2.485
+  },
+  {
+   "text": "dói.",
+   "start": 2.531,
+   "end": 3.019
+  },
+  {
+   "text": "Virar",
+   "start": 3.204,
+   "end": 3.529
+  },
+  {
+   "text": "dói.",
+   "start": 3.587,
+   "end": 4.052
+  },
+  {
+   "text": "Deitar",
+   "start": 4.307,
+   "end": 4.737
+  },
+  {
+   "text": "dói.",
+   "start": 4.795,
+   "end": 5.48
+  }
+ ]
+}

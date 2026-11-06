@@ -1,0 +1,122 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB CONSELHO GENEROSA",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4.5,
+   "linhas": [
+    "A alma generosa",
+    "prosperará – Provérbios 11:25"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3,
+   "lh": 1.08
+  },
+  {
+   "de": 4.6,
+   "ate": 18.92,
+   "linhas": [
+    "DOE 2 reais",
+    "e AJUDE O PEDRINHO 💗"
+   ],
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 50,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1330
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 18.92
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz, sem chiado).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "peb223_l2_conselho",
+  "exemplo": "PEB 223",
+  "descricao": "1658330079039610: gancho com a Biblia (IA, no lugar do homem falando no carro) e o versiculo em amarelo; depois caixa rosa \"DOE ... e AJUDE\" no alto e legenda pequena; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "titulo": "Presta atenção neste conselho",
+  "variacao": "pedrinho_conselho_generosa"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\biblia_janela.mp4",
+   "ini": 0,
+   "fim": 4.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_estendido.mp4",
+   "ini": 0,
+   "fim": 2.87,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas_inteiras.mp4",
+   "ini": 0,
+   "fim": 2.87,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+   "ini": 2.0,
+   "fim": 4.87,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 12.0,
+   "fim": 14.87,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_sentado_feridas.mp4",
+   "ini": 0,
+   "fim": 2.87,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_bracos_close.mp4",
+   "ini": 0,
+   "fim": 2.87,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_conselho_generosa_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_conselho_generosa_sr.json",
+  "de": 0.2
+ },
+ "fatos": {
+  "corpo doi ao deitar": "20261102_144645 1,6-7,0",
+  "tratamento caro ameniza as dores": "lv_0_20261102155438 7,6-14,4",
+  "R$2": "placa 20261102_151635"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 66\\PEB 245 - BIB CONSELHO GENEROSA.mp4",
+ "saida_fixa": true
+}

@@ -1,0 +1,59 @@
+{
+ "total": 62.710134999999994,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.576961,
+   "texto": "Chá, óleo, pomada milagrosa, terapia de luz. A Adrielly já ouviu todas as receitas."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 9.18,
+   "texto": "Já tentei passar óleo, já tomei um monte de chás, já tentei várias pomadas milagrosas"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.299501,
+   "texto": "Ela tem epidermólise bolhosa distrófica recessiva, uma doença rara e sem cura."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.639999999999999,
+   "texto": "só me fizeram mal, me deixaram triste. Eu já tentei de tudo."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 8.661882,
+   "texto": "Também tentou laserterapia e dilatação do esôfago. O que alivia de verdade são os curativos especiais, que não grudam na pele."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 6.079999999999997,
+   "texto": "os curativos são de extrema importância, com menos dor,"
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 9.632902000000001,
+   "texto": "Esses curativos custam caro e acabam a cada mês. A SOS Human Help está arrecadando para a Adrielly. Com dez reais, você já ajuda."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 7.7799999999999985,
+   "texto": "Eles têm sido alívio nas minhas crises de dor. Por favor, me ajuda a comprar meus curativos?"
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.858889,
+   "texto": "Toque em Saiba mais e ajude com o tratamento que funciona."
+  }
+ ]
+}

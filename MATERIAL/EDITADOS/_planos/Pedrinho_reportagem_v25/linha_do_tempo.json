@@ -1,0 +1,65 @@
+{
+ "total": 59.94169999999999,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.165601,
+   "texto": "Na internet, a história parece resolvida. Um menino conhecido, cheio de seguidores."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 6.159999999999999,
+   "texto": "As pessoas entram na minha rede social e elas veem que eu tenho muitos seguidores"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 4.8061,
+   "texto": "Só que o que aparece na tela engana. A vaquinha que as pessoas encontram é antiga."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 11.08,
+   "texto": "e elas veem vaquinhas online de há quase três anos atrás e acham já que eu tô bem de ajuda. Só que não é bem assim, pessoal."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 6.16381,
+   "texto": "Seguidor não troca curativo. Curtida não compra atadura. E o preço do material é outra conversa."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 4.22,
+   "texto": "os curativo para os cuidado do Pedrinho são absurdo de caro."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 3.8139909999999997,
+   "texto": "Por trás do perfil, existe a casa. E, dentro dela, os dois."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 5.1389999999999985,
+   "texto": "Pra vocês, ele é o Pedrinho Guerreiro. E pra ela, eu sou só o filho dela."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 9.115488000000001,
+   "texto": "Seguir mostra a história. Ajudar muda a próxima troca. Com dez reais, a SOS Human Help reforça o material do Pedrinho."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.27771,
+   "texto": "Clique em Saiba mais e faça mais do que seguir."
+  }
+ ]
+}

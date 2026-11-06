@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Ninguém consegue carregar essa luta inteira. Nem ele. Nem a mãe dele.",
+  "N2": "É assim que o Pedrinho explica a própria vida: uma corrente de mãos.",
+  "N3": "Tem quem manda uma atadura. Tem quem manda dois reais. Tem quem manda cinco. Nenhum desses gestos resolve tudo. Mas juntos, garantem a troca de hoje.",
+  "N4": "Sozinho, ninguém vence isso. Junto, ele já está vencendo.",
+  "N5": "Clique em Saiba mais e entre nessa corrente. Com dois ou cinco reais, você já é reforço."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

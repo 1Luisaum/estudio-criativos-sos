@@ -1,0 +1,24 @@
+N1: 5.38s  O Pedrinho tem epidermólise bolhosa, a doença da pele de borboleta. No calor, as feridas pioram.
+N2: 5.07s  A mãe dele rompe cada bolha, limpa cada ferida... e cobre tudo de novo.
+N3: 7.52s  Atadura. Gaze. Pomada. Esparadrapo especial. Os cuidados dele passam de quarenta mil reais por mês.
+N4: 1.71s  A pele dele é frágil. Ele não.
+N5: 2.76s  Toque em Saiba mais. Cinco reais já ajudam demais.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_calor_v1.mp4
+real  ok  t=  2.80
+real  ok  t=  5.23
+narr  ok  t= 10.77
+real  ok  t= 20.17
+narr  ok  t= 25.40
+real  ok  t= 31.97
+real  ok  t= 35.73
+narr  ok  t= 43.40
+card  ok  t= 44.80
+real  ok  t= 48.33
+real  ok  t= 52.17
+card  ok  t= 53.57
+narr  ok  t= 55.43
+real  ok  t= 57.27
+narr  ok  t= 60.17
+end   ok  t= 63.77
+audio: 63.70s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 01\Pedrinho_narrado_calor_v1.mp4  duracao=63.77s

@@ -1,0 +1,170 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Tem uma coisa que eu acho que eu nunca mostrei pra vocês",
+ "words": [
+  {
+   "text": "Tem",
+   "start": 0.36,
+   "end": 0.56,
+   "type": "word",
+   "logprob": -2.2411095415009186e-05
+  },
+  {
+   "text": " ",
+   "start": 0.56,
+   "end": 0.64,
+   "type": "spacing",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": "uma",
+   "start": 0.64,
+   "end": 0.82,
+   "type": "word",
+   "logprob": -2.622600959512056e-06
+  },
+  {
+   "text": " ",
+   "start": 0.82,
+   "end": 0.88,
+   "type": "spacing",
+   "logprob": -5.280832192511298e-05
+  },
+  {
+   "text": "coisa",
+   "start": 0.88,
+   "end": 1.26,
+   "type": "word",
+   "logprob": -5.280832192511298e-05
+  },
+  {
+   "text": " ",
+   "start": 1.26,
+   "end": 1.36,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "que",
+   "start": 1.36,
+   "end": 1.42,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 1.42,
+   "end": 1.46,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "eu",
+   "start": 1.46,
+   "end": 1.56,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 1.56,
+   "end": 1.66,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "acho",
+   "start": 1.66,
+   "end": 1.98,
+   "type": "word",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": " ",
+   "start": 1.98,
+   "end": 2.08,
+   "type": "spacing",
+   "logprob": -4.768360213347478e-06
+  },
+  {
+   "text": "que",
+   "start": 2.08,
+   "end": 2.14,
+   "type": "word",
+   "logprob": -4.768360213347478e-06
+  },
+  {
+   "text": " ",
+   "start": 2.14,
+   "end": 2.16,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "eu",
+   "start": 2.16,
+   "end": 2.26,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 2.26,
+   "end": 2.3,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "nunca",
+   "start": 2.3,
+   "end": 2.62,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.62,
+   "end": 2.66,
+   "type": "spacing",
+   "logprob": -6.186770770000294e-05
+  },
+  {
+   "text": "mostrei",
+   "start": 2.66,
+   "end": 3.04,
+   "type": "word",
+   "logprob": -4.449793388110785e-05
+  },
+  {
+   "text": " ",
+   "start": 3.04,
+   "end": 3.08,
+   "type": "spacing",
+   "logprob": -4.589452510117553e-05
+  },
+  {
+   "text": "pra",
+   "start": 3.08,
+   "end": 3.22,
+   "type": "word",
+   "logprob": -4.589452510117553e-05
+  },
+  {
+   "text": " ",
+   "start": 3.22,
+   "end": 3.28,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "vocês",
+   "start": 3.28,
+   "end": 3.96,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  }
+ ],
+ "transcription_id": "XbSgrqYe7BRujiHIE8h2",
+ "audio_duration_secs": 4.67
+}

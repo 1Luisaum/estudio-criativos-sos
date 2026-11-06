@@ -1,0 +1,21 @@
+NARRAÇÃO BRASILEIRA - Pedrinho_lista_v1
+
+Gere cada fala abaixo no site do ElevenLabs (Text to Speech) com uma voz de
+narrador brasileiro (sugestão: "Leonardo - Deep & Resonant", já está na sua biblioteca),
+baixe em MP3 e salve NESTA pasta com o nome exato da esquerda.
+Depois é só pedir para renderizar de novo: o vídeo usa estes arquivos no lugar da voz atual.
+
+N01.mp3  Essa é a lista de compras de uma criança com pele de borboleta.
+I1.mp3   Atadura.
+I2.mp3   Gaze.
+I3.mp3   Pomada.
+I4.mp3   Soro fisiológico.
+I5.mp3   Esparadrapo impermeável.
+I6.mp3   Óleo de girassol.
+N03.mp3  Tudo isso... duas vezes por dia.
+N04.mp3  O Pedrinho tem epidermólise bolhosa. Todo dia aparecem bolhas de sangue e de água, e a mãe dele precisa romper.
+N05.mp3  Da última vez, o curativo levou cinco horas.
+N06.mp3  As feridas estão cada vez mais abertas. E a dor não deixa ele dormir.
+N07.mp3  E agora... essa lista está acabando.
+N08.mp3  Dois reais. Cinco reais. Como a mãe dele diz: já ajuda demais.
+N09.mp3  Toque em Doar agora, e ajude a completar a lista do Pedrinho.

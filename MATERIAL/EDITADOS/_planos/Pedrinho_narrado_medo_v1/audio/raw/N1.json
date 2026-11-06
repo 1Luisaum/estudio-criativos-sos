@@ -1,0 +1,80 @@
+{
+ "text": "Tem criança que tem medo do escuro. O Pedrinho tem medo de a faixa acabar.",
+ "words": [
+  {
+   "text": "Tem",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "criança",
+   "start": 0.267,
+   "end": 0.685
+  },
+  {
+   "text": "que",
+   "start": 0.731,
+   "end": 0.801
+  },
+  {
+   "text": "tem",
+   "start": 0.848,
+   "end": 0.964
+  },
+  {
+   "text": "medo",
+   "start": 1.022,
+   "end": 1.231
+  },
+  {
+   "text": "do",
+   "start": 1.277,
+   "end": 1.37
+  },
+  {
+   "text": "escuro.",
+   "start": 1.405,
+   "end": 2.043
+  },
+  {
+   "text": "O",
+   "start": 2.577,
+   "end": 2.659
+  },
+  {
+   "text": "Pedrinho",
+   "start": 2.74,
+   "end": 3.274
+  },
+  {
+   "text": "tem",
+   "start": 3.46,
+   "end": 3.669
+  },
+  {
+   "text": "medo",
+   "start": 3.75,
+   "end": 4.214
+  },
+  {
+   "text": "de",
+   "start": 4.551,
+   "end": 4.899
+  },
+  {
+   "text": "a",
+   "start": 5.027,
+   "end": 5.062
+  },
+  {
+   "text": "faixa",
+   "start": 5.155,
+   "end": 5.445
+  },
+  {
+   "text": "acabar.",
+   "start": 5.468,
+   "end": 6.269
+  }
+ ]
+}

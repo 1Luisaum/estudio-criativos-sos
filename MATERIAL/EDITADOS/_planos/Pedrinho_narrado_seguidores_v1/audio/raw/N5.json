@@ -1,0 +1,95 @@
+{
+ "text": "Clique em Saiba mais, saia da plateia e entre na vida dele. Ele vai saber que alguém ficou.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.499
+  },
+  {
+   "text": "em",
+   "start": 0.534,
+   "end": 0.615
+  },
+  {
+   "text": "Saiba",
+   "start": 0.743,
+   "end": 1.057
+  },
+  {
+   "text": "mais,",
+   "start": 1.115,
+   "end": 1.451
+  },
+  {
+   "text": "saia",
+   "start": 1.474,
+   "end": 1.66
+  },
+  {
+   "text": "da",
+   "start": 1.695,
+   "end": 1.765
+  },
+  {
+   "text": "plateia",
+   "start": 1.8,
+   "end": 2.45
+  },
+  {
+   "text": "e",
+   "start": 2.543,
+   "end": 2.763
+  },
+  {
+   "text": "entre",
+   "start": 2.833,
+   "end": 3.135
+  },
+  {
+   "text": "na",
+   "start": 3.17,
+   "end": 3.239
+  },
+  {
+   "text": "vida",
+   "start": 3.274,
+   "end": 3.46
+  },
+  {
+   "text": "dele.",
+   "start": 3.518,
+   "end": 3.855
+  },
+  {
+   "text": "Ele",
+   "start": 4.04,
+   "end": 4.214
+  },
+  {
+   "text": "vai",
+   "start": 4.249,
+   "end": 4.354
+  },
+  {
+   "text": "saber",
+   "start": 4.389,
+   "end": 4.714
+  },
+  {
+   "text": "que",
+   "start": 4.748,
+   "end": 4.83
+  },
+  {
+   "text": "alguém",
+   "start": 4.865,
+   "end": 5.12
+  },
+  {
+   "text": "ficou.",
+   "start": 5.178,
+   "end": 5.898
+  }
+ ]
+}

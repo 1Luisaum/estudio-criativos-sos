@@ -1,0 +1,101 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_2109425177114400.mp4",
+ "estilo": "BIB OBRIGADO",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_bracos_6436.mp4",
+   "ini": 0,
+   "fim": 2.9,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_braco_6448.mp4",
+   "ini": 0,
+   "fim": 1.1,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\85fe8774-511b-460c-a587-4ae5d58e0b82.mov",
+   "ini": 15,
+   "fim": 18.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\WhatsApp Video 2026-07-07 at 19.31.31.mp4",
+   "ini": 0.5,
+   "fim": 4.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\EDITADOS\\_planos\\_clipes_adrielly\\adrielly_curativos_juntos.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\5E4503B5-C565-45B5-B01D-A5C3A8D3F443.mov",
+   "ini": 25,
+   "fim": 28.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BANCO DE VÍDEOS ADRIELY\\Rot 2 (5).mp4",
+   "ini": 1,
+   "fim": 4,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4232.MOV",
+   "ini": 5.4,
+   "fim": 7.95,
+   "som": true
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21.5,
+   "linhas": [
+    "Cada real que chega vira",
+    "curativo e pomada na",
+    "pele da Adrielly.",
+    "OBRIGADO DE CORAÇÃO 🙏"
+   ],
+   "estilo": "seco",
+   "size": 50,
+   "y": 1345,
+   "contorno": 4,
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.3,
+  "de": 23.1
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\magnific_tristes\\You_Cant_Come_Back.mp3",
+ "musica_volume": 0.881,
+ "musica_depois": [
+  21.5,
+  0.157
+ ],
+ "modelo": {
+  "id": "peb209_maos_amigas_obrigado",
+  "exemplo": "PEB 209",
+  "descricao": "3. Lar Maos Amigas 2109425177114400: agradecimento em letra branca grossa com contorno (y 70%), so musica, takes longos; abre com os takes mais fortes (pedido do usuario: pernas enfaixadas em P&B, placa \"meus curativos estao acabando\") e fecha com ele agradecendo com a propria voz.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2109425177114400",
+  "titulo": "Obrigado de coração"
+ },
+ "fatos": {
+  "curativo e pomada": "IMG_9001 (viagem) 18,58: 'Esses aqui são meus curativo, minhas pomada'; sulfadiazina no banco",
+  "fala final": "IMG_4232 5,54-7,76 'Obrigada de coração!'"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 64\\AEB 98 - BIB OBRIGADO.mp4",
+ "ajuste_05_11b": "pedido do usuário: sem as pernas enfaixadas"
+}

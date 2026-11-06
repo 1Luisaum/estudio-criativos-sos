@@ -1,0 +1,70 @@
+{
+ "text": "A pele dele não aguenta nem a almofada. A fé dele aguenta tudo.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "pele",
+   "start": 0.151,
+   "end": 0.337
+  },
+  {
+   "text": "dele",
+   "start": 0.372,
+   "end": 0.522
+  },
+  {
+   "text": "não",
+   "start": 0.569,
+   "end": 0.639
+  },
+  {
+   "text": "aguenta",
+   "start": 0.673,
+   "end": 1.022
+  },
+  {
+   "text": "nem",
+   "start": 1.068,
+   "end": 1.184
+  },
+  {
+   "text": "a",
+   "start": 1.207,
+   "end": 1.335
+  },
+  {
+   "text": "almofada.",
+   "start": 1.474,
+   "end": 2.287
+  },
+  {
+   "text": "A",
+   "start": 2.926,
+   "end": 2.995
+  },
+  {
+   "text": "fé",
+   "start": 3.088,
+   "end": 3.204
+  },
+  {
+   "text": "dele",
+   "start": 3.251,
+   "end": 3.413
+  },
+  {
+   "text": "aguenta",
+   "start": 3.437,
+   "end": 3.773
+  },
+  {
+   "text": "tudo.",
+   "start": 3.843,
+   "end": 4.551
+  }
+ ]
+}

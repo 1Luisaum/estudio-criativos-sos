@@ -1,0 +1,59 @@
+{
+ "total": 48.309816,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 3.672494,
+   "texto": "Cinco horas. Foi quanto durou o último curativo do Pedrinho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 11.799000000000005,
+   "texto": "E da última vez, minha mãe precisou de cinco horas, pra fazer todo o meu curativo, por conta de lesões e ferimentos bem abertos na carne viva mesmo."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.9661,
+   "texto": "Ele tem epidermólise bolhosa. A pele se solta com qualquer atrito, e todo dia aparecem bolhas novas."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.300000000000002,
+   "texto": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 3.825306,
+   "texto": "É a mãe quem faz cada curativo, duas vezes por dia."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 2.8,
+   "texto": "Esse calor tá acabando com a pele do meu filho."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 6.853719,
+   "texto": "A SOS Human Help está arrecadando doações para os curativos. Com dez reais, você ajuda essa família."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 2.8600000000000003,
+   "texto": "Então, seja um anjo na minha vida"
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 4.2331970000000005,
+   "texto": "Toque em Saiba mais e seja o anjo do Pedrinho."
+  }
+ ]
+}

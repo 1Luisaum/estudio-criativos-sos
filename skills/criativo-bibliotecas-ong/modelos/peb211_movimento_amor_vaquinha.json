@@ -1,0 +1,117 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\movamor_1080789844796360.mp4",
+ "estilo": "BIB CAMPANHA",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 1.5,
+   "fim": 7.05,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 10.35,
+   "fim": 16.95,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 19.0,
+   "fim": 28.65,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 31.7,
+   "fim": 40.6,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 41.0,
+   "fim": 43.0,
+   "som": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 3,
+   "fim": 6.5,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 1.5,
+   "ate": 32.7,
+   "linhas": [
+    "Ajude pelo",
+    "“saiba mais”"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 52,
+   "y": 1215,
+   "contorno": 2,
+   "fonte": "italico",
+   "lh": 1.0
+  },
+  {
+   "de": 8.0,
+   "ate": 32.7,
+   "linhas": [
+    "Pedrinho tem epidermólise bolhosa, a pele de",
+    "borboleta. Uma caixa de curativos custa R$1.500.",
+    "A SOS Human Help pede ajuda para o tratamento dele."
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 31,
+   "y": 1350,
+   "fonte": "serif",
+   "pad": [
+    14,
+    6
+   ],
+   "lh": 1.12
+  }
+ ],
+ "fim": {
+  "de": 32.7,
+  "linhas": [
+   "FAÇA PARTE DESSA",
+   "CORRENTE DO BEM!"
+  ],
+  "cor": [
+   22,
+   170,
+   50
+  ],
+  "size": 56,
+  "y": 865,
+  "escuro": 0.62,
+  "sub": [
+   "CLIQUE EM",
+   "“SAIBA MAIS”"
+  ],
+  "size_sub": 52,
+  "cor_sub": [
+   190,
+   255,
+   190
+  ],
+  "gap_sub": 120,
+  "setas": true,
+  "y_setas": 1440
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\magnific_tristes\\The_Weight_of_Time.mp3",
+ "musica_volume": 0.174,
+ "modelo": {
+  "id": "peb211_movimento_amor_vaquinha",
+  "exemplo": "PEB 211",
+  "descricao": "6. Movamor 1080789844796360: a crianca falando quase sem corte, \"saiba mais\" amarelo italico (y 65%), caixa branca com a historia em letra serifada (y 69%), cartela escura com caixa verde, texto verde e setas.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1080789844796360",
+  "titulo": "Campanha: corrente do bem"
+ }
+}

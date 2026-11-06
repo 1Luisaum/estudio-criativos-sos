@@ -1,0 +1,90 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_2109425177114400.mp4",
+ "estilo": "BIB OBRIGADO",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 0.5,
+   "fim": 4.5,
+   "som": false,
+   "pb": true
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152542.mp4",
+   "ini": 3.0,
+   "fim": 6.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 8,
+   "fim": 12,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 3,
+   "fim": 6.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 0,
+   "fim": 3.5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 0,
+   "fim": 3.0,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 34.75,
+   "fim": 37.35,
+   "som": true
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21.5,
+   "linhas": [
+    "Cada real que chega vira",
+    "curativo e pomada na",
+    "pele do Pedrinho.",
+    "OBRIGADO DE CORAÇÃO 🙏"
+   ],
+   "estilo": "seco",
+   "size": 50,
+   "y": 1345,
+   "contorno": 4,
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.3,
+  "de": 23.1
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\magnific_tristes\\You_Cant_Come_Back.mp3",
+ "musica_volume": 0.881,
+ "musica_depois": [
+  21.5,
+  0.157
+ ],
+ "modelo": {
+  "id": "peb209_maos_amigas_obrigado",
+  "exemplo": "PEB 209",
+  "descricao": "3. Lar Maos Amigas 2109425177114400: agradecimento em letra branca grossa com contorno (y 70%), so musica, takes longos; abre com os takes mais fortes (pedido do usuario: pernas enfaixadas em P&B, placa \"meus curativos estao acabando\") e fecha com ele agradecendo com a propria voz.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2109425177114400",
+  "titulo": "Obrigado de coração"
+ }
+}

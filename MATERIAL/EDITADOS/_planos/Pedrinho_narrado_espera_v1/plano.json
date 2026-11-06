@@ -1,0 +1,269 @@
+{
+ "nome": "Pedrinho_narrado_espera_v1",
+ "pedido": "2026-10-26_105743",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 35.0,
+ "red": [
+  "CURATIVO",
+  "CURATIVOS",
+  "FERIDAS",
+  "FERIDA",
+  "ACABANDO",
+  "ACABOU",
+  "DOR",
+  "CHORAR",
+  "ARDE"
+ ],
+ "caption_fix": {
+  "B": "EB"
+ },
+ "hook": {
+  "t1": 4.4,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*NÃO PODE ESPERAR*",
+    "fs": 100
+   },
+   {
+    "text": "AS FERIDAS DO PEDRINHO",
+    "fs": 72
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro9.json",
+   "cuts": [
+    [
+     44.18,
+     45.46
+    ],
+    [
+     46.98,
+     48.42
+    ],
+    [
+     49.06,
+     51.38
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    },
+    {
+     "z": 1.6,
+     "center": [
+      580,
+      560
+     ]
+    }
+   ],
+   "txt": "Quem é EB não pode esperar. E eu não posso esperar mais. Os meus ferimentos não podem esperar."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20240426_144311.jpg"
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 215.0
+    }
+   ],
+   "txt": "A família do Pedrinho entrou na Justiça. Mas o processo demora."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro9.json",
+   "cuts": [
+    [
+     32.18,
+     33.1
+    ],
+    [
+     34.24,
+     35.96
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    },
+    {
+     "z": 1.6,
+     "center": [
+      580,
+      560
+     ]
+    }
+   ],
+   "txt": "Mas essas coisas, demora e demora muito mesmo."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260825_134340.jpg"
+    },
+    {
+     "src": "IMG-20260624-WA0043.jpg"
+    }
+   ],
+   "txt": "Sem soro fisiológico, o banho dele tem que ser com água."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cuts": [
+    [
+     40.08,
+     41.7
+    ],
+    [
+     42.36,
+     45.04
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.6,
+     "center": [
+      760,
+      1000
+     ]
+    },
+    {
+     "z": 1.4,
+     "center": [
+      740,
+      1000
+     ]
+    }
+   ],
+   "txt": "E a água, se ela bater na pele, ela arde e arde muito que vocês não têm noção."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241107_202353.jpg"
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 20.0
+    }
+   ],
+   "txt": "A Justiça pode demorar. A ferida não espera."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cuts": [
+    [
+     63.0,
+     66.92
+    ],
+    [
+     67.72,
+     67.72
+    ],
+    [
+     69.44,
+     69.72
+    ],
+    [
+     71.56,
+     74.14
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.6,
+     "center": [
+      760,
+      1000
+     ]
+    },
+    {
+     "z": 1.4,
+     "center": [
+      740,
+      1000
+     ]
+    }
+   ],
+   "txt": "Quatro, cinco reais, dez reais, parece pouco, mas pra mim, é uma nova esperança de um dia sem dor."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "R$ 4",
+    "UM DIA SEM DOR"
+   ],
+   "dur": 1.4,
+   "fs": 230
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "IMG-20241205-WA0070.jpg"
+    },
+    {
+     "src": "20241108_111235(0).jpg"
+    }
+   ],
+   "txt": "Toque em Saiba mais. A SOS Human Help leva a sua ajuda até o Pedrinho."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20250401_204159.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "O PEDRINHO NÃO",
+    "PODE *ESPERAR*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\NARRADO DE IMPACTO\\LEVA 02\\Pedrinho_narrado_espera_v1.mp4"
+}

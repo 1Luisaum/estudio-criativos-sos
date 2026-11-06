@@ -1,0 +1,80 @@
+{
+ "text": "Toda noite, a mãe da Adrielly dorme num colchão ao lado da cama da filha.",
+ "words": [
+  {
+   "text": "Toda",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "noite,",
+   "start": 0.337,
+   "end": 0.94
+  },
+  {
+   "text": "a",
+   "start": 1.347,
+   "end": 1.428
+  },
+  {
+   "text": "mãe",
+   "start": 1.521,
+   "end": 1.8
+  },
+  {
+   "text": "da",
+   "start": 1.834,
+   "end": 1.927
+  },
+  {
+   "text": "Adrielly",
+   "start": 1.95,
+   "end": 2.426
+  },
+  {
+   "text": "dorme",
+   "start": 2.496,
+   "end": 2.856
+  },
+  {
+   "text": "num",
+   "start": 2.891,
+   "end": 3.03
+  },
+  {
+   "text": "colchão",
+   "start": 3.1,
+   "end": 3.808
+  },
+  {
+   "text": "ao",
+   "start": 3.971,
+   "end": 4.11
+  },
+  {
+   "text": "lado",
+   "start": 4.168,
+   "end": 4.412
+  },
+  {
+   "text": "da",
+   "start": 4.458,
+   "end": 4.528
+  },
+  {
+   "text": "cama",
+   "start": 4.574,
+   "end": 4.795
+  },
+  {
+   "text": "da",
+   "start": 4.83,
+   "end": 4.899
+  },
+  {
+   "text": "filha.",
+   "start": 4.969,
+   "end": 5.619
+  }
+ ]
+}

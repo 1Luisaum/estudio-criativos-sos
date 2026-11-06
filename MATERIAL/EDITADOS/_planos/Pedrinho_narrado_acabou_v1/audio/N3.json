@@ -1,0 +1,70 @@
+{
+ "text": "E o material não dura. A gaze de hoje já não serve amanhã.",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.0,
+   "end": 0.116
+  },
+  {
+   "text": "o",
+   "start": 0.163,
+   "end": 0.213
+  },
+  {
+   "text": "material",
+   "start": 0.232,
+   "end": 0.627
+  },
+  {
+   "text": "não",
+   "start": 0.662,
+   "end": 0.778
+  },
+  {
+   "text": "dura.",
+   "start": 0.824,
+   "end": 1.207
+  },
+  {
+   "text": "A",
+   "start": 1.313,
+   "end": 1.371
+  },
+  {
+   "text": "gáze",
+   "start": 1.452,
+   "end": 1.673
+  },
+  {
+   "text": "de",
+   "start": 1.696,
+   "end": 1.777
+  },
+  {
+   "text": "hoje",
+   "start": 1.812,
+   "end": 2.044
+  },
+  {
+   "text": "já",
+   "start": 2.207,
+   "end": 2.288
+  },
+  {
+   "text": "não",
+   "start": 2.335,
+   "end": 2.439
+  },
+  {
+   "text": "serve",
+   "start": 2.497,
+   "end": 2.776
+  },
+  {
+   "text": "amanhã.",
+   "start": 2.799,
+   "end": 3.157
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "nome": "Pedrinho_esperanca_v1",
+ "estilo": "Da dor à esperança (criado em 27/10/2026): impacto -> desenvolve -> final feliz para doar",
+ "banco": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "musica_tensa": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "tensa_inicio": 0,
+ "musica_esperanca": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/rockymetal-ambient-acoustic-239252.mp3",
+ "esperanca_inicio": 0,
+ "vol_tensa": 0.12,
+ "vol_esperanca": 0.13,
+ "vol_fim": 0.42,
+ "virada_bloco": 5,
+ "blocos": [
+  {
+   "tipo": "cartela",
+   "foto": "gancho_dor.png",
+   "look": "pb",
+   "dur": 2.4,
+   "palavras": [
+    [
+     "TODO DIA",
+     0.25,
+     "branco",
+     150
+    ],
+    [
+     "ELE SENTE",
+     0.81,
+     "branco",
+     150
+    ],
+    [
+     "DOR",
+     1.26,
+     "vermelho",
+     280
+    ]
+   ],
+   "fx": [
+    [
+     "coracao",
+     0.0
+    ],
+    [
+     "boom",
+     1.26
+    ]
+   ],
+   "palavras_y": 1350,
+   "audio": "N0",
+   "audio_inicio": 0.25
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "tx/t_roteiro9.json",
+   "look": "pb",
+   "cortes": [
+    [
+     52.58,
+     53.52
+    ],
+    [
+     54.5,
+     59.12
+    ]
+   ],
+   "crops": [
+    {
+     "z": 2.0,
+     "center": [
+      540,
+      640
+     ]
+    },
+    {
+     "z": 1.5,
+     "center": [
+      540,
+      700
+     ]
+    }
+   ],
+   "txt": "Tem noites que eu chego até a chorar por causa das feridas doloridas."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N1",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 160
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 205
+    }
+   ]
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "tx/t_nenhuma_mae.json",
+   "look": "pb",
+   "cortes": [
+    [
+     9.8,
+     10.64
+    ],
+    [
+     12.68,
+     16.08
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.25,
+     "center": [
+      540,
+      800
+     ]
+    }
+   ],
+   "txt": "Eu faço tudo, mas a EB, essa enfermidade, ela é terrível."
+  },
+  {
+   "tipo": "real",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "tx/t_000819.json",
+   "look": "pb",
+   "cortes": [
+    [
+     40.4,
+     41.8
+    ],
+    [
+     43.0,
+     46.58
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.5,
+     "center": [
+      500,
+      640
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "A gente não tem como comprar pelo menos uns dois, três pacotes de atadura."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N2",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     "start": 25
+    }
+   ],
+   "fx": [
+    [
+     "whoosh",
+     -0.3
+    ]
+   ]
+  },
+  {
+   "tipo": "vo",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 7.mp4",
+   "tx": "tx/roteiro7.json",
+   "look": "cor",
+   "cortes": [
+    [
+     14.66,
+     16.32
+    ],
+    [
+     16.86,
+     22.8
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20241107_202353.jpg"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     "start": 12
+    },
+    {
+     "src": "Ana e Pedro sorrindo.png"
+    }
+   ],
+   "txt": "Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando, sempre com a cabeça erguida."
+  },
+  {
+   "tipo": "narr",
+   "audio": "N3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "IMG-20260624-WA0043.jpg"
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     "start": 88
+    }
+   ]
+  },
+  {
+   "tipo": "fim",
+   "foto": "IMG-20260620-WA0011.jpg",
+   "dur": 3.6,
+   "linhas": [
+    "O FINAL FELIZ",
+    "*COMEÇA COM VOCÊ*"
+   ],
+   "cta": "TOQUE EM SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "dor todo dia": "Pedrinho, 20260917_001530 ('dores do dia a dia e durante a noite')",
+  "bolhas de sangue, feridas abertas, horas de curativo": "Pedrinho, 20260916_234157 e banco Roteiro 7",
+  "falas": "roteiro 9 (52-59 s); mãe, Roteiro_ Nenhuma mãe (9-16 s); 20260917_000819 (40-46 s); banco Roteiro 7 (14-22 s)",
+  "R$10": "padrão das referências pedido pelo usuário"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\DA DOR À ESPERANÇA\\LEVA 01\\Pedrinho_esperanca_v1.mp4",
+ "excecao_sem_logo": "pedido do usuário em 27/10/2026: tirar a marca d'água só deste vídeo"
+}

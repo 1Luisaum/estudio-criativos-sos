@@ -1,0 +1,198 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Até vencer, eu vou chorar muito, muito de dor. Eu preciso dos meus curativos",
+ "words": [
+  {
+   "text": "Até",
+   "start": 0.2,
+   "end": 0.62,
+   "type": "word",
+   "logprob": -0.006927689537405968
+  },
+  {
+   "text": " ",
+   "start": 0.62,
+   "end": 0.66,
+   "type": "spacing",
+   "logprob": -2.062299427052494e-05
+  },
+  {
+   "text": "vencer,",
+   "start": 0.66,
+   "end": 1.22,
+   "type": "word",
+   "logprob": -0.05596133622592398
+  },
+  {
+   "text": " ",
+   "start": 1.22,
+   "end": 1.76,
+   "type": "spacing",
+   "logprob": -4.768360213347478e-06
+  },
+  {
+   "text": "eu",
+   "start": 1.76,
+   "end": 1.9,
+   "type": "word",
+   "logprob": -4.768360213347478e-06
+  },
+  {
+   "text": " ",
+   "start": 1.9,
+   "end": 1.94,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "vou",
+   "start": 1.94,
+   "end": 2.08,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 2.08,
+   "end": 2.16,
+   "type": "spacing",
+   "logprob": -1.4066597032069694e-05
+  },
+  {
+   "text": "chorar",
+   "start": 2.16,
+   "end": 2.52,
+   "type": "word",
+   "logprob": -9.377731354713129e-06
+  },
+  {
+   "text": " ",
+   "start": 2.52,
+   "end": 2.68,
+   "type": "spacing",
+   "logprob": -7.152555099310121e-07
+  },
+  {
+   "text": "muito,",
+   "start": 2.68,
+   "end": 3.14,
+   "type": "word",
+   "logprob": -3.3179695719809388e-06
+  },
+  {
+   "text": " ",
+   "start": 3.14,
+   "end": 3.32,
+   "type": "spacing",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": "muito",
+   "start": 3.32,
+   "end": 3.72,
+   "type": "word",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": " ",
+   "start": 3.72,
+   "end": 3.78,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "de",
+   "start": 3.78,
+   "end": 3.86,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 3.86,
+   "end": 3.94,
+   "type": "spacing",
+   "logprob": -0.00024959311122074723
+  },
+  {
+   "text": "dor.",
+   "start": 3.94,
+   "end": 4.18,
+   "type": "word",
+   "logprob": -0.00019467510446702363
+  },
+  {
+   "text": " ",
+   "start": 4.18,
+   "end": 4.18,
+   "type": "spacing",
+   "logprob": -6.437280717364047e-06
+  },
+  {
+   "text": "Eu",
+   "start": 4.76,
+   "end": 4.86,
+   "type": "word",
+   "logprob": -6.437280717364047e-06
+  },
+  {
+   "text": " ",
+   "start": 4.86,
+   "end": 4.92,
+   "type": "spacing",
+   "logprob": -6.794698856538162e-05
+  },
+  {
+   "text": "preciso",
+   "start": 4.92,
+   "end": 5.66,
+   "type": "word",
+   "logprob": -6.794698856538162e-05
+  },
+  {
+   "text": " ",
+   "start": 5.66,
+   "end": 5.92,
+   "type": "spacing",
+   "logprob": -5.722029527532868e-06
+  },
+  {
+   "text": "dos",
+   "start": 5.92,
+   "end": 6.06,
+   "type": "word",
+   "logprob": -5.722029527532868e-06
+  },
+  {
+   "text": " ",
+   "start": 6.06,
+   "end": 6.16,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "meus",
+   "start": 6.16,
+   "end": 6.38,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 6.38,
+   "end": 6.48,
+   "type": "spacing",
+   "logprob": -1.3589766240329482e-05
+  },
+  {
+   "text": "curativos",
+   "start": 6.48,
+   "end": 7.46,
+   "type": "word",
+   "logprob": -1.5179200393807454e-05
+  }
+ ],
+ "transcription_id": "rhUtsnu0WgHpbYli6iho",
+ "audio_duration_secs": 7.965
+}

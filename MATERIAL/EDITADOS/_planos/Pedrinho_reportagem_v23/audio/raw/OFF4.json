@@ -1,0 +1,30 @@
+{
+ "text": "A pomada é para aliviar.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "pomada",
+   "start": 0.163,
+   "end": 0.569
+  },
+  {
+   "text": "é",
+   "start": 0.604,
+   "end": 0.627
+  },
+  {
+   "text": "para",
+   "start": 0.697,
+   "end": 0.906
+  },
+  {
+   "text": "aliviar.",
+   "start": 0.952,
+   "end": 1.811
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "text": "Nada nesse vídeo foi encenado.",
+ "words": [
+  {
+   "text": "Nada",
+   "start": 0.0,
+   "end": 0.267
+  },
+  {
+   "text": "nesse",
+   "start": 0.29,
+   "end": 0.453
+  },
+  {
+   "text": "vídeo",
+   "start": 0.488,
+   "end": 0.662
+  },
+  {
+   "text": "foi",
+   "start": 0.708,
+   "end": 0.801
+  },
+  {
+   "text": "encenado.",
+   "start": 0.824,
+   "end": 1.672
+  }
+ ]
+}

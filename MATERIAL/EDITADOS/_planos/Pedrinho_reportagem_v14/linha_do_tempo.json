@@ -1,0 +1,35 @@
+{
+ "total": 23.047664000000005,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 2.572494,
+   "texto": "Dormir virou uma luta para o Pedrinho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 4.159999999999999,
+   "texto": "Eu não aguento mais não conseguir dormir Eu quero conseguir dormir bem."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.076281,
+   "texto": "Ele tem epidermólise bolhosa, a pele de borboleta. E as feridas estão cada vez mais abertas."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 4.820000000000005,
+   "texto": "os meus ferimentos estão cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.418889,
+   "texto": "Deixe um coração nos comentários e mande o seu carinho para o Pedrinho."
+  }
+ ]
+}

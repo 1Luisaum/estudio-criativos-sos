@@ -1,0 +1,464 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Isso pode parecer um simples soro fisiológico, mas pro Pedrinho que tem epidermólise bolhosa, é o que a mãe usa no banho dele. É o que evita que a nágua arda na pele",
+ "words": [
+  {
+   "text": "Isso",
+   "start": 0.1,
+   "end": 0.24,
+   "type": "word",
+   "logprob": -8.379710925510153e-05
+  },
+  {
+   "text": " ",
+   "start": 0.24,
+   "end": 0.26,
+   "type": "spacing",
+   "logprob": -4.0531076592742465e-06
+  },
+  {
+   "text": "pode",
+   "start": 0.26,
+   "end": 0.46,
+   "type": "word",
+   "logprob": -4.0531076592742465e-06
+  },
+  {
+   "text": " ",
+   "start": 0.46,
+   "end": 0.48,
+   "type": "spacing",
+   "logprob": -0.00010251473577227443
+  },
+  {
+   "text": "parecer",
+   "start": 0.48,
+   "end": 0.76,
+   "type": "word",
+   "logprob": -0.00010251473577227443
+  },
+  {
+   "text": " ",
+   "start": 0.76,
+   "end": 0.82,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "um",
+   "start": 0.82,
+   "end": 0.94,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 0.94,
+   "end": 1.0,
+   "type": "spacing",
+   "logprob": -8.535020606359467e-05
+  },
+  {
+   "text": "simples",
+   "start": 1.0,
+   "end": 1.4,
+   "type": "word",
+   "logprob": -8.535020606359467e-05
+  },
+  {
+   "text": " ",
+   "start": 1.4,
+   "end": 1.76,
+   "type": "spacing",
+   "logprob": -4.088794958079234e-05
+  },
+  {
+   "text": "soro",
+   "start": 1.76,
+   "end": 1.98,
+   "type": "word",
+   "logprob": -3.0785171446723325e-05
+  },
+  {
+   "text": " ",
+   "start": 1.98,
+   "end": 2.08,
+   "type": "spacing",
+   "logprob": -2.3245540432981215e-05
+  },
+  {
+   "text": "fisiológico,",
+   "start": 2.08,
+   "end": 2.74,
+   "type": "word",
+   "logprob": -0.004697478382998573
+  },
+  {
+   "text": " ",
+   "start": 2.74,
+   "end": 2.9,
+   "type": "spacing",
+   "logprob": -8.34461570775602e-06
+  },
+  {
+   "text": "mas",
+   "start": 2.9,
+   "end": 3.12,
+   "type": "word",
+   "logprob": -8.34461570775602e-06
+  },
+  {
+   "text": " ",
+   "start": 3.12,
+   "end": 3.14,
+   "type": "spacing",
+   "logprob": -0.002671484835445881
+  },
+  {
+   "text": "pro",
+   "start": 3.14,
+   "end": 3.22,
+   "type": "word",
+   "logprob": -0.002671484835445881
+  },
+  {
+   "text": " ",
+   "start": 3.22,
+   "end": 3.36,
+   "type": "spacing",
+   "logprob": -0.0003856868715956807
+  },
+  {
+   "text": "Pedrinho",
+   "start": 3.36,
+   "end": 3.84,
+   "type": "word",
+   "logprob": -0.00014530312874683204
+  },
+  {
+   "text": " ",
+   "start": 3.84,
+   "end": 3.86,
+   "type": "spacing",
+   "logprob": -0.47407764196395874
+  },
+  {
+   "text": "que",
+   "start": 3.86,
+   "end": 3.98,
+   "type": "word",
+   "logprob": -0.47407764196395874
+  },
+  {
+   "text": " ",
+   "start": 3.98,
+   "end": 4.059,
+   "type": "spacing",
+   "logprob": -2.5033637939486653e-05
+  },
+  {
+   "text": "tem",
+   "start": 4.059,
+   "end": 4.44,
+   "type": "word",
+   "logprob": -2.5033637939486653e-05
+  },
+  {
+   "text": " ",
+   "start": 4.44,
+   "end": 4.48,
+   "type": "spacing",
+   "logprob": -0.0001728385395836085
+  },
+  {
+   "text": "epidermólise",
+   "start": 4.5,
+   "end": 5.16,
+   "type": "word",
+   "logprob": -0.0003502336918851749
+  },
+  {
+   "text": " ",
+   "start": 5.16,
+   "end": 5.18,
+   "type": "spacing",
+   "logprob": -3.8742269680369645e-05
+  },
+  {
+   "text": "bolhosa,",
+   "start": 5.18,
+   "end": 5.68,
+   "type": "word",
+   "logprob": -0.0029475043788806943
+  },
+  {
+   "text": " ",
+   "start": 5.68,
+   "end": 6.08,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "é",
+   "start": 6.08,
+   "end": 6.1,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 6.1,
+   "end": 6.14,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "o",
+   "start": 6.14,
+   "end": 6.16,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 6.16,
+   "end": 6.22,
+   "type": "spacing",
+   "logprob": -1.2159273865108844e-05
+  },
+  {
+   "text": "que",
+   "start": 6.22,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -1.2159273865108844e-05
+  },
+  {
+   "text": " ",
+   "start": 6.26,
+   "end": 6.3,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "a",
+   "start": 6.3,
+   "end": 6.32,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 6.32,
+   "end": 6.4,
+   "type": "spacing",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": "mãe",
+   "start": 6.4,
+   "end": 6.56,
+   "type": "word",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": " ",
+   "start": 6.56,
+   "end": 6.6,
+   "type": "spacing",
+   "logprob": -5.972207145532593e-05
+  },
+  {
+   "text": "usa",
+   "start": 6.6,
+   "end": 6.72,
+   "type": "word",
+   "logprob": -5.972207145532593e-05
+  },
+  {
+   "text": " ",
+   "start": 6.72,
+   "end": 6.76,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "no",
+   "start": 6.76,
+   "end": 6.86,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.86,
+   "end": 6.88,
+   "type": "spacing",
+   "logprob": -2.1576648578047752e-05
+  },
+  {
+   "text": "banho",
+   "start": 6.88,
+   "end": 7.04,
+   "type": "word",
+   "logprob": -1.3089040271552221e-05
+  },
+  {
+   "text": " ",
+   "start": 7.04,
+   "end": 7.12,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "dele.",
+   "start": 7.12,
+   "end": 7.34,
+   "type": "word",
+   "logprob": -0.004650369285991473
+  },
+  {
+   "text": " ",
+   "start": 7.34,
+   "end": 7.48,
+   "type": "spacing",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": "É",
+   "start": 7.48,
+   "end": 7.52,
+   "type": "word",
+   "logprob": -5.483612312673358e-06
+  },
+  {
+   "text": " ",
+   "start": 7.52,
+   "end": 7.54,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "o",
+   "start": 7.54,
+   "end": 7.56,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 7.56,
+   "end": 7.64,
+   "type": "spacing",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": "que",
+   "start": 7.64,
+   "end": 7.7,
+   "type": "word",
+   "logprob": -1.311301275563892e-06
+  },
+  {
+   "text": " ",
+   "start": 7.7,
+   "end": 7.74,
+   "type": "spacing",
+   "logprob": -0.00010907054820563644
+  },
+  {
+   "text": "evita",
+   "start": 7.74,
+   "end": 8.039,
+   "type": "word",
+   "logprob": -0.00010907054820563644
+  },
+  {
+   "text": " ",
+   "start": 8.039,
+   "end": 8.06,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "que",
+   "start": 8.06,
+   "end": 8.119,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 8.119,
+   "end": 8.16,
+   "type": "spacing",
+   "logprob": -0.00248659192584455
+  },
+  {
+   "text": "a",
+   "start": 8.16,
+   "end": 8.22,
+   "type": "word",
+   "logprob": -0.00248659192584455
+  },
+  {
+   "text": " ",
+   "start": 8.22,
+   "end": 8.26,
+   "type": "spacing",
+   "logprob": -0.03719711676239967
+  },
+  {
+   "text": "nágua",
+   "start": 8.26,
+   "end": 8.6,
+   "type": "word",
+   "logprob": -0.014001471229130402
+  },
+  {
+   "text": " ",
+   "start": 8.6,
+   "end": 8.68,
+   "type": "spacing",
+   "logprob": -0.00018439977429807186
+  },
+  {
+   "text": "arda",
+   "start": 8.68,
+   "end": 8.86,
+   "type": "word",
+   "logprob": -9.398802330906619e-05
+  },
+  {
+   "text": " ",
+   "start": 8.86,
+   "end": 8.9,
+   "type": "spacing",
+   "logprob": -2.884823152271565e-05
+  },
+  {
+   "text": "na",
+   "start": 8.9,
+   "end": 8.96,
+   "type": "word",
+   "logprob": -2.884823152271565e-05
+  },
+  {
+   "text": " ",
+   "start": 8.96,
+   "end": 9.08,
+   "type": "spacing",
+   "logprob": -6.794906312279636e-06
+  },
+  {
+   "text": "pele",
+   "start": 9.08,
+   "end": 9.3,
+   "type": "word",
+   "logprob": -6.794906312279636e-06
+  }
+ ],
+ "transcription_id": "zLMaxXKl8pV1u0VgobLn",
+ "audio_duration_secs": 9.409
+}

@@ -1,0 +1,35 @@
+{
+ "total": 30.178999999999974,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.41,
+   "texto": "Por favor, fica só 30 segundos."
+  },
+  {
+   "nome": "c1",
+   "d": 4.489999999999999,
+   "texto": "Eu sou o Pedrinho Guerreiro e eu tenho epidermólise bolhosa."
+  },
+  {
+   "nome": "c2",
+   "d": 6.189999999999999,
+   "texto": "E todos os dias eu enfrento feridas e horas e horas de curativo."
+  },
+  {
+   "nome": "c3",
+   "d": 4.188999999999998,
+   "texto": "Os meus curativos estão acabando e eu tô com medo,"
+  },
+  {
+   "nome": "c4",
+   "d": 8.629999999999978,
+   "texto": "quatro, cinco reais, dez reais, parece pouco, mas pra mim, é uma nova esperança de um dia sem dor."
+  },
+  {
+   "nome": "c5",
+   "d": 3.2700000000000005,
+   "texto": "seja um anjo na minha vida"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "text": "Não tem dublê. Ninguém entra no lugar dele na hora da troca.",
+ "words": [
+  {
+   "text": "Não",
+   "start": 0.0,
+   "end": 0.197
+  },
+  {
+   "text": "tem",
+   "start": 0.244,
+   "end": 0.372
+  },
+  {
+   "text": "dublê.",
+   "start": 0.406,
+   "end": 0.801
+  },
+  {
+   "text": "Ninguém",
+   "start": 0.941,
+   "end": 1.244
+  },
+  {
+   "text": "entra",
+   "start": 1.313,
+   "end": 1.569
+  },
+  {
+   "text": "no",
+   "start": 1.603,
+   "end": 1.696
+  },
+  {
+   "text": "lugar",
+   "start": 1.754,
+   "end": 2.01
+  },
+  {
+   "text": "dele",
+   "start": 2.045,
+   "end": 2.358
+  },
+  {
+   "text": "na",
+   "start": 2.486,
+   "end": 2.544
+  },
+  {
+   "text": "hora",
+   "start": 2.567,
+   "end": 2.695
+  },
+  {
+   "text": "da",
+   "start": 2.73,
+   "end": 2.799
+  },
+  {
+   "text": "troca.",
+   "start": 2.857,
+   "end": 3.266
+  }
+ ]
+}

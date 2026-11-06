@@ -1,0 +1,20 @@
+{
+ "text": "Dormir também dói.",
+ "words": [
+  {
+   "text": "Dormir",
+   "start": 0.0,
+   "end": 0.383
+  },
+  {
+   "text": "também",
+   "start": 0.418,
+   "end": 0.755
+  },
+  {
+   "text": "dói.",
+   "start": 0.813,
+   "end": 1.533
+  }
+ ]
+}

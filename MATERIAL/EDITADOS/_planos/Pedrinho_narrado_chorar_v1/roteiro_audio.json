@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Todo mundo chama ele de guerreiro. Pouca gente vê o que acontece quando a casa fica em silêncio.",
+  "N2": "A ferida arde. O músculo dói. E não existe posição boa na cama.",
+  "N3": "De manhã, a mãe recomeça do zero. E ele encara mais uma troca sem ter dormido.",
+  "N4": "Ele tem nome de guerreiro. Mas tem o corpo de uma criança cansada.",
+  "N5": "Guerreiro também chora. E no dia seguinte, continua.",
+  "N6": "Clique em Saiba mais. A sua ajuda pode ser a noite em que ele não chora."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

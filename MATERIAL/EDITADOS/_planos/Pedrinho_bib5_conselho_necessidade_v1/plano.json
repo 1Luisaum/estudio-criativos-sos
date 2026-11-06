@@ -1,0 +1,121 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB CONSELHO NECESSIDADE",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4.5,
+   "linhas": [
+    "O que dá ao pobre não",
+    "terá necessidade – Provérbios 28:27"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3,
+   "lh": 1.08
+  },
+  {
+   "de": 4.6,
+   "ate": 19.93,
+   "linhas": [
+    "DOE 2 ou 5 reais",
+    "e AJUDE O PEDRINHO 💗"
+   ],
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 50,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 19.93
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz, sem chiado).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "peb223_l2_conselho",
+  "exemplo": "PEB 223",
+  "descricao": "1658330079039610: gancho com a Biblia (IA, no lugar do homem falando no carro) e o versiculo em amarelo; depois caixa rosa \"DOE ... e AJUDE\" no alto e legenda pequena; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "titulo": "Presta atenção neste conselho",
+  "variacao": "pedrinho_conselho_necessidade"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\p_biblia_banco_igreja.mp4",
+   "ini": 0,
+   "fim": 4.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_estendido.mp4",
+   "ini": 0,
+   "fim": 3.038,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_faixa.mp4",
+   "ini": 0,
+   "fim": 3.038,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 2.0,
+   "fim": 5.038,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 6.0,
+   "fim": 9.038,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas.mp4",
+   "ini": 0,
+   "fim": 3.038,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_bracos_close.mp4",
+   "ini": 0,
+   "fim": 3.04,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_conselho_necessidade_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_pedrinho_conselho_necessidade_sr.json",
+  "de": 0.2
+ },
+ "fatos": {
+  "curativos acabando, caixa R$1.500": "placas 20261102_151715 e 152739",
+  "tratamento da semana, dois ou cinco reais": "20261102_144645 19,1-28,6"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 67\\PEB 246 - BIB CONSELHO NECESSIDADE.mp4",
+ "saida_fixa": true
+}

@@ -1,0 +1,329 @@
+{
+ "nome": "Adrielly_narrado_governo_negou_v1",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/echoes_of_lumen-sad-piano-591198.mp3",
+ "music_start": 1.2,
+ "red": [
+  "CURATIVOS",
+  "CURATIVO",
+  "NEGOU",
+  "NEGAM",
+  "LESÕES",
+  "NÃO",
+  "PRECISO?",
+  "10"
+ ],
+ "caption_fix": {
+  "DEZ": "10"
+ },
+ "hook": {
+  "t1": 4.6,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "NEGADO *DE NOVO*",
+    "fs": 140
+   },
+   {
+    "text": "OS CURATIVOS DA ADRIELLY",
+    "fs": 70
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/02efd083-71d2-48d0-872d-46df9b891925_pb.jpg",
+     "until": 2.3
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_9229_pb.jpg"
+    }
+   ],
+   "txt": "Em julho, o governo negou mais uma vez os curativos da Adrielly."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3868.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3868.json",
+   "cuts": [
+    [
+     0.36,
+     1.86
+    ],
+    [
+     3.68,
+     8.2
+    ],
+    [
+     9.48,
+     10.46
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      820
+     ]
+    }
+   ],
+   "txt": "Em julho de 2026, o governo novamente negou os meus curativos, que é por direito meu."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/9f6780ad-a7a6-4d5b-89c1-a97ff2d3dac1.jpg",
+     "until": 2.41
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/2d771ce0-5da8-41cc-bf00-830bc9a3388c.jpg",
+     "until": 4.64
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/IMG_9230_pb.jpg"
+    }
+   ],
+   "txt": "95% do corpo dela coberto por lesões, por causa da pele de borboleta."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3852.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3852.json",
+   "cuts": [
+    [
+     9.5,
+     12.14
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.12,
+     "center": [
+      540,
+      800
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Será que eles acham que eu não preciso?"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "95%",
+    "DO CORPO COM LESÕES"
+   ],
+   "dur": 1.4
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo foam lite convatex 5.5x12cm.jpeg",
+     "until": 1.01
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo mepilex border flex 10x10cm.jpeg",
+     "until": 1.9
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo allevyn life 10x10cm.jpeg",
+     "until": 2.79
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png"
+    }
+   ],
+   "txt": "O material certo protege as feridas. Sem ele, tudo piora."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3874.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3874.json",
+   "cuts": [
+    [
+     10.3,
+     15.26
+    ],
+    [
+     17.08,
+     21.56
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      820
+     ]
+    }
+   ],
+   "txt": "Com tudo isso, o meu emocional está totalmente abalado, fazendo que as minhas lesões piorasse ainda mais."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3855.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3855.json",
+   "cuts": [
+    [
+     0.48,
+     4.66
+    ],
+    [
+     6.04,
+     8.18
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.12,
+     "center": [
+      540,
+      800
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Mas essa não é a primeira vez que eles negam o curativo, mas eu vou continuar lutando"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (2).mp4",
+     "start": 5.0,
+     "until": 1.6
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/80d80d55-6517-4a11-8546-5e6c9fbc1c0b (1).jpg"
+    }
+   ],
+   "txt": "Negaram o direito dela. Mas não tiraram a força."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3877.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3877.json",
+   "cuts": [
+    [
+     0.42,
+     1.12
+    ],
+    [
+     2.32,
+     7.92
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      820
+     ]
+    }
+   ],
+   "txt": "Eu não vou desistir, mas até lá eu preciso da ajuda de vocês pra continuar o meu tratamento"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     "start": 16.0,
+     "until": 3.5
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos urgo verde.jpeg"
+    }
+   ],
+   "txt": "Enquanto o governo diz não, a SOS Human Help busca os curativos dela. E cada doação de 10 reais conta.",
+   "fix": {
+    "dez": "10"
+   }
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3682.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3682.json",
+   "cuts": [
+    [
+     7.22,
+     11.94
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.12,
+     "center": [
+      540,
+      800
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Com R$ 10 mensais, você pode salvar a minha vida"
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/wmremove-transformed.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "O GOVERNO DISSE *NÃO*",
+    "VOCÊ PODE DIZER SIM"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "governo negou em julho de 2026": "Adrielly, IMG_3868 (0.36-10.76)",
+  "nao e a primeira vez": "Adrielly, IMG_3855",
+  "28 anos": "Adrielly, IMG_4507 / IMG_5475",
+  "95% do corpo com lesoes": "Adrielly, IMG_3868 (11.5-22.8) e IMG_3722",
+  "curativos especiais que nao grudam, caros": "Adrielly, IMG_5676",
+  "acabam em ~30 dias": "Adrielly, IMG_5696",
+  "R$ 10 mensais": "Adrielly, IMG_3682"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 41\\AEB 36 - NARRADO DE IMPACTO.mp4"
+}

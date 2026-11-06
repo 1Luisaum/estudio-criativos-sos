@@ -1,0 +1,275 @@
+{
+ "nome": "Pedrinho_cortes_luta_continua_v1",
+ "pedido": "Completar as LEVAs 27/10/2026 - Frente 1",
+ "estilo": "Cortes com gancho (edicao-criativo-ong)",
+ "angulo": "a ajuda aparece quando veem os momentos mais dificeis, mas a luta dele e continua: 24 horas, todos os meses; ajude porque ele precisa, nao porque viu ele sofrendo",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\Roteiro 2.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  540,
+  600
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.15,
+   "center": [
+    540,
+    1085
+   ]
+  },
+  "Z2": {
+   "z": 1.3,
+   "center": [
+    330,
+    1181
+   ]
+  },
+  "Z3": {
+   "z": 1.3,
+   "center": [
+    700,
+    1181
+   ]
+  },
+  "ZF": {
+   "z": 1.35,
+   "center": [
+    300,
+    1209
+   ]
+  },
+  "ZM": {
+   "z": 1.35,
+   "center": [
+    760,
+    1209
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 15.05,
+   "out": 17.68,
+   "zoom": "Z1",
+   "txt": "Muita gente que segue meu filho aqui nas rede social,",
+   "fix": {
+    "REDE": "REDES",
+    "SOCIAL": "SOCIAIS"
+   }
+  },
+  {
+   "in": 22.41,
+   "out": 23.18,
+   "zoom": "Z3",
+   "txt": "ajudou mais"
+  },
+  {
+   "in": 25.25,
+   "out": 26.04,
+   "zoom": "ZM",
+   "txt": "quando vê"
+  },
+  {
+   "in": 26.73,
+   "out": 28.22,
+   "zoom": "Z1",
+   "txt": "os momentos mais difícil.",
+   "fix": {
+    "DIFÍCIL": "DIFÍCEIS"
+   }
+  },
+  {
+   "in": 28.71,
+   "out": 30.54,
+   "zoom": "Z2",
+   "txt": "e a gente percebe isso, né, mãe?"
+  },
+  {
+   "in": 31.17,
+   "out": 32.08,
+   "zoom": "Z3",
+   "txt": "eu como mãe,"
+  },
+  {
+   "in": 33.03,
+   "out": 34.12,
+   "zoom": "ZM",
+   "txt": "eu percebo isso."
+  },
+  {
+   "in": 67.05,
+   "out": 69.98,
+   "txt": "E para manter os cuidado do meu filho, do Pedrinho,",
+   "broll": [
+    {
+     "src": "Cubitan -Suplementos e Dieta Terapêutica.png"
+    },
+    {
+     "src": "esparadrapo impermeável.png"
+    },
+    {
+     "src": "GAZE.png"
+    },
+    {
+     "src": "Pomada.png"
+    },
+    {
+     "src": "soro fisiológico.png"
+    },
+    {
+     "src": "crepe bandagem.png"
+    }
+   ],
+   "fix": {
+    "CUIDADO": "CUIDADOS"
+   }
+  },
+  {
+   "in": 70.55,
+   "out": 71.74,
+   "zoom": "Z1",
+   "txt": "passa dos quarenta mil,"
+  },
+  {
+   "in": 73.57,
+   "out": 74.8,
+   "zoom": "Z3",
+   "txt": "é uma luta contínuo,",
+   "fix": {
+    "CONTÍNUO": "CONTÍNUA"
+   }
+  },
+  {
+   "in": 75.59,
+   "out": 78.56,
+   "txt": "todo dia, vinte e quatro horas, todos os meses,",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 141.0
+    }
+   ]
+  },
+  {
+   "in": 80.87,
+   "out": 81.48,
+   "zoom": "ZF",
+   "txt": "é uma vida,"
+  },
+  {
+   "in": 83.01,
+   "out": 84.7,
+   "txt": "O Pedro luta pela vida.",
+   "broll": [
+    {
+     "src": "20241107_202353.jpg"
+    }
+   ]
+  },
+  {
+   "in": 105.89,
+   "out": 107.8,
+   "zoom": "Z3",
+   "txt": "Se você puder ajudar,"
+  },
+  {
+   "in": 108.43,
+   "out": 109.54,
+   "zoom": "Z1",
+   "txt": "ajude o meu filho,"
+  },
+  {
+   "in": 111.87,
+   "out": 113.3,
+   "zoom": "ZM",
+   "txt": "porque ele precisa."
+  },
+  {
+   "in": 119.41,
+   "out": 121.9,
+   "zoom": "Z3",
+   "txt": "Não porque você precisou vê-lo sofrendo."
+  },
+  {
+   "in": 129.49,
+   "out": 130.9,
+   "zoom": "Z1",
+   "txt": "Desde já, gratidão."
+  }
+ ],
+ "fix": {
+  "QUARENTA": "40"
+ },
+ "red": [
+  "CUIDADOS",
+  "40",
+  "MIL",
+  "LUTA",
+  "VINTE",
+  "QUATRO",
+  "HORAS",
+  "VIDA",
+  "SOFRENDO",
+  "AJUDE",
+  "PRECISA"
+ ],
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "NÃO PRECISA VER",
+    "ELE SOFRENDO"
+   ],
+   "fs": 92
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "A LUTA DO PEDRINHO",
+    "É DE *24 HORAS*",
+    "TODOS OS MESES"
+   ],
+   "fs": 92
+  }
+ ],
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 6.0,
+  "dur": 3.4,
+  "lines": [
+   "AJUDE PORQUE",
+   "ELE PRECISA"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$5",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "fatos": {
+  "quem segue ajudou mais quando ve os momentos mais dificeis": "Mae e Pedrinho, banco Roteiro 2.mp4, 15-34 s",
+  "para manter os cuidados passa dos quarenta mil; luta continua; todo dia, 24 horas, todos os meses; o Pedro luta pela vida": "mesmo bruto, 67-85 s",
+  "ajude porque ele precisa, nao porque precisou ve-lo sofrendo (gancho 1 e tela final)": "mesmo bruto, 105-122 s",
+  "R$5 (faixa)": "sem valor de doacao dito no bruto: R$5, que e o que a mae diz (regra da skill)",
+  "cortado": "'tanto no Instagram como na pagina'; 'por tras da internet existe meu filho' (ja usado); 'sem expor' (ja usado); 'doe agora' (125.7 s)"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 28\\PEB 143 - CORTES COM GANCHO.mp4"
+}

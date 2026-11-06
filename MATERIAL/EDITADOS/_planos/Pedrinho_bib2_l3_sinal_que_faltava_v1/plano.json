@@ -1,0 +1,85 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\florisbela_1445110604492533.mp4",
+ "estilo": "BIB L3 SINAL QUE FALTAVA",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151715.mp4",
+   "ini": 1,
+   "fim": 7,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 0,
+   "fim": 6,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 2,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 4,
+   "fim": 10,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21.5,
+   "linhas": [
+    "Talvez este seja o sinal",
+    "que faltava:"
+   ],
+   "estilo": "seco",
+   "fg": "vermelho",
+   "cor_contorno": "branco",
+   "size": 60,
+   "y": 300,
+   "contorno": 3,
+   "lh": 1.05
+  },
+  {
+   "de": 0,
+   "ate": 21.5,
+   "linhas": [
+    "doe R$ 5,00 e ajude o",
+    "Pedrinho! 🙏❤️"
+   ],
+   "estilo": "caixa",
+   "bg": [
+    0,
+    0,
+    0,
+    150
+   ],
+   "fg": "branco",
+   "size": 44,
+   "y": 1400,
+   "pad": [
+    14,
+    4
+   ],
+   "raio": 8,
+   "lh": 1.1
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 21.5
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Florisbela 1445 - o sinal que faltava.mp3",
+ "musica_volume": 1.0,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 58\\PEB 218 - BIB L3 SINAL QUE FALTAVA.mp4"
+}

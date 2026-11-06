@@ -1,0 +1,192 @@
+{
+ "nome": "Pedrinho_unicef_soro_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "UNICEF (criativo-unicef-ong)",
+ "angulo": "parece um simples soro, mas e o que a mae usa no banho dele; sem soro o banho e com agua, que arde; R$10 parece pouco, mas e esperanca de um dia sem dor",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "face": [
+  810,
+  1070
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.5,
+   "face": [
+    810,
+    1070
+   ]
+  },
+  "Z2": {
+   "z": 1.7,
+   "face": [
+    810,
+    1070
+   ]
+  },
+  "Z3": {
+   "z": 1.9,
+   "face": [
+    810,
+    1070
+   ]
+  },
+  "ZF": {
+   "z": 2.15,
+   "face": [
+    810,
+    1070
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 21.43,
+   "out": 23.86,
+   "zoom": "Z1",
+   "txt": "cada item de curativo é importante"
+  },
+  {
+   "in": 23.86,
+   "out": 26.26,
+   "zoom": "Z2",
+   "txt": "em uma troca com os outros cuidados."
+  },
+  {
+   "in": 27.85,
+   "out": 28.92,
+   "zoom": "Z3",
+   "txt": "em um curativo,"
+  },
+  {
+   "in": 30.27,
+   "out": 31.1,
+   "zoom": "ZF",
+   "txt": "se não ter"
+  },
+  {
+   "in": 31.69,
+   "out": 34.4,
+   "zoom": "Z1",
+   "txt": "um sequer um soro fisiológico,"
+  },
+  {
+   "in": 35.51,
+   "out": 39.12,
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 136.0
+    }
+   ],
+   "txt": "minha mãe vai ter que usar água pra me dar banho,"
+  },
+  {
+   "in": 40.05,
+   "out": 42.06,
+   "zoom": "Z2",
+   "txt": "E a água, se ela bater na pele,"
+  },
+  {
+   "in": 42.33,
+   "out": 45.52,
+   "zoom": "ZF",
+   "txt": "ela arde e arde muito que vocês não têm noção,"
+  },
+  {
+   "in": 60.93,
+   "out": 61.7,
+   "zoom": "Z1",
+   "txt": "pra você,"
+  },
+  {
+   "in": 62.97,
+   "out": 63.56,
+   "zoom": "Z3",
+   "txt": "quatro,"
+  },
+  {
+   "in": 64.07,
+   "out": 65.98,
+   "broll": [
+    {
+     "src": "20260825_134340.jpg"
+    },
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134438.jpg"
+    }
+   ],
+   "txt": "cinco reais, dez reais,"
+  },
+  {
+   "in": 66.33,
+   "out": 67.28,
+   "zoom": "Z2",
+   "txt": "parece pouco,"
+  },
+  {
+   "in": 67.69,
+   "out": 68.9,
+   "zoom": "Z3",
+   "txt": "mas pra gente"
+  },
+  {
+   "in": 69.27,
+   "out": 71.0,
+   "zoom": "ZF",
+   "txt": "e pra mim, principalmente,"
+  },
+  {
+   "in": 71.53,
+   "out": 74.52,
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 10.0
+    }
+   ],
+   "txt": "é uma nova esperança de um dia sem dor."
+  }
+ ],
+ "fix": {
+  "QUATRO": "4",
+  "CINCO": "5",
+  "DEZ": "10"
+ },
+ "red": [
+  "CURATIVO",
+  "SORO",
+  "ÁGUA",
+  "ARDE",
+  "10",
+  "DIA",
+  "DOR"
+ ],
+ "badge": null,
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_53_00.png",
+  "texto_do_lettering": "R$ 10,00 PODEM MUDAR O DIA DO PEDRINHO"
+ },
+ "endcard": {
+  "src": "20260824_182501.mp4",
+  "start": 100.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [],
+ "caption_y": 950,
+ "music_start": 10.75,
+ "fatos": {
+  "sem soro fisiologico a mae usa agua no banho; a agua arde (N1, N2)": "Pedrinho, Roteiro_ peco perdao.mp4, 30.3-45.5 s",
+  "cada item de curativo e importante em uma troca": "Pedrinho, Roteiro_ peco perdao.mp4, 21.5-26.2 s",
+  "quatro, cinco reais, dez reais parece pouco, mas e esperanca de um dia sem dor": "Pedrinho, Roteiro_ peco perdao.mp4, 61.0-74.5 s",
+  "R$10 'mudar o dia' (lettering)": "Pedrinho, Roteiro_ peco perdao.mp4, 65.3 s ('dez reais') + 'um dia sem dor' 73.2 s",
+  "cortado": "1a frase da mae (0.5-5.7 s), evita que isso aconteca (46.8-50.6 s) e o desde ja gratidao final (75.1-76.6 s, abafado)"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "text": "Mas para o Pedrinho, que tem epidermólise bolhosa, é o que protege a pele.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "para",
+   "start": 0.29,
+   "end": 0.395
+  },
+  {
+   "text": "o",
+   "start": 0.418,
+   "end": 0.468
+  },
+  {
+   "text": "Pedrinho,",
+   "start": 0.488,
+   "end": 1.01
+  },
+  {
+   "text": "que",
+   "start": 1.045,
+   "end": 1.126
+  },
+  {
+   "text": "tem",
+   "start": 1.207,
+   "end": 1.474
+  },
+  {
+   "text": "epidermólise",
+   "start": 1.556,
+   "end": 2.299
+  },
+  {
+   "text": "bolhosa,",
+   "start": 2.345,
+   "end": 3.0
+  },
+  {
+   "text": "é",
+   "start": 3.019,
+   "end": 3.077
+  },
+  {
+   "text": "o",
+   "start": 3.147,
+   "end": 3.197
+  },
+  {
+   "text": "que",
+   "start": 3.205,
+   "end": 3.286
+  },
+  {
+   "text": "protege",
+   "start": 3.321,
+   "end": 3.692
+  },
+  {
+   "text": "a",
+   "start": 3.716,
+   "end": 3.766
+  },
+  {
+   "text": "pele.",
+   "start": 3.808,
+   "end": 4.14
+  }
+ ]
+}

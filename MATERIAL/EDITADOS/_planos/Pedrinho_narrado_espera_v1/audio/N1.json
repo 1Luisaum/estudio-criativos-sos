@@ -1,0 +1,60 @@
+{
+ "text": "A família do Pedrinho entrou na Justiça. Mas o processo demora.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "família",
+   "start": 0.163,
+   "end": 0.453
+  },
+  {
+   "text": "do",
+   "start": 0.488,
+   "end": 0.557
+  },
+  {
+   "text": "Pedrinho",
+   "start": 0.604,
+   "end": 1.022
+  },
+  {
+   "text": "entrou",
+   "start": 1.068,
+   "end": 1.277
+  },
+  {
+   "text": "na",
+   "start": 1.312,
+   "end": 1.37
+  },
+  {
+   "text": "Justiça.",
+   "start": 1.416,
+   "end": 2.055
+  },
+  {
+   "text": "Mas",
+   "start": 2.493,
+   "end": 2.662
+  },
+  {
+   "text": "o",
+   "start": 2.732,
+   "end": 2.782
+  },
+  {
+   "text": "processo",
+   "start": 2.801,
+   "end": 3.219
+  },
+  {
+   "text": "demora.",
+   "start": 3.243,
+   "end": 3.758
+  }
+ ]
+}

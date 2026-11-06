@@ -1,0 +1,112 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_2109425177114400.mp4",
+ "estilo": "BIB OBRIGADO DOIS REAIS",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21.5,
+   "linhas": [
+    "Seus 2 reais viram curativo",
+    "na pele do Pedrinho.",
+    "Cada um ajuda muito.",
+    "OBRIGADO DE CORAÇÃO 🙏"
+   ],
+   "estilo": "seco",
+   "size": 50,
+   "y": 1345,
+   "contorno": 4,
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1000
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.3,
+  "de": 23.1
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\magnific_tristes\\You_Cant_Come_Back.mp3",
+ "musica_volume": 0.881,
+ "modelo": {
+  "id": "peb209_maos_amigas_obrigado",
+  "exemplo": "PEB 209",
+  "descricao": "3. Lar Maos Amigas 2109425177114400: agradecimento em letra branca grossa com contorno (y 70%), so musica, takes longos; abre com os takes mais fortes (pedido do usuario: pernas enfaixadas em P&B, placa \"meus curativos estao acabando\") e fecha com ele agradecendo com a propria voz.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2109425177114400",
+  "titulo": "Obrigado de coração",
+  "variacao": "pedrinho_obrigado_dois_reais"
+ },
+ "musica_depois": [
+  21.5,
+  0.157
+ ],
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_peito_bracos.mp4",
+   "ini": 0,
+   "fim": 2.744,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_close.mp4",
+   "ini": 0,
+   "fim": 2.744,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\_clipes_bib\\bn1_curativos_cama_20s.mp4",
+   "ini": 2.0,
+   "fim": 4.744,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152542.mp4",
+   "ini": 3.0,
+   "fim": 5.744,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_faixa.mp4",
+   "ini": 0,
+   "fim": 2.744,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas_inteiras.mp4",
+   "ini": 0,
+   "fim": 2.744,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 12.0,
+   "fim": 14.744,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_bracos_curativo.mp4",
+   "ini": 0,
+   "fim": 2.742,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 40.95,
+   "fim": 43.05,
+   "som": true
+  }
+ ],
+ "fatos": {
+  "R$2": "placa 20261102_151635/152631",
+  "muito obrigado": "20261102_144645 41,0-42,9"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 68\\PEB 254 - BIB OBRIGADO DOIS REAIS.mp4",
+ "saida_fixa": true
+}

@@ -1,0 +1,45 @@
+{
+ "text": "Por isso, desta vez, a mãe fez diferente.",
+ "words": [
+  {
+   "text": "Por",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "isso,",
+   "start": 0.267,
+   "end": 0.453
+  },
+  {
+   "text": "desta",
+   "start": 0.476,
+   "end": 0.743
+  },
+  {
+   "text": "vez,",
+   "start": 0.801,
+   "end": 1.138
+  },
+  {
+   "text": "a",
+   "start": 1.184,
+   "end": 1.242
+  },
+  {
+   "text": "mãe",
+   "start": 1.312,
+   "end": 1.486
+  },
+  {
+   "text": "fez",
+   "start": 1.521,
+   "end": 1.707
+  },
+  {
+   "text": "diferente.",
+   "start": 1.73,
+   "end": 2.74
+  }
+ ]
+}

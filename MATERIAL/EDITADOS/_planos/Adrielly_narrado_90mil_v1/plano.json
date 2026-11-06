@@ -1,0 +1,322 @@
+{
+ "nome": "Adrielly_narrado_90mil_v1",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "music_start": 1.2,
+ "red": [
+  "90",
+  "MIL",
+  "R$",
+  "CURATIVOS",
+  "CURATIVO",
+  "CAROS",
+  "SANGUE",
+  "PELE",
+  "10"
+ ],
+ "caption_fix": {
+  "DEZ": "10"
+ },
+ "hook": {
+  "t1": 4.6,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*R$ 90 MIL*",
+    "fs": 150
+   },
+   {
+    "text": "SÓ EM CURATIVOS",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/2dfd44e5-8e91-4078-a5a9-c9b01ac7a195_pb.jpg",
+     "until": 2.0
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/a9f100dc-1cba-43b9-8335-45511950b6a5_pb.jpg"
+    }
+   ],
+   "txt": "90 mil reais. É quanto custam os curativos que a pele da Adrielly precisa.",
+   "fix": {
+    "Noventa": "90"
+   }
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_6231.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_6231.json",
+   "cuts": [
+    [
+     0.44,
+     3.46
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      820
+     ]
+    }
+   ],
+   "txt": "Meus curativos custam R$ 90.000."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/46460390-2073-4395-b689-45b504866d54_pb.jpg",
+     "until": 2.4
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativo urgotul 10x10cm.jpeg",
+     "until": 3.4
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativos Mepilex Transfer20x50cm.jpeg",
+     "until": 4.3
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo allevyn life 10x10cm.jpeg"
+    }
+   ],
+   "txt": "Urgotul. Mepilex. Allevyn. Material que não cola na ferida e não arranca a pele na troca."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/IMG_5676.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__IMG_5676.json",
+   "cuts": [
+    [
+     32.12,
+     34.96
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.12,
+     "center": [
+      540,
+      800
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "e são curativos extremamente caros."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_5210.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_5210.json",
+   "cuts": [
+    [
+     0.3,
+     4.62
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.6,
+     "center": [
+      540,
+      1320
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      540,
+      1320
+     ]
+    }
+   ],
+   "txt": "Esse material não é algo que eu compro uma vez e pronto"
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/IMG_5211.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__IMG_5211.json",
+   "cuts": [
+    [
+     0.3,
+     2.88
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.6,
+     "center": [
+      540,
+      1320
+     ]
+    },
+    {
+     "z": 1.7,
+     "center": [
+      540,
+      1320
+     ]
+    }
+   ],
+   "txt": "Eu uso, acaba e preciso de outro"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "R$ 90 MIL",
+    "PRA PROTEGER A PELE"
+   ],
+   "dur": 1.4,
+   "fs": 200
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/1232e7c8-db60-40af-9264-50c369a56df9_pb.jpg",
+     "until": 1.8
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/_tratadas/WhatsApp Video 2026-07-07 at 19.31.21_pb.mp4",
+     "start": 45.0
+    }
+   ],
+   "txt": "Quando faltou, ela teve que reaproveitar curativo usado."
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Setembro/LEVA 17.09/IMG_4702.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Setembro__LEVA_17.09__IMG_4702.json",
+   "cuts": [
+    [
+     0.92,
+     6.06
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.15,
+     "center": [
+      540,
+      820
+     ]
+    }
+   ],
+   "txt": "Porque gruda e arranca a pele e eu perco ainda mais sangue"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Rot 2 (2).mp4",
+     "start": 2.0,
+     "until": 2.4
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png"
+    }
+   ],
+   "txt": "Ninguém junta 90 mil reais sozinho. Mas muita gente junta, consegue.",
+   "fix": {
+    "noventa": "90"
+   }
+  },
+  {
+   "type": "real",
+   "tag": "ADRIELLY",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BRUTOS DA ADRIELY/SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY/Agosto/IMG_3651.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/adrielly/SOS_HUMAN_HELP_-_GRAVAÇÕES__ADRIELLY__Agosto__IMG_3651.json",
+   "cuts": [
+    [
+     8.4,
+     10.54
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.12,
+     "center": [
+      540,
+      800
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Me ajuda a conseguir os meus curativos?"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     "start": 2.0,
+     "until": 2.8
+    },
+    {
+     "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (9).mp4",
+     "start": 5.0
+    }
+   ],
+   "txt": "Cada 10 reais vira um pedaço desse curativo. Toque em Saiba mais e ajude a SOS Human Help a chegar lá.",
+   "fix": {
+    "dez": "10"
+   }
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/curativos juntos.png",
+    "look": "cor"
+   },
+   "lines": [
+    "SEUS *R$ 10*",
+    "ENTRAM NESSA CONTA"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "fatos": {
+  "curativos custam R$ 90.000": "Adrielly, IMG_6231 (e IMG_6227); orcamento Max Medical R$ 91.569,80",
+  "curativos especiais que nao grudam (Urgotul, Mepilex, Allevyn)": "Adrielly, IMG_5676 + fotos dos produtos no banco",
+  "extremamente caros": "Adrielly, IMG_5676",
+  "compra uma vez e acaba": "Adrielly, IMG_5210/IMG_5211",
+  "ja reutilizou curativos": "Adrielly, IMG_4696 e IMG_4702",
+  "R$ 10": "Adrielly, IMG_3676 / IMG_3682"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 44\\AEB 52 - NARRADO DE IMPACTO.mp4"
+}

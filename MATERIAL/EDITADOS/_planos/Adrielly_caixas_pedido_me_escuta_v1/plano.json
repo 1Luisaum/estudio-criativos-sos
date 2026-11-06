@@ -1,0 +1,187 @@
+{
+ "nome": "Adrielly_caixas_pedido_me_escuta_v1",
+ "skill": "criativo-caixas-pedido-ong",
+ "gancho": "IMG_6446: gente, me escuta, com o terço",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/cortes/salmo_121.mp3",
+ "musica_volume": 0.096,
+ "fatos": {
+  "EB": "ADRIELLY.md (laudo) / IMG_6436",
+  "R$5": "IMG_6418 / IMG_6420",
+  "falas": "brutos novos IMG_6417-6454, 30/10/2026"
+ },
+ "modelo": "criativo-caixas-pedido-ong, estrutura do AEB 35 (Adrielly_caixas_pedido_tratamento_caro_v1)",
+ "frases": [
+  {
+   "nome": "h1",
+   "cortes": [
+    [
+     2.84,
+     5.48
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6446.MOV",
+     2.78
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "O MEU PRÓPRIO CORPO",
+    "QUER ME DESTRUIR"
+   ],
+   "texto_verde_y": 1310,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6446.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_me_escuta_v1/tx/IMG_6446.json"
+  },
+  {
+   "nome": "h2",
+   "cortes": [
+    [
+     6.7,
+     7.7
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6446.MOV",
+     6.64
+    ]
+   ],
+   "sem_caixas": true,
+   "texto_verde": [
+    "O MEU PRÓPRIO CORPO",
+    "QUER ME DESTRUIR"
+   ],
+   "texto_verde_y": 1310,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6446.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_me_escuta_v1/tx/IMG_6446.json"
+  },
+  {
+   "nome": "c1",
+   "cortes": [
+    [
+     0.44,
+     2.34
+    ],
+    [
+     3.58,
+     4.14
+    ],
+    [
+     5.54,
+     7.84
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (6).mp4",
+     5.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     4.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+     14.0
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6436.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_me_escuta_v1/tx/IMG_6436.json"
+  },
+  {
+   "nome": "c2a",
+   "cortes": [
+    [
+     0.2,
+     2.44
+    ],
+    [
+     3.62,
+     5.52
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+     21.7
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36.mp4",
+     16.0
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6452.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_me_escuta_v1/tx/IMG_6452.json"
+  },
+  {
+   "nome": "c2b",
+   "cortes": [
+    [
+     6.34,
+     6.52
+    ],
+    [
+     7.92,
+     9.56
+    ]
+   ],
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6452.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_me_escuta_v1/tx/IMG_6452.json",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Curativo Urgutul silver 15x15.jpeg"
+  },
+  {
+   "nome": "c3",
+   "cortes": [
+    [
+     0.32,
+     5.58
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6426.MOV",
+     0.26
+    ]
+   ],
+   "sem_topo": true,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6426.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_me_escuta_v1/tx/IMG_6426.json"
+  },
+  {
+   "nome": "c4",
+   "cortes": [
+    [
+     0.3,
+     1.98
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/Tela 3m adaptic 7.6x7.6cm.jpeg",
+   "final": true,
+   "texto_verde": [
+    "CLIQUE EM SAIBA MAIS",
+    "E AJUDE A ADRIELLY"
+   ],
+   "texto_verde_y": 1660,
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/TODAS AS PASTAS/adriely/IMG_6454.MOV",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/Adrielly_caixas_pedido_me_escuta_v1/tx/IMG_6454.json"
+  }
+ ],
+ "visual_ref": {
+  "topo": [
+   "ADRIELLY TEM EPIDERMÓLISE BOLHOSA E PRECISA DE",
+   "CURATIVOS PARA A PELE QUE ARDE E DÓI"
+  ],
+  "topo_y": 240,
+  "valor": "R$5,00",
+  "valor_linhas": [
+   "DEIXAM A ADRIELLY MAIS PERTO DE COMPRAR",
+   "OS CURATIVOS DESTA SEMANA"
+  ],
+  "valor_y": 1300
+ },
+ "sem_legenda": true,
+ "final_extra": 2.2,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 50\\AEB 85 - CAIXAS PEDIDO DE TEMPO.mp4"
+}

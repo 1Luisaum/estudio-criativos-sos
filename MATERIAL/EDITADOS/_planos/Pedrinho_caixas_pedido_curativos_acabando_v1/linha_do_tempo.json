@@ -1,0 +1,30 @@
+{
+ "total": 19.709999999999997,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 5.609999999999999,
+   "texto": "Você pode ficar pelo menos 30 segundos nesse vídeo?"
+  },
+  {
+   "nome": "c1",
+   "d": 3.349999999999999,
+   "texto": "Eu deito pra dormir e meu corpo todo dói."
+  },
+  {
+   "nome": "c2",
+   "d": 5.930000000000002,
+   "texto": "Cinco reais pode parecer pouco pra você, mas pra mim é sempre mais um dia sem dor"
+  },
+  {
+   "nome": "c3",
+   "d": 1.6099999999999999,
+   "texto": "E dói muito mesmo."
+  },
+  {
+   "nome": "c4",
+   "d": 3.209999999999998,
+   "texto": "dois ou cinco reais."
+  }
+ ]
+}

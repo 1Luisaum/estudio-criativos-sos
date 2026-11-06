@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Quando a Adrielly nasceu, os médicos não davam esperança.",
+  "N2": "Ninguém encontrou uma cura. A pele arde e machuca até com a água do banho.",
+  "N3": "Ela cresceu entre curativos de três horas, banhos que ardem e noites sem dormir.",
+  "N4": "Disseram um mês. Já se passaram vinte e oito anos.",
+  "N5": "Para seguir viva, ela precisa de curativo novo todo mês. Dez reais seus, pela SOS Human Help, mantêm esse milagre de pé."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

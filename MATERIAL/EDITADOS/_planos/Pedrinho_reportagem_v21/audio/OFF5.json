@@ -1,0 +1,95 @@
+{
+ "text": "A campanha da SOS Human Help olha para a próxima troca. Dez reais ajudam essa mãe a continuar.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "campanha",
+   "start": 0.163,
+   "end": 0.604
+  },
+  {
+   "text": "da",
+   "start": 0.65,
+   "end": 0.789
+  },
+  {
+   "text": "SOS",
+   "start": 0.882,
+   "end": 2.009
+  },
+  {
+   "text": "Human",
+   "start": 2.09,
+   "end": 2.426
+  },
+  {
+   "text": "Help",
+   "start": 2.496,
+   "end": 2.786
+  },
+  {
+   "text": "olha",
+   "start": 2.826,
+   "end": 3.104
+  },
+  {
+   "text": "para",
+   "start": 3.151,
+   "end": 3.348
+  },
+  {
+   "text": "a",
+   "start": 3.371,
+   "end": 3.421
+  },
+  {
+   "text": "próxima",
+   "start": 3.476,
+   "end": 3.963
+  },
+  {
+   "text": "troca.",
+   "start": 4.01,
+   "end": 4.459
+  },
+  {
+   "text": "Dez",
+   "start": 4.496,
+   "end": 4.763
+  },
+  {
+   "text": "reais",
+   "start": 4.844,
+   "end": 5.146
+  },
+  {
+   "text": "ajudam",
+   "start": 5.227,
+   "end": 5.668
+  },
+  {
+   "text": "essa",
+   "start": 5.738,
+   "end": 5.924
+  },
+  {
+   "text": "mãe",
+   "start": 5.993,
+   "end": 6.202
+  },
+  {
+   "text": "a",
+   "start": 6.225,
+   "end": 6.275
+  },
+  {
+   "text": "continuar.",
+   "start": 6.295,
+   "end": 6.911
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "text": "Com dez reais, pela SOS Human Help, você responde a essa pergunta.",
+ "words": [
+  {
+   "text": "Com",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "dez",
+   "start": 0.255,
+   "end": 0.441
+  },
+  {
+   "text": "reais,",
+   "start": 0.488,
+   "end": 0.871
+  },
+  {
+   "text": "pela",
+   "start": 0.906,
+   "end": 1.242
+  },
+  {
+   "text": "SOS",
+   "start": 1.262,
+   "end": 2.323
+  },
+  {
+   "text": "Human",
+   "start": 2.393,
+   "end": 2.683
+  },
+  {
+   "text": "Help,",
+   "start": 2.741,
+   "end": 3.068
+  },
+  {
+   "text": "você",
+   "start": 3.146,
+   "end": 3.368
+  },
+  {
+   "text": "responde",
+   "start": 3.426,
+   "end": 3.879
+  },
+  {
+   "text": "a",
+   "start": 3.914,
+   "end": 3.964
+  },
+  {
+   "text": "essa",
+   "start": 3.995,
+   "end": 4.181
+  },
+  {
+   "text": "pergunta.",
+   "start": 4.227,
+   "end": 4.746
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "total": 47.044829000000014,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 5.474943,
+   "texto": "Ela faz todos os curativos do filho. Mesmo assim, ouviu que é culpada pela doença dele."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 6.299999999999999,
+   "texto": "nenhuma mãe deveria ouvir isso: \"Você é culpada pelo que o seu filho passa\"."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 6.622993,
+   "texto": "O Pedrinho tem epidermólise bolhosa, uma doença genética. A pele forma feridas com facilidade."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 3.380000000000007,
+   "texto": "o que eu faço com mil e quinhentos? Não consigo fazer nada."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.831995,
+   "texto": "Com esse valor, ela precisa dar conta de gaze, atadura, pomada e soro."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 5.100000000000006,
+   "texto": "a gente não tem como comprar nem, uns dois, três pacotes de atadura"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 6.384104,
+   "texto": "A SOS Human Help está arrecadando doações para essa família. Dez reais já ajudam."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 4.640000000000005,
+   "texto": "você não tem obrigação, mas ajude a salvar o meu filho."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 4.310794,
+   "texto": "Toque em Saiba mais e caminhe junto com essa mãe."
+  }
+ ]
+}

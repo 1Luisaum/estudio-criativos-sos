@@ -1,0 +1,128 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Qualquer valor ajuda e faz diferença. Obrigada de coração",
+ "words": [
+  {
+   "text": "Qualquer",
+   "start": 0.44,
+   "end": 0.92,
+   "type": "word",
+   "logprob": -0.0007584514924019459
+  },
+  {
+   "text": " ",
+   "start": 0.92,
+   "end": 0.98,
+   "type": "spacing",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": "valor",
+   "start": 0.98,
+   "end": 1.56,
+   "type": "word",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": " ",
+   "start": 1.56,
+   "end": 1.86,
+   "type": "spacing",
+   "logprob": -0.00035958975786343217
+  },
+  {
+   "text": "ajuda",
+   "start": 1.94,
+   "end": 2.54,
+   "type": "word",
+   "logprob": -0.00035958975786343217
+  },
+  {
+   "text": " ",
+   "start": 2.54,
+   "end": 2.96,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "e",
+   "start": 2.96,
+   "end": 3.02,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 3.02,
+   "end": 3.18,
+   "type": "spacing",
+   "logprob": -7.867782187531702e-06
+  },
+  {
+   "text": "faz",
+   "start": 3.18,
+   "end": 3.46,
+   "type": "word",
+   "logprob": -7.867782187531702e-06
+  },
+  {
+   "text": " ",
+   "start": 3.46,
+   "end": 3.48,
+   "type": "spacing",
+   "logprob": -9.250213042832911e-05
+  },
+  {
+   "text": "diferença.",
+   "start": 3.48,
+   "end": 4.4,
+   "type": "word",
+   "logprob": -0.0002047358109848574
+  },
+  {
+   "text": " ",
+   "start": 4.4,
+   "end": 4.4,
+   "type": "spacing",
+   "logprob": -0.00013696208770852536
+  },
+  {
+   "text": "Obrigada",
+   "start": 5.08,
+   "end": 5.78,
+   "type": "word",
+   "logprob": -8.582482217178722e-05
+  },
+  {
+   "text": " ",
+   "start": 5.78,
+   "end": 5.82,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "de",
+   "start": 5.82,
+   "end": 5.92,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 5.92,
+   "end": 5.98,
+   "type": "spacing",
+   "logprob": -5.602820692729438e-06
+  },
+  {
+   "text": "coração",
+   "start": 5.98,
+   "end": 6.78,
+   "type": "word",
+   "logprob": -5.602820692729438e-06
+  }
+ ],
+ "transcription_id": "jPtMmGTwo8bZaHhgms8T",
+ "audio_duration_secs": 7.6316875
+}

@@ -1,0 +1,26 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v6.mp4
+narracao OFF1
+narracao OFF2
+narracao OFF3
+narracao OFF4
+narracao OFF5
+  b01: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b01 off 4.98s Ele tem a pele frágil como a asa de uma borboleta. E uma fé que não se quebra.
+  b02: manchete=450 gc=740 legenda=880 etiqueta=None
+ok b02 sonora 2.68s Um pouco com Deus é muito.
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1080 etiqueta=None
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b03 off 7.27s O Pedrinho tem epidermólise bolhosa. O curativo é feito duas vezes por dia e já chegou a durar cinco horas.
+  b04: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b04 sonora 5.36s Pessoal, eu só tenho esses curativos aqui, que estão na minha mão.
+  b05: manchete=290 gc=- legenda=1060 etiqueta=None
+ok b05 off 4.03s Os cuidados com a pele dele passam de quarenta mil reais por mês.
+  b06: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=790 etiqueta=None
+ok b06 sonora 2.54s porque as coisas deles estão acabando.
+  b07: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b07 off 7.82s A SOS Human Help está arrecadando doações para os curativos. Dez reais já ajudam o Pedrinho a seguir lutando.
+  b08: manchete=ESCONDIDA (rosto) gc=- legenda=980 etiqueta=1150
+ok b08 sonora 6.14s Então, seja um anjo na minha vida e desde já, minha eterna gratidão mesmo.
+  b09: manchete=290 gc=- legenda=810 etiqueta=1150
+ok b09 off 4.55s Toque em Saiba mais e faça parte dessa corrente de fé.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v6.mp4 duracao=45.4s

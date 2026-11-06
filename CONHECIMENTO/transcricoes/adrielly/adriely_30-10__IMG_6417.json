@@ -1,0 +1,198 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Fica só 30 segundos, por favor. Por favor, não me deixe lutar sozinha, Jesus",
+ "words": [
+  {
+   "text": "Fica",
+   "start": 3.2,
+   "end": 3.48,
+   "type": "word",
+   "logprob": -0.002580794031473488
+  },
+  {
+   "text": " ",
+   "start": 3.48,
+   "end": 3.58,
+   "type": "spacing",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": "só",
+   "start": 3.58,
+   "end": 3.72,
+   "type": "word",
+   "logprob": -1.6689286894688848e-06
+  },
+  {
+   "text": " ",
+   "start": 3.72,
+   "end": 3.84,
+   "type": "spacing",
+   "logprob": -6.556489552167477e-06
+  },
+  {
+   "text": "30",
+   "start": 3.86,
+   "end": 4.16,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 4.16,
+   "end": 4.22,
+   "type": "spacing",
+   "logprob": -4.172316494077677e-06
+  },
+  {
+   "text": "segundos,",
+   "start": 4.22,
+   "end": 5.02,
+   "type": "word",
+   "logprob": -0.0039043281564469603
+  },
+  {
+   "text": " ",
+   "start": 5.02,
+   "end": 5.02,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "por",
+   "start": 5.4,
+   "end": 5.5,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 5.5,
+   "end": 5.62,
+   "type": "spacing",
+   "logprob": -3.671578815556131e-05
+  },
+  {
+   "text": "favor.",
+   "start": 5.62,
+   "end": 6.18,
+   "type": "word",
+   "logprob": -3.290118714479225e-05
+  },
+  {
+   "text": " ",
+   "start": 6.18,
+   "end": 6.2,
+   "type": "spacing",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": "Por",
+   "start": 7.18,
+   "end": 7.26,
+   "type": "word",
+   "logprob": -5.006777428206988e-06
+  },
+  {
+   "text": " ",
+   "start": 7.26,
+   "end": 7.38,
+   "type": "spacing",
+   "logprob": -7.390948667307384e-06
+  },
+  {
+   "text": "favor,",
+   "start": 7.38,
+   "end": 7.88,
+   "type": "word",
+   "logprob": -6.258464935626762e-06
+  },
+  {
+   "text": " ",
+   "start": 7.88,
+   "end": 7.88,
+   "type": "spacing",
+   "logprob": -7.152531907195225e-06
+  },
+  {
+   "text": "não",
+   "start": 8.3,
+   "end": 8.4,
+   "type": "word",
+   "logprob": -7.152531907195225e-06
+  },
+  {
+   "text": " ",
+   "start": 8.4,
+   "end": 8.44,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "me",
+   "start": 8.44,
+   "end": 8.54,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 8.54,
+   "end": 8.58,
+   "type": "spacing",
+   "logprob": -0.029801098629832268
+  },
+  {
+   "text": "deixe",
+   "start": 8.58,
+   "end": 8.82,
+   "type": "word",
+   "logprob": -0.029801098629832268
+  },
+  {
+   "text": " ",
+   "start": 8.82,
+   "end": 8.86,
+   "type": "spacing",
+   "logprob": -2.5987286790041253e-05
+  },
+  {
+   "text": "lutar",
+   "start": 8.86,
+   "end": 9.16,
+   "type": "word",
+   "logprob": -7.009436558291782e-06
+  },
+  {
+   "text": " ",
+   "start": 9.16,
+   "end": 9.26,
+   "type": "spacing",
+   "logprob": -0.0001896439935080707
+  },
+  {
+   "text": "sozinha,",
+   "start": 9.26,
+   "end": 9.8,
+   "type": "word",
+   "logprob": -0.00016607260469925222
+  },
+  {
+   "text": " ",
+   "start": 9.8,
+   "end": 9.92,
+   "type": "spacing",
+   "logprob": -5.960446742392378e-06
+  },
+  {
+   "text": "Jesus",
+   "start": 9.92,
+   "end": 10.54,
+   "type": "word",
+   "logprob": -5.960446742392378e-06
+  }
+ ],
+ "transcription_id": "JjHYOOZeWKxLWic7nZVD",
+ "audio_duration_secs": 13.28
+}

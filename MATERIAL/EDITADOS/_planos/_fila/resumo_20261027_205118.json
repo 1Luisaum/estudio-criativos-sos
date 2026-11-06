@@ -1,0 +1,152 @@
+{
+ "total_s": 2321,
+ "videos": [
+  {
+   "plano": "Adrielly_cortes_tres_horas_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 111,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_cortes_tres_horas_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 34\\PEB 151 - CORTES COM GANCHO.mp4",
+   "duracao": 31.83,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 29 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 151 - CORTES COM GANCHO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_pedido_tratamento_caro_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 103,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_tratamento_caro_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 34\\PEB 152 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 33.62,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 17 momento(s): [15.0, 15.5, 16.0, 16.5, 17.0, 17.5, 18.0, 18.5, 19.0, 19.5, 20.0, 20.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 152 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_cortes_noites_sem_dormir_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 205,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_cortes_noites_sem_dormir_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 34\\PEB 154 - CORTES COM GANCHO.mp4",
+   "duracao": 40.23,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(36.4, 0.53)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 1 momento(s): [9.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 154 - CORTES COM GANCHO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_pedido_governo_negou_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 311,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_governo_negou_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 35\\PEB 157 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 46.72,
+   "avisos": [
+    "duração 46.7 s fora da faixa do estilo (25-40 s)",
+    "rosto encostando numa faixa de texto em 17 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 17.0, 17.5, 18.0, 18.5, 19.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 157 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_cortes_anemia_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 187,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_cortes_anemia_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 35\\PEB 160 - CORTES COM GANCHO.mp4",
+   "duracao": 44.9,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(16.43, 0.23), (16.67, 0.73), (17.4, 0.73)] (se for a tela final parada, ignore)"
+   ],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_salva_vida_mae_e_filha_v1",
+   "skill": "criativo-salva-vida-ong",
+   "montagem_s": 116,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_salva_vida_mae_e_filha_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 36\\PEB 163 - SALVA VIDA.mp4",
+   "duracao": 28.0,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 5 momento(s): [8.0, 16.5, 17.0, 17.5, 18.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 163 - SALVA VIDA_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_cortes_milkshake_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 182,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_cortes_milkshake_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 36\\PEB 164 - CORTES COM GANCHO.mp4",
+   "duracao": 42.0,
+   "avisos": [],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_caixas_pedido_corpo_ardendo_v1",
+   "skill": "criativo-caixas-pedido-ong",
+   "montagem_s": 172,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_caixas_pedido_corpo_ardendo_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 167 - CAIXAS PEDIDO DE TEMPO.mp4",
+   "duracao": 30.06,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(12.43, 0.87)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 30 momento(s): [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 13.5, 14.0, 14.5, 15.0, 15.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 167 - CAIXAS PEDIDO DE TEMPO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_cortes_milagre_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 211,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_cortes_milagre_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 170 - CORTES COM GANCHO.mp4",
+   "duracao": 40.83,
+   "avisos": [],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_cortes_mae_cuidadora_v1",
+   "skill": "edicao-criativo-ong",
+   "montagem_s": 129,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_cortes_mae_cuidadora_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 173 - CORTES COM GANCHO.mp4",
+   "duracao": 39.77,
+   "avisos": [],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  }
+ ]
+}

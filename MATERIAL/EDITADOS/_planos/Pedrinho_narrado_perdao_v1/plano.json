@@ -1,0 +1,358 @@
+{
+ "nome": "Pedrinho_narrado_perdao_v1",
+ "crianca": "Pedrinho",
+ "angulo": "perdao",
+ "gancho": "mãe pede perdão por pedir",
+ "fatos": [
+  "peço perdão por vim aqui novamente: mãe, Roteiro_ peço perdão 0,56 s",
+  "nunca pensei que fosse precisar pedir: mãe, Roteiro_ os curativos 5,5 s",
+  "mãe faz todos os curativos: CONHECIMENTO seção 1"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "music_start": 60.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "PERDÃO",
+  "AJUDA",
+  "DOR",
+  "CURATIVO",
+  "FILHO"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "“PEÇO *PERDÃO*”",
+    "fs": 115
+   },
+   {
+    "text": "A MÃE DO PEDRINHO VOLTOU A PEDIR",
+    "fs": 46
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cuts": [
+    [
+     0.56,
+     2.46
+    ],
+    [
+     4.04,
+     5.08
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      540,
+      1120
+     ]
+    }
+   ],
+   "txt": "Pessoal, peço perdão por vim aqui novamente, pedir ajuda pro meu guerreiro."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 172.0,
+     "until": 2.48
+    },
+    {
+     "src": "foto em close.png"
+    }
+   ],
+   "txt": "Uma mãe pedindo desculpa por pedir ajuda. Não para ela. Para o filho."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_absurdo_caro.json",
+   "cuts": [
+    [
+     5.52,
+     6.98
+    ],
+    [
+     7.52,
+     9.3
+    ],
+    [
+     12.06,
+     12.32
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.5,
+     "center": [
+      550,
+      1260
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      550,
+      1260
+     ]
+    }
+   ],
+   "txt": "eu nunca pensei que fosse precisar de eu vim aqui pedir uma ajuda, pra ele."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 199.0,
+     "until": 2.7
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 207.0,
+     "until": 4.32
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 213.0
+    }
+   ],
+   "txt": "Cada troca de curativo sai das mãos dela. Cuidado nunca faltou nessa casa. Dinheiro, sim."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_absurdo_caro.json",
+   "cuts": [
+    [
+     22.36,
+     24.2
+    ],
+    [
+     26.08,
+     26.44
+    ],
+    [
+     29.82,
+     30.22
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.5,
+     "center": [
+      550,
+      1260
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      550,
+      1260
+     ]
+    }
+   ],
+   "txt": "Infelizmente, precisou de eu vim aqui, pedir uma ajuda pro meu filho,"
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_nenhuma_mae.json",
+   "cuts": [
+    [
+     40.86,
+     41.54
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      550,
+      650
+     ]
+    }
+   ],
+   "txt": "Aí como é que eu faço,"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "PERDÃO",
+    "DO QUÊ?"
+   ],
+   "dur": 1.5
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 0.95
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 22.0
+    }
+   ],
+   "txt": "Perdão de quê? De pedir atadura para o próprio filho? De amar uma criança que sente dor todos os dias?"
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ os curativos e cuidados do pedrinho são um absurdo de caro e só o eloas não dá_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_absurdo_caro.json",
+   "cuts": [
+    [
+     44.88,
+     45.6
+    ],
+    [
+     47.22,
+     48.76
+    ],
+    [
+     49.36,
+     49.9
+    ],
+    [
+     54.4,
+     54.72
+    ],
+    [
+     55.48,
+     56.12
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.5,
+     "center": [
+      550,
+      1260
+     ]
+    },
+    {
+     "z": 1.35,
+     "center": [
+      550,
+      1260
+     ]
+    }
+   ],
+   "txt": "eu não quero convencer, vocês a ajudar meu filho, mas como mãe, eu te peço, ajude o meu filho."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 72.0,
+     "until": 1.13
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 100.0
+    }
+   ],
+   "txt": "Quem ama desse jeito não deve perdão a ninguém."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cuts": [
+    [
+     55.48,
+     56.62
+    ],
+    [
+     58.26,
+     59.66
+    ],
+    [
+     75.12,
+     75.9
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.6,
+     "center": [
+      760,
+      1000
+     ]
+    },
+    {
+     "z": 1.4,
+     "center": [
+      740,
+      1000
+     ]
+    }
+   ],
+   "txt": "E por favor, toda ajuda, é muito bem-vinda mesmo, viu? Desde já, gratidão."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 90.0,
+     "until": 4.27
+    },
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 130.0
+    }
+   ],
+   "txt": "Clique em Saiba mais e diga a essa mãe que ela não precisa se desculpar. Pela SOS Human Help, o seu gesto entra nessa casa."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20250401_204159.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "ELA NÃO PRECISA",
+    "PEDIR *PERDÃO*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 172 - NARRADO DE IMPACTO.mp4"
+}

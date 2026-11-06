@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Tem criança que tem medo do escuro. O Pedrinho tem medo de a faixa acabar.",
+  "N2": "Essas faixas cobrem quase o corpo inteiro. Sem elas, fica tudo exposto: a pele, a dor, o mosquito, a poeira.",
+  "N3": "A mãe dele olha o que sobrou e sente o mesmo medo.",
+  "N4": "Um medo desses não passa com palavras. Passa com faixa nova.",
+  "N5": "Clique em Saiba mais e tire esse medo da vida dele. Toda criança merece dormir sem ter medo de amanhã."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

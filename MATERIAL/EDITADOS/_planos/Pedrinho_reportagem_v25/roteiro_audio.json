@@ -1,0 +1,18 @@
+{
+ "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+ "model_id": "eleven_multilingual_v2",
+ "voice_settings": {
+  "stability": 0.55,
+  "similarity_boost": 0.75,
+  "style": 0.25,
+  "use_speaker_boost": true
+ },
+ "narracao": {
+  "OFF1": "Na internet, a história parece resolvida. Um menino conhecido, cheio de seguidores.",
+  "OFF2": "Só que o que aparece na tela engana. A vaquinha que as pessoas encontram é antiga.",
+  "OFF3": "Seguidor não troca curativo. Curtida não compra atadura. E o preço do material é outra conversa.",
+  "OFF4": "Por trás do perfil, existe a casa. E, dentro dela, os dois.",
+  "OFF5": "Seguir mostra a história. Ajudar muda a próxima troca. Com dez reais, a SOS Human Help reforça o material do Pedrinho.",
+  "OFF6": "Clique em Saiba mais e faça mais do que seguir."
+ }
+}

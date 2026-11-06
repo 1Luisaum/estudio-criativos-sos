@@ -1,0 +1,59 @@
+{
+ "total": 45.373991,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.978617,
+   "texto": "Ele tem a pele frágil como a asa de uma borboleta. E uma fé que não se quebra."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 2.68,
+   "texto": "Um pouco com Deus é muito."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 7.268776,
+   "texto": "O Pedrinho tem epidermólise bolhosa. O curativo é feito duas vezes por dia e já chegou a durar cinco horas."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.3599999999999985,
+   "texto": "Pessoal, eu só tenho esses curativos aqui, que estão na minha mão."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.029909,
+   "texto": "Os cuidados com a pele dele passam de quarenta mil reais por mês."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 2.5399999999999983,
+   "texto": "porque as coisas deles estão acabando."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 7.821995,
+   "texto": "A SOS Human Help está arrecadando doações para os curativos. Dez reais já ajudam o Pedrinho a seguir lutando."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 6.1400000000000015,
+   "texto": "Então, seja um anjo na minha vida e desde já, minha eterna gratidão mesmo."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 4.554694,
+   "texto": "Toque em Saiba mais e faça parte dessa corrente de fé."
+  }
+ ]
+}

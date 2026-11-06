@@ -1,0 +1,40 @@
+{
+ "text": "E cada item dessa troca é importante.",
+ "words": [
+  {
+   "text": "E",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "cada",
+   "start": 0.163,
+   "end": 0.372
+  },
+  {
+   "text": "item",
+   "start": 0.43,
+   "end": 0.604
+  },
+  {
+   "text": "dessa",
+   "start": 0.639,
+   "end": 0.824
+  },
+  {
+   "text": "troca",
+   "start": 0.882,
+   "end": 1.196
+  },
+  {
+   "text": "é",
+   "start": 1.231,
+   "end": 1.281
+  },
+  {
+   "text": "importante.",
+   "start": 1.289,
+   "end": 1.823
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "text": "Clique em Saiba mais, pela SOS Human Help. Um pouco com você também é muito.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.522
+  },
+  {
+   "text": "em",
+   "start": 0.592,
+   "end": 0.824
+  },
+  {
+   "text": "Saiba",
+   "start": 1.083,
+   "end": 1.535
+  },
+  {
+   "text": "mais,",
+   "start": 1.594,
+   "end": 1.942
+  },
+  {
+   "text": "pela",
+   "start": 2.0,
+   "end": 2.22
+  },
+  {
+   "text": "SOS",
+   "start": 2.279,
+   "end": 2.859
+  },
+  {
+   "text": "Human",
+   "start": 2.917,
+   "end": 3.219
+  },
+  {
+   "text": "Help.",
+   "start": 3.277,
+   "end": 3.625
+  },
+  {
+   "text": "Um",
+   "start": 3.815,
+   "end": 3.919
+  },
+  {
+   "text": "pouco",
+   "start": 3.977,
+   "end": 4.186
+  },
+  {
+   "text": "com",
+   "start": 4.221,
+   "end": 4.314
+  },
+  {
+   "text": "você",
+   "start": 4.36,
+   "end": 4.569
+  },
+  {
+   "text": "também",
+   "start": 4.662,
+   "end": 4.906
+  },
+  {
+   "text": "é",
+   "start": 4.941,
+   "end": 4.991
+  },
+  {
+   "text": "muito.",
+   "start": 5.045,
+   "end": 5.459
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Hoje eu consegui fazer o meu curativo. Pode parecer uma coisa pequena, mas para mim significa muito",
+ "words": [
+  {
+   "text": "Hoje",
+   "start": 0.26,
+   "end": 0.8,
+   "type": "word",
+   "logprob": -0.014961178414523602
+  },
+  {
+   "text": " ",
+   "start": 0.8,
+   "end": 1.16,
+   "type": "spacing",
+   "logprob": -0.006716533098369837
+  },
+  {
+   "text": "eu",
+   "start": 1.16,
+   "end": 1.28,
+   "type": "word",
+   "logprob": -0.006716533098369837
+  },
+  {
+   "text": " ",
+   "start": 1.28,
+   "end": 1.32,
+   "type": "spacing",
+   "logprob": -7.581423415103927e-05
+  },
+  {
+   "text": "consegui",
+   "start": 1.32,
+   "end": 1.84,
+   "type": "word",
+   "logprob": -5.692028025094942e-05
+  },
+  {
+   "text": " ",
+   "start": 1.84,
+   "end": 1.9,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "fazer",
+   "start": 1.9,
+   "end": 2.22,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 2.22,
+   "end": 2.28,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "o",
+   "start": 2.28,
+   "end": 2.34,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.34,
+   "end": 2.38,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "meu",
+   "start": 2.38,
+   "end": 2.58,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 2.58,
+   "end": 2.64,
+   "type": "spacing",
+   "logprob": -1.2040065485052764e-05
+  },
+  {
+   "text": "curativo.",
+   "start": 2.64,
+   "end": 3.44,
+   "type": "word",
+   "logprob": -7.337954735299314e-06
+  },
+  {
+   "text": " ",
+   "start": 3.44,
+   "end": 3.48,
+   "type": "spacing",
+   "logprob": -1.4185804502631072e-05
+  },
+  {
+   "text": "Pode",
+   "start": 4.32,
+   "end": 4.64,
+   "type": "word",
+   "logprob": -1.4185804502631072e-05
+  },
+  {
+   "text": " ",
+   "start": 4.64,
+   "end": 4.72,
+   "type": "spacing",
+   "logprob": -8.022463589441031e-05
+  },
+  {
+   "text": "parecer",
+   "start": 4.72,
+   "end": 5.32,
+   "type": "word",
+   "logprob": -8.022463589441031e-05
+  },
+  {
+   "text": " ",
+   "start": 5.32,
+   "end": 5.7,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "uma",
+   "start": 5.7,
+   "end": 5.88,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 5.88,
+   "end": 5.96,
+   "type": "spacing",
+   "logprob": -3.71926071238704e-05
+  },
+  {
+   "text": "coisa",
+   "start": 6.0,
+   "end": 6.26,
+   "type": "word",
+   "logprob": -3.71926071238704e-05
+  },
+  {
+   "text": " ",
+   "start": 6.26,
+   "end": 6.36,
+   "type": "spacing",
+   "logprob": -8.106198947643861e-06
+  },
+  {
+   "text": "pequena,",
+   "start": 6.36,
+   "end": 6.88,
+   "type": "word",
+   "logprob": -9.193970072374213e-06
+  },
+  {
+   "text": " ",
+   "start": 6.88,
+   "end": 6.92,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "mas",
+   "start": 7.52,
+   "end": 7.76,
+   "type": "word",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": " ",
+   "start": 7.76,
+   "end": 7.8,
+   "type": "spacing",
+   "logprob": -0.00013374387344811112
+  },
+  {
+   "text": "para",
+   "start": 7.8,
+   "end": 8.08,
+   "type": "word",
+   "logprob": -0.00013374387344811112
+  },
+  {
+   "text": " ",
+   "start": 8.08,
+   "end": 8.14,
+   "type": "spacing",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": "mim",
+   "start": 8.14,
+   "end": 8.4,
+   "type": "word",
+   "logprob": -4.410734163684538e-06
+  },
+  {
+   "text": " ",
+   "start": 8.4,
+   "end": 8.48,
+   "type": "spacing",
+   "logprob": -0.00023231192608363926
+  },
+  {
+   "text": "significa",
+   "start": 8.48,
+   "end": 9.18,
+   "type": "word",
+   "logprob": -0.00023231192608363926
+  },
+  {
+   "text": " ",
+   "start": 9.18,
+   "end": 9.32,
+   "type": "spacing",
+   "logprob": -2.0265558760002023e-06
+  },
+  {
+   "text": "muito",
+   "start": 9.32,
+   "end": 9.76,
+   "type": "word",
+   "logprob": -2.0265558760002023e-06
+  }
+ ],
+ "transcription_id": "6jwBDkOnncCx5lHm9904",
+ "audio_duration_secs": 10.065
+}

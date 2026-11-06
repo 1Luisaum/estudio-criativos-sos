@@ -1,0 +1,65 @@
+{
+ "text": "Quase quatro anos atrás, uma vaquinha comprou quase um ano de curativos.",
+ "words": [
+  {
+   "text": "Quase",
+   "start": 0.0,
+   "end": 0.488
+  },
+  {
+   "text": "quatro",
+   "start": 0.824,
+   "end": 1.382
+  },
+  {
+   "text": "anos",
+   "start": 1.428,
+   "end": 1.672
+  },
+  {
+   "text": "atrás,",
+   "start": 1.753,
+   "end": 2.566
+  },
+  {
+   "text": "uma",
+   "start": 3.1,
+   "end": 3.32
+  },
+  {
+   "text": "vaquinha",
+   "start": 3.39,
+   "end": 3.901
+  },
+  {
+   "text": "comprou",
+   "start": 3.947,
+   "end": 4.307
+  },
+  {
+   "text": "quase",
+   "start": 4.377,
+   "end": 4.667
+  },
+  {
+   "text": "um",
+   "start": 4.795,
+   "end": 4.992
+  },
+  {
+   "text": "ano",
+   "start": 5.027,
+   "end": 5.422
+  },
+  {
+   "text": "de",
+   "start": 5.759,
+   "end": 6.014
+  },
+  {
+   "text": "curativos.",
+   "start": 6.072,
+   "end": 7.152
+  }
+ ]
+}

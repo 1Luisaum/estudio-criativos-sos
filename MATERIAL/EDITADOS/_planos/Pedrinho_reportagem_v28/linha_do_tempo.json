@@ -1,0 +1,71 @@
+{
+ "total": 49.250724,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 3.8570979999999997,
+   "texto": "Ela não tem plantão nem troca de turno. O turno dela é o filho."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 3.419999999999992,
+   "texto": "todo dia, vinte e quatro horas, todos os meses,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.6273919999999995,
+   "texto": "Quem conta como é esse turno é o próprio paciente. E ele não deixa ninguém de fora da história."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 5.580000000000003,
+   "texto": "E é ela quem está comigo todos os dias, em todos os curativos."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 3.061905,
+   "texto": "Nas semanas piores, ela chega ainda mais perto."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 6.479000000000002,
+   "texto": "da última vez, minha mãe precisou de cinco horas, pra fazer todo o meu curativo,"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 2.5855099999999998,
+   "texto": "Dá para medir essa dedicação no relógio."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 4.660000000000001,
+   "texto": "Todos os dias eu cuido dele e leva quatro horas."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 7.977415,
+   "texto": "Ela não pede folga. Pede atadura, gaze e pomada. Dez reais, pela SOS Human Help, ajudam essa mãe a não parar."
+  },
+  {
+   "nome": "b10",
+   "tipo": "sonora",
+   "d": 2.080000000000001,
+   "texto": "Meu filho, meu herói."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 3.922404,
+   "texto": "Clique em Saiba mais e cuide de quem cuida."
+  }
+ ]
+}

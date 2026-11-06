@@ -1,0 +1,75 @@
+{
+ "text": "O próximo curativo do Pedrinho pode vir de você. O botão está logo abaixo.",
+ "words": [
+  {
+   "text": "O",
+   "start": 0.0,
+   "end": 0.07
+  },
+  {
+   "text": "próximo",
+   "start": 0.197,
+   "end": 0.557
+  },
+  {
+   "text": "curativo",
+   "start": 0.604,
+   "end": 1.033
+  },
+  {
+   "text": "do",
+   "start": 1.068,
+   "end": 1.126
+  },
+  {
+   "text": "Pedrinho",
+   "start": 1.184,
+   "end": 1.718
+  },
+  {
+   "text": "pode",
+   "start": 1.881,
+   "end": 2.31
+  },
+  {
+   "text": "vir",
+   "start": 2.38,
+   "end": 2.612
+  },
+  {
+   "text": "de",
+   "start": 2.67,
+   "end": 2.74
+  },
+  {
+   "text": "você.",
+   "start": 2.786,
+   "end": 3.402
+  },
+  {
+   "text": "O",
+   "start": 3.622,
+   "end": 3.68
+  },
+  {
+   "text": "botão",
+   "start": 3.75,
+   "end": 4.063
+  },
+  {
+   "text": "está",
+   "start": 4.098,
+   "end": 4.238
+  },
+  {
+   "text": "logo",
+   "start": 4.296,
+   "end": 4.458
+  },
+  {
+   "text": "abaixo.",
+   "start": 4.481,
+   "end": 5.248
+  }
+ ]
+}

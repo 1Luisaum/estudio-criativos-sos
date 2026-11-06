@@ -1,0 +1,17 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Oi",
+ "words": [
+  {
+   "text": "Oi",
+   "start": 0.32,
+   "end": 0.46,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.31769829988479614
+  }
+ ],
+ "transcription_id": "Juv4CJEGA1zeQAggscHU",
+ "audio_duration_secs": 5.4
+}

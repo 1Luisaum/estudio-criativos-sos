@@ -1,0 +1,55 @@
+{
+ "text": "Mas o curativo acaba. E, quando acaba, a dor aumenta.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.197
+  },
+  {
+   "text": "o",
+   "start": 0.267,
+   "end": 0.317
+  },
+  {
+   "text": "curativo",
+   "start": 0.325,
+   "end": 0.848
+  },
+  {
+   "text": "acaba.",
+   "start": 0.871,
+   "end": 1.331
+  },
+  {
+   "text": "E,",
+   "start": 1.331,
+   "end": 1.449
+  },
+  {
+   "text": "quando",
+   "start": 1.472,
+   "end": 1.704
+  },
+  {
+   "text": "acaba,",
+   "start": 1.751,
+   "end": 2.25
+  },
+  {
+   "text": "a",
+   "start": 2.296,
+   "end": 2.354
+  },
+  {
+   "text": "dor",
+   "start": 2.412,
+   "end": 2.587
+  },
+  {
+   "text": "aumenta.",
+   "start": 2.633,
+   "end": 3.124
+  }
+ ]
+}

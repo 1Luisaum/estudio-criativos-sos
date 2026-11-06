@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Nas redes, ele é um guerreiro. Dentro de casa, tem outro nome: filho.",
+  "N2": "O guerreiro aguenta. O filho precisa de colo. E o colo dele tem nome: mãe.",
+  "N3": "Esse é o sonho da mãe dele. Nada de grande. Só ter o que o filho precisa na hora da troca.",
+  "N4": "Imagine ver o seu filho sentir dor, abrir a caixa de curativos e não ter o que colocar sobre a ferida.",
+  "N5": "Lá fora, ele pode ter o nome que for. Para ela, sempre vai ser o menino dela.",
+  "N6": "Clique em Saiba mais e cuide do filho dela."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

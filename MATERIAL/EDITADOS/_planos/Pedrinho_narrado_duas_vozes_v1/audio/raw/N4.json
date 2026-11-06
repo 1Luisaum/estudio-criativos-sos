@@ -1,0 +1,65 @@
+{
+ "text": "Ela não larga a mão dele. E ele não larga a luta.",
+ "words": [
+  {
+   "text": "Ela",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "não",
+   "start": 0.255,
+   "end": 0.395
+  },
+  {
+   "text": "larga",
+   "start": 0.441,
+   "end": 0.731
+  },
+  {
+   "text": "a",
+   "start": 0.755,
+   "end": 0.778
+  },
+  {
+   "text": "mão",
+   "start": 0.813,
+   "end": 0.952
+  },
+  {
+   "text": "dele.",
+   "start": 1.01,
+   "end": 1.393
+  },
+  {
+   "text": "E",
+   "start": 1.858,
+   "end": 1.985
+  },
+  {
+   "text": "ele",
+   "start": 2.055,
+   "end": 2.171
+  },
+  {
+   "text": "não",
+   "start": 2.218,
+   "end": 2.357
+  },
+  {
+   "text": "larga",
+   "start": 2.403,
+   "end": 2.694
+  },
+  {
+   "text": "a",
+   "start": 2.728,
+   "end": 2.752
+  },
+  {
+   "text": "luta.",
+   "start": 2.798,
+   "end": 3.483
+  }
+ ]
+}

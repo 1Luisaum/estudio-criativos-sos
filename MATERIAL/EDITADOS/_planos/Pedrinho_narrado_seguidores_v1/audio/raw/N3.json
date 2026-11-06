@@ -1,0 +1,70 @@
+{
+ "text": "Ele percebeu. Criança percebe. Percebe quando quem ajudava some. Percebe quando é esquecida.",
+ "words": [
+  {
+   "text": "Ele",
+   "start": 0.0,
+   "end": 0.244
+  },
+  {
+   "text": "percebeu.",
+   "start": 0.302,
+   "end": 0.987
+  },
+  {
+   "text": "Criança",
+   "start": 1.521,
+   "end": 2.02
+  },
+  {
+   "text": "percebe.",
+   "start": 2.078,
+   "end": 2.763
+  },
+  {
+   "text": "Percebe",
+   "start": 3.17,
+   "end": 3.727
+  },
+  {
+   "text": "quando",
+   "start": 3.785,
+   "end": 4.063
+  },
+  {
+   "text": "quem",
+   "start": 4.145,
+   "end": 4.307
+  },
+  {
+   "text": "ajudava",
+   "start": 4.365,
+   "end": 4.888
+  },
+  {
+   "text": "some.",
+   "start": 4.969,
+   "end": 5.526
+  },
+  {
+   "text": "Percebe",
+   "start": 5.863,
+   "end": 6.478
+  },
+  {
+   "text": "quando",
+   "start": 6.536,
+   "end": 6.873
+  },
+  {
+   "text": "é",
+   "start": 7.001,
+   "end": 7.129
+  },
+  {
+   "text": "esquecida.",
+   "start": 7.256,
+   "end": 8.452
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "total": 53.578413000000005,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 6.730113,
+   "texto": "Um ferimento no ombro mudou o curativo do Pedrinho. O corpo já vive enfaixado, e agora a faixa precisou subir."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 3.8,
+   "texto": "Minha mamãe teve que enfaixar o ombro. não teve outro jeito,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 4.6761,
+   "texto": "Parece um detalhe. Mas a família evita esse ponto por um motivo: o tempo."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 8.540000000000001,
+   "texto": "Assim, a gente não gosta muito de enfaixar o ombro, Porque aí que demora mesmo o curativo, mas quando é preciso fazer, fazer o que,"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 6.196327,
+   "texto": "O curativo já era de todo dia. Com os ferimentos bem abertos, passou a ser duas vezes ao dia."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 5.120000000000002,
+   "texto": "os meus ferimentos estão cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 2.07229,
+   "texto": "E a mãe já vigia outro ponto."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 5.02,
+   "texto": "minha mamãe tá atenta, se ela ver que vai ferir mesmo, ela vai ter que tampar esse ombro,"
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 7.280794,
+   "texto": "Curativo maior pede mais faixa e mais gaze. Com dez reais, a SOS Human Help ajuda nessa troca."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.1427890000000005,
+   "texto": "Clique em Saiba mais e ajude nesse curativo."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "text": "Isso é o que ele vive de dia. De noite, a dor continua, e ninguém vê.",
+ "words": [
+  {
+   "text": "Isso",
+   "start": 0.0,
+   "end": 0.58
+  },
+  {
+   "text": "é",
+   "start": 0.743,
+   "end": 0.824
+  },
+  {
+   "text": "o",
+   "start": 0.882,
+   "end": 0.906
+  },
+  {
+   "text": "que",
+   "start": 0.964,
+   "end": 1.068
+  },
+  {
+   "text": "ele",
+   "start": 1.103,
+   "end": 1.231
+  },
+  {
+   "text": "vive",
+   "start": 1.277,
+   "end": 1.486
+  },
+  {
+   "text": "de",
+   "start": 1.521,
+   "end": 1.591
+  },
+  {
+   "text": "dia.",
+   "start": 1.66,
+   "end": 2.078
+  },
+  {
+   "text": "De",
+   "start": 2.485,
+   "end": 2.601
+  },
+  {
+   "text": "noite,",
+   "start": 2.67,
+   "end": 2.984
+  },
+  {
+   "text": "a",
+   "start": 3.007,
+   "end": 3.053
+  },
+  {
+   "text": "dor",
+   "start": 3.1,
+   "end": 3.239
+  },
+  {
+   "text": "continua,",
+   "start": 3.274,
+   "end": 4.11
+  },
+  {
+   "text": "e",
+   "start": 4.191,
+   "end": 4.319
+  },
+  {
+   "text": "ninguém",
+   "start": 4.4,
+   "end": 4.83
+  },
+  {
+   "text": "vê.",
+   "start": 4.911,
+   "end": 5.526
+  }
+ ]
+}

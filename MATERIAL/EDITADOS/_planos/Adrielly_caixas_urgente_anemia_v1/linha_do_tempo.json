@@ -1,0 +1,30 @@
+{
+ "total": 34.080292,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 4.200292,
+   "texto": "A anemia da Adrielly é tão grave que ela precisa de bolsa de sangue."
+  },
+  {
+   "nome": "c1",
+   "d": 6.389999999999999,
+   "texto": "além da epidermólise bolhosa, eu estou passando por uma anemia severa."
+  },
+  {
+   "nome": "c2",
+   "d": 3.9099999999999997,
+   "texto": "Tem dias que eu preciso de bolsa de sangue"
+  },
+  {
+   "nome": "c3",
+   "d": 10.17,
+   "texto": "Todos os dias eu preciso trocar os meus lençóis da cama porque fica sujo de sangue. Já são meses assim"
+  },
+  {
+   "nome": "c4",
+   "d": 9.41,
+   "texto": "Se você se sentir de me ajudar, doe cinco ou dez reais para eu continuar o meu tratamento."
+  }
+ ]
+}

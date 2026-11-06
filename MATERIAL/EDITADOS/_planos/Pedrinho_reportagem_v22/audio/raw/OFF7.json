@@ -1,0 +1,55 @@
+{
+ "text": "Clique em Saiba mais e conheça essa batalha de perto.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "em",
+   "start": 0.36,
+   "end": 0.418
+  },
+  {
+   "text": "Saiba",
+   "start": 0.499,
+   "end": 0.859
+  },
+  {
+   "text": "mais",
+   "start": 0.917,
+   "end": 1.265
+  },
+  {
+   "text": "e",
+   "start": 1.335,
+   "end": 1.37
+  },
+  {
+   "text": "conheça",
+   "start": 1.428,
+   "end": 1.904
+  },
+  {
+   "text": "essa",
+   "start": 1.939,
+   "end": 2.101
+  },
+  {
+   "text": "batalha",
+   "start": 2.148,
+   "end": 2.554
+  },
+  {
+   "text": "de",
+   "start": 2.601,
+   "end": 2.67
+  },
+  {
+   "text": "perto.",
+   "start": 2.728,
+   "end": 3.529
+  }
+ ]
+}

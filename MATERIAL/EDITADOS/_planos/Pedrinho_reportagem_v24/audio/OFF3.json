@@ -1,0 +1,70 @@
+{
+ "text": "A mãe, que faz as trocas, repete o mesmo desejo com outras palavras.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "mãe,",
+   "start": 0.163,
+   "end": 0.45
+  },
+  {
+   "text": "que",
+   "start": 0.45,
+   "end": 0.55
+  },
+  {
+   "text": "faz",
+   "start": 0.632,
+   "end": 0.875
+  },
+  {
+   "text": "as",
+   "start": 0.945,
+   "end": 1.015
+  },
+  {
+   "text": "trocas,",
+   "start": 1.073,
+   "end": 1.58
+  },
+  {
+   "text": "repete",
+   "start": 1.609,
+   "end": 2.021
+  },
+  {
+   "text": "o",
+   "start": 2.056,
+   "end": 2.106
+  },
+  {
+   "text": "mesmo",
+   "start": 2.16,
+   "end": 2.52
+  },
+  {
+   "text": "desejo",
+   "start": 2.566,
+   "end": 3.054
+  },
+  {
+   "text": "com",
+   "start": 3.101,
+   "end": 3.24
+  },
+  {
+   "text": "outras",
+   "start": 3.356,
+   "end": 3.762
+  },
+  {
+   "text": "palavras.",
+   "start": 3.82,
+   "end": 4.471
+  }
+ ]
+}

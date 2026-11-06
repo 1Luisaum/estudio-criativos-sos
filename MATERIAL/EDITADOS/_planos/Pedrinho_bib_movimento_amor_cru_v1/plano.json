@@ -1,0 +1,44 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_referencias\\bibliotecas\\movamor_1822868738727036.mp4",
+ "estilo": "BIB CRU",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 1.6,
+   "fim": 18.45,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 23.7,
+   "fim": 37.4,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 0,
+   "fim": 5,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 23.0,
+   "ate": 35.5,
+   "linhas": [
+    "Clique em “saiba mais” e ajude",
+    "no tratamento do Pedrinho"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 40,
+   "y": 1270,
+   "contorno": 2,
+   "lh": 1.05
+  }
+ ],
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\magnific_tristes\\Fading_Ember.mp3",
+ "musica_volume": 0.13,
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 56\\PEB 210 - BIB CRU.mp4"
+}

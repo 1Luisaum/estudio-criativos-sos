@@ -1,0 +1,142 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Jesus, por favor, meus curativos estão quase acabando. Me ajuda!",
+ "words": [
+  {
+   "text": "Jesus,",
+   "start": 2.34,
+   "end": 3.18,
+   "type": "word",
+   "logprob": -0.10623256214360784
+  },
+  {
+   "text": " ",
+   "start": 3.18,
+   "end": 3.18,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "por",
+   "start": 3.52,
+   "end": 3.68,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 3.68,
+   "end": 3.74,
+   "type": "spacing",
+   "logprob": -4.291525328881107e-06
+  },
+  {
+   "text": "favor,",
+   "start": 3.74,
+   "end": 4.34,
+   "type": "word",
+   "logprob": -0.00038120052795420634
+  },
+  {
+   "text": " ",
+   "start": 4.34,
+   "end": 4.38,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "meus",
+   "start": 5.1,
+   "end": 5.32,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 5.32,
+   "end": 5.36,
+   "type": "spacing",
+   "logprob": -9.059865078597795e-06
+  },
+  {
+   "text": "curativos",
+   "start": 5.36,
+   "end": 6.38,
+   "type": "word",
+   "logprob": -7.073058441164903e-06
+  },
+  {
+   "text": " ",
+   "start": 6.38,
+   "end": 6.58,
+   "type": "spacing",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": "estão",
+   "start": 6.58,
+   "end": 6.94,
+   "type": "word",
+   "logprob": -5.125986263010418e-06
+  },
+  {
+   "text": " ",
+   "start": 6.94,
+   "end": 7.02,
+   "type": "spacing",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": "quase",
+   "start": 7.02,
+   "end": 7.32,
+   "type": "word",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": " ",
+   "start": 7.32,
+   "end": 7.36,
+   "type": "spacing",
+   "logprob": -1.5258672647178173e-05
+  },
+  {
+   "text": "acabando.",
+   "start": 7.36,
+   "end": 8.24,
+   "type": "word",
+   "logprob": -0.00019988242416325698
+  },
+  {
+   "text": " ",
+   "start": 8.24,
+   "end": 8.24,
+   "type": "spacing",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": "Me",
+   "start": 8.88,
+   "end": 9.0,
+   "type": "word",
+   "logprob": -1.5497195136049413e-06
+  },
+  {
+   "text": " ",
+   "start": 9.0,
+   "end": 9.1,
+   "type": "spacing",
+   "logprob": -0.00012265883560758084
+  },
+  {
+   "text": "ajuda!",
+   "start": 9.1,
+   "end": 9.96,
+   "type": "word",
+   "logprob": -0.09609611202176893
+  }
+ ],
+ "transcription_id": "1aKG1lDCLWqOCvMp6a3n",
+ "audio_duration_secs": 11.965
+}

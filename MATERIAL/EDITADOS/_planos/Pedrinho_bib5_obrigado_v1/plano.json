@@ -1,0 +1,111 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_2109425177114400.mp4",
+ "estilo": "BIB OBRIGADO",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 21.5,
+   "linhas": [
+    "Cada real que chega vira",
+    "curativo e pomada na",
+    "pele do Pedrinho.",
+    "OBRIGADO DE CORAÇÃO 🙏"
+   ],
+   "estilo": "seco",
+   "size": 50,
+   "y": 1345,
+   "contorno": 4,
+   "lh": 1.1
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1000
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.3,
+  "de": 23.1
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\magnific_tristes\\You_Cant_Come_Back.mp3",
+ "musica_volume": 0.881,
+ "modelo": {
+  "id": "peb209_maos_amigas_obrigado",
+  "exemplo": "PEB 209",
+  "descricao": "3. Lar Maos Amigas 2109425177114400: agradecimento em letra branca grossa com contorno (y 70%), so musica, takes longos; abre com os takes mais fortes (pedido do usuario: pernas enfaixadas em P&B, placa \"meus curativos estao acabando\") e fecha com ele agradecendo com a propria voz.",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2109425177114400",
+  "titulo": "Obrigado de coração",
+  "variacao": "pedrinho_obrigado"
+ },
+ "musica_depois": [
+  21.5,
+  0.157
+ ],
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_braco_faixa.mp4",
+   "ini": 0,
+   "fim": 2.689,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pescoco.mp4",
+   "ini": 0,
+   "fim": 2.689,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 8.0,
+   "fim": 10.689,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152739.mp4",
+   "ini": 3.0,
+   "fim": 5.689,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas_inteiras.mp4",
+   "ini": 0,
+   "fim": 2.689,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_curativo.mp4",
+   "ini": 0,
+   "fim": 2.689,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 0.5,
+   "fim": 3.189,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_close.mp4",
+   "ini": 0,
+   "fim": 2.687,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 34.78,
+   "fim": 37.32,
+   "som": true
+  }
+ ],
+ "fatos": {
+  "obrigado de coracao": "lv_0_20261102155438 34,8-37,3"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 67\\PEB 250 - BIB OBRIGADO.mp4",
+ "saida_fixa": true
+}

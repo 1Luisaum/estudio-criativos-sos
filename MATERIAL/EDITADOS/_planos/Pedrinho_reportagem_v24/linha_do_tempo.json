@@ -1,0 +1,65 @@
+{
+ "total": 61.59174799999998,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 6.358073,
+   "texto": "Ele conhece a regra. A família também. O problema começa quando a regra encontra a falta de material."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 6.44,
+   "texto": "eu sei que não pode usar o mesmo curativo, mas pessoal, eu e minha mãe vai fazer o quê?"
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 3.886508,
+   "texto": "Não é descuido. Se dependesse de vontade, o menino teria tudo."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 7.780000000000002,
+   "texto": "não ia deixar se que faltasse nada do curativo, mas pela nossa condição, aí como é que faz, pessoal?"
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 4.850204,
+   "texto": "A mãe, que faz as trocas, repete o mesmo desejo com outras palavras."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 6.280000000000002,
+   "texto": "Eu queria muito, assim, não deixar faltar nada pro meu guerreirinho. Aí como é que eu faço, né, pessoal?"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 4.828095,
+   "texto": "A falta, aqui, não é de cuidado. É de faixa, de gaze e de dinheiro."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 9.58099999999998,
+   "texto": "eu não quero, ter que ficar sem os meus cuidados que eu preciso, sem os meus curativos, gazes, atadura, e acabar sentindo mais dor,"
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 6.785578,
+   "texto": "Com dez reais, você ajuda a SOS Human Help a garantir curativo para a próxima troca."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.80229,
+   "texto": "Clique em Saiba mais. Para ele, curativo novo não é luxo."
+  }
+ ]
+}

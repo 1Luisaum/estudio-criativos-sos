@@ -1,0 +1,310 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Gente, sem os meus curativos, a minha vida vai de mal a pior. Por favor, me ajuda a conseguir os meus curativos?",
+ "words": [
+  {
+   "text": "Gente,",
+   "start": 0.5,
+   "end": 1.08,
+   "type": "word",
+   "logprob": -0.0005100640082673635
+  },
+  {
+   "text": " ",
+   "start": 1.08,
+   "end": 1.64,
+   "type": "spacing",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": "sem",
+   "start": 1.64,
+   "end": 1.82,
+   "type": "word",
+   "logprob": -5.960462772236497e-07
+  },
+  {
+   "text": " ",
+   "start": 1.82,
+   "end": 1.9,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "os",
+   "start": 1.9,
+   "end": 2.02,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.02,
+   "end": 2.08,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "meus",
+   "start": 2.08,
+   "end": 2.38,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.38,
+   "end": 2.44,
+   "type": "spacing",
+   "logprob": -1.156323378381785e-05
+  },
+  {
+   "text": "curativos,",
+   "start": 2.44,
+   "end": 3.4,
+   "type": "word",
+   "logprob": -0.03133520181418135
+  },
+  {
+   "text": " ",
+   "start": 3.4,
+   "end": 3.4,
+   "type": "spacing",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": "a",
+   "start": 3.94,
+   "end": 3.98,
+   "type": "word",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": " ",
+   "start": 3.98,
+   "end": 4.12,
+   "type": "spacing",
+   "logprob": -1.9550132492440753e-05
+  },
+  {
+   "text": "minha",
+   "start": 4.12,
+   "end": 4.52,
+   "type": "word",
+   "logprob": -1.9550132492440753e-05
+  },
+  {
+   "text": " ",
+   "start": 4.52,
+   "end": 4.62,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "vida",
+   "start": 4.62,
+   "end": 4.96,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 4.96,
+   "end": 5.64,
+   "type": "spacing",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": "vai",
+   "start": 5.64,
+   "end": 5.86,
+   "type": "word",
+   "logprob": -2.7418097943154862e-06
+  },
+  {
+   "text": " ",
+   "start": 5.86,
+   "end": 5.92,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "de",
+   "start": 5.92,
+   "end": 6.02,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 6.02,
+   "end": 6.1,
+   "type": "spacing",
+   "logprob": -0.001334967790171504
+  },
+  {
+   "text": "mal",
+   "start": 6.1,
+   "end": 6.34,
+   "type": "word",
+   "logprob": -0.001334967790171504
+  },
+  {
+   "text": " ",
+   "start": 6.34,
+   "end": 6.38,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "a",
+   "start": 6.38,
+   "end": 6.42,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 6.42,
+   "end": 6.52,
+   "type": "spacing",
+   "logprob": -1.4781842764932662e-05
+  },
+  {
+   "text": "pior.",
+   "start": 6.52,
+   "end": 6.92,
+   "type": "word",
+   "logprob": -1.2397677983244648e-05
+  },
+  {
+   "text": " ",
+   "start": 6.92,
+   "end": 7.66,
+   "type": "spacing",
+   "logprob": -1.0371154530730564e-05
+  },
+  {
+   "text": "Por",
+   "start": 7.66,
+   "end": 7.8,
+   "type": "word",
+   "logprob": -1.0371154530730564e-05
+  },
+  {
+   "text": " ",
+   "start": 7.8,
+   "end": 7.86,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "favor,",
+   "start": 7.86,
+   "end": 8.36,
+   "type": "word",
+   "logprob": -6.596222931420925e-06
+  },
+  {
+   "text": " ",
+   "start": 8.36,
+   "end": 8.8,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "me",
+   "start": 8.8,
+   "end": 8.92,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 8.92,
+   "end": 9.06,
+   "type": "spacing",
+   "logprob": -3.790783375734463e-05
+  },
+  {
+   "text": "ajuda",
+   "start": 9.06,
+   "end": 9.54,
+   "type": "word",
+   "logprob": -3.790783375734463e-05
+  },
+  {
+   "text": " ",
+   "start": 9.54,
+   "end": 9.56,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "a",
+   "start": 9.56,
+   "end": 9.62,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 9.62,
+   "end": 9.66,
+   "type": "spacing",
+   "logprob": -5.578839045483619e-05
+  },
+  {
+   "text": "conseguir",
+   "start": 9.66,
+   "end": 10.18,
+   "type": "word",
+   "logprob": -5.578839045483619e-05
+  },
+  {
+   "text": " ",
+   "start": 10.18,
+   "end": 10.24,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "os",
+   "start": 10.24,
+   "end": 10.36,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 10.36,
+   "end": 10.4,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "meus",
+   "start": 10.4,
+   "end": 10.66,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 10.66,
+   "end": 10.7,
+   "type": "spacing",
+   "logprob": -3.576272320060525e-06
+  },
+  {
+   "text": "curativos?",
+   "start": 10.7,
+   "end": 11.64,
+   "type": "word",
+   "logprob": -0.0008775664525273897
+  }
+ ],
+ "transcription_id": "HDEDi7Kulbrd8BDwq77j",
+ "audio_duration_secs": 12.1316875
+}

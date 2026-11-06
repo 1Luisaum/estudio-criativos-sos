@@ -1,0 +1,80 @@
+{
+ "text": "Mas para o Pedrinho, que tem epidermólise bolhosa, é onde a mãe coloca a pomada.",
+ "words": [
+  {
+   "text": "Mas",
+   "start": 0.0,
+   "end": 0.279
+  },
+  {
+   "text": "para",
+   "start": 0.441,
+   "end": 0.58
+  },
+  {
+   "text": "o",
+   "start": 0.604,
+   "end": 0.627
+  },
+  {
+   "text": "Pedrinho,",
+   "start": 0.708,
+   "end": 1.486
+  },
+  {
+   "text": "que",
+   "start": 2.125,
+   "end": 2.241
+  },
+  {
+   "text": "tem",
+   "start": 2.334,
+   "end": 2.694
+  },
+  {
+   "text": "epidermólise",
+   "start": 2.856,
+   "end": 3.669
+  },
+  {
+   "text": "bolhosa,",
+   "start": 3.715,
+   "end": 4.4
+  },
+  {
+   "text": "é",
+   "start": 4.737,
+   "end": 4.807
+  },
+  {
+   "text": "onde",
+   "start": 4.876,
+   "end": 5.039
+  },
+  {
+   "text": "a",
+   "start": 5.074,
+   "end": 5.097
+  },
+  {
+   "text": "mãe",
+   "start": 5.155,
+   "end": 5.341
+  },
+  {
+   "text": "coloca",
+   "start": 5.387,
+   "end": 5.712
+  },
+  {
+   "text": "a",
+   "start": 5.735,
+   "end": 5.759
+  },
+  {
+   "text": "pomada.",
+   "start": 5.793,
+   "end": 6.594
+  }
+ ]
+}

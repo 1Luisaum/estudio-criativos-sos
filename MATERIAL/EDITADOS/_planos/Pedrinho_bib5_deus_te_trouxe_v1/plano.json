@@ -1,0 +1,163 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\florisbela_2388547078640410.mp4",
+ "estilo": "BIB DEUS TE TROUXE",
+ "textos": [
+  {
+   "de": 0,
+   "ate": 6.15,
+   "linhas": [
+    "Deus te trouxe aqui, ajude",
+    "o Pedrinho, os curativos",
+    "dele estão acabando."
+   ],
+   "estilo": "caixa",
+   "bg": "branco",
+   "fg": "preto",
+   "size": 46,
+   "y": 1075,
+   "pad": [
+    26,
+    10
+   ],
+   "lh": 1.08,
+   "fonte": "medium"
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1330
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.4,
+  "de": 33.7
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 1126 - cansados de pedir ajuda.mp3",
+ "musica_volume": 0.33,
+ "modelo": {
+  "id": "peb224_l3_deus_te_trouxe",
+  "exemplo": "PEB 224",
+  "descricao": "Florisbela 2388547078640410: mesmo molde do PEB 204, com a musica do anuncio (separada da voz)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=2388547078640410",
+  "titulo": "Deus te trouxe aqui (música do anúncio)",
+  "variacao": "pedrinho_deus_te_trouxe"
+ },
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_151635.mp4",
+   "ini": 1.7,
+   "fim": 7.85,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 1.5,
+   "fim": 7.05,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 10.35,
+   "fim": 16.95,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 18.95,
+   "fim": 23.7,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 26.9,
+   "fim": 28.65,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 31.7,
+   "fim": 40.6,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_144645.mp4",
+   "ini": 40.95,
+   "fim": 43.0,
+   "som": true
+  }
+ ],
+ "broll": [
+  [
+   6.15,
+   8.95,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_bracos_curativo.mp4",
+   0
+  ],
+  [
+   8.95,
+   11.75,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pescoco.mp4",
+   0
+  ],
+  [
+   11.75,
+   14.55,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   8.0
+  ],
+  [
+   14.55,
+   17.35,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_peito_bracos.mp4",
+   0
+  ],
+  [
+   17.35,
+   20.15,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_rosto_feridas.mp4",
+   0
+  ],
+  [
+   20.15,
+   22.95,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   0.5
+  ],
+  [
+   22.95,
+   25.75,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_costas.mp4",
+   0
+  ],
+  [
+   25.75,
+   28.55,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_perna_curativo.mp4",
+   0
+  ],
+  [
+   28.55,
+   31.35,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   6.0
+  ],
+  [
+   31.35,
+   33.7,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_pedrinho\\foto_ferida_pe_tornozelo.mp4",
+   0
+  ]
+ ],
+ "fatos": {
+  "falas": "20261102_151635 (gancho) e 20261102_144645",
+  "acabando": "placa 20261102_151715"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 68\\PEB 251 - BIB DEUS TE TROUXE.mp4",
+ "saida_fixa": true
+}

@@ -1,0 +1,38 @@
+{
+ "nome": "Adrielly_salva_vida_v1",
+ "referencia": "Ampara Brasil, anuncio 1473150411323796 (skill criativo-salva-vida-ong)",
+ "angulo": "fisioterapia e a mãe cuidando",
+ "valor": "R$10,00",
+ "pedido": "SALVA VIDA AJUDE A ADRIELLY❤️",
+ "topo_y": 180,
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "transicao": 0.6,
+ "cenas": [
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "start": 1.0,
+   "dur": 4.5
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (3).mp4",
+   "start": 2.0,
+   "dur": 4.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/WhatsApp Video 2026-07-07 at 19.32.36 (4).mp4",
+   "start": 2.0,
+   "dur": 4.0
+  },
+  {
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/adrielly/BANCO DE VÍDEOS ADRIELY/wmremove-transformed.jpg",
+   "dur": 5.0
+  }
+ ],
+ "fatos": {
+  "R$10": "IMG_3676/IMG_3682 ('R$ 10 todos os meses'), padrão do usuário",
+  "cenas": "banco da Adrielly: mãe cuidando das pernas (1d7c619d), fisioterapia (WhatsApp 19.32.36), foto com a mãe"
+ },
+ "modelo": "skill criativo-salva-vida-ong",
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 45\\AEB 54 - SALVA VIDA.mp4",
+ "ajuste_05_11": "pedido do usuário 05/11/2026: marca @juntospelaadrielly; mais curto (4 cenas) e CTA CLIQUE EM SAIBA MAIS no fim"
+}

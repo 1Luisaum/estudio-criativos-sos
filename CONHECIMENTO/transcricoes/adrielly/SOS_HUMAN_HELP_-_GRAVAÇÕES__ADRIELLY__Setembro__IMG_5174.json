@@ -1,0 +1,226 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Só que amanhã tem outro curativo e depois tem outro. E assim são todos os dias",
+ "words": [
+  {
+   "text": "Só",
+   "start": 0.32,
+   "end": 0.54,
+   "type": "word",
+   "logprob": -0.00031871485407464206
+  },
+  {
+   "text": " ",
+   "start": 0.54,
+   "end": 0.64,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "que",
+   "start": 0.64,
+   "end": 0.76,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 0.76,
+   "end": 0.82,
+   "type": "spacing",
+   "logprob": -0.00019905969384126365
+  },
+  {
+   "text": "amanhã",
+   "start": 0.82,
+   "end": 1.48,
+   "type": "word",
+   "logprob": -0.00029579839120212154
+  },
+  {
+   "text": " ",
+   "start": 1.48,
+   "end": 1.84,
+   "type": "spacing",
+   "logprob": -0.0008045773720368743
+  },
+  {
+   "text": "tem",
+   "start": 1.84,
+   "end": 2.06,
+   "type": "word",
+   "logprob": -0.0008045773720368743
+  },
+  {
+   "text": " ",
+   "start": 2.06,
+   "end": 2.12,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "outro",
+   "start": 2.12,
+   "end": 2.42,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 2.42,
+   "end": 2.52,
+   "type": "spacing",
+   "logprob": -1.2040065485052764e-05
+  },
+  {
+   "text": "curativo",
+   "start": 2.52,
+   "end": 3.36,
+   "type": "word",
+   "logprob": -6.452172527815492e-06
+  },
+  {
+   "text": " ",
+   "start": 3.36,
+   "end": 3.36,
+   "type": "spacing",
+   "logprob": -0.00011312322021694854
+  },
+  {
+   "text": "e",
+   "start": 3.88,
+   "end": 4.0,
+   "type": "word",
+   "logprob": -0.00011312322021694854
+  },
+  {
+   "text": " ",
+   "start": 4.0,
+   "end": 4.04,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "depois",
+   "start": 4.04,
+   "end": 4.5,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 4.5,
+   "end": 4.56,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "tem",
+   "start": 4.56,
+   "end": 4.76,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 4.76,
+   "end": 4.86,
+   "type": "spacing",
+   "logprob": -9.536738616588991e-07
+  },
+  {
+   "text": "outro.",
+   "start": 4.86,
+   "end": 5.24,
+   "type": "word",
+   "logprob": -0.0031575513999844893
+  },
+  {
+   "text": " ",
+   "start": 5.24,
+   "end": 5.24,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "E",
+   "start": 5.94,
+   "end": 6.06,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 6.06,
+   "end": 6.14,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "assim",
+   "start": 6.14,
+   "end": 6.6,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 6.6,
+   "end": 6.66,
+   "type": "spacing",
+   "logprob": -0.0009330924949608743
+  },
+  {
+   "text": "são",
+   "start": 6.66,
+   "end": 6.88,
+   "type": "word",
+   "logprob": -0.0009330924949608743
+  },
+  {
+   "text": " ",
+   "start": 6.88,
+   "end": 6.94,
+   "type": "spacing",
+   "logprob": -1.597391747054644e-05
+  },
+  {
+   "text": "todos",
+   "start": 6.94,
+   "end": 7.34,
+   "type": "word",
+   "logprob": -1.597391747054644e-05
+  },
+  {
+   "text": " ",
+   "start": 7.34,
+   "end": 7.4,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "os",
+   "start": 7.4,
+   "end": 7.54,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 7.54,
+   "end": 7.6,
+   "type": "spacing",
+   "logprob": -0.0002708068350329995
+  },
+  {
+   "text": "dias",
+   "start": 7.6,
+   "end": 8.1,
+   "type": "word",
+   "logprob": -0.0002708068350329995
+  }
+ ],
+ "transcription_id": "iWXrbIY9QjOQsQVPa07d",
+ "audio_duration_secs": 8.5983125
+}

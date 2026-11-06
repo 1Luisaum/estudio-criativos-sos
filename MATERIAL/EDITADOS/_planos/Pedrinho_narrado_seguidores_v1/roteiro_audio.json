@@ -1,0 +1,20 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "De fora, parece que ele nunca está sozinho. Tem gente assistindo, gente curtindo, gente passando.",
+  "N2": "Quando o vídeo acaba, quem fica é a mãe dele, a caixa de curativos e a próxima troca.",
+  "N3": "Ele percebeu. Criança percebe. Percebe quando quem ajudava some. Percebe quando é esquecida.",
+  "N4": "Curtida não troca curativo. Mas você pode ser mais do que uma curtida.",
+  "N5": "Clique em Saiba mais, saia da plateia e entre na vida dele. Ele vai saber que alguém ficou."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

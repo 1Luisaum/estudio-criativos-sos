@@ -1,0 +1,35 @@
+{
+ "total": 34.959,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.41,
+   "texto": "Por favor, fica só 30 segundos."
+  },
+  {
+   "nome": "c1",
+   "d": 5.748999999999999,
+   "texto": "Os meus curativos estão acabando e eu tô com medo, porque se acabar tudo,"
+  },
+  {
+   "nome": "c2",
+   "d": 6.750000000000001,
+   "texto": "eu e minha mamãe realmente não, não sabe o que que a gente, é, vai fazer."
+  },
+  {
+   "nome": "c3",
+   "d": 10.370000000000005,
+   "texto": "Por mim e pela minha mãe, a gente não ia deixar que faltasse nada do curativo, mas pela nossa condição, aí como é que faz, pessoal?"
+  },
+  {
+   "nome": "c4",
+   "d": 5.330000000000008,
+   "texto": "Seja com dois ou cinco reais, não importa o valor, já vai tá ajudando muito"
+  },
+  {
+   "nome": "c5",
+   "d": 3.3499999999999943,
+   "texto": "meu muito obrigado."
+  }
+ ]
+}

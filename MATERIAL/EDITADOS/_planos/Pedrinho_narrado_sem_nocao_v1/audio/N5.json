@@ -1,0 +1,60 @@
+{
+ "text": "Ninguém pode sentir essa dor por ele. Mas dá para aliviar.",
+ "words": [
+  {
+   "text": "Ninguém",
+   "start": 0.0,
+   "end": 0.325
+  },
+  {
+   "text": "pode",
+   "start": 0.383,
+   "end": 0.569
+  },
+  {
+   "text": "sentir",
+   "start": 0.592,
+   "end": 0.859
+  },
+  {
+   "text": "essa",
+   "start": 0.882,
+   "end": 1.022
+  },
+  {
+   "text": "dor",
+   "start": 1.068,
+   "end": 1.184
+  },
+  {
+   "text": "por",
+   "start": 1.242,
+   "end": 1.382
+  },
+  {
+   "text": "ele.",
+   "start": 1.44,
+   "end": 1.657
+  },
+  {
+   "text": "Mas",
+   "start": 1.663,
+   "end": 1.86
+  },
+  {
+   "text": "dá",
+   "start": 1.906,
+   "end": 1.988
+  },
+  {
+   "text": "para",
+   "start": 2.034,
+   "end": 2.139
+  },
+  {
+   "text": "aliviar.",
+   "start": 2.162,
+   "end": 2.671
+  }
+ ]
+}

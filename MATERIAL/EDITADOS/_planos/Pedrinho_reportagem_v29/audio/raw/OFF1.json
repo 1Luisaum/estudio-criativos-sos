@@ -1,0 +1,95 @@
+{
+ "text": "Quando se fala do Pedrinho, todo mundo pensa em faixa. Mas a lista dele não termina na faixa.",
+ "words": [
+  {
+   "text": "Quando",
+   "start": 0.0,
+   "end": 0.302
+  },
+  {
+   "text": "se",
+   "start": 0.348,
+   "end": 0.43
+  },
+  {
+   "text": "fala",
+   "start": 0.499,
+   "end": 0.697
+  },
+  {
+   "text": "do",
+   "start": 0.731,
+   "end": 0.801
+  },
+  {
+   "text": "Pedrinho,",
+   "start": 0.859,
+   "end": 1.289
+  },
+  {
+   "text": "todo",
+   "start": 1.324,
+   "end": 1.544
+  },
+  {
+   "text": "mundo",
+   "start": 1.591,
+   "end": 1.8
+  },
+  {
+   "text": "pensa",
+   "start": 1.858,
+   "end": 2.125
+  },
+  {
+   "text": "em",
+   "start": 2.148,
+   "end": 2.206
+  },
+  {
+   "text": "faixa.",
+   "start": 2.287,
+   "end": 2.844
+  },
+  {
+   "text": "Mas",
+   "start": 3.019,
+   "end": 3.181
+  },
+  {
+   "text": "a",
+   "start": 3.239,
+   "end": 3.262
+  },
+  {
+   "text": "lista",
+   "start": 3.309,
+   "end": 3.553
+  },
+  {
+   "text": "dele",
+   "start": 3.622,
+   "end": 3.843
+  },
+  {
+   "text": "não",
+   "start": 3.889,
+   "end": 4.005
+  },
+  {
+   "text": "termina",
+   "start": 4.052,
+   "end": 4.47
+  },
+  {
+   "text": "na",
+   "start": 4.516,
+   "end": 4.598
+  },
+  {
+   "text": "faixa.",
+   "start": 4.656,
+   "end": 5.433
+  }
+ ]
+}

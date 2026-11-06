@@ -1,0 +1,352 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Se você se sentir de me ajudar, ajude com um pouco, cinco ou R$ 10, vai fazer muita diferença na minha vida. Deus te abençoe",
+ "words": [
+  {
+   "text": "Se",
+   "start": 1.28,
+   "end": 1.46,
+   "type": "word",
+   "logprob": -0.00040558696491643786
+  },
+  {
+   "text": " ",
+   "start": 1.46,
+   "end": 1.52,
+   "type": "spacing",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": "você",
+   "start": 1.52,
+   "end": 2.12,
+   "type": "word",
+   "logprob": -3.814689989667386e-06
+  },
+  {
+   "text": " ",
+   "start": 2.12,
+   "end": 2.36,
+   "type": "spacing",
+   "logprob": -2.074220174108632e-05
+  },
+  {
+   "text": "se",
+   "start": 2.36,
+   "end": 2.44,
+   "type": "word",
+   "logprob": -2.074220174108632e-05
+  },
+  {
+   "text": " ",
+   "start": 2.44,
+   "end": 2.54,
+   "type": "spacing",
+   "logprob": -1.2755313036905136e-05
+  },
+  {
+   "text": "sentir",
+   "start": 2.54,
+   "end": 3.02,
+   "type": "word",
+   "logprob": -1.2755313036905136e-05
+  },
+  {
+   "text": " ",
+   "start": 3.02,
+   "end": 3.08,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "de",
+   "start": 3.08,
+   "end": 3.2,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 3.2,
+   "end": 3.24,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "me",
+   "start": 3.24,
+   "end": 3.32,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 3.32,
+   "end": 3.38,
+   "type": "spacing",
+   "logprob": -3.3378044463461265e-05
+  },
+  {
+   "text": "ajudar,",
+   "start": 3.38,
+   "end": 3.98,
+   "type": "word",
+   "logprob": -2.8967379811157506e-05
+  },
+  {
+   "text": " ",
+   "start": 3.98,
+   "end": 3.98,
+   "type": "spacing",
+   "logprob": -3.5523738915799186e-05
+  },
+  {
+   "text": "ajude",
+   "start": 4.6,
+   "end": 5.34,
+   "type": "word",
+   "logprob": -1.4424072253405029e-05
+  },
+  {
+   "text": " ",
+   "start": 5.34,
+   "end": 5.8,
+   "type": "spacing",
+   "logprob": -0.0002901133266277611
+  },
+  {
+   "text": "com",
+   "start": 5.8,
+   "end": 5.94,
+   "type": "word",
+   "logprob": -0.0002901133266277611
+  },
+  {
+   "text": " ",
+   "start": 5.94,
+   "end": 5.98,
+   "type": "spacing",
+   "logprob": -0.01255018636584282
+  },
+  {
+   "text": "um",
+   "start": 5.98,
+   "end": 6.12,
+   "type": "word",
+   "logprob": -0.01255018636584282
+  },
+  {
+   "text": " ",
+   "start": 6.12,
+   "end": 6.16,
+   "type": "spacing",
+   "logprob": -0.0002644904307089746
+  },
+  {
+   "text": "pouco,",
+   "start": 6.16,
+   "end": 6.66,
+   "type": "word",
+   "logprob": -0.009394464422560608
+  },
+  {
+   "text": " ",
+   "start": 6.66,
+   "end": 6.66,
+   "type": "spacing",
+   "logprob": -0.014709710143506527
+  },
+  {
+   "text": "cinco",
+   "start": 7.46,
+   "end": 8.02,
+   "type": "word",
+   "logprob": -0.014709710143506527
+  },
+  {
+   "text": " ",
+   "start": 8.02,
+   "end": 8.02,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "ou",
+   "start": 8.74,
+   "end": 8.88,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 8.88,
+   "end": 8.88,
+   "type": "spacing",
+   "logprob": -0.5793456435203552
+  },
+  {
+   "text": "R$",
+   "start": 8.88,
+   "end": 8.94,
+   "type": "word",
+   "logprob": -0.2896802126815601
+  },
+  {
+   "text": " ",
+   "start": 8.94,
+   "end": 8.98,
+   "type": "spacing",
+   "logprob": -4.529942543740617e-06
+  },
+  {
+   "text": "10,",
+   "start": 8.98,
+   "end": 10.1,
+   "type": "word",
+   "logprob": -0.0025416817516088486
+  },
+  {
+   "text": " ",
+   "start": 10.1,
+   "end": 10.1,
+   "type": "spacing",
+   "logprob": -4.434487345861271e-05
+  },
+  {
+   "text": "vai",
+   "start": 10.76,
+   "end": 10.94,
+   "type": "word",
+   "logprob": -4.434487345861271e-05
+  },
+  {
+   "text": " ",
+   "start": 10.94,
+   "end": 11.02,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "fazer",
+   "start": 11.02,
+   "end": 11.46,
+   "type": "word",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": " ",
+   "start": 11.46,
+   "end": 11.88,
+   "type": "spacing",
+   "logprob": -1.2159273865108844e-05
+  },
+  {
+   "text": "muita",
+   "start": 11.88,
+   "end": 12.24,
+   "type": "word",
+   "logprob": -1.2159273865108844e-05
+  },
+  {
+   "text": " ",
+   "start": 12.24,
+   "end": 12.3,
+   "type": "spacing",
+   "logprob": -1.5020257706055418e-05
+  },
+  {
+   "text": "diferença",
+   "start": 12.3,
+   "end": 12.98,
+   "type": "word",
+   "logprob": -1.5020257706055418e-05
+  },
+  {
+   "text": " ",
+   "start": 12.98,
+   "end": 13.04,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "na",
+   "start": 13.04,
+   "end": 13.16,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 13.16,
+   "end": 13.26,
+   "type": "spacing",
+   "logprob": -1.3112935448589269e-05
+  },
+  {
+   "text": "minha",
+   "start": 13.26,
+   "end": 13.48,
+   "type": "word",
+   "logprob": -1.3112935448589269e-05
+  },
+  {
+   "text": " ",
+   "start": 13.48,
+   "end": 13.7,
+   "type": "spacing",
+   "logprob": -5.1616290875244886e-05
+  },
+  {
+   "text": "vida.",
+   "start": 13.7,
+   "end": 14.04,
+   "type": "word",
+   "logprob": -4.141224195564064e-05
+  },
+  {
+   "text": " ",
+   "start": 14.04,
+   "end": 14.04,
+   "type": "spacing",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": "Deus",
+   "start": 14.9,
+   "end": 15.1,
+   "type": "word",
+   "logprob": -1.4305104514278355e-06
+  },
+  {
+   "text": " ",
+   "start": 15.1,
+   "end": 15.12,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "te",
+   "start": 15.12,
+   "end": 15.18,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 15.18,
+   "end": 15.22,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "abençoe",
+   "start": 15.22,
+   "end": 15.86,
+   "type": "word",
+   "logprob": -0.00026470136046035416
+  }
+ ],
+ "transcription_id": "MSiUKNsCwbiTapZvUuzN",
+ "audio_duration_secs": 16.865
+}

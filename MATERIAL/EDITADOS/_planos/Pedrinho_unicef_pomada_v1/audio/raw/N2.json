@@ -1,0 +1,40 @@
+{
+ "text": "É o que traz alívio na hora.",
+ "words": [
+  {
+   "text": "É",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "o",
+   "start": 0.151,
+   "end": 0.186
+  },
+  {
+   "text": "que",
+   "start": 0.232,
+   "end": 0.313
+  },
+  {
+   "text": "traz",
+   "start": 0.383,
+   "end": 0.627
+  },
+  {
+   "text": "alívio",
+   "start": 0.697,
+   "end": 0.964
+  },
+  {
+   "text": "na",
+   "start": 0.998,
+   "end": 1.068
+  },
+  {
+   "text": "hora.",
+   "start": 1.091,
+   "end": 1.625
+  }
+ ]
+}

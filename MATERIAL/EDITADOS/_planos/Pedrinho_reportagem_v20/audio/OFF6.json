@@ -1,0 +1,60 @@
+{
+ "text": "Clique em Saiba mais e ajude sem precisar ver a ferida.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.325
+  },
+  {
+   "text": "em",
+   "start": 0.348,
+   "end": 0.406
+  },
+  {
+   "text": "Saiba",
+   "start": 0.488,
+   "end": 0.813
+  },
+  {
+   "text": "mais",
+   "start": 0.882,
+   "end": 1.196
+  },
+  {
+   "text": "e",
+   "start": 1.242,
+   "end": 1.292
+  },
+  {
+   "text": "ajude",
+   "start": 1.335,
+   "end": 1.8
+  },
+  {
+   "text": "sem",
+   "start": 1.858,
+   "end": 1.997
+  },
+  {
+   "text": "precisar",
+   "start": 2.055,
+   "end": 2.531
+  },
+  {
+   "text": "ver",
+   "start": 2.612,
+   "end": 2.763
+  },
+  {
+   "text": "a",
+   "start": 2.81,
+   "end": 2.86
+  },
+  {
+   "text": "ferida.",
+   "start": 2.879,
+   "end": 3.291
+  }
+ ]
+}

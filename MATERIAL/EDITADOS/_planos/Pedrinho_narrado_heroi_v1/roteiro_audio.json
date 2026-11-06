@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "A fantasia de Homem-Aranha ele tira. As faixas, não.",
+  "N2": "Sem poder nenhum de filme. Só uma pele que fere por qualquer coisa e uma teimosia enorme de continuar.",
+  "N3": "Herói de filme apanha e levanta em duas horas. O Pedrinho recomeça duas vezes por dia.",
+  "N4": "Não tem dublê. Ninguém entra no lugar dele na hora da troca.",
+  "N5": "Todo herói precisa de um aliado. Até o Homem-Aranha. Esse lugar está vago.",
+  "N6": "Clique em Saiba mais. Nessa história, quem ajuda o herói é você."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

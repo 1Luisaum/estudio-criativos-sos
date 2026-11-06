@@ -1,0 +1,70 @@
+{
+ "text": "Clique em Saiba mais e ajude o Pedrinho a ficar bem de novo.",
+ "words": [
+  {
+   "text": "Clique",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "em",
+   "start": 0.36,
+   "end": 0.418
+  },
+  {
+   "text": "Saiba",
+   "start": 0.488,
+   "end": 0.836
+  },
+  {
+   "text": "mais",
+   "start": 0.906,
+   "end": 1.207
+  },
+  {
+   "text": "e",
+   "start": 1.277,
+   "end": 1.3
+  },
+  {
+   "text": "ajude",
+   "start": 1.347,
+   "end": 1.718
+  },
+  {
+   "text": "o",
+   "start": 1.741,
+   "end": 1.765
+  },
+  {
+   "text": "Pedrinho",
+   "start": 1.8,
+   "end": 2.171
+  },
+  {
+   "text": "a",
+   "start": 2.206,
+   "end": 2.229
+  },
+  {
+   "text": "ficar",
+   "start": 2.264,
+   "end": 2.531
+  },
+  {
+   "text": "bem",
+   "start": 2.589,
+   "end": 2.74
+  },
+  {
+   "text": "de",
+   "start": 2.786,
+   "end": 2.844
+  },
+  {
+   "text": "novo.",
+   "start": 2.902,
+   "end": 3.622
+  }
+ ]
+}

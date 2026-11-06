@@ -1,0 +1,50 @@
+{
+ "text": "Quando a Adrielly nasceu, os médicos não davam esperança.",
+ "words": [
+  {
+   "text": "Quando",
+   "start": 0.0,
+   "end": 0.29
+  },
+  {
+   "text": "a",
+   "start": 0.313,
+   "end": 0.441
+  },
+  {
+   "text": "Adrielly",
+   "start": 0.569,
+   "end": 0.987
+  },
+  {
+   "text": "nasceu,",
+   "start": 1.033,
+   "end": 1.661
+  },
+  {
+   "text": "os",
+   "start": 1.668,
+   "end": 1.807
+  },
+  {
+   "text": "médicos",
+   "start": 1.888,
+   "end": 2.19
+  },
+  {
+   "text": "não",
+   "start": 2.225,
+   "end": 2.33
+  },
+  {
+   "text": "davam",
+   "start": 2.364,
+   "end": 2.608
+  },
+  {
+   "text": "esperança.",
+   "start": 2.643,
+   "end": 3.224
+  }
+ ]
+}

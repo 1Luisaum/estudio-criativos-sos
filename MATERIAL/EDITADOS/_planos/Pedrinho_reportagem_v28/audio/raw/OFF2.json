@@ -1,0 +1,100 @@
+{
+ "text": "Quem conta como é esse turno é o próprio paciente. E ele não deixa ninguém de fora da história.",
+ "words": [
+  {
+   "text": "Quem",
+   "start": 0.0,
+   "end": 0.232
+  },
+  {
+   "text": "conta",
+   "start": 0.325,
+   "end": 0.662
+  },
+  {
+   "text": "como",
+   "start": 0.708,
+   "end": 0.94
+  },
+  {
+   "text": "é",
+   "start": 1.057,
+   "end": 1.091
+  },
+  {
+   "text": "esse",
+   "start": 1.149,
+   "end": 1.335
+  },
+  {
+   "text": "turno",
+   "start": 1.393,
+   "end": 1.776
+  },
+  {
+   "text": "é",
+   "start": 1.95,
+   "end": 2.043
+  },
+  {
+   "text": "o",
+   "start": 2.09,
+   "end": 2.113
+  },
+  {
+   "text": "próprio",
+   "start": 2.183,
+   "end": 2.566
+  },
+  {
+   "text": "paciente.",
+   "start": 2.601,
+   "end": 3.402
+  },
+  {
+   "text": "E",
+   "start": 3.785,
+   "end": 3.901
+  },
+  {
+   "text": "ele",
+   "start": 3.971,
+   "end": 4.098
+  },
+  {
+   "text": "não",
+   "start": 4.145,
+   "end": 4.261
+  },
+  {
+   "text": "deixa",
+   "start": 4.307,
+   "end": 4.563
+  },
+  {
+   "text": "ninguém",
+   "start": 4.586,
+   "end": 4.888
+  },
+  {
+   "text": "de",
+   "start": 4.934,
+   "end": 4.992
+  },
+  {
+   "text": "fora",
+   "start": 5.062,
+   "end": 5.294
+  },
+  {
+   "text": "da",
+   "start": 5.341,
+   "end": 5.399
+  },
+  {
+   "text": "história.",
+   "start": 5.422,
+   "end": 6.269
+  }
+ ]
+}

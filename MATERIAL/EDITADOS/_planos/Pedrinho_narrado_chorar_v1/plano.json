@@ -1,0 +1,318 @@
+{
+ "nome": "Pedrinho_narrado_chorar_v1",
+ "crianca": "Pedrinho",
+ "angulo": "chorar",
+ "gancho": "guerreiro também chora",
+ "fatos": [
+  "tem noites que eu chego até a chorar: Pedrinho, roteiro 9",
+  "virar de lado, a gente cansa: Pedrinho, Um Vídeo Novo 62 s",
+  "não tá nem um pouco fácil: Pedrinho, 20260916_235338"
+ ],
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/amarantamusic-there-will-come-soft-rain-111647.mp3",
+ "music_start": 10.0,
+ "music_vol": 0.07,
+ "music_lift": 0.07,
+ "red": [
+  "CHORAR",
+  "FERIDAS",
+  "DOLORIDAS",
+  "DOR",
+  "FÁCIL"
+ ],
+ "caption_fix": {},
+ "hook": {
+  "t1": 4.2,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*GUERREIRO*",
+    "fs": 140
+   },
+   {
+    "text": "TAMBÉM CHORA",
+    "fs": 74
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260113_023031.jpg",
+     "until": 1.51
+    },
+    {
+     "src": "20240514_210632.jpg"
+    }
+   ],
+   "txt": "Todo mundo chama ele de guerreiro. Pouca gente vê o que acontece quando a casa fica em silêncio."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro9.json",
+   "cuts": [
+    [
+     52.64,
+     52.98
+    ],
+    [
+     54.56,
+     58.42
+    ],
+    [
+     65.06,
+     66.36
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.35,
+     "center": [
+      580,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.6,
+     "center": [
+      580,
+      560
+     ]
+    }
+   ],
+   "txt": "Tem noites, que eu chego até a chorar por causa das feridas doloridas, dores musculares também,"
+  },
+  {
+   "type": "card",
+   "lines": [
+    "ELE CHORA",
+    "DE DOR"
+   ],
+   "dur": 1.5,
+   "fs": 200
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "foto em close.png",
+     "until": 2.13
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 68.0
+    }
+   ],
+   "txt": "A ferida arde. O músculo dói. E não existe posição boa na cama."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/V1.mp3",
+   "look": "cor",
+   "vozoff": true,
+   "tag": "PEDRINHO",
+   "cuts_bruto": [
+    [
+     62.62,
+     64.1
+    ],
+    [
+     65.28,
+     67.88
+    ],
+    [
+     71.18,
+     73.12
+    ]
+   ],
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 80.0
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 96.0
+    }
+   ],
+   "txt": "Aí eu deitei de barriga pra baixo, aí eu tentei virar de lado, virar do outro, ficar virado só de um lado a gente cansa"
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 144.0,
+     "until": 1.82
+    },
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 178.0
+    }
+   ],
+   "txt": "De manhã, a mãe recomeça do zero. E ele encara mais uma troca sem ter dormido."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260916_235338.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_235338.json",
+   "cuts": [
+    [
+     51.44,
+     52.48
+    ],
+    [
+     53.38,
+     53.94
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.25,
+     "center": [
+      690,
+      700
+     ]
+    },
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.5,
+     "center": [
+      690,
+      560
+     ]
+    }
+   ],
+   "txt": "não tá nem um pouco fácil, nem um pouco mesmo."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260819_222914.jpg",
+     "until": 1.13
+    },
+    {
+     "src": "20260824_182501.mp4",
+     "start": 88.0
+    }
+   ],
+   "txt": "Ele tem nome de guerreiro. Mas tem o corpo de uma criança cansada."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N5.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20241110_104724.mp4",
+     "start": 8.0,
+     "until": 1.29
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 18.0
+    }
+   ],
+   "txt": "Guerreiro também chora. E no dia seguinte, continua."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cuts": [
+    [
+     60.96,
+     61.14
+    ],
+    [
+     63.0,
+     63.0
+    ],
+    [
+     64.1,
+     64.62
+    ],
+    [
+     65.26,
+     65.54
+    ],
+    [
+     66.36,
+     66.92
+    ],
+    [
+     67.72,
+     69.72
+    ],
+    [
+     71.56,
+     74.14
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.6,
+     "center": [
+      760,
+      1000
+     ]
+    },
+    {
+     "z": 1.4,
+     "center": [
+      740,
+      1000
+     ]
+    }
+   ],
+   "txt": "pra você, quatro, cinco reais, dez reais, parece pouco, mas pra gente e pra mim, é uma nova esperança de um dia sem dor."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N6.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 24.0
+    }
+   ],
+   "txt": "Clique em Saiba mais. A sua ajuda pode ser a noite em que ele não chora."
+  },
+  {
+   "type": "end",
+   "dur": 4.2,
+   "broll": {
+    "src": "20260729_180353.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "MENOS UMA NOITE",
+    "DE *CHORO*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 38\\PEB 175 - NARRADO DE IMPACTO.mp4"
+}

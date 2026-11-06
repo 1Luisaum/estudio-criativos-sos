@@ -1,0 +1,274 @@
+{
+ "nome": "Pedrinho_narrado_sem_expor_v1",
+ "pedido": "lote 30 videos 27/10/2026 - frente B",
+ "angulo": "a mae nao deveria precisar mostrar a ferida para pedir ajuda: ajudar sem ver o pior momento",
+ "bank": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho",
+ "music": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/11145955-mesa-10550.mp3",
+ "music_start": 0.0,
+ "red": [
+  "FERIMENTOS",
+  "FERIDA",
+  "DOR",
+  "EXPOR",
+  "PIOR",
+  "CUSTO"
+ ],
+ "caption_fix": {
+  "dez": "10"
+ },
+ "fatos": {
+  "a gente nao deveria mostrar os ferimentos toda vez que precisa de ajuda": "mae, banco Roteiro 2.mp4 (1.5-11 s)",
+  "ajudou mais quando ve os momentos mais dificeis; eu como mae percebo isso": "mae e Pedrinho, banco Roteiro 2.mp4 (15-34 s)",
+  "sem precisar expor meu filho, sem mostrar o pior momento": "mae, banco Roteiro 2.mp4 (89-103 s)",
+  "as pessoas nao sabem o custo total da EB": "Pedrinho, roteiro 7.mp4 (21-27 s)",
+  "queria ta bem de ajuda pra nao precisar ficar sempre pedindo": "Pedrinho, roteiro 7.mp4 (85-104 s)",
+  "R$10": "padrao dos pedidos (brief do lote)"
+ },
+ "hook": {
+  "t1": 4.4,
+  "y": 1258,
+  "label": "URGENTE",
+  "lines": [
+   {
+    "text": "*SEM MOSTRAR FERIDA*",
+    "fs": 92
+   },
+   {
+    "text": "A MÃE PEDE AJUDA",
+    "fs": 72
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cuts": [
+    [
+     2.36,
+     3.14
+    ],
+    [
+     4.94,
+     7.42
+    ],
+    [
+     8.12,
+     8.32
+    ],
+    [
+     9.66,
+     9.66
+    ],
+    [
+     10.72,
+     10.86
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    }
+   ],
+   "txt": "A gente não deveria mostrar os ferimentos todas as vez que a gente precisa de ajuda."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N1.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 180.0
+    },
+    {
+     "src": "20240411_123226.jpg"
+    }
+   ],
+   "txt": "Nas redes, ela percebeu: a ajuda chegava mais quando o pior aparecia."
+  },
+  {
+   "type": "real",
+   "tag": "MÃE DO PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Roteiro 2.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/roteiro2_mae.json",
+   "cuts": [
+    [
+     89.34,
+     90.7
+    ],
+    [
+     93.84,
+     94.72
+    ],
+    [
+     98.5,
+     100.08
+    ],
+    [
+     102.1,
+     102.24
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.2,
+     "center": [
+      760,
+      960
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Eu tô aqui sem precisar expor meu filho. Sem ter que mostrar o pior momento do Pedrinho."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N2.mp3",
+   "look": "pb",
+   "broll": [
+    {
+     "src": "20260824_182501.mp4",
+     "start": 70.0
+    },
+    {
+     "src": "foto em close.png"
+    }
+   ],
+   "txt": "Mas a dor continua lá, debaixo de cada faixa. Mesmo quando a câmera não mostra."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro7b.json",
+   "cuts": [
+    [
+     21.74,
+     23.12
+    ],
+    [
+     23.66,
+     26.8
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.0
+    },
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    }
+   ],
+   "txt": "As pessoas também não sabem é o custo total da epidermólise bolhosa."
+  },
+  {
+   "type": "card",
+   "lines": [
+    "A DOR",
+    "NÃO APARECE"
+   ],
+   "dur": 1.4,
+   "fs": 170
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N3.mp3",
+   "look": "cor",
+   "broll": [
+    {
+     "src": "20230603_203654.jpg"
+    },
+    {
+     "src": "20241110_104724.mp4",
+     "start": 10.0
+    }
+   ],
+   "txt": "Para acreditar na dor dele, ninguém precisa ver ferida nenhuma."
+  },
+  {
+   "type": "real",
+   "tag": "PEDRINHO",
+   "src": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 7.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_roteiro7b.json",
+   "cuts": [
+    [
+     85.74,
+     86.36
+    ],
+    [
+     87.72,
+     88.46
+    ],
+    [
+     92.3,
+     92.78
+    ],
+    [
+     102.32,
+     103.9
+    ]
+   ],
+   "crops": [
+    {
+     "z": 1.3,
+     "center": [
+      580,
+      860
+     ]
+    },
+    {
+     "z": 1.0
+    }
+   ],
+   "txt": "Eu queria muito tá bem de ajuda, pra não precisar ter que ficar sempre pedindo ajuda."
+  },
+  {
+   "type": "narr",
+   "audio": "audio/N4.mp3",
+   "look": "cor",
+   "fix": {
+    "dez": "10"
+   },
+   "broll": [
+    {
+     "src": "IMG-20260620-WA0011.jpg"
+    },
+    {
+     "src": "20260410_210553.mp4",
+     "start": 38.0
+    }
+   ],
+   "txt": "Toque em Saiba mais. Com dez reais, você ajuda sem que ele precise mostrar nada."
+  },
+  {
+   "type": "end",
+   "dur": 3.6,
+   "broll": {
+    "src": "20260729_164523.jpg",
+    "look": "cor"
+   },
+   "lines": [
+    "ACREDITE SEM",
+    "PRECISAR *VER*"
+   ],
+   "button": "SAIBA MAIS"
+  }
+ ],
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 30\\PEB 127 - NARRADO DE IMPACTO.mp4"
+}

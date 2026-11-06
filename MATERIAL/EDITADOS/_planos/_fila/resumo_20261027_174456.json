@@ -1,0 +1,58 @@
+{
+ "total_s": 74,
+ "videos": [
+  {
+   "plano": "Pedrinho_unicef_gaze_v1",
+   "skill": "criativo-unicef-ong",
+   "montagem_s": 63,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_unicef_gaze_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 30\\PEB 125 - UNICEF.mp4",
+   "duracao": 39.5,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 1 momento(s): [35.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 125 - UNICEF_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": true
+  },
+  {
+   "plano": "Pedrinho_corrente_item_v1",
+   "skill": "criativo-corrente-ong",
+   "ok": false,
+   "prevoo": {
+    "plano": "Pedrinho_corrente_item_v1",
+    "estilo": "CORRENTE DO BEM",
+    "erros": [],
+    "avisos": [
+     {
+      "onde": ".cenas[3]",
+      "arquivo": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+      "rosto_y": [
+       386,
+       630
+      ],
+      "faixas": [
+       [
+        240,
+        500
+       ]
+      ],
+      "sugestoes": [],
+      "texto": ".cenas[3]: rosto de Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4 (y 386-630) cai numa faixa de texto [(240, 500)]; escolha outro trecho (catalogo.py livres)"
+     }
+    ]
+   },
+   "erro": "pre-voo: corrija o plano (ou rode com --ignorar-prevoo se o aviso nao for real)"
+  },
+  {
+   "plano": "Pedrinho_salva_vida_anjo_v1",
+   "skill": "criativo-salva-vida-ong",
+   "montagem_s": 0,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Pedrinho_salva_vida_anjo_v1.log",
+   "ok": false,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 27\\PEB 118 - SALVA VIDA.mp4",
+   "erro": "Traceback (most recent call last):\n  File \"C:\\Users\\EDITING_SECTOR\\.claude\\skills\\criativo-salva-vida-ong\\scripts\\montar.py\", line 16, in <module>\n    from comum import enc_antes_da_logo  # noqa: E402  passada antes da logo: rapida e quase sem perda (27/10/2026)\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nModuleNotFoundError: No module named 'comum'\n"
+  }
+ ]
+}

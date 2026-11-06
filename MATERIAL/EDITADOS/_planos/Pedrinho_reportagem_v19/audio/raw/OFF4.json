@@ -1,0 +1,75 @@
+{
+ "text": "Para essa família, a conta não fecha no fim do mês. Ela só recomeça.",
+ "words": [
+  {
+   "text": "Para",
+   "start": 0.0,
+   "end": 0.267
+  },
+  {
+   "text": "essa",
+   "start": 0.302,
+   "end": 0.488
+  },
+  {
+   "text": "família,",
+   "start": 0.546,
+   "end": 1.057
+  },
+  {
+   "text": "a",
+   "start": 1.126,
+   "end": 1.173
+  },
+  {
+   "text": "conta",
+   "start": 1.254,
+   "end": 1.567
+  },
+  {
+   "text": "não",
+   "start": 1.614,
+   "end": 1.73
+  },
+  {
+   "text": "fecha",
+   "start": 1.811,
+   "end": 2.171
+  },
+  {
+   "text": "no",
+   "start": 2.206,
+   "end": 2.287
+  },
+  {
+   "text": "fim",
+   "start": 2.357,
+   "end": 2.554
+  },
+  {
+   "text": "do",
+   "start": 2.589,
+   "end": 2.659
+  },
+  {
+   "text": "mês.",
+   "start": 2.717,
+   "end": 3.111
+  },
+  {
+   "text": "Ela",
+   "start": 3.286,
+   "end": 3.518
+  },
+  {
+   "text": "só",
+   "start": 3.576,
+   "end": 3.738
+  },
+  {
+   "text": "recomeça.",
+   "start": 3.785,
+   "end": 4.83
+  }
+ ]
+}

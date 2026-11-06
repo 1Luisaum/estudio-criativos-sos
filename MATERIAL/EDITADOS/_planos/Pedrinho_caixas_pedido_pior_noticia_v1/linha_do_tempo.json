@@ -1,0 +1,35 @@
+{
+ "total": 27.680000000000014,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 4.830000000000001,
+   "texto": "a minha mãe acabou de me dar a pior notícia que eu poderia receber dessa semana."
+  },
+  {
+   "nome": "c1",
+   "d": 5.750000000000003,
+   "texto": "Os curativos, pro meu tratamento e proteger pra não pousar mosquito, evitar poeira,"
+  },
+  {
+   "nome": "c2",
+   "d": 6.610000000000002,
+   "texto": "Até pra mim me sentir mais protegido, estão acabando. Na verdade, acabou, que nem minha mamãe falou,"
+  },
+  {
+   "nome": "c3",
+   "d": 3.690000000000001,
+   "texto": "Seja com dois ou cinco reais, não importa o valor,"
+  },
+  {
+   "nome": "c4",
+   "d": 1.8700000000000077,
+   "texto": "já vai tá ajudando muito"
+  },
+  {
+   "nome": "c5",
+   "d": 4.93,
+   "texto": "Então, pessoal, eu peço a sua ajuda."
+  }
+ ]
+}

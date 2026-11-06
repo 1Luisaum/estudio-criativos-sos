@@ -1,0 +1,60 @@
+{
+ "text": "Um medo desses não passa com palavras. Passa com faixa nova.",
+ "words": [
+  {
+   "text": "Um",
+   "start": 0.0,
+   "end": 0.151
+  },
+  {
+   "text": "medo",
+   "start": 0.174,
+   "end": 0.453
+  },
+  {
+   "text": "desses",
+   "start": 0.511,
+   "end": 0.859
+  },
+  {
+   "text": "não",
+   "start": 0.917,
+   "end": 1.045
+  },
+  {
+   "text": "passa",
+   "start": 1.115,
+   "end": 1.463
+  },
+  {
+   "text": "com",
+   "start": 1.509,
+   "end": 1.625
+  },
+  {
+   "text": "palavras.",
+   "start": 1.683,
+   "end": 2.322
+  },
+  {
+   "text": "Passa",
+   "start": 2.406,
+   "end": 2.654
+  },
+  {
+   "text": "com",
+   "start": 2.689,
+   "end": 2.805
+  },
+  {
+   "text": "faixa",
+   "start": 2.863,
+   "end": 3.119
+  },
+  {
+   "text": "nova.",
+   "start": 3.177,
+   "end": 3.584
+  }
+ ]
+}

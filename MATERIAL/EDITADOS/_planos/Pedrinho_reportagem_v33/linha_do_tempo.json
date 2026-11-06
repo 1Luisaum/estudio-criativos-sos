@@ -1,0 +1,71 @@
+{
+ "total": 50.202695000000006,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 6.281791,
+   "texto": "Sozinha, a família do Pedrinho não alcança a conta dos cuidados. Por isso, ele aprendeu a contar com uma rede."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 1.9000000000000001,
+   "texto": "cada um ajuda como pode,"
+  },
+  {
+   "nome": "b03",
+   "tipo": "sonora",
+   "d": 7.3599999999999985,
+   "texto": "uns ajudando daqui, outros ajudando daqui, e assim a gente vai ir caminhando e vai vencendo essa batalha,"
+  },
+  {
+   "nome": "b04",
+   "tipo": "off",
+   "d": 4.845306,
+   "texto": "Nessa rede tem seguidor antigo. E tem gente nova, que ele faz questão de citar."
+  },
+  {
+   "nome": "b05",
+   "tipo": "sonora",
+   "d": 7.338999999999999,
+   "texto": "tem os anjo que apareceu, pra ajudar nessa batalha, que é os anjos da SOS Human Help,"
+  },
+  {
+   "nome": "b06",
+   "tipo": "off",
+   "d": 3.0599089999999998,
+   "texto": "A ajuda não precisa ser grande. A mãe explica."
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "d": 4.339999999999997,
+   "texto": "ou quiser doar dois reais ou cinco reais, vai tá ajudando demais."
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "d": 3.101202,
+   "texto": "E quando a ajuda chega, é assim que ele agradece."
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "d": 3.5400000000000036,
+   "texto": "E desde já, meu muito obrigado a todos vocês."
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "d": 4.486689,
+   "texto": "Cinco reais, pela SOS Human Help, já colocam você nessa rede."
+  },
+  {
+   "nome": "b11",
+   "tipo": "off",
+   "d": 3.948798,
+   "texto": "Clique em Saiba mais e entre para essa rede."
+  }
+ ]
+}

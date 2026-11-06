@@ -1,0 +1,235 @@
+{
+ "nome": "Pedrinho_cortes_batalha_v1",
+ "pedido": "lote de 30 videos 27/10/2026 - Frente A",
+ "estilo": "Cortes com gancho (edicao-criativo-ong)",
+ "angulo": "ele nao escolheu a batalha da EB, mas escolheu continuar lutando: feridas e horas de curativo todo dia",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho\\Roteiro 7.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\echoes_of_lumen-sad-piano-591198.mp3",
+ "face": [
+  535,
+  480
+ ],
+ "zooms": {
+  "Z1": {
+   "z": 1.08,
+   "center": [
+    535,
+    1115
+   ]
+  },
+  "Z2": {
+   "z": 1.16,
+   "center": [
+    535,
+    1110
+   ]
+  },
+  "Z3": {
+   "z": 1.25,
+   "center": [
+    535,
+    1105
+   ]
+  },
+  "ZF": {
+   "z": 1.35,
+   "center": [
+    535,
+    1100
+   ]
+  }
+ },
+ "segments": [
+  {
+   "in": 1.15,
+   "out": 2.88,
+   "zoom": "Z1",
+   "txt": "Eu sou o Pedrinho Guerreiro"
+  },
+  {
+   "in": 3.27,
+   "out": 5.66,
+   "zoom": "Z2",
+   "txt": "e eu tenho epidermólise bolhosa."
+  },
+  {
+   "in": 6.61,
+   "out": 7.62,
+   "zoom": "Z3",
+   "txt": "todos os dias"
+  },
+  {
+   "in": 7.99,
+   "out": 9.56,
+   "zoom": "ZF",
+   "txt": "eu enfrento feridas"
+  },
+  {
+   "in": 10.01,
+   "out": 12.74,
+   "broll": [
+    {
+     "src": "Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     "start": 185.0
+    }
+   ],
+   "txt": "e horas e horas de curativo."
+  },
+  {
+   "in": 14.67,
+   "out": 16.34,
+   "zoom": "Z2",
+   "txt": "Eu não escolhi essa batalha,"
+  },
+  {
+   "in": 16.87,
+   "out": 17.9,
+   "zoom": "Z1",
+   "txt": "mas eu escolhi"
+  },
+  {
+   "in": 18.27,
+   "out": 19.9,
+   "broll": [
+    {
+     "src": "20260410_210553.mp4",
+     "start": 18.0
+    }
+   ],
+   "txt": "continuar sempre lutando,"
+  },
+  {
+   "in": 20.29,
+   "out": 22.82,
+   "zoom": "ZF",
+   "txt": "sempre com a cabeça erguida."
+  },
+  {
+   "in": 24.83,
+   "out": 26.56,
+   "broll": [
+    {
+     "src": "20260825_134438.jpg"
+    },
+    {
+     "src": "20260825_134710.jpg"
+    },
+    {
+     "src": "20260825_134039.jpg"
+    },
+    {
+     "src": "20260825_134340.jpg"
+    }
+   ],
+   "txt": "hoje os meus cuidados"
+  },
+  {
+   "in": 27.13,
+   "out": 28.8,
+   "zoom": "Z1",
+   "txt": "passam de quarenta mil"
+  },
+  {
+   "in": 29.15,
+   "out": 29.86,
+   "zoom": "Z3",
+   "txt": "por mês."
+  },
+  {
+   "in": 31.49,
+   "out": 32.6,
+   "zoom": "Z2",
+   "txt": "se você puder"
+  },
+  {
+   "in": 33.33,
+   "out": 34.5,
+   "zoom": "ZF",
+   "txt": "lutar comigo,"
+  },
+  {
+   "in": 38.97,
+   "out": 39.56,
+   "zoom": "Z1",
+   "txt": "desde já,"
+  },
+  {
+   "in": 39.99,
+   "out": 42.22,
+   "zoom": "Z2",
+   "txt": "minha gratidão de coração mesmo."
+  }
+ ],
+ "fix": {
+  "QUARENTA": "40"
+ },
+ "red": [
+  "FERIDAS",
+  "CURATIVO",
+  "BATALHA",
+  "LUTANDO",
+  "40",
+  "MIL",
+  "LUTAR"
+ ],
+ "badge": null,
+ "chamada": {
+  "linhas": [
+   [
+    "APENAS R$10",
+    124
+   ],
+   [
+    "PODEM MUDAR A VIDA DO",
+    64
+   ],
+   [
+    "PEDRINHO GUERREIRO!",
+    84
+   ]
+  ],
+  "y": 1300
+ },
+ "endcard": {
+  "src": "20260410_210553.mp4",
+  "start": 36.0,
+  "dur": 3.4,
+  "lines": [
+   "LUTE JUNTO",
+   "COM O PEDRINHO"
+  ],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "hook": [
+  {
+   "t0": 0.0,
+   "t1": 1.9,
+   "lines": [
+    "ELE NÃO ESCOLHEU",
+    "ESSA BATALHA"
+   ],
+   "fs": 100
+  },
+  {
+   "t0": 1.9,
+   "t1": 5.3,
+   "lines": [
+    "*HORAS E HORAS*",
+    "DE CURATIVO",
+    "TODOS OS DIAS"
+   ],
+   "fs": 92
+  }
+ ],
+ "fatos": {
+  "nao escolhi essa batalha, mas escolhi continuar lutando": "Pedrinho, banco Roteiro 7.mp4, 14.7-22.8 s",
+  "todos os dias enfrento feridas e horas e horas de curativo (gancho)": "Pedrinho, banco Roteiro 7.mp4, 6.6-12.7 s",
+  "cuidados passam de quarenta mil por mes": "Pedrinho, banco Roteiro 7.mp4, 24.9-29.8 s",
+  "tela final 'lute junto com o Pedrinho'": "Pedrinho, banco Roteiro 7.mp4, 31.5-34.4 s ('se voce puder lutar comigo')",
+  "R$10": "padrao dos pedidos (brief do lote 27/10); sem valor dito no bruto",
+  "cortado": "'clique em Doar agora' (36.4-38.3 s)"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 27\\PEB 115 - CORTES COM GANCHO.mp4"
+}

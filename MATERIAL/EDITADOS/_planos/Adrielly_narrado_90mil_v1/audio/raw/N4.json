@@ -1,0 +1,60 @@
+{
+ "text": "Ninguém junta noventa mil reais sozinho. Mas muita gente junta, consegue.",
+ "words": [
+  {
+   "text": "Ninguém",
+   "start": 0.0,
+   "end": 0.441
+  },
+  {
+   "text": "junta",
+   "start": 0.511,
+   "end": 0.987
+  },
+  {
+   "text": "noventa",
+   "start": 1.115,
+   "end": 1.556
+  },
+  {
+   "text": "mil",
+   "start": 1.602,
+   "end": 1.741
+  },
+  {
+   "text": "reais",
+   "start": 1.788,
+   "end": 2.101
+  },
+  {
+   "text": "sozinho.",
+   "start": 2.125,
+   "end": 2.763
+  },
+  {
+   "text": "Mas",
+   "start": 3.402,
+   "end": 3.692
+  },
+  {
+   "text": "muita",
+   "start": 3.82,
+   "end": 4.11
+  },
+  {
+   "text": "gente",
+   "start": 4.156,
+   "end": 4.423
+  },
+  {
+   "text": "junta,",
+   "start": 4.481,
+   "end": 5.027
+  },
+  {
+   "text": "consegue.",
+   "start": 5.283,
+   "end": 6.177
+  }
+ ]
+}

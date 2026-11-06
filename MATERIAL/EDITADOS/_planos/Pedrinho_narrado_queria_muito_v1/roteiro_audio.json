@@ -1,0 +1,21 @@
+{
+ "voice_id": "Hmn4B9B77pf6ttydteJ8",
+ "narracao": {
+  "N1": "Ele não pediu brinquedo. Não pediu viagem. A lista do Pedrinho é bem mais curta.",
+  "N2": "Dormir. Só isso. Virar na cama sem doer. Acordar sem a pele colada no pano.",
+  "N3": "Tem mais um pedido nessa lista. Ele quer que a mãe consiga trabalhar tranquila.",
+  "N4": "Os sonhos dele cabem numa caixa de curativos. E mesmo assim, essa caixa vive acabando.",
+  "N5": "Ele preferia não pedir. Mas a pele não espera a vergonha passar.",
+  "N6": "Clique em Saiba mais e risque um pedido dessa lista."
+ },
+ "efeitos": {
+  "boom": {
+   "text": "deep cinematic boom impact hit, dark trailer, short tail",
+   "dur": 2.0
+  },
+  "whoosh": {
+   "text": "fast soft cinematic whoosh transition",
+   "dur": 0.8
+  }
+ }
+}

@@ -1,0 +1,28 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v5.mp4
+narracao OFF1
+narracao OFF2
+narracao OFF3
+narracao OFF4
+narracao OFF5
+  b01: manchete=290 gc=- legenda=960 etiqueta=None
+ok b01 off 2.66s O calor está piorando as feridas do Pedrinho.
+  b02: manchete=ESCONDIDA (rosto) gc=ESCONDIDA (rosto) legenda=790 etiqueta=None
+ok b02 sonora 4.50s Esse calor tá acabando com a pele do meu filho. e estou ficando desesperada,
+  b03: manchete=290 gc=- legenda=1060 etiqueta=None
+  b03: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b03 off 6.85s Ele tem epidermólise bolhosa, a doença da pele de borboleta. E as feridas estão cada vez mais abertas.
+  b04: manchete=ESCONDIDA (rosto) gc=850 legenda=990 etiqueta=None
+ok b04 sonora 8.42s E eu não sei, pessoal, se é por causa do tempo ou não, mas os meus ferimentos estão cada vez mais abertos, mais do que nunca.
+  b05: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b05 off 2.40s À noite, a dor não deixa ele dormir.
+  b06: manchete=ESCONDIDA (rosto) gc=- legenda=1060 etiqueta=None
+ok b06 sonora 4.16s Eu não aguento mais não conseguir dormir Eu quero conseguir dormir bem.
+  b07: manchete=ESCONDIDA (rosto) gc=- legenda=790 etiqueta=None
+ok b07 sonora 4.22s quiser doar dois reais ou cinco reais, vai tá ajudando demais.
+  b08: manchete=290 gc=- legenda=980 etiqueta=1150
+ok b08 off 7.33s A SOS Human Help está arrecadando doações para os curativos do Pedrinho. Cinco reais já ajudam.
+  b09: manchete=ESCONDIDA (rosto) gc=- legenda=840 etiqueta=1010
+ok b09 sonora 4.74s vamo comigo, nessa batalha, entre junto nessa corrente do bem.
+  b10: manchete=ESCONDIDA (rosto) gc=- legenda=700 etiqueta=870
+ok b10 off 3.96s Toque em Saiba mais e entre nessa corrente.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 01\Pedrinho_reportagem_v5.mp4 duracao=49.2s

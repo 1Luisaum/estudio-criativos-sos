@@ -1,0 +1,116 @@
+{
+ "crianca": "Pedrinho",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maosamigas_907048145709918.mp4",
+ "estilo": "BIB L1 MAIS UM DIA",
+ "base": [
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_152631.mp4",
+   "ini": 1,
+   "fim": 4,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113735.mp4",
+   "ini": 18,
+   "fim": 21,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 5,
+   "fim": 8,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 15,
+   "fim": 18,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113535.mp4",
+   "ini": 10,
+   "fim": 13,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_114148.mp4",
+   "ini": 15,
+   "fim": 18,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104943.mp4",
+   "ini": 8,
+   "fim": 11,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\banco de vídeos do pedrinho\\_clipes_bib\\bn2_1760826007_92s.mp4",
+   "ini": 2,
+   "fim": 5,
+   "som": false
+  },
+  {
+   "arq": "{RAIZ}\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_113918.mp4",
+   "ini": 3,
+   "fim": 6.5,
+   "som": false
+  }
+ ],
+ "textos": [
+  {
+   "de": 0,
+   "ate": 25.5,
+   "linhas": [
+    "Mais um dia postando porque",
+    "os curativos do Pedrinho",
+    "estão acabando 💔"
+   ],
+   "estilo": "seco",
+   "size": 46,
+   "y": 1275,
+   "contorno": 4,
+   "lh": 1.08
+  },
+  {
+   "de": 0,
+   "ate": 25.5,
+   "linhas": [
+    "5 reais já fazem a diferença"
+   ],
+   "estilo": "caixa",
+   "bg": [
+    24,
+    70,
+    215
+   ],
+   "fg": "branco",
+   "size": 40,
+   "y": 1480,
+   "pad": [
+    16,
+    4
+   ]
+  }
+ ],
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 25.5
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãos Amigas 907 - mais um dia postando.mp3",
+ "musica_volume": 1.0,
+ "modelo": {
+  "id": "peb215_l1_mais_um_dia",
+  "exemplo": "PEB 215",
+  "descricao": "907048145709918: letra branca com contorno (y 66%) e faixa azul \"5 reais ja fazem a diferenca\" (y 77%)",
+  "anuncio": "https://www.facebook.com/ads/library/?id=907048145709918",
+  "titulo": "Mais um dia postando"
+ }
+}

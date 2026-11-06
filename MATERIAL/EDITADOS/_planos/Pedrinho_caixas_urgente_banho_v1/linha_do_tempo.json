@@ -1,0 +1,35 @@
+{
+ "total": 29.272083000000027,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 3.322083,
+   "texto": "Sem soro, a água do banho arde na pele do Pedrinho."
+  },
+  {
+   "nome": "c1",
+   "d": 5.129999999999998,
+   "texto": "cada item de curativo é importante em uma troca com os outros cuidados."
+  },
+  {
+   "nome": "c2",
+   "d": 6.4300000000000095,
+   "texto": "se não ter um soro fisiológico, minha mãe vai ter que usar água pra me dar banho,"
+  },
+  {
+   "nome": "c3",
+   "d": 4.1700000000000115,
+   "texto": "E a água, se ela bater na pele, ela arde e arde muito"
+  },
+  {
+   "nome": "c4",
+   "d": 5.529999999999997,
+   "texto": "os custos são muito alto, de cada atadura, de cada gazes."
+  },
+  {
+   "nome": "c5",
+   "d": 4.690000000000008,
+   "texto": "E por favor, toda ajuda, é muito bem-vinda mesmo,"
+  }
+ ]
+}

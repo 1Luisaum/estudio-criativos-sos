@@ -1,0 +1,408 @@
+{
+ "language_code": "eng",
+ "language_probability": 1.0,
+ "text": "If you feel in your heart to help me, even just a little, five or ten dollars is gonna make a huge difference in my life. God bless you",
+ "words": [
+  {
+   "text": "If",
+   "start": 1.24,
+   "end": 1.36,
+   "type": "word",
+   "logprob": -4.100715523236431e-05
+  },
+  {
+   "text": " ",
+   "start": 1.36,
+   "end": 1.46,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "you",
+   "start": 1.46,
+   "end": 1.56,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 1.56,
+   "end": 1.74,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "feel",
+   "start": 1.74,
+   "end": 2.1,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 2.1,
+   "end": 2.5,
+   "type": "spacing",
+   "logprob": -8.22540732769994e-06
+  },
+  {
+   "text": "in",
+   "start": 2.5,
+   "end": 2.6,
+   "type": "word",
+   "logprob": -8.22540732769994e-06
+  },
+  {
+   "text": " ",
+   "start": 2.6,
+   "end": 2.64,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "your",
+   "start": 2.64,
+   "end": 2.8,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 2.8,
+   "end": 2.86,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "heart",
+   "start": 2.86,
+   "end": 3.16,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 3.16,
+   "end": 3.44,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "to",
+   "start": 3.5,
+   "end": 3.62,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 3.62,
+   "end": 3.68,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "help",
+   "start": 3.68,
+   "end": 3.98,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 3.98,
+   "end": 4.019,
+   "type": "spacing",
+   "logprob": -1.7881377516459906e-06
+  },
+  {
+   "text": "me,",
+   "start": 4.019,
+   "end": 4.16,
+   "type": "word",
+   "logprob": -0.012690232444735253
+  },
+  {
+   "text": " ",
+   "start": 4.16,
+   "end": 4.16,
+   "type": "spacing",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": "even",
+   "start": 5.2,
+   "end": 5.48,
+   "type": "word",
+   "logprob": -2.145764938177308e-06
+  },
+  {
+   "text": " ",
+   "start": 5.48,
+   "end": 5.54,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "just",
+   "start": 5.54,
+   "end": 5.78,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 5.78,
+   "end": 5.86,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 5.86,
+   "end": 5.9,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 5.9,
+   "end": 5.98,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "little,",
+   "start": 5.98,
+   "end": 6.4,
+   "type": "word",
+   "logprob": -0.00018237606022962285
+  },
+  {
+   "text": " ",
+   "start": 6.4,
+   "end": 6.4,
+   "type": "spacing",
+   "logprob": -9.405170567333698e-05
+  },
+  {
+   "text": "five",
+   "start": 7.32,
+   "end": 7.92,
+   "type": "word",
+   "logprob": -9.405170567333698e-05
+  },
+  {
+   "text": " ",
+   "start": 7.92,
+   "end": 7.92,
+   "type": "spacing",
+   "logprob": -1.1205610462639015e-05
+  },
+  {
+   "text": "or",
+   "start": 8.7,
+   "end": 8.8,
+   "type": "word",
+   "logprob": -1.1205610462639015e-05
+  },
+  {
+   "text": " ",
+   "start": 8.8,
+   "end": 8.92,
+   "type": "spacing",
+   "logprob": -0.0022253054194152355
+  },
+  {
+   "text": "ten",
+   "start": 8.92,
+   "end": 9.16,
+   "type": "word",
+   "logprob": -0.0022253054194152355
+  },
+  {
+   "text": " ",
+   "start": 9.16,
+   "end": 9.24,
+   "type": "spacing",
+   "logprob": -1.9550132492440753e-05
+  },
+  {
+   "text": "dollars",
+   "start": 9.26,
+   "end": 9.72,
+   "type": "word",
+   "logprob": -1.9550132492440753e-05
+  },
+  {
+   "text": " ",
+   "start": 9.72,
+   "end": 9.72,
+   "type": "spacing",
+   "logprob": -0.00013982271775603294
+  },
+  {
+   "text": "is",
+   "start": 10.66,
+   "end": 10.8,
+   "type": "word",
+   "logprob": -0.00013982271775603294
+  },
+  {
+   "text": " ",
+   "start": 10.8,
+   "end": 10.86,
+   "type": "spacing",
+   "logprob": -0.00048792376765049994
+  },
+  {
+   "text": "gonna",
+   "start": 10.86,
+   "end": 11.1,
+   "type": "word",
+   "logprob": -0.00048792376765049994
+  },
+  {
+   "text": " ",
+   "start": 11.1,
+   "end": 11.18,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "make",
+   "start": 11.18,
+   "end": 11.52,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 11.52,
+   "end": 11.64,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "a",
+   "start": 11.64,
+   "end": 11.74,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 11.74,
+   "end": 11.84,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "huge",
+   "start": 11.84,
+   "end": 12.16,
+   "type": "word",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": " ",
+   "start": 12.16,
+   "end": 12.26,
+   "type": "spacing",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": "difference",
+   "start": 12.26,
+   "end": 12.82,
+   "type": "word",
+   "logprob": -8.344646857949556e-07
+  },
+  {
+   "text": " ",
+   "start": 12.82,
+   "end": 13.08,
+   "type": "spacing",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": "in",
+   "start": 13.1,
+   "end": 13.2,
+   "type": "word",
+   "logprob": -1.1920928244535389e-07
+  },
+  {
+   "text": " ",
+   "start": 13.2,
+   "end": 13.26,
+   "type": "spacing",
+   "logprob": 0.0
+  },
+  {
+   "text": "my",
+   "start": 13.26,
+   "end": 13.44,
+   "type": "word",
+   "logprob": 0.0
+  },
+  {
+   "text": " ",
+   "start": 13.44,
+   "end": 13.5,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "life.",
+   "start": 13.5,
+   "end": 13.92,
+   "type": "word",
+   "logprob": -6.675714530501863e-07
+  },
+  {
+   "text": " ",
+   "start": 13.92,
+   "end": 13.94,
+   "type": "spacing",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": "God",
+   "start": 14.88,
+   "end": 15.06,
+   "type": "word",
+   "logprob": -3.3378546504536644e-06
+  },
+  {
+   "text": " ",
+   "start": 15.06,
+   "end": 15.18,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "bless",
+   "start": 15.18,
+   "end": 15.52,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 15.52,
+   "end": 15.6,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "you",
+   "start": 15.6,
+   "end": 15.72,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  }
+ ],
+ "transcription_id": "p96zNZHTclTcQqqb9jbD",
+ "audio_duration_secs": 16.771
+}

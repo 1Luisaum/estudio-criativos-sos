@@ -1,0 +1,137 @@
+{
+ "crianca": "Adrielly",
+ "ref": "{RAIZ}\\EDITADOS\\_referencias\\bibliotecas\\maeritinha_1658330079039610.mp4",
+ "estilo": "BIB CONSELHO SEMEAR",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\biblia_vela.mp4",
+   "ini": 0,
+   "fim": 4.5,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_bracos_6436.mp4",
+   "ini": 0,
+   "fim": 2.9,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_perna_cama.mp4",
+   "ini": 0,
+   "fim": 3.3,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_maos_6454.mp4",
+   "ini": 0,
+   "fim": 2.6,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_braco_hospital.mp4",
+   "ini": 0,
+   "fim": 3.3,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_perna_soro.mp4",
+   "ini": 0,
+   "fim": 3.3,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_bracos_6438.mp4",
+   "ini": 0,
+   "fim": 1.7,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_braco_6448.mp4",
+   "ini": 0,
+   "fim": 1.7,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\TODAS AS PASTAS\\adriely\\IMG_6452.MOV",
+   "ini": 3.5,
+   "fim": 5.38,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_conselho_semear_sr.mp3",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\narracoes\\n_adrielly_conselho_semear_sr.json",
+  "de": 0.2
+ },
+ "textos": [
+  {
+   "de": 0,
+   "ate": 4.5,
+   "linhas": [
+    "Quem semeia com fartura, com fartura",
+    "também colherá – 2 Coríntios 9:6"
+   ],
+   "estilo": "seco",
+   "fg": "amarelo",
+   "size": 44,
+   "y": 220,
+   "contorno": 3,
+   "lh": 1.08
+  },
+  {
+   "de": 4.6,
+   "ate": 22.38,
+   "linhas": [
+    "DOE 5 reais",
+    "e AJUDE A ADRIELLY 💗"
+   ],
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 50,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1330
+ },
+ "fim": {
+  "linhas": [
+   "CLIQUE EM",
+   "SAIBA MAIS"
+  ],
+  "cor": "vermelho",
+  "size": 70,
+  "escuro": 0.45,
+  "de": 22.38
+ },
+ "musica": "{RAIZ}\\MÚSICAS\\ANÚNCIOS QUE DERAM CERTO\\Mãe Ritinha 1658 - conselho (fundo sem voz, sem chiado).mp3",
+ "musica_volume": 1.995,
+ "modelo": {
+  "id": "peb223_l2_conselho",
+  "exemplo": "PEB 223",
+  "descricao": "1658330079039610: gancho com a Biblia (IA, no lugar do homem falando no carro) e o versiculo em amarelo; depois caixa rosa \"DOE ... e AJUDE\" no alto e legenda pequena; narracao",
+  "anuncio": "https://www.facebook.com/ads/library/?id=1658330079039610",
+  "titulo": "Presta atenção neste conselho",
+  "variacao": "conselho_semear"
+ },
+ "fatos": {
+  "dor que nao deixa levantar da cama": "IMG_4216 0,56-6,28",
+  "tratamento caro, ficar sem ele custa a vida": "IMG_6212 / IMG_6224",
+  "cinco reais": "IMG_4205 / IMG_4493"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 64\\AEB 101 - BIB CONSELHO SEMEAR.mp4",
+ "ajuste_05_11": "pedido do usuário: caixa vermelha chamativa como no Pedrinho (PEB 227), sem P&B, sem pernas enfaixadas, mais cenas dela e das feridas com borrão leve",
+ "ajuste_05_11c": "caixa vermelha (padrão), entra depois do versículo; mais takes de feridas, menos dela falando",
+ "ajuste_05_11d": "pedido do usuário: legenda UNICEF, menos takes dela falando, mais takes das feridas (borrão leve), sem P&B",
+ "ajuste_05_11g": "imagem de IA crista no lugar de broto_terra (sem plantacao), pedido do usuario"
+}

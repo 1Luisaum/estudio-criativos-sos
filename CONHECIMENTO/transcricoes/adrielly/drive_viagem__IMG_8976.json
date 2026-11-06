@@ -1,0 +1,17 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Aí",
+ "words": [
+  {
+   "text": "Aí",
+   "start": 2.84,
+   "end": 3.28,
+   "type": "word",
+   "speaker_id": "speaker_0",
+   "logprob": -0.4221990667283535
+  }
+ ],
+ "transcription_id": "8LHUAiHR5Sr6ud7G2aeR",
+ "audio_duration_secs": 4.265
+}

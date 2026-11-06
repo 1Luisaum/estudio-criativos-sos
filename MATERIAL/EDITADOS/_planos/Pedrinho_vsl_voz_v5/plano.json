@@ -1,0 +1,200 @@
+{
+ "nome": "Pedrinho_vsl_voz_v5",
+ "pedido": "completar LEVA 01 (26/10/2026)",
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/monument_music-wander-143535 (2).mp3",
+ "musica_volume": 0.09,
+ "chamada": [
+  "ELE NÃO PODE ESPERAR 💔",
+  "DOE R$ 4 POR UM DIA SEM DOR 👼"
+ ],
+ "etiqueta": "R$ 4 já é esperança ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "palavras_chave": [
+  "CURATIVO",
+  "CURATIVOS",
+  "ACABANDO",
+  "ACABOU",
+  "DOR",
+  "DORES",
+  "MEDO",
+  "ANJO",
+  "NOITE",
+  "AMANHECER",
+  "ESPERAR",
+  "ARDE",
+  "ÁGUA",
+  "SORO",
+  "FAIXA",
+  "ATADURA",
+  "REAIS",
+  "GRATIDÃO",
+  "BATALHA",
+  "ESQUECERAM",
+  "SUMIRAM"
+ ],
+ "frases": [
+  {
+   "nome": "f01",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro9.json",
+   "cortes": [
+    [
+     44.18,
+     45.46
+    ],
+    [
+     46.98,
+     48.42
+    ],
+    [
+     49.06,
+     51.38
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+     44.1,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "f02",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/roteiro 9.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_roteiro9.json",
+   "cortes": [
+    [
+     27.58,
+     29.2
+    ],
+    [
+     29.84,
+     31.1
+    ],
+    [
+     32.18,
+     33.1
+    ],
+    [
+     34.24,
+     35.96
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     210.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "f03",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cortes": [
+    [
+     30.3,
+     30.8
+    ],
+    [
+     32.88,
+     33.44
+    ],
+    [
+     34.96,
+     38.78
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/soro fisiológico.png"
+  },
+  {
+   "nome": "f04",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cortes": [
+    [
+     40.08,
+     41.7
+    ],
+    [
+     42.36,
+     45.04
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     280.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "f05",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cortes": [
+    [
+     46.82,
+     49.36
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     50.0
+    ]
+   ]
+  },
+  {
+   "nome": "f06",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cortes": [
+    [
+     63.0,
+     66.92
+    ],
+    [
+     67.72,
+     67.72
+    ],
+    [
+     69.44,
+     69.72
+    ],
+    [
+     71.56,
+     74.14
+    ]
+   ],
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241110_104724.mp4",
+     12.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "f07",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/EDITADOS/_planos/_tx_brutos/t_peco_perdao.json",
+   "cortes": [
+    [
+     75.12,
+     75.9
+    ]
+   ],
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20230603_203654.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "fix": {
+  "B": "EB"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\VSL COM VOZ DA CRIANÇA\\LEVA 01\\Pedrinho_vsl_voz_v5.mp4"
+}

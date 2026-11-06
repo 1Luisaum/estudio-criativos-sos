@@ -1,0 +1,17 @@
+N1: 6.04s  Pedrinho tem epidermólise bolhosa. Cada mensagem de carinho chega até ele. Mas as faixas continuam acabando.
+N2: 5.20s  Duas vezes por dia, a mãe dele desfaz e refaz cada faixa do corpo.
+N3: 2.17s  Oração ele já tem. Falta a faixa.
+N4: 3.15s  Toque em Saiba mais e transforme o seu carinho em curativo.
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_oracao_v1.mp4
+real  ok  t=  5.90
+narr  ok  t= 12.10
+real  ok  t= 17.00
+narr  ok  t= 22.37
+real  ok  t= 28.27
+narr  ok  t= 30.57
+real  ok  t= 35.43
+card  ok  t= 36.73
+narr  ok  t= 40.03
+end   ok  t= 43.63
+audio: 43.63s  buracos=nenhum
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_oracao_v1.mp4  duracao=43.63s

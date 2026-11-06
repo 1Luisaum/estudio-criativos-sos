@@ -1,0 +1,35 @@
+{
+ "text": "Isso pode parecer um simples esparadrapo.",
+ "words": [
+  {
+   "text": "Isso",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "pode",
+   "start": 0.279,
+   "end": 0.453
+  },
+  {
+   "text": "parecer",
+   "start": 0.488,
+   "end": 0.789
+  },
+  {
+   "text": "um",
+   "start": 0.824,
+   "end": 0.906
+  },
+  {
+   "text": "simples",
+   "start": 0.964,
+   "end": 1.289
+  },
+  {
+   "text": "esparadrapo.",
+   "start": 1.347,
+   "end": 2.015
+  }
+ ]
+}

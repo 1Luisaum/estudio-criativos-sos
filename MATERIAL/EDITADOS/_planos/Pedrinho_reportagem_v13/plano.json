@@ -1,0 +1,224 @@
+{
+ "nome": "Pedrinho_reportagem_v13",
+ "pedido": "completar as LEVAs 27/10/2026 - frente 2",
+ "angulo": "a mae pede perdao por pedir ajuda de novo; para a familia, pedir e o que resta quando o curativo acaba",
+ "voz": {
+  "voice_id": "4XmhZ74tBbUVCXIYNMMo",
+  "model_id": "eleven_multilingual_v2",
+  "obs": "Leonardo (brasileiro), conta paga"
+ },
+ "musica": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/MÚSICAS/paulyudin-sad-sad-music-485935 (2).mp3",
+ "musica_volume": 0.07,
+ "marca": "SOS HUMAN HELP",
+ "manchete": [
+  "MÃE DE MENINO COM EB PEDE",
+  "PERDÃO POR PEDIR AJUDA"
+ ],
+ "etiqueta": "R$ 10 para atadura e pomada ❤️",
+ "etiqueta_final": "👇 Toque em SAIBA MAIS",
+ "narracao": {
+  "OFF1": "Antes de pedir ajuda, ela pediu perdão.",
+  "OFF2": "O filho dela, o Pedrinho, tem epidermólise bolhosa. A pele forma bolhas de sangue e de água, e precisa de curativo todos os dias.",
+  "OFF3": "Quando o material acaba, pedir de novo é o único caminho que resta para a família.",
+  "OFF4": "A SOS Human Help arrecada doações para os curativos do Pedrinho. Dez reais já ajudam a comprar atadura e pomada.",
+  "OFF5": "Toque em Saiba mais. Nenhuma mãe deveria pedir perdão por cuidar do próprio filho."
+ },
+ "fatos": {
+  "peco perdao por vim aqui novamente pedir ajuda pro meu guerreiro": "mae, Roteiro_ peco perdao (0.6-5.6 s, speaker_0)",
+  "bolhas de sangue e de agua a cada dia; curativos todos os dias": "Pedrinho, 20260916_234157.mp4 (40-44.7 s) e 20260917_001530.mp4 (3.9-9.7 s)",
+  "e algo que compra, usa curativo, acaba rapidamente e logo em seguida preciso novamente": "Pedrinho, 20260917_001530.mp4 (26.8-39.4 s)",
+  "se nao ter os curativos, os cuidados necessarios, e a unica coisa que a gente pode ta fazendo": "Pedrinho, Roteiro_ peco perdao (9.9-19.9 s, speaker_1)",
+  "o Pedrinho ta precisando de atadura, precisando de pomada": "mae, Roteiro_ esse calor ta acabando com a pele do meu filho (14-20.7 s)",
+  "entao, pessoal, eu peco a sua ajuda": "Pedrinho, 20260917_000819.mp4 (50.9-53.4 s)",
+  "R$10": "padrao dos pedidos (brief)"
+ },
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "fala": "OFF1",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+     40.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     0.56,
+     2.46
+    ],
+    [
+     4.04,
+     5.08
+    ]
+   ],
+   "gc": [
+    "MÃE DO PEDRINHO",
+    "faz os curativos do filho"
+   ]
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "fala": "OFF2",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     176.0,
+     "pb"
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     4.0,
+     "pb"
+    ]
+   ]
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_001530.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_001530.json",
+   "cortes": [
+    [
+     26.8,
+     27.38
+    ],
+    [
+     28.22,
+     29.6
+    ],
+    [
+     31.06,
+     33.18
+    ],
+    [
+     36.7,
+     38.6
+    ]
+   ],
+   "gc": [
+    "PEDRINHO GUERREIRO",
+    "tem epidermólise bolhosa"
+   ]
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "fala": "OFF3",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/Vídeo Mostrando itens de curativos em cima da Cama  e  Finalizando os Curativos_.mp4",
+     22.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260824_182501.mp4",
+     52.0
+    ]
+   ]
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ peço perdão por ter que vim pedir ajuda_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_peco_perdao.json",
+   "cortes": [
+    [
+     9.92,
+     9.92
+    ],
+    [
+     11.64,
+     12.36
+    ],
+    [
+     13.54,
+     14.24
+    ],
+    [
+     15.7,
+     16.26
+    ],
+    [
+     17.4,
+     17.6
+    ],
+    [
+     18.72,
+     19.24
+    ]
+   ]
+  },
+  {
+   "nome": "b07",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/Roteiro_ esse calor tá acabando com a pele do meu filho_.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/v3_mae_calor.json",
+   "cortes": [
+    [
+     15.62,
+     16.06
+    ],
+    [
+     17.42,
+     17.66
+    ],
+    [
+     18.9,
+     20.06
+    ]
+   ]
+  },
+  {
+   "nome": "b08",
+   "tipo": "off",
+   "fala": "OFF4",
+   "cenas": [
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20260410_210553.mp4",
+     6.0
+    ],
+    [
+     "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/vídeo na Horizontal para o Site_.mp4",
+     60.0
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b09",
+   "tipo": "sonora",
+   "fonte": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/VÍDEOS PARA EDITAR/20260917_000819.mp4",
+   "tx": "C:/Users/EDITING_SECTOR/.claude/estudio-ong/CONHECIMENTO/transcricoes/t_000819.json",
+   "cortes": [
+    [
+     50.88,
+     51.28
+    ],
+    [
+     51.8,
+     52.94
+    ]
+   ],
+   "etiqueta": true
+  },
+  {
+   "nome": "b10",
+   "tipo": "off",
+   "fala": "OFF5",
+   "foto": "C:/Users/EDITING_SECTOR/Desktop/EDIÇÃO COM CLAUDE/banco de vídeos do pedrinho/20241107_202353.jpg",
+   "final": true
+  }
+ ],
+ "zonas_protegidas": [],
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 28\\PEB 144 - REPORTAGEM.mp4",
+ "obs": "1a montagem: na foto final IMG-20260620-WA0011 a legenda caia na boca dele; trocada"
+}

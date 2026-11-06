@@ -1,0 +1,16 @@
+saida: C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v5.mp4
+  f01: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=1020 etiqueta=None
+ok f01 7.31s quem é EB não pode esperar, E eu não posso esperar mais. Os meus ferimentos não podem esperar.
+  f02: chamada=290 legenda=540 etiqueta=None
+ok f02 8.01s a gente até chegou a entrar, com processos contra o governo, mas essas coisas, demora e demora muito mesmo
+  f03: chamada=290 legenda=1000 etiqueta=None
+ok f03 7.01s se não ter um soro fisiológico, a minha mãe vai ter que usar água pra me dar banho,
+  f04: chamada=290 legenda=1000 etiqueta=None
+ok f04 5.57s E a água, se ela bater na pele, ela arde e arde muito que vocês não têm noção,
+  f05: chamada=290 legenda=1000 etiqueta=None
+ok f05 3.53s Então, por favor, evita que isso aconteça,
+  f06: chamada=290 legenda=920 etiqueta=1150
+ok f06 8.91s quatro, cinco reais, dez reais, parece pouco, mas pra mim, é uma nova esperança de um dia sem dor.
+  f07: chamada=ESCONDIDA (rosto ocupa a zona segura) legenda=700 etiqueta=None
+ok f07 3.05s Desde já, gratidão.
+OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v5.mp4 duracao=43.4s

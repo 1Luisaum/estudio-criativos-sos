@@ -1,0 +1,190 @@
+{
+ "nome": "Pedrinho_lettering_nem_o_basico_v1",
+ "pedido": "Completar as LEVAs 27/10/2026 - Frente 1",
+ "estilo": "Cortes com lettering (criativo-lettering-ong)",
+ "angulo": "a mae faz tudo o que esta no alcance dela, mas a EB e terrivel e, pela condicao dela, nao consegue nem o basico pro filho; voce nao tem obrigacao, mas ajude a salvar o filho dela",
+ "raw": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\Roteiro_ Nenhuma mãe deveria ouvir isso você é culpada pela situação do seu filho_.mp4",
+ "transcript": "transcricao.json",
+ "bank": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\banco de vídeos do pedrinho",
+ "music": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\alex-morgan-sad-piano-emotional-rain-story-575883.mp3",
+ "face": [
+  525,
+  450
+ ],
+ "segments": [
+  {
+   "in": 1.61,
+   "out": 2.94,
+   "zoom": "Z1",
+   "txt": "E nenhuma mãe deveria"
+  },
+  {
+   "in": 3.31,
+   "out": 5.5,
+   "zoom": "Z2",
+   "txt": "ouvir isso: Você é culpada"
+  },
+  {
+   "in": 5.75,
+   "out": 7.4,
+   "zoom": "ZF",
+   "txt": "pelo que o seu filho passa."
+  },
+  {
+   "in": 9.81,
+   "out": 10.66,
+   "zoom": "Z1",
+   "txt": "Eu faço tudo,"
+  },
+  {
+   "in": 11.03,
+   "out": 12.2,
+   "zoom": "Z3",
+   "txt": "que tá no meu alcance,"
+  },
+  {
+   "in": 12.69,
+   "out": 13.52,
+   "zoom": "Z2",
+   "txt": "mas a EB,"
+  },
+  {
+   "in": 13.67,
+   "out": 14.68,
+   "zoom": "Z1",
+   "txt": "essa enfermidade,"
+  },
+  {
+   "in": 15.15,
+   "out": 16.1,
+   "zoom": "ZF",
+   "txt": "ela é terrível."
+  },
+  {
+   "in": 18.09,
+   "out": 19.22,
+   "zoom": "Z2",
+   "txt": "Eu queria muito,"
+  },
+  {
+   "in": 20.03,
+   "out": 22.08,
+   "txt": "não deixar faltar nada pro meu guerreirinho.",
+   "broll": [
+    {
+     "src": "20260729_164523.jpg"
+    }
+   ]
+  },
+  {
+   "in": 24.19,
+   "out": 26.52,
+   "txt": "E as necessidade dele, tudo que ele precisa,",
+   "broll": [
+    {
+     "src": "20260825_133754.jpg"
+    },
+    {
+     "src": "GAZE.png"
+    },
+    {
+     "src": "20260825_134808.jpg"
+    },
+    {
+     "src": "Pomada.png"
+    },
+    {
+     "src": "20260825_134129.jpg"
+    }
+   ],
+   "fix": {
+    "NECESSIDADE": "NECESSIDADES"
+   }
+  },
+  {
+   "in": 33.89,
+   "out": 35.56,
+   "zoom": "Z1",
+   "txt": "E pela minha condição,"
+  },
+  {
+   "in": 36.21,
+   "out": 38.16,
+   "zoom": "ZF",
+   "txt": "eu não consigo nem o básico pra ele."
+  },
+  {
+   "in": 40.83,
+   "out": 41.81,
+   "zoom": "Z3",
+   "txt": "Aí como é que eu faço,"
+  },
+  {
+   "in": 44.87,
+   "out": 46.16,
+   "zoom": "Z2",
+   "txt": "você não tem obrigação,"
+  },
+  {
+   "in": 46.71,
+   "out": 49.06,
+   "txt": "mas ajude a salvar o meu filho.",
+   "broll": [
+    {
+     "src": "VID-20260702-WA0016.mp4",
+     "start": 42.0
+    }
+   ]
+  },
+  {
+   "in": 52.13,
+   "out": 52.9,
+   "zoom": "Z1",
+   "txt": "por favor,"
+  },
+  {
+   "in": 53.19,
+   "out": 53.96,
+   "zoom": "Z3",
+   "txt": "desde já,"
+  },
+  {
+   "in": 54.59,
+   "out": 55.24,
+   "zoom": "Z2",
+   "txt": "gratidão."
+  }
+ ],
+ "red": [
+  "CULPADA",
+  "TERRÍVEL",
+  "BÁSICO",
+  "SALVAR",
+  "NECESSIDADES",
+  "EB"
+ ],
+ "chamada": {
+  "imagem": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\lettings\\Imagem do ChatGPT 26 de out. de 2026, 17_45_38.png",
+  "texto_do_lettering": "R$ 5,00 PODEM AJUDAR O PEDRINHO HOJE"
+ },
+ "endcard": {
+  "src": "20260824_182501.mp4",
+  "start": 85.0,
+  "dur": 3.4,
+  "y": 760,
+  "lines": [],
+  "cta": "TOQUE EM SAIBA MAIS"
+ },
+ "badge": null,
+ "hook": [],
+ "caption_y": 950,
+ "fatos": {
+  "'nenhuma mae deveria ouvir isso: voce e culpada pelo que o seu filho passa'": "Mae, Roteiro_ Nenhuma mae deveria ouvir isso.mp4, 1.6-7.3 s",
+  "faz tudo o que esta no alcance, mas a EB e terrivel": "Mae, mesmo bruto, 9.8-16.0 s",
+  "queria nao deixar faltar nada; pela condicao dela nao consegue nem o basico": "Mae, mesmo bruto, 18.1-38.1 s",
+  "voce nao tem obrigacao, mas ajude a salvar o meu filho": "Mae, mesmo bruto, 44.7-49.0 s",
+  "R$5 'hoje' (lettering)": "sem valor de doacao dito no bruto: R$5, que e o que a mae diz (regra da skill). Arquivo 17_45_38",
+  "cortado": "'ne', 'assim', a repeticao 'que ele de necessidade, eu queria muito...' (26.7-31.3 s) e 'pessoal'"
+ },
+ "out": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 29\\PEB 146 - CORTES COM LETTERING.mp4"
+}

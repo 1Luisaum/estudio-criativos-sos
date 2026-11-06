@@ -1,0 +1,40 @@
+{
+ "total": 31.909999999999975,
+ "blocos": [
+  {
+   "nome": "h1",
+   "d": 1.5299999999999971,
+   "texto": "é uma luta contínuo,"
+  },
+  {
+   "nome": "h2",
+   "d": 3.5899999999999994,
+   "texto": "Sim, todo dia, vinte e quatro horas, todos os meses,"
+  },
+  {
+   "nome": "c1",
+   "d": 5.51,
+   "texto": "a minha mamãe, ela precisa fazer os meus curativos todos os dias."
+  },
+  {
+   "nome": "c2",
+   "d": 4.69,
+   "texto": "agora por conta dos ferimentos bem abertos, duas vezes ao dia."
+  },
+  {
+   "nome": "c3",
+   "d": 4.470000000000009,
+   "texto": "já não basta as dores do dia a dia e durante a noite."
+  },
+  {
+   "nome": "c4",
+   "d": 8.629999999999978,
+   "texto": "quatro, cinco reais, dez reais, parece pouco, mas pra mim, é uma nova esperança de um dia sem dor."
+  },
+  {
+   "nome": "c5",
+   "d": 3.4899999999999918,
+   "texto": "E desde já, meu muito obrigado."
+  }
+ ]
+}

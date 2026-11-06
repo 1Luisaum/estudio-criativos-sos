@@ -1,0 +1,16 @@
+Pedrinho_narrado_oracao_v1: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_oracao_v1.mp4  duracao=44.63s
+Pedrinho_narrado_alivio_v1: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\NARRADO DE IMPACTO\LEVA 02\Pedrinho_narrado_alivio_v1.mp4  duracao=47.67s
+Pedrinho_reportagem_v7: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v7.mp4 duracao=56.5s
+Pedrinho_reportagem_v8: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v8.mp4 duracao=56.8s
+Pedrinho_reportagem_v9: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v9.mp4 duracao=50.2s
+Pedrinho_reportagem_v10: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\reportagem\LEVA 02\Pedrinho_reportagem_v10.mp4 duracao=60.7s
+Pedrinho_lista_v3: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v3.mp4 duracao=34.2s
+Pedrinho_lista_v4: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v4.mp4 duracao=30.2s
+Pedrinho_lista_v5: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\LISTA NARRADA\LEVA 01\Pedrinho_lista_v5.mp4 duracao=31.0s
+Pedrinho_vsl_voz_v2: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v2.mp4 duracao=39.1s
+Pedrinho_vsl_voz_v3: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v3.mp4 duracao=36.4s
+Pedrinho_vsl_voz_v4: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v4.mp4 duracao=40.0s
+Pedrinho_vsl_voz_v5: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\VSL COM VOZ DA CRIANÇA\LEVA 01\Pedrinho_vsl_voz_v5.mp4 duracao=43.4s
+Pedrinho_noite_v1: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_noite_v1.mp4  duracao=36.67s  tela_final=33.27s
+Pedrinho_espera_v1: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_espera_v1.mp4  duracao=35.27s  tela_final=31.87s
+Pedrinho_esquecido_v1: OK OK C:\Users\EDITING_SECTOR\Desktop\EDIÇÃO COM CLAUDE\EDITADOS\CORTES COM GANCHO\LEVA 01\Pedrinho_esquecido_v1.mp4  duracao=36.97s  tela_final=33.57s

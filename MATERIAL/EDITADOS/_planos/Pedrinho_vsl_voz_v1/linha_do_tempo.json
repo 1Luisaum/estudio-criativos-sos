@@ -1,0 +1,55 @@
+{
+ "total": 49.518,
+ "blocos": [
+  {
+   "nome": "f01",
+   "d": 3.41,
+   "texto": "Por favor, fica só 30 segundos."
+  },
+  {
+   "nome": "f02",
+   "d": 4.489999999999999,
+   "texto": "Eu sou o Pedrinho Guerreiro e eu tenho epidermólise bolhosa."
+  },
+  {
+   "nome": "f03",
+   "d": 6.189999999999999,
+   "texto": "E todos os dias eu enfrento feridas e horas e horas de curativo."
+  },
+  {
+   "nome": "f04",
+   "d": 6.889000000000002,
+   "texto": "E da última vez, minha mãe precisou de cinco horas, pra fazer todo o meu curativo,"
+  },
+  {
+   "nome": "f05",
+   "d": 5.150000000000001,
+   "texto": "A cada dia aparece mais bolhas de sangue e bolhas de água pra minha mamãe romper."
+  },
+  {
+   "nome": "f06",
+   "d": 2.269999999999999,
+   "texto": "Eu não aguento mais não conseguir dormir"
+  },
+  {
+   "nome": "f07",
+   "d": 7.670000000000006,
+   "texto": "Eu não escolhi essa batalha, mas eu escolhi continuar sempre lutando, sempre com a cabeça erguida."
+  },
+  {
+   "nome": "f08",
+   "d": 3.7489999999999974,
+   "texto": "Os meus curativos estão acabando e eu tô com medo,"
+  },
+  {
+   "nome": "f09",
+   "d": 2.7100000000000004,
+   "texto": "Então, seja um anjo na minha vida"
+  },
+  {
+   "nome": "f10",
+   "d": 6.989999999999995,
+   "texto": "E se você puder lutar comigo, minha gratidão de coração mesmo."
+  }
+ ]
+}

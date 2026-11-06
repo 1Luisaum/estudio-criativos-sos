@@ -1,0 +1,576 @@
+{
+ "language_code": "por",
+ "language_probability": 1.0,
+ "text": "Seus curativos vão te curar? Não, até porque a epidermólise bolhosa não tem cura, mas os curativos são de extrema importância, pois me proporciona uma melhor qualidade de vida, com mais conforto, com menos dor, com menos lesão, é, evita infecções",
+ "words": [
+  {
+   "text": "Seus",
+   "start": 0.48,
+   "end": 0.8,
+   "type": "word",
+   "logprob": -0.001340467711997917
+  },
+  {
+   "text": " ",
+   "start": 0.8,
+   "end": 0.92,
+   "type": "spacing",
+   "logprob": -1.4185804502631072e-05
+  },
+  {
+   "text": "curativos",
+   "start": 0.92,
+   "end": 1.86,
+   "type": "word",
+   "logprob": -1.1722176774734786e-05
+  },
+  {
+   "text": " ",
+   "start": 1.86,
+   "end": 1.9,
+   "type": "spacing",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": "vão",
+   "start": 1.9,
+   "end": 2.1,
+   "type": "word",
+   "logprob": -2.50339189733495e-06
+  },
+  {
+   "text": " ",
+   "start": 2.1,
+   "end": 2.18,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "te",
+   "start": 2.18,
+   "end": 2.32,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 2.32,
+   "end": 2.4,
+   "type": "spacing",
+   "logprob": -3.4450891689630225e-05
+  },
+  {
+   "text": "curar?",
+   "start": 2.4,
+   "end": 2.82,
+   "type": "word",
+   "logprob": -1.72850504801166e-05
+  },
+  {
+   "text": " ",
+   "start": 2.82,
+   "end": 2.82,
+   "type": "spacing",
+   "logprob": -2.8729025871143676e-05
+  },
+  {
+   "text": "Não,",
+   "start": 3.36,
+   "end": 3.66,
+   "type": "word",
+   "logprob": -0.00014436177616516943
+  },
+  {
+   "text": " ",
+   "start": 3.66,
+   "end": 3.98,
+   "type": "spacing",
+   "logprob": -2.0265558760002023e-06
+  },
+  {
+   "text": "até",
+   "start": 4.04,
+   "end": 4.24,
+   "type": "word",
+   "logprob": -2.0265558760002023e-06
+  },
+  {
+   "text": " ",
+   "start": 4.24,
+   "end": 4.34,
+   "type": "spacing",
+   "logprob": -2.3603161025675945e-05
+  },
+  {
+   "text": "porque",
+   "start": 4.34,
+   "end": 4.6,
+   "type": "word",
+   "logprob": -2.3603161025675945e-05
+  },
+  {
+   "text": " ",
+   "start": 4.6,
+   "end": 4.64,
+   "type": "spacing",
+   "logprob": -0.005540491081774235
+  },
+  {
+   "text": "a",
+   "start": 4.64,
+   "end": 4.68,
+   "type": "word",
+   "logprob": -0.005540491081774235
+  },
+  {
+   "text": " ",
+   "start": 4.68,
+   "end": 4.74,
+   "type": "spacing",
+   "logprob": -0.0002177716523874551
+  },
+  {
+   "text": "epidermólise",
+   "start": 4.74,
+   "end": 5.46,
+   "type": "word",
+   "logprob": -0.0003164304361007453
+  },
+  {
+   "text": " ",
+   "start": 5.46,
+   "end": 5.52,
+   "type": "spacing",
+   "logprob": -2.8371408916427754e-05
+  },
+  {
+   "text": "bolhosa",
+   "start": 5.52,
+   "end": 6.12,
+   "type": "word",
+   "logprob": -3.315579754468802e-05
+  },
+  {
+   "text": " ",
+   "start": 6.12,
+   "end": 6.12,
+   "type": "spacing",
+   "logprob": -6.83045873302035e-05
+  },
+  {
+   "text": "não",
+   "start": 6.84,
+   "end": 7.3,
+   "type": "word",
+   "logprob": -6.83045873302035e-05
+  },
+  {
+   "text": " ",
+   "start": 7.3,
+   "end": 7.38,
+   "type": "spacing",
+   "logprob": -1.2278481335670222e-05
+  },
+  {
+   "text": "tem",
+   "start": 7.38,
+   "end": 7.56,
+   "type": "word",
+   "logprob": -1.2278481335670222e-05
+  },
+  {
+   "text": " ",
+   "start": 7.56,
+   "end": 7.66,
+   "type": "spacing",
+   "logprob": -3.6954811548639555e-06
+  },
+  {
+   "text": "cura,",
+   "start": 7.66,
+   "end": 8.039,
+   "type": "word",
+   "logprob": -1.2326015348662622e-05
+  },
+  {
+   "text": " ",
+   "start": 8.039,
+   "end": 8.76,
+   "type": "spacing",
+   "logprob": -0.00012563870404846966
+  },
+  {
+   "text": "mas",
+   "start": 8.76,
+   "end": 9.14,
+   "type": "word",
+   "logprob": -0.00012563870404846966
+  },
+  {
+   "text": " ",
+   "start": 9.14,
+   "end": 9.16,
+   "type": "spacing",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": "os",
+   "start": 9.16,
+   "end": 9.3,
+   "type": "word",
+   "logprob": -1.1920922133867862e-06
+  },
+  {
+   "text": " ",
+   "start": 9.3,
+   "end": 9.34,
+   "type": "spacing",
+   "logprob": -4.6491513785440475e-06
+  },
+  {
+   "text": "curativos",
+   "start": 9.34,
+   "end": 10.28,
+   "type": "word",
+   "logprob": -8.066459486144595e-06
+  },
+  {
+   "text": " ",
+   "start": 10.28,
+   "end": 10.7,
+   "type": "spacing",
+   "logprob": -0.0004850641416851431
+  },
+  {
+   "text": "são",
+   "start": 10.7,
+   "end": 11.32,
+   "type": "word",
+   "logprob": -0.0004850641416851431
+  },
+  {
+   "text": " ",
+   "start": 11.32,
+   "end": 11.84,
+   "type": "spacing",
+   "logprob": -1.5139465176616795e-05
+  },
+  {
+   "text": "de",
+   "start": 11.84,
+   "end": 11.9,
+   "type": "word",
+   "logprob": -1.5139465176616795e-05
+  },
+  {
+   "text": " ",
+   "start": 11.9,
+   "end": 11.92,
+   "type": "spacing",
+   "logprob": -6.675497570540756e-05
+  },
+  {
+   "text": "extrema",
+   "start": 11.92,
+   "end": 12.46,
+   "type": "word",
+   "logprob": -6.675497570540756e-05
+  },
+  {
+   "text": " ",
+   "start": 12.46,
+   "end": 12.54,
+   "type": "spacing",
+   "logprob": -6.318072337307967e-06
+  },
+  {
+   "text": "importância,",
+   "start": 12.54,
+   "end": 13.4,
+   "type": "word",
+   "logprob": -2.2797022969219444e-05
+  },
+  {
+   "text": " ",
+   "start": 13.4,
+   "end": 13.96,
+   "type": "spacing",
+   "logprob": -5.745722592109814e-05
+  },
+  {
+   "text": "pois",
+   "start": 13.96,
+   "end": 14.48,
+   "type": "word",
+   "logprob": -5.745722592109814e-05
+  },
+  {
+   "text": " ",
+   "start": 14.48,
+   "end": 14.56,
+   "type": "spacing",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": "me",
+   "start": 14.56,
+   "end": 14.68,
+   "type": "word",
+   "logprob": -2.264974000354414e-06
+  },
+  {
+   "text": " ",
+   "start": 14.68,
+   "end": 14.72,
+   "type": "spacing",
+   "logprob": -0.08946707844734192
+  },
+  {
+   "text": "proporciona",
+   "start": 14.72,
+   "end": 15.58,
+   "type": "word",
+   "logprob": -0.08946707844734192
+  },
+  {
+   "text": " ",
+   "start": 15.58,
+   "end": 15.58,
+   "type": "spacing",
+   "logprob": -1.4662635294371285e-05
+  },
+  {
+   "text": "uma",
+   "start": 16.14,
+   "end": 16.5,
+   "type": "word",
+   "logprob": -1.4662635294371285e-05
+  },
+  {
+   "text": " ",
+   "start": 16.5,
+   "end": 16.62,
+   "type": "spacing",
+   "logprob": -3.671578815556131e-05
+  },
+  {
+   "text": "melhor",
+   "start": 16.62,
+   "end": 17.1,
+   "type": "word",
+   "logprob": -3.671578815556131e-05
+  },
+  {
+   "text": " ",
+   "start": 17.1,
+   "end": 17.22,
+   "type": "spacing",
+   "logprob": -7.033323527139146e-06
+  },
+  {
+   "text": "qualidade",
+   "start": 17.22,
+   "end": 17.86,
+   "type": "word",
+   "logprob": -7.033323527139146e-06
+  },
+  {
+   "text": " ",
+   "start": 17.86,
+   "end": 17.88,
+   "type": "spacing",
+   "logprob": -6.615896563744172e-05
+  },
+  {
+   "text": "de",
+   "start": 17.88,
+   "end": 17.96,
+   "type": "word",
+   "logprob": -6.615896563744172e-05
+  },
+  {
+   "text": " ",
+   "start": 17.96,
+   "end": 18.04,
+   "type": "spacing",
+   "logprob": -1.7881233361549675e-05
+  },
+  {
+   "text": "vida,",
+   "start": 18.04,
+   "end": 18.46,
+   "type": "word",
+   "logprob": -2.343621017644182e-05
+  },
+  {
+   "text": " ",
+   "start": 18.46,
+   "end": 19.08,
+   "type": "spacing",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": "com",
+   "start": 19.08,
+   "end": 19.26,
+   "type": "word",
+   "logprob": -3.576278118089249e-07
+  },
+  {
+   "text": " ",
+   "start": 19.26,
+   "end": 19.32,
+   "type": "spacing",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": "mais",
+   "start": 19.32,
+   "end": 19.94,
+   "type": "word",
+   "logprob": -7.629365427419543e-06
+  },
+  {
+   "text": " ",
+   "start": 19.94,
+   "end": 20.08,
+   "type": "spacing",
+   "logprob": -3.731181277544238e-05
+  },
+  {
+   "text": "conforto,",
+   "start": 20.08,
+   "end": 20.88,
+   "type": "word",
+   "logprob": -3.333824685746044e-05
+  },
+  {
+   "text": " ",
+   "start": 20.88,
+   "end": 21.26,
+   "type": "spacing",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": "com",
+   "start": 21.26,
+   "end": 21.42,
+   "type": "word",
+   "logprob": -4.768370445162873e-07
+  },
+  {
+   "text": " ",
+   "start": 21.42,
+   "end": 21.48,
+   "type": "spacing",
+   "logprob": -6.079655122448457e-06
+  },
+  {
+   "text": "menos",
+   "start": 21.48,
+   "end": 21.92,
+   "type": "word",
+   "logprob": -6.079655122448457e-06
+  },
+  {
+   "text": " ",
+   "start": 21.92,
+   "end": 22.04,
+   "type": "spacing",
+   "logprob": -4.768360213347478e-06
+  },
+  {
+   "text": "dor,",
+   "start": 22.04,
+   "end": 22.4,
+   "type": "word",
+   "logprob": -3.69547942113968e-06
+  },
+  {
+   "text": " ",
+   "start": 22.4,
+   "end": 22.96,
+   "type": "spacing",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": "com",
+   "start": 22.96,
+   "end": 23.14,
+   "type": "word",
+   "logprob": -2.3841855067985307e-07
+  },
+  {
+   "text": " ",
+   "start": 23.14,
+   "end": 23.2,
+   "type": "spacing",
+   "logprob": -7.152531907195225e-06
+  },
+  {
+   "text": "menos",
+   "start": 23.2,
+   "end": 23.58,
+   "type": "word",
+   "logprob": -7.152531907195225e-06
+  },
+  {
+   "text": " ",
+   "start": 23.58,
+   "end": 23.62,
+   "type": "spacing",
+   "logprob": -7.295342220459133e-05
+  },
+  {
+   "text": "lesão,",
+   "start": 23.62,
+   "end": 24.36,
+   "type": "word",
+   "logprob": -9.309174659695903e-05
+  },
+  {
+   "text": " ",
+   "start": 24.36,
+   "end": 25.22,
+   "type": "spacing",
+   "logprob": -1.1444026313256472e-05
+  },
+  {
+   "text": "é,",
+   "start": 25.22,
+   "end": 25.24,
+   "type": "word",
+   "logprob": -2.8848080546595156e-05
+  },
+  {
+   "text": " ",
+   "start": 25.24,
+   "end": 25.68,
+   "type": "spacing",
+   "logprob": -0.00014625910262111574
+  },
+  {
+   "text": "evita",
+   "start": 25.68,
+   "end": 26.16,
+   "type": "word",
+   "logprob": -0.00014625910262111574
+  },
+  {
+   "text": " ",
+   "start": 26.16,
+   "end": 26.24,
+   "type": "spacing",
+   "logprob": -0.00022027450904715806
+  },
+  {
+   "text": "infecções",
+   "start": 26.24,
+   "end": 27.42,
+   "type": "word",
+   "logprob": -8.767679577835629e-05
+  }
+ ],
+ "transcription_id": "UWkpM7ao3eoGQnPYrwMp",
+ "audio_duration_secs": 29.1566875
+}

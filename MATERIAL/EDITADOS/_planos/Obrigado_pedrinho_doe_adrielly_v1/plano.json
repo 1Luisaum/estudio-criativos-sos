@@ -1,0 +1,190 @@
+{
+ "crianca": "Pedrinho",
+ "estilo": "PAGINA DE OBRIGADO",
+ "base": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_estilo_bib\\videos_ia\\p_vitral_pastor.mp4",
+   "ini": 0,
+   "fim": 5.0,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\20261102_104706.mp4",
+   "ini": 0.5,
+   "fim": 0.719,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\VÍDEOS PARA EDITAR\\PEDRINHO 02-11-2026\\lv_0_20261102155438.mp4",
+   "ini": 34.7,
+   "fim": 37.4,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_bracos.mp4",
+   "ini": 0,
+   "fim": 4.096,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_maos_6454.mp4",
+   "ini": 0,
+   "fim": 4.095,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4227.MOV",
+   "ini": 0.7,
+   "fim": 2.2,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4227.MOV",
+   "ini": 2.55,
+   "fim": 3.45,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BRUTOS DA ADRIELY\\SOS HUMAN HELP - GRAVAÇÕES  ADRIELLY\\Agosto\\IMG_4227.MOV",
+   "ini": 3.8,
+   "fim": 6.25,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\TODAS AS PASTAS\\adriely\\IMG_6452.MOV",
+   "ini": 3.55,
+   "fim": 10.25,
+   "som": true
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_costas.mp4",
+   "ini": 0,
+   "fim": 3.58,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_braco_hospital.mp4",
+   "ini": 0,
+   "fim": 3.58,
+   "som": false
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\adrielly\\BANCO DE VÍDEOS ADRIELY\\1d7c619d-834b-46cb-b378-dd3ff4e03ef5.mov",
+   "ini": 2.0,
+   "fim": 5.581,
+   "som": false
+  }
+ ],
+ "voz": {
+  "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\Obrigado_pedrinho_doe_adrielly_v1\\narracao\\narracao_completa.wav",
+  "tx": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\Obrigado_pedrinho_doe_adrielly_v1\\narracao\\narracao_completa.json",
+  "de": 0
+ },
+ "voz_partes": [
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\Obrigado_pedrinho_doe_adrielly_v1\\narracao\\N1.mp3",
+   "de": 0
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\Obrigado_pedrinho_doe_adrielly_v1\\narracao\\N3.mp3",
+   "de": 7.919
+  },
+  {
+   "arq": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\Obrigado_pedrinho_doe_adrielly_v1\\narracao\\N4.mp3",
+   "de": 27.66
+  }
+ ],
+ "textos": [
+  {
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 48,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true,
+   "linhas": [
+    "OBRIGADO POR AJUDAR",
+    "O PEDRINHO ❤️"
+   ],
+   "de": 0,
+   "ate": 7.92
+  },
+  {
+   "estilo": "caixa",
+   "bg": "vermelho",
+   "fg": "branco",
+   "size": 48,
+   "y": 185,
+   "fonte": "black",
+   "pad": [
+    28,
+    10
+   ],
+   "lh": 1.15,
+   "raio": 16,
+   "sombra_caixa": true,
+   "linhas": [
+    "A ADRIELLY TAMBÉM",
+    "PRECISA DE VOCÊ ❤️"
+   ],
+   "de": 7.92,
+   "ate": 35.2
+  }
+ ],
+ "legenda": {
+  "estilo": "unicef",
+  "y": 1190
+ },
+ "fim": {
+  "linhas": [
+   "AJUDE A ADRIELLY",
+   "TAMBÉM ❤️"
+  ],
+  "cor": "vermelho",
+  "size": 72,
+  "escuro": 0.5,
+  "de": 35.2,
+  "sub": [
+   "Toque no botão abaixo"
+  ],
+  "size_sub": 50,
+  "setas": true,
+  "y": 860
+ },
+ "musica": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\MÚSICAS\\magnific_tristes\\The_Weight_of_Time.mp3",
+ "fatos": {
+  "obrigado de coracao (Pedrinho)": "lv_0_20261102155438 34,7-37,4",
+  "Adrielly tem EB": "IMG_3868 / IMG_5709",
+  "a pele arde, sangra (Adrielly)": "IMG_4227 0,7-6,25",
+  "quase nada de curativo na semana (Adrielly)": "IMG_6452 (30/10) 3,6-10,2"
+ },
+ "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\PAGINA DE OBRIGADO\\Obrigado Pedrinho - doe tambem para a Adrielly.mp4",
+ "saida_fixa": true,
+ "broll": [
+  [
+   20.96,
+   23.193,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\ferida_perna_cama.mp4",
+   0
+  ],
+  [
+   23.193,
+   25.427,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_pescoco.mp4",
+   0
+  ],
+  [
+   25.427,
+   27.66,
+   "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_clipes_adrielly\\foto_ferida_maos.mp4",
+   0
+  ]
+ ]
+}

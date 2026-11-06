@@ -1,0 +1,59 @@
+{
+ "total": 48.842791000000005,
+ "blocos": [
+  {
+   "nome": "b01",
+   "tipo": "off",
+   "d": 4.9078,
+   "texto": "Para o Pedrinho, a noite é a pior hora do dia. A dor não deixa ele dormir."
+  },
+  {
+   "nome": "b02",
+   "tipo": "sonora",
+   "d": 7.999999999999998,
+   "texto": "Eu não aguento mais não conseguir dormir pelo motivo dos ferimentos estarem bem abertos e estarem muito doloridos mesmo."
+  },
+  {
+   "nome": "b03",
+   "tipo": "off",
+   "d": 5.497778,
+   "texto": "Ele tem epidermólise bolhosa, a pele de borboleta. Qualquer atrito pode virar ferida."
+  },
+  {
+   "nome": "b04",
+   "tipo": "sonora",
+   "d": 4.820000000000005,
+   "texto": "os meus ferimentos estão cada vez mais abertos, mais do que nunca."
+  },
+  {
+   "nome": "b05",
+   "tipo": "off",
+   "d": 5.551814,
+   "texto": "O curativo é trocado duas vezes por dia. Da última vez, a troca levou cinco horas."
+  },
+  {
+   "nome": "b06",
+   "tipo": "sonora",
+   "d": 4.861,
+   "texto": "Eu acabei de fazer o segundo curativo do dia e estou ficando desesperada,"
+  },
+  {
+   "nome": "b07",
+   "tipo": "off",
+   "d": 7.547506,
+   "texto": "A SOS Human Help está arrecadando doações para atadura, gaze e pomada. Com dez reais, você já ajuda."
+  },
+  {
+   "nome": "b08",
+   "tipo": "sonora",
+   "d": 2.5800000000000027,
+   "texto": "Então, por favor, me ajude."
+  },
+  {
+   "nome": "b09",
+   "tipo": "off",
+   "d": 5.076893,
+   "texto": "Toque em Saiba mais e ajude o Pedrinho a ter uma noite de sono."
+  }
+ ]
+}

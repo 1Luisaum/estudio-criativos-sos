@@ -1,0 +1,70 @@
+{
+ "text": "A ferida arde. O músculo dói. E não existe posição boa na cama.",
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.081
+  },
+  {
+   "text": "ferida",
+   "start": 0.163,
+   "end": 0.546
+  },
+  {
+   "text": "arde.",
+   "start": 0.592,
+   "end": 1.103
+  },
+  {
+   "text": "O",
+   "start": 1.103,
+   "end": 1.153
+  },
+  {
+   "text": "músculo",
+   "start": 1.211,
+   "end": 1.606
+  },
+  {
+   "text": "dói.",
+   "start": 1.652,
+   "end": 2.082
+  },
+  {
+   "text": "E",
+   "start": 2.132,
+   "end": 2.184
+  },
+  {
+   "text": "não",
+   "start": 2.265,
+   "end": 2.381
+  },
+  {
+   "text": "existe",
+   "start": 2.416,
+   "end": 2.672
+  },
+  {
+   "text": "posição",
+   "start": 2.718,
+   "end": 3.159
+  },
+  {
+   "text": "boa",
+   "start": 3.217,
+   "end": 3.484
+  },
+  {
+   "text": "na",
+   "start": 3.519,
+   "end": 3.6
+  },
+  {
+   "text": "cama.",
+   "start": 3.67,
+   "end": 4.015
+  }
+ ]
+}

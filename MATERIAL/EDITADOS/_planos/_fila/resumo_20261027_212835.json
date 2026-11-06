@@ -1,0 +1,129 @@
+{
+ "total_s": 1007,
+ "videos": [
+  {
+   "plano": "Adrielly_narrado_governo_negou_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 205,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_narrado_governo_negou_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 34\\PEB 153 - NARRADO DE IMPACTO.mp4",
+   "duracao": 75.53,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(23.83, 0.8), (24.63, 0.37)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 2 momento(s): [0.5, 25.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 153 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": null
+  },
+  {
+   "plano": "Adrielly_reportagem_v4",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 97,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_reportagem_v4.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 35\\PEB 179 - REPORTAGEM.mp4",
+   "duracao": 60.11,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(19.5, 0.47), (20.1, 0.2)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 59 momento(s): [0.5, 1.0, 8.5, 13.0, 13.5, 14.0, 14.5, 15.0, 15.5, 16.0, 16.5, 20.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 179 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  },
+  {
+   "plano": "Adrielly_corrente_sonho_v1",
+   "skill": "criativo-corrente-ong",
+   "montagem_s": 18,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_corrente_sonho_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 35\\PEB 159 - CORRENTE DO BEM.mp4",
+   "duracao": 27.83,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 5 momento(s): [14.5, 20.5, 21.0, 22.0, 22.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 159 - CORRENTE DO BEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  },
+  {
+   "plano": "Adrielly_narrado_milagre_28anos_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 91,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_narrado_milagre_28anos_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 36\\PEB 161 - NARRADO DE IMPACTO.mp4",
+   "duracao": 62.9,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(24.5, 0.7), (25.2, 0.5)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 3 momento(s): [20.0, 20.5, 34.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 161 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  },
+  {
+   "plano": "Adrielly_reportagem_v1",
+   "skill": "criativo-reportagem-ong",
+   "montagem_s": 109,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_reportagem_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 35\\PEB 156 - REPORTAGEM.mp4",
+   "duracao": 61.02,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 49 momento(s): [2.5, 3.0, 3.5, 4.0, 4.5, 14.0, 14.5, 15.0, 15.5, 16.0, 16.5, 17.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 156 - REPORTAGEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": true
+  },
+  {
+   "plano": "Adrielly_narrado_90mil_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 76,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_narrado_90mil_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 37\\PEB 169 - NARRADO DE IMPACTO.mp4",
+   "duracao": 59.2,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(27.97, 1.17)] (se for a tela final parada, ignore)"
+   ],
+   "folha_suspeitos": null,
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  },
+  {
+   "plano": "Adrielly_corrente_oracao_v1",
+   "skill": "criativo-corrente-ong",
+   "montagem_s": 18,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_corrente_oracao_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 176 - CORRENTE DO BEM.mp4",
+   "duracao": 28.4,
+   "avisos": [
+    "rosto encostando numa faixa de texto em 2 momento(s): [9.5, 11.5]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 176 - CORRENTE DO BEM_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  },
+  {
+   "plano": "Adrielly_narrado_mae_colchao_v1",
+   "skill": "criativo-narrado-ong",
+   "montagem_s": 83,
+   "log": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\Adrielly_narrado_mae_colchao_v1.log",
+   "ok": true,
+   "saida": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\RENDERIZADOS\\LEVA 39\\PEB 177 - NARRADO DE IMPACTO.mp4",
+   "duracao": 62.73,
+   "avisos": [
+    "travadinha(s) de 0,2 s ou mais em [(29.67, 1.07)] (se for a tela final parada, ignore)",
+    "rosto encostando numa faixa de texto em 13 momento(s): [8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5, 12.0, 40.5, 41.0, 43.0]"
+   ],
+   "folha_suspeitos": "C:\\Users\\EDITING_SECTOR\\Desktop\\EDIÇÃO COM CLAUDE\\EDITADOS\\_planos\\_fila\\PEB 177 - NARRADO DE IMPACTO_suspeitos.jpg",
+   "prevoo_avisos": [],
+   "audio_mudou": false
+  }
+ ]
+}
