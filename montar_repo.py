@@ -45,12 +45,22 @@ def copiar_arvore(src, dst, filtro=None):
             copiar_arq(s, os.path.join(dst, os.path.relpath(s, src)))
 
 
+def _sem_somente_leitura(func, path, _):
+    import stat
+    os.chmod(path, stat.S_IWRITE)
+    func(path)
+
+
 def limpar(dst):
     for item in os.listdir(dst) if os.path.isdir(dst) else []:
-        if item in (".git", ".gitattributes"):
+        if item in (".git", ".gitattributes", ".gitignore", "PASSAGEM.md", "README.md"):
             continue
         p = os.path.join(dst, item)
-        shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
+        if os.path.isdir(p):
+            shutil.rmtree(p, onerror=_sem_somente_leitura)
+        else:
+            os.chmod(p, 0o666)
+            os.remove(p)
 
 
 def transcrever_conversa(jsonl, md, titulo):
@@ -162,6 +172,7 @@ def main():
                 if valor in s:
                     open(p, "w", encoding="utf-8").write(s.replace(valor, f"<{nome} removida>"))
                     achados += 1
+    shutil.copy2(os.path.abspath(__file__), os.path.join(DST, "montar_repo.py"))
     tot = sum(os.path.getsize(os.path.join(b, f)) for b, _, fs in os.walk(DST) if ".git" not in b for f in fs)
     n = sum(len(fs) for b, _, fs in os.walk(DST) if ".git" not in b)
     print(f"repositorio montado: {n} arquivos, {tot / 1048576:.0f} MB; chaves encontradas e removidas: {achados}")
